@@ -1,9 +1,9 @@
 name: csqa
 channels:
-  - conda-forge  
   - pytorch
   - huggingface
   - nvidia
+  - conda-forge
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -44,7 +44,6 @@ dependencies:
   - decorator=5.1.1=pyhd3eb1b0_0
   - dill=0.3.6=py38h06a4308_0
   - executing=0.8.3=pyhd3eb1b0_0
-  - filelock=3.9.0=py38h06a4308_0
   - frozenlist=1.3.3=py38h5eee18b_0
   - fsspec=2023.4.0=py38h06a4308_0
   - gflags=2.2.2=he6710b0_0
@@ -63,7 +62,6 @@ dependencies:
   - ipywidgets=8.0.4=py38h06a4308_0
   - jedi=0.18.1=py38h06a4308_1
   - jinja2=3.1.2=py38h06a4308_0
-  - joblib=1.2.0=py38h06a4308_0
   - jupyter_client=8.1.0=py38h06a4308_0
   - jupyter_core=5.3.0=py38h06a4308_0
   - jupyterlab_widgets=3.0.5=py38h06a4308_0
@@ -115,12 +113,10 @@ dependencies:
   - openssl=3.0.9=h7f8727e_0
   - orc=1.7.4=hb3bc3d3_1
   - packaging=23.0=py38h06a4308_0
-  - pandas=1.5.3=py38h417a72b_0
   - parso=0.8.3=pyhd3eb1b0_0
   - pexpect=4.8.0=pyhd3eb1b0_3
   - pickleshare=0.7.5=pyhd3eb1b0_1003
   - pip=23.1.2=py38h06a4308_0
-  - platformdirs=2.5.2=py38h06a4308_0
   - prompt-toolkit=3.0.36=py38h06a4308_0
   - psutil=5.9.0=py38h5eee18b_0
   - ptyprocess=0.7.0=pyhd3eb1b0_2
@@ -152,7 +148,6 @@ dependencies:
   - sympy=1.11.1=py38h06a4308_0
   - tbb=2021.8.0=hdb19cb5_0
   - tk=8.6.12=h1ccaba5_0
-  - tokenizers=0.13.2=py38h22610ee_1
   - torchtriton=2.0.0=py38
   - tornado=6.2=py38h5eee18b_0
   - tqdm=4.65.0=py38hb070fc8_0
@@ -174,20 +169,72 @@ dependencies:
   - zlib=1.2.13=h5eee18b_0
   - zstd=1.5.5=hc292b87_0
   - pip:
-      - cachetools==5.3.1
-      - emoji==2.5.1
-      - google-api-core==2.11.1
-      - google-auth==2.20.0
-      - google-cloud-core==2.3.2
-      - google-cloud-translate==3.11.1
-      - googleapis-common-protos==1.59.1
-      - grpcio==1.54.2
-      - grpcio-status==1.54.2
-      - openai==0.27.8
-      - proto-plus==1.22.2
-      - protobuf==4.23.3
-      - pyasn1==0.5.0
-      - pyasn1-modules==0.3.0
-      - python-dotenv==1.0.0
-      - rsa==4.9
-      - stanza==1.5.0
+    - appdirs==1.4.4
+    - audioread==3.0.0
+    - bioc==2.0.post5
+    - black==22.12.0
+    - cachetools==5.3.1
+    - cfgv==3.3.1
+    - cmake==3.27.1
+    - conllu==4.5.3
+    - distlib==0.3.7
+    - emoji==2.5.1
+    - et-xmlfile==1.1.0
+    - ffmpeg==1.4
+    - filelock==3.12.2
+    - flake8==6.1.0
+    - google-api-core==2.11.1
+    - google-auth==2.20.0
+    - google-cloud-core==2.3.2
+    - google-cloud-translate==3.11.1
+    - googleapis-common-protos==1.59.1
+    - grpcio==1.54.2
+    - grpcio-status==1.54.2
+    - identify==2.5.26
+    - intervaltree==3.1.0
+    - isort==5.12.0
+    - joblib==1.3.2
+    - jsonlines==3.1.0
+    - lazy-loader==0.3
+    - librosa==0.10.0.post2
+    - lit==16.0.6
+    - llvmlite==0.40.1
+    - loguru==0.7.0
+    - lxml==4.9.3
+    - mccabe==0.7.0
+    - msgpack==1.0.5
+    - mypy-extensions==1.0.0
+    - nltk==3.8.1
+    - nodeenv==1.8.0
+    - numba==0.57.1
+    - nusacrowd==0.1.0
+    - openai==0.27.8
+    - openpyxl==3.1.2
+    - pandas==2.0.3
+    - pathspec==0.11.2
+    - platformdirs==3.10.0
+    - pooch==1.6.0
+    - pre-commit==3.3.3
+    - proto-plus==1.22.2
+    - protobuf==4.23.3
+    - pyasn1==0.5.0
+    - pyasn1-modules==0.3.0
+    - pycodestyle==2.11.0
+    - pyflakes==3.1.0
+    - python-dotenv==1.0.0
+    - rsa==4.9
+    - scikit-learn==1.3.0
+    - scipy==1.10.1
+    - sortedcontainers==2.4.0
+    - soundfile==0.12.1
+    - soxr==0.3.5
+    - stanza==1.5.0
+    - threadpoolctl==3.2.0
+    - tokenizers==0.11.1
+    - tomli==2.0.1
+    - torchaudio==2.0.2
+    - translate-toolkit==3.10.0
+    - tzdata==2023.3
+    - virtualenv==20.24.2
+    - zstandard==0.21.0
+prefix: /home/kiki/anaconda3/envs/csqa
