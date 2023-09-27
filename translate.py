@@ -32,14 +32,14 @@ def save_data(samples, file_path):
     print(f'CSV file "{file_path}" has been created with the data.')
 
 
-model = "seamlessM4T_medium"
+model = "seamlessM4T_large"
 vocoder_model = "vocoder_36langs"
 
-translator = Translator(model, vocoder_model, torch.device("cuda:0"), torch.float16)
+translator = Translator(model, vocoder_model, torch.device("cpu"), torch.float16)
 
 for folder in glob("./eval/*/"):
     for file in glob(f"{folder}*.csv"):
-        if "v3" in file and "v3_test_name" not in file:
+        if "v3_test_name" in file:
             fname = file.split("/")[-1]
             print(f"Translating file {fname}")
 
@@ -70,5 +70,5 @@ for folder in glob("./eval/*/"):
                     )
                     data["choices"]["text"][i] = str(opt_text).lower()
 
-            translated_file = f"{folder}translated_sm4t_med_{fname}"
+            translated_file = f"{folder}sm4t_large/translated_sm4t_large_{fname}"
             save_data(file_data, translated_file)
