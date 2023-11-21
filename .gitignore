@@ -161,4 +161,4 @@ cython_debug/
 
 
 # Others
-notebook/analysis/*.json
+notebooks/analysis/*.json
