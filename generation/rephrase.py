@@ -155,19 +155,17 @@ def generate_rephrased_data(data, model_name, history, prompt_type="all"):
         print("Caught exception, wait for 1 min...")
         time.sleep(60)
         completion = api.get_openai_chat_completion(input_prompt, model_name)
-    response = completion.choices[0].message.content.strip()  # type: ignore
+    response = completion.choices[0].message.content.strip()
 
     return input_prompt, response
 
 
 def rephrase_data(raw_data, split):
-    out_path = os.environ.get("OUTPUT_PATH")
-
     rephrased_results = {}
     for s in split:
         print(f"Process data on split: {s}")
 
-        history_path = f"{out_path}/{s}_history.csv"
+        history_path = f"{os.environ.get('OUTPUT_PATH')}/{s}_history.csv"
         if os.path.exists(history_path):
             print(f"Load response history from file {history_path}")
             resp_history_df = pd.read_csv(
@@ -220,6 +218,5 @@ def rephrase_data(raw_data, split):
             rephrased_result.append(clean_data(rephrased_data))
 
         rephrased_results[s] = rephrased_result
-        helpers.save_data(rephrased_result, f"{out_path}/{s}_rephrased_id.csv")
 
     return rephrased_results
