@@ -2,6 +2,12 @@ import csv
 import ast
 
 
+def remove_unused_keys(
+    data, used_keys=["id", "question", "question_concept", "choices", "answerKey"]
+):
+    return {k: v for k, v in data.items() if k in used_keys}
+
+
 def load_csv_data(file_path, bool_params):
     # Initialize an empty list to store the data
     data_list = []
@@ -55,6 +61,12 @@ def save_data(data_list, file_path):
             writer.writerow(data)
 
     print(f'CSV file "{file_path}" has been created with the data.')
+
+
+def generate_input_text(data):
+    return " ".join(
+        [data["question"], data["question_concept"]] + data["choices"]["text"]
+    )
 
 
 # Function to generate choice text
