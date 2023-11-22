@@ -11,36 +11,37 @@ def load_csv_data(file_path, bool_params):
         # Create a CSV reader object
         csv_reader = csv.DictReader(csvfile)
 
-        # Iterate through each row in the CSV file
-        for row in csv_reader:
-            # Append the row (as a dictionary) to the data_list
-            row["choices"] = ast.literal_eval(row["choices"])
+        # Iterate through each data in the CSV file
+        for data in csv_reader:
+            # Append the data (as a dictionary) to the data_list
+            data["choices"] = ast.literal_eval(data["choices"])
 
             for param in bool_params:
-                if row[param].lower() == "true":
-                    row[param] = True
-                elif row[param].lower() == "false":
-                    row[param] = False
+                if data[param].lower() == "true":
+                    data[param] = True
+                elif data[param].lower() == "false":
+                    data[param] = False
                 else:
                     raise TypeError(f"{param} data cannot be recognized")
 
-            data_list.append(row)
+            data_list.append(data)
 
     return data_list
 
 
 def load_all_csv_data(split, dir_path, file_name, bool_params):
-    data = {}
+    all_data = {}
 
     for s in split:
         file_path = f"{dir_path}/{s}{file_name}"
-        data[s] = load_csv_data(file_path, bool_params)
-    return data
+        all_data[s] = load_csv_data(file_path, bool_params)
+
+    return all_data
 
 
-def save_data(samples, file_path):
+def save_data(data_list, file_path):
     # Get the keys from the first dictionary
-    header = samples[0].keys()
+    header = data_list[0].keys()
 
     # Write the data to the CSV file
     with open(file_path, "w", newline="", encoding="utf-8") as csvfile:
@@ -50,8 +51,8 @@ def save_data(samples, file_path):
         writer.writeheader()
 
         # Write the data
-        for row in samples:
-            writer.writerow(row)
+        for data in data_list:
+            writer.writerow(data)
 
     print(f'CSV file "{file_path}" has been created with the data.')
 
