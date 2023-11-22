@@ -220,6 +220,6 @@ def rephrase_data(raw_data, split):
             rephrased_result.append(clean_data(rephrased_data))
 
         rephrased_results[s] = rephrased_result
-        helpers.save_data(rephrased_result, f"{out_path}/{s}_rephrased.csv")
+        helpers.save_data(rephrased_result, f"{out_path}/{s}_rephrased_id.csv")
 
     return rephrased_results
