@@ -29,11 +29,11 @@ def load_csv_data(file_path, bool_params):
     return data_list
 
 
-def load_all_rephrase_data(split, dir_path, file_name, bool_params):
+def load_all_csv_data(split, dir_path, file_name, bool_params):
     data = {}
 
     for s in split:
-        file_path = f"{dir_path}/raw_{s}{file_name}"
+        file_path = f"{dir_path}/{s}{file_name}"
         data[s] = load_csv_data(file_path, bool_params)
     return data
 
