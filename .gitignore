@@ -162,3 +162,5 @@ cython_debug/
 
 # Others
 notebooks/analysis/*.json
+
+.vscode/
