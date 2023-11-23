@@ -46,6 +46,10 @@ def load_all_csv_data(split, dir_path, file_name, bool_params):
 
 
 def save_data(data_list, file_path):
+    if len(data_list) == 0:
+        print(f'CSV file "{file_path}" has not been created, data is empty')
+        return
+
     # Get the keys from the first dictionary
     header = data_list[0].keys()
 
