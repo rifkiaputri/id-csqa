@@ -5,7 +5,7 @@ import pandas as pd
 
 from tqdm import tqdm
 
-from ..utils import helpers, api
+from utils import helpers, api
 
 
 def clean_data(data):
@@ -161,11 +161,14 @@ def generate_rephrased_data(data, model_name, history, prompt_type="all"):
 
 
 def rephrase_data(raw_data, split):
+    out_path = os.getenv("OUTPUT_PATH")
+    history_dir = f"{out_path}/response_history"
+
     rephrased_results = {}
     for s in split:
         print(f"Process data on split: {s}")
 
-        history_path = f"{os.getenv('OUTPUT_PATH')}/{s}_history.csv"
+        history_path = f"{history_dir}/{s}_history.csv"
         if os.path.exists(history_path):
             print(f"Load response history from file {history_path}")
             resp_history_df = pd.read_csv(
