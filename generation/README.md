@@ -24,9 +24,11 @@ This directory contains scripts to generate the synthetic ID & SU csqa dataset.
     pip install -r requirements.txt
     ```
 
-## Setup Google Cloud Project
+## Setup Google Cloud Project and OpenAI API Key
 
 The generation process use the Google Translation API. So you need to setup the Google Cloud by following this guide [here](https://cloud.google.com/translate/docs/setup?_ga=2.228297949.-1989954949.1697698668).
+
+You also need to prepare your OpenAI API Key to run the generation script, which you can put in the environment variables explained next.
 
 ## Setup Environment Variables
 

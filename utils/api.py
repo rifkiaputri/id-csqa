@@ -1,31 +1,26 @@
 import os
-import openai
 
+from openai import OpenAI
 from google.cloud import translate
 
-openai.api_key = os.environ.get("OPENAI_API_KEY")
-openai.organization = os.environ.get("OPENAI_ORG_KEY")
+client = OpenAI()
 
 
-def get_openai_chat_completion(input_prompt, model_name, temp=0.1, timeout=60):
-    completion = openai.ChatCompletion.create(
+def get_openai_chat_completion(input_prompt, model_name, temp=0.1):
+    completion = client.chat.completions.create(
         model=model_name,
         messages=[{"role": "user", "content": input_prompt}],
         temperature=temp,
-        request_timeout=timeout,
     )
     return completion
 
 
-def get_openai_completion(
-    input_prompt, model_name, max_tokens=256, temp=0.1, timeout=60
-):
-    completion = openai.Completion.create(
+def get_openai_completion(input_prompt, model_name, max_tokens=256, temp=0.1):
+    completion = client.completions.create(
         model=model_name,
         prompt=input_prompt,
         max_tokens=max_tokens,
         temperature=temp,
-        request_timeout=timeout,
     )
     return completion
 
