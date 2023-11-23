@@ -3,8 +3,8 @@ import openai
 
 from google.cloud import translate
 
-openai.api_key = os.environ.get("API_KEY")
-openai.organization = os.environ.get("ORG_KEY")
+openai.api_key = os.environ.get("OPENAI_API_KEY")
+openai.organization = os.environ.get("OPENAI_ORG_KEY")
 
 
 def get_openai_chat_completion(input_prompt, model_name, temp=0.1, timeout=60):
