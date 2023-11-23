@@ -2,7 +2,7 @@ import time
 
 from tqdm import tqdm
 
-from ..utils import api
+from utils import api
 
 
 def translate_data(data, src_lang="en", tgt_lang="id"):
