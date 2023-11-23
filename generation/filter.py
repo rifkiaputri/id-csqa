@@ -8,7 +8,7 @@ from better_profanity import profanity
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from sentence_transformers import SentenceTransformer, util
 
-from ..utils import helpers
+from utils import helpers
 
 minilm_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 labse_model = SentenceTransformer("sentence-transformers/LaBSE")
@@ -97,13 +97,13 @@ def filter_data(id_data, su_data, su_id_data):
         )
 
         direct_decision = bool(
-            direct_sim >= int(os.getenv("TRANSLATION_THRESHOLD", 0.9))
+            direct_sim >= float(os.getenv("TRANSLATION_THRESHOLD", 0.9))
         )
         backtrans_decision = bool(
-            backtrans_sim >= int(os.getenv("TRANSLATION_THRESHOLD", 0.9))
+            backtrans_sim >= float(os.getenv("TRANSLATION_THRESHOLD", 0.9))
         )
         id_ca = filter_concept(data, lang="indonesian")
-        su_ca = filter_concept(su_data[s][idx], lang="sundanese")
+        su_ca = filter_concept(su_data[idx], lang="sundanese")
 
         su_data[idx]["backtrans_similarity"] = backtrans_sim
         su_data[idx]["backtrans_decision"] = backtrans_decision
