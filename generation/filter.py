@@ -97,10 +97,10 @@ def filter_data(id_data, su_data, su_id_data):
         )
 
         direct_decision = bool(
-            direct_sim >= int(os.environ.get("TRANSLATION_THRESHOLD"))
+            direct_sim >= int(os.getenv("TRANSLATION_THRESHOLD", 0.9))
         )
         backtrans_decision = bool(
-            backtrans_sim >= int(os.environ.get("TRANSLATION_THRESHOLD"))
+            backtrans_sim >= int(os.getenv("TRANSLATION_THRESHOLD", 0.9))
         )
         id_ca = filter_concept(data, lang="indonesian")
         su_ca = filter_concept(su_data[s][idx], lang="sundanese")

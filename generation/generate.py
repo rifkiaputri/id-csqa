@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+load_dotenv("../.env.rephrase")
 
 import rephrase
 
@@ -15,10 +16,10 @@ split = ["validation", "test", "train"]
 
 if __name__ == "__main__":
     raw_data = helpers.load_all_csv_data(
-        split, os.environ.get("RAW_DATA_PATH"), ".csv", ["name"]
+        split, os.getenv("RAW_DATA_PATH"), ".csv", ["name"]
     )
     id_data = rephrase.rephrase_data(raw_data, split)
-    out_path = os.environ.get("OUTPUT_PATH")
+    out_path = os.getenv("OUTPUT_PATH")
     for s in split:
         print(f"Translating data split {s}, ID -> SU")
         su_data = translate_data(id_data[s], src_lang="id", tgt_lang="su")

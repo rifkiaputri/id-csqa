@@ -165,7 +165,7 @@ def rephrase_data(raw_data, split):
     for s in split:
         print(f"Process data on split: {s}")
 
-        history_path = f"{os.environ.get('OUTPUT_PATH')}/{s}_history.csv"
+        history_path = f"{os.getenv('OUTPUT_PATH')}/{s}_history.csv"
         if os.path.exists(history_path):
             print(f"Load response history from file {history_path}")
             resp_history_df = pd.read_csv(
@@ -185,7 +185,7 @@ def rephrase_data(raw_data, split):
             # Rephrase All
             prompt, response = generate_rephrased_data(
                 data,
-                os.environ.get("REPHRASE_ALL_MODEL"),
+                os.getenv("REPHRASE_ALL_MODEL", "gpt-4-1106-preview"),
                 response_history,
                 prompt_type="all",
             )
@@ -198,7 +198,7 @@ def rephrase_data(raw_data, split):
             if data["name"]:
                 prompt, response = generate_rephrased_data(
                     data,
-                    os.environ.get("REPHRASE_NAME_MODEL"),
+                    os.getenv("REPHRASE_NAME_MODEL", "gpt-3.5-turbo"),
                     response_history,
                     prompt_type="name",
                 )
