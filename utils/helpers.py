@@ -1,3 +1,4 @@
+import os
 import csv
 import ast
 
@@ -6,6 +7,23 @@ def remove_unused_keys(
     data, used_keys=["id", "question", "question_concept", "choices", "answerKey"]
 ):
     return {k: v for k, v in data.items() if k in used_keys}
+
+
+def create_output_dir(out_path):
+    os.makedirs(f"{out_path}", exist_ok=True)
+
+    os.makedirs(f"{out_path}/response_history", exist_ok=True)
+    os.makedirs(f"{out_path}/backtranslation", exist_ok=True)
+
+    unfiltered_dir = f"{out_path}/unfiltered"
+    os.makedirs(unfiltered_dir, exist_ok=True)
+    os.makedirs(f"{unfiltered_dir}/id", exist_ok=True)
+    os.makedirs(f"{unfiltered_dir}/su", exist_ok=True)
+
+    filtered_dir = f"{out_path}/filtered"
+    os.makedirs(filtered_dir, exist_ok=True)
+    os.makedirs(f"{filtered_dir}/id", exist_ok=True)
+    os.makedirs(f"{filtered_dir}/su", exist_ok=True)
 
 
 def load_csv_data(file_path, bool_params):
