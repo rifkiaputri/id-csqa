@@ -1,0 +1,9 @@
+better-profanity==0.7.0
+google-cloud-translate==3.12.1
+nltk==3.8.1
+openai==1.3.5
+pandas==2.1.0
+python-dotenv==1.0.0
+Sastrawi==1.0.1
+sentence-transformers==2.2.2
+tqdm==4.66.1
