@@ -4,6 +4,8 @@ This directory contains scripts to generate the synthetic ID & SU csqa dataset.
 
 ## Installation
 
+You need to install some dependencies required to run the generation script. The `requirements.txt` is placed in the root directory.
+
 1. Create an isolated virtual environment (recommended):
     ```bash
     python -m venv venv
@@ -32,7 +34,7 @@ You also need to prepare your OpenAI API Key to run the generation script, which
 
 ## Setup Environment Variables
 
-Create a `.env` file based on the provided example:
+Create a `.env` file based on the provided example, containing OpenAI API key and Google Cloud Project:
 - Copy `.env.example` to `.env`:
     ```bash
     cp .env.example .env
@@ -41,6 +43,6 @@ Create a `.env` file based on the provided example:
 
 ## Generating the Dataset
 
-Run the generation script:
+Run the generation script with some arguments. The required arguments are `--output_path` and `--raw_data_path`, others are optional which you can find by running `--help`.
 ```bash
-python generate.py
+python generate.py --output_path path/to/output_dir --raw_data_path path/to/raw_data
