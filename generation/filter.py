@@ -1,4 +1,3 @@
-import os
 from tqdm import tqdm
 
 from nltk.corpus import stopwords
@@ -82,7 +81,7 @@ def filter_profanity(data):
     return not profanity.contains_profanity(all_texts)
 
 
-def filter_data(id_data, su_data, su_id_data):
+def filter_data(id_data, su_data, su_id_data, translation_threshold):
     kept_idx = []
     for idx, data in tqdm(enumerate(id_data)):
         direct_sim = compute_similarity(
@@ -96,12 +95,8 @@ def filter_data(id_data, su_data, su_id_data):
             labse=False,
         )
 
-        direct_decision = bool(
-            direct_sim >= float(os.getenv("TRANSLATION_THRESHOLD", 0.9))
-        )
-        backtrans_decision = bool(
-            backtrans_sim >= float(os.getenv("TRANSLATION_THRESHOLD", 0.9))
-        )
+        direct_decision = bool(direct_sim >= translation_threshold)
+        backtrans_decision = bool(backtrans_sim >= translation_threshold)
         id_ca = filter_concept(data, lang="indonesian")
         su_ca = filter_concept(su_data[idx], lang="sundanese")
 

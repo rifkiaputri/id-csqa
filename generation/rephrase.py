@@ -160,9 +160,8 @@ def generate_rephrased_data(data, model_name, history, prompt_type="all"):
     return input_prompt, response
 
 
-def rephrase_data(raw_data, split):
-    out_path = os.getenv("OUTPUT_PATH")
-    history_dir = f"{out_path}/response_history"
+def rephrase_data(raw_data, split, output_path, all_model, name_model):
+    history_dir = f"{output_path}/response_history"
 
     rephrased_results = {}
     for s in split:
@@ -188,7 +187,7 @@ def rephrase_data(raw_data, split):
             # Rephrase All
             prompt, response = generate_rephrased_data(
                 data,
-                os.getenv("REPHRASE_ALL_MODEL", "gpt-4-1106-preview"),
+                all_model,
                 response_history,
                 prompt_type="all",
             )
@@ -201,7 +200,7 @@ def rephrase_data(raw_data, split):
             if data["name"]:
                 prompt, response = generate_rephrased_data(
                     data,
-                    os.getenv("REPHRASE_NAME_MODEL", "gpt-3.5-turbo"),
+                    name_model,
                     response_history,
                     prompt_type="name",
                 )
