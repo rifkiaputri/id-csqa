@@ -1,6 +1,7 @@
 import os
 import csv
 import ast
+import json
 
 
 def remove_unused_keys(
@@ -85,6 +86,12 @@ def save_data(data_list, file_path):
     print(f'CSV file "{file_path}" has been created with the data.')
 
 
+def load_json_data(file_path):
+    with open(file_path, encoding='utf-8') as fp:
+        dataset = json.load(fp)
+    return dataset
+
+
 def generate_input_text(data):
     return " ".join(
         [data["question"], data["question_concept"]] + data["choices"]["text"]
@@ -92,13 +99,16 @@ def generate_input_text(data):
 
 
 # Function to generate choice text
-def generate_choices_text(choices):
+def generate_choices_text(choices, with_quote=True):
     labels = choices["label"]
     texts = choices["text"]
 
     choice_text = ""
     for idx, label in enumerate(labels):
-        choice_text += f'{label}. "{texts[idx]}"\n'
+        if with_quote:
+            choice_text += f'{label}. "{texts[idx]}"\n'
+        else:
+            choice_text += f'{label}. {texts[idx]}\n'
 
     return choice_text
 
@@ -132,3 +142,32 @@ def generate_rephrase_name_prompt(data):
 
 Question: {data['question']}
 Changed Question:"""
+
+
+# Function to generate prompts for benchmarking/evaluation based on prompt_type
+def generate_eval_prompt(data, prompt_type=1):
+    if prompt_type == 1:
+        return f"""{data['question'].strip()}
+{generate_choices_text(data['choices'], with_quote=False)}
+Give only one answer that most likely to be the correct answer with a prefix that says \"Answer:\" follows by the option letter. For example:
+Answer: Z"""
+    elif prompt_type == 2:
+        return f"""{data['question'].strip()}
+{generate_choices_text(data['choices'], with_quote=False)}
+
+Answer:"""
+    elif prompt_type == 3:  # adapted from HELM prompt
+        if 'question_concept' in data:
+            concept = data['question_concept'].strip()
+        elif 'question_concepts' in data:
+            concept = data['question_concepts'].strip()
+        else:
+            raise Exception(f"Question concept not found for: {data}")
+        
+        return f"""The following are multiple choice questions (with answers) about \"{concept}\".
+
+Question: {data['question'].strip()}
+{generate_choices_text(data['choices'], with_quote=False).strip()}
+Answer:"""
+    else:
+        raise NotImplementedError(f"Not implemented for prompt_type: {prompt_type}")

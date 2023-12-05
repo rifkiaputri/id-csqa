@@ -1,0 +1,21 @@
+Model,Dataset Name,Lang,Version,Prompt,Accuracy
+gpt-3.5-turbo,v1_synthetic,ind,231204,1,0.6835443037974683
+gpt-3.5-turbo,v1_synthetic,sun,231204,1,0.47468354430379744
+gpt-4,v1_synthetic,ind,231204,1,0.7721518987341772
+gpt-4,v1_synthetic,sun,231204,1,0.5759493670886076
+gpt-4-1106-preview,v1_synthetic,ind,231204,1,0.810126582278481
+gpt-4-1106-preview,v1_synthetic,sun,231204,1,0.6962025316455697
+gpt-3.5-turbo,v2_human,ind,231204,1,0.7970627503337784
+gpt-3.5-turbo,v2_human,sun,231204,1,0.5630420280186791
+gpt-4,v2_human,ind,231204,1,0.9118825100133512
+gpt-4,v2_human,sun,231204,1,0.733822548365577
+gpt-4-1106-preview,v2_human,ind,231204,1,0.9325767690253671
+gpt-4-1106-preview,v2_human,sun,231204,1,0.8492328218812542
+meta-llama/Llama-2-7b-chat-hf,v1_synthetic,ind,231204,2,0.4936708860759494
+meta-llama/Llama-2-7b-chat-hf,v1_synthetic,sun,231204,2,0.27848101265822783
+meta-llama/Llama-2-7b-chat-hf,v2_human,ind,231204,2,0.417890520694259
+meta-llama/Llama-2-7b-chat-hf,v2_human,sun,231204,2,0.31020680453635757
+meta-llama/Llama-2-13b-chat-hf,v1_synthetic,ind,231204,2,0.45569620253164556
+meta-llama/Llama-2-13b-chat-hf,v1_synthetic,sun,231204,2,0.2088607594936709
+meta-llama/Llama-2-13b-chat-hf,v2_human,ind,231204,2,0.42923898531375165
+meta-llama/Llama-2-13b-chat-hf,v2_human,sun,231204,2,0.20813875917278185

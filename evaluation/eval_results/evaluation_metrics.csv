@@ -1,0 +1,13 @@
+Model,Dataset Name,Lang,Version,Prompt,Accuracy
+meta-llama/Llama-2-7b-chat-hf,v1_adapt,ind,231205,3,50.63291139240506
+meta-llama/Llama-2-7b-chat-hf,v1_adapt,sun,231205,3,34.810126582278485
+meta-llama/Llama-2-7b-chat-hf,v2_human,ind,231205,3,45.59412550066756
+meta-llama/Llama-2-7b-chat-hf,v2_human,sun,231205,3,34.75650433622415
+meta-llama/Llama-2-13b-chat-hf,v1_adapt,ind,231205,3,50.0
+meta-llama/Llama-2-13b-chat-hf,v1_adapt,sun,231205,3,34.177215189873415
+meta-llama/Llama-2-13b-chat-hf,v2_human,ind,231205,3,52.136181575433916
+meta-llama/Llama-2-13b-chat-hf,v2_human,sun,231205,3,35.823882588392266
+gpt-3.5-turbo,v1_adapt,ind,231205,3,65.18987341772153
+gpt-3.5-turbo,v1_adapt,sun,231205,3,44.303797468354425
+gpt-3.5-turbo,v2_human,ind,231205,3,79.10547396528706
+gpt-3.5-turbo,v2_human,sun,231205,3,56.70446964643096
