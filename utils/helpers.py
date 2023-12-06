@@ -146,15 +146,22 @@ Changed Question:"""
 
 # Function to generate prompts for benchmarking/evaluation based on prompt_type
 def generate_eval_prompt(data, prompt_type=1):
-    if prompt_type == 1:
-        return f"""{data['question'].strip()}
-{generate_choices_text(data['choices'], with_quote=False)}
-Give only one answer that most likely to be the correct answer with a prefix that says \"Answer:\" follows by the option letter. For example:
-Answer: Z"""
-    elif prompt_type == 2:
-        return f"""{data['question'].strip()}
-{generate_choices_text(data['choices'], with_quote=False)}
-
+    if prompt_type == 1:  # adapted from MMLU prompt
+        if 'question_concept' in data:
+            concept = data['question_concept'].strip()
+        elif 'question_concepts' in data:
+            concept = data['question_concepts'].strip()
+        else:
+            raise Exception(f"Question concept not found for: {data}")
+        
+        return f"""The following are multiple choice questions (with answers) about \"{concept}\".
+{data['question'].strip()}
+{generate_choices_text(data['choices'], with_quote=False).strip()}
+Answer:"""
+    elif prompt_type == 2:  # adapted from AI harness prompt
+        return f"""Question: {data['question'].strip()}
+Choices:
+{generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
     elif prompt_type == 3:  # adapted from HELM prompt
         if 'question_concept' in data:
