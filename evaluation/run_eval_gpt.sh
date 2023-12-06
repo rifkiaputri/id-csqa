@@ -5,7 +5,7 @@ python eval.py \
     --gold_key "answerKey" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 2
 
 python eval.py \
     --model_name "gpt-4-1106-preview" \
@@ -13,7 +13,7 @@ python eval.py \
     --gold_key "answerKey" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 2
 
 python eval.py \
     --model_name "gpt-4-1106-preview" \
@@ -21,7 +21,7 @@ python eval.py \
     --gold_key "answer_majority" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 2
 
 python eval.py \
     --model_name "gpt-4-1106-preview" \
@@ -29,4 +29,4 @@ python eval.py \
     --gold_key "answer_majority" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 2

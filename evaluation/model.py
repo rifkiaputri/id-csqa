@@ -45,9 +45,13 @@ class ChatCompletionHistory:
             resp_new = resp.split("Answer: ")[1]
             resp_new = resp_new.split('\n')[0]
             return resp_new.split('. ')[0] if '. ' in resp_new else resp_new
-
-        match = re.findall(r"\b([A-G]\..+?)\n", resp)
         
+        if "\n" not in resp:
+            answer_key = re.findall(r"The (correct )?answer is ([A-G]).", resp)
+            match = [m[1] for m in answer_key]
+        else:
+            match = re.findall(r"\b([A-G]\..+?)\n", resp)
+            
         if len(match) == 1:
             return match[0].split('. ')[0] if '. ' in match[0] else match[0]
         
@@ -82,14 +86,6 @@ class ChatCompletionHistory:
 
         response = get_openai_chat_completion(prompt, self.model_name)
         answer_cleaned = self.get_cleaned_response(response)
-
-        # Retry logic if answer length is greater than 1
-        if len(answer_cleaned) > 1:
-            print('Answer len > 1, retry...')
-            print('Answer before:', answer_cleaned)
-            response = get_openai_chat_completion(prompt, self.model_name)
-            answer_cleaned = self.get_cleaned_response(response)
-            print('Answer after:', answer_cleaned)
 
         self.history[prompt] = answer_cleaned
         self.write_history_response(prompt, answer_cleaned)
@@ -169,16 +165,26 @@ class HfModelHistory:
     
     def get_cleaned_response(self, prompt, response):
         """Clean model output."""
-        response = response.replace(prompt, '').strip()
+        response = response.replace(prompt, "").strip()
+        response = response.replace("The correct answer is", "").strip()
         if '\n' in response:
             response = response.split('\n')[0].strip()
+
+        if len(response) == 1:
+            return response
+        
+        if response == "A, B, C, D, E":
+            return response
+        
+        if response[0] == '(' and response [2] == ')':
+            return response[1]
 
         if '. ' in response:
             first_sentence = response.split('. ')[0]
         elif ' - ' in response:
             first_sentence = response.split(' - ')[0]
         else:
-            raise NotImplementedError(f"Not implemented for response: {response}")
+            return self.find_answer_key(prompt, response)
 
         first_sentence_cleaned = first_sentence.translate(self.translation_table).strip()
 
