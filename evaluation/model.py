@@ -3,6 +3,7 @@ import os
 import re
 import string
 import sys
+from collections import Counter
 
 script_dir = os.path.dirname(__file__)
 parent_dir = os.path.dirname(script_dir)
@@ -37,10 +38,33 @@ class ChatCompletionHistory:
         else:
             print(f'History file NOT found for {self.model_name}, creating a new one.')
         return history
+
+    def extract_answer_from_explanation(self, resp):
+        """Return answer key given the response string"""
+        if "Answer: " in resp:
+            resp_new = resp.split("Answer: ")[1]
+            resp_new = resp_new.split('\n')[0]
+            return resp_new.split('. ')[0] if '. ' in resp_new else resp_new
+
+        match = re.findall(r"\b([A-G]\..+?)\n", resp)
+        
+        if len(match) == 1:
+            return match[0].split('. ')[0] if '. ' in match[0] else match[0]
+        
+        # If answer keys occurs more than two times, it could be the answer
+        ans_keys = [m.split('. ')[0] for m in match]
+        count = Counter(ans_keys)
+        result = [el for el, occurrence in count.items() if occurrence >= 2]
+        if len(result) == 1:
+            return result[0]
+
+        return resp
     
     def get_cleaned_response(self, response):
         """Clean model output."""
         response = response.choices[0].message.content.strip()
+
+        # Handling answer with format "Answer: A"
         first_sentence = response.split('. ')[0] if '. ' in response else response
         first_sentence = re.sub(r'(?i)answer:\s+', '', first_sentence)
         first_sentence = first_sentence.translate(self.translation_table).strip()
@@ -48,7 +72,8 @@ class ChatCompletionHistory:
         if len(first_sentence) == 1:
             return first_sentence
         
-        return response
+        # Check whether the model uses long explanation to provide answer
+        return self.extract_answer_from_explanation(response)
 
     def query_model(self, prompt):
         """Query the GPT model, using history if available."""
