@@ -160,6 +160,11 @@ class HfModelHistory:
                 full_option = f"{answer_key}. {resp}"
                 if full_option == line:
                     return answer_key
+            elif resp[3:] in line:
+                answer_key = line.strip().split('.')[0].strip()
+                full_option = f"{answer_key}. {resp[3:]}"
+                if full_option == line:
+                    return answer_key
 
         return f"Answer key not found in the provided text: {resp}"
     
