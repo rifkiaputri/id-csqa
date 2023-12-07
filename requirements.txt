@@ -10,3 +10,4 @@ tqdm==4.66.1
 torch==2.0.1
 transformers==4.35.2
 bitsandbytes==0.41.2.post2
+einops==0.7.0

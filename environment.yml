@@ -200,6 +200,7 @@ dependencies:
       - cachetools==5.3.1
       - contourpy==1.1.1
       - cycler==0.12.1
+      - einops==0.7.0
       - emoji==2.5.1
       - exceptiongroup==1.2.0
       - fonttools==4.44.0
@@ -218,7 +219,7 @@ dependencies:
       - httpcore==1.0.2
       - httplib2==0.22.0
       - httpx==0.25.2
-      - huggingface-hub==0.16.4
+      - huggingface-hub==0.19.4
       - importlib-resources==6.1.1
       - kiwisolver==1.4.5
       - matplotlib==3.7.3
