@@ -132,7 +132,13 @@ class HfModelHistory:
     
     def load_models(self):
         """Load HF model & tokenizer"""
-        tokenizer = AutoTokenizer.from_pretrained(self.model_name, truncation_side="left")
+        trust_remote_code = "sealion" in self.model_name
+        
+        tokenizer = AutoTokenizer.from_pretrained(
+            self.model_name,
+            truncation_side="left",
+            trust_remote_code=trust_remote_code
+        )
         if tokenizer.pad_token is None:
             print('Setting pad_token...')
             tokenizer.pad_token = tokenizer.bos_token if tokenizer.bos_token is not None else tokenizer.eos_token
@@ -143,7 +149,8 @@ class HfModelHistory:
             self.model_name, 
             device_map="auto", 
             load_in_8bit=True, 
-            resume_download=True
+            resume_download=True,
+            trust_remote_code=trust_remote_code
         )
         model = model.eval()
         
@@ -172,11 +179,14 @@ class HfModelHistory:
         """Clean model output."""
         response = response.replace(prompt, "").strip()
         response = response.replace("The correct answer is", "").strip()
+    
         if '\n' in response:
             response = response.split('\n')[0].strip()
 
-        if len(response) == 1:
-            return response
+        resp_no_punct = response.translate(self.translation_table).strip()
+
+        if len(resp_no_punct) == 1:
+            return resp_no_punct
         
         if response == "A, B, C, D, E":
             return response
@@ -213,8 +223,16 @@ class HfModelHistory:
         
         if batch_prompts:
             inputs = self.tokenizer(
-                batch_prompts, padding=True, truncation=True, return_tensors="pt", max_length=1024
+                batch_prompts,
+                padding=True,
+                truncation=True,
+                return_tensors="pt",
+                max_length=1024,
             ).to('cuda')
+            
+            if "sealion" in self.model_name:
+                inputs.pop("token_type_ids", None)
+            
             with torch.no_grad():
                 outputs = self.model.generate(
                     **inputs,
