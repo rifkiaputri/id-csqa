@@ -75,6 +75,13 @@ def filter_concept(text, lang="indonesian"):
     return False
 
 
+def filter_concept_strict(text):
+    question = text["question"].lower()
+    question_concept = text["question_concepts"].lower()
+
+    return question_concept in question
+
+
 def filter_profanity(data):
     all_texts = helpers.generate_input_text(data)
 
