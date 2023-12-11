@@ -30,10 +30,15 @@ def compute_similarity(text1, text2, labse=True):
     return float(cosine_scores[0][0])
 
 
-def filter_concept(text, lang="indonesian"):
+def filter_concept(data, lang="indonesian"):
     # Step 1: Lowercase both question and question_concept
-    question = text["question"].lower()
-    question_concept = text["question_concept"].lower()
+    question = data["question"].lower()
+    if "question_concept" in data.keys():
+        question_concept = data["question_concept"].lower()
+    elif "question_concepts" in data:
+        question_concept = data["question_concepts"].lower()
+    else:
+        raise Exception(f"Question concept not found for: {data}")
 
     # Step 2: Check if question_concept appears in question
     if question_concept in question:
@@ -75,9 +80,14 @@ def filter_concept(text, lang="indonesian"):
     return False
 
 
-def filter_concept_strict(text):
-    question = text["question"].lower()
-    question_concept = text["question_concepts"].lower()
+def filter_concept_strict(data):
+    question = data["question"].lower()
+    if "question_concept" in data.keys():
+        question_concept = data["question_concept"].lower()
+    elif "question_concepts" in data:
+        question_concept = data["question_concepts"].lower()
+    else:
+        raise Exception(f"Question concept not found for: {data}")
 
     return question_concept in question
 
