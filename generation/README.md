@@ -1,30 +1,32 @@
-# Synthetic Dataset Generation
+# Adaptation & Synthetic Dataset Generation
 
-This directory contains scripts to generate the synthetic ID & SU csqa dataset.
+This directory contains scripts to generate v1 adaptation & v3 synthetic ID-SU CSQA dataset.
 
 ## Installation
 
 You need to install some dependencies required to run the generation script. The `requirements.txt` is placed in the root directory.
 
 1. Create an isolated virtual environment (recommended):
-    ```bash
-    python -m venv venv
-    ```
+
+   ```bash
+   python -m venv venv
+   ```
 
 2. Activate the virtual environment:
-    - On Windows:
-        ```bash
-        venv\Scripts\activate
-        ```
-    - On macOS and Linux:
-        ```bash
-        source venv/bin/activate
-        ```
+
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On macOS and Linux:
+     ```bash
+     source venv/bin/activate
+     ```
 
 3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Setup Google Cloud Project and OpenAI API Key
 
@@ -35,14 +37,25 @@ You also need to prepare your OpenAI API Key to run the generation script, which
 ## Setup Environment Variables
 
 Create a `.env` file based on the provided example, containing OpenAI API key and Google Cloud Project:
+
 - Copy `.env.example` to `.env`:
-    ```bash
-    cp .env.example .env
-    ```
+  ```bash
+  cp .env.example .env
+  ```
 - Edit the `.env` file and set the required environment variables according to your configuration.
 
-## Generating the Dataset
+## Generate v1 Adaptation Dataset
 
 Run the generation script with some arguments. The required arguments are `--output_path` and `--raw_data_path`, others are optional which you can find by running `--help`.
+
 ```bash
-python generate.py --output_path path/to/output_dir --raw_data_path path/to/raw_data
+python generate_v1.py --output_path path/to/output_dir --raw_data_path path/to/raw_data
+```
+
+## Generate v3 Synthetic Dataset
+
+Run the generation script with some arguments. No required arguments, only optional which you can find by running `--help`.
+
+```bash
+python generate_v3.py
+```
