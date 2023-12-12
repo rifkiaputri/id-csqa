@@ -12,6 +12,12 @@ def remove_unused_keys(
     return {k: v for k, v in data.items() if k in used_keys}
 
 
+def divide_list_into_chunks(input_list, chunk_size):
+    return [
+        input_list[i : i + chunk_size] for i in range(0, len(input_list), chunk_size)
+    ]
+
+
 def create_output_dir(out_path):
     os.makedirs(f"{out_path}", exist_ok=True)
 
@@ -109,6 +115,8 @@ def load_response_history(history_path):
     else:
         print(f"Initialize response history")
         response_history = {}
+
+    return response_history
 
 
 def save_response_history(response_history, history_path):
