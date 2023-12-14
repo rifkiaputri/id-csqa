@@ -3,11 +3,19 @@ import csv
 import ast
 import json
 
+import pandas as pd
+
 
 def remove_unused_keys(
     data, used_keys=["id", "question", "question_concept", "choices", "answerKey"]
 ):
     return {k: v for k, v in data.items() if k in used_keys}
+
+
+def divide_list_into_chunks(input_list, chunk_size):
+    return [
+        input_list[i : i + chunk_size] for i in range(0, len(input_list), chunk_size)
+    ]
 
 
 def create_output_dir(out_path):
@@ -87,9 +95,38 @@ def save_data(data_list, file_path):
 
 
 def load_json_data(file_path):
-    with open(file_path, encoding='utf-8') as fp:
+    with open(file_path, encoding="utf-8") as fp:
         dataset = json.load(fp)
     return dataset
+
+
+def save_json_data(data, file_path):
+    with open(file_path, "w") as file:
+        json.dump(data, file, indent=4)
+
+
+def load_response_history(history_path):
+    if os.path.exists(history_path):
+        print(f"Load response history from file {history_path}")
+        resp_history_df = pd.read_csv(
+            history_path, converters={"response": lambda x: ast.literal_eval(x)}
+        )
+        response_history = dict(zip(resp_history_df.prompt, resp_history_df.response))
+    else:
+        print(f"Initialize response history")
+        response_history = {}
+
+    return response_history
+
+
+def save_response_history(response_history, history_path):
+    resp_history_df = pd.DataFrame(
+        {
+            "prompt": response_history.keys(),
+            "response": response_history.values(),
+        }
+    )
+    resp_history_df.to_csv(history_path, index=False)
 
 
 def generate_input_text(data):
@@ -108,7 +145,7 @@ def generate_choices_text(choices, with_quote=True):
         if with_quote:
             choice_text += f'{label}. "{texts[idx]}"\n'
         else:
-            choice_text += f'{label}. {texts[idx]}\n'
+            choice_text += f"{label}. {texts[idx]}\n"
 
     return choice_text
 
@@ -147,13 +184,13 @@ Changed Question:"""
 # Function to generate prompts for benchmarking/evaluation based on prompt_type
 def generate_eval_prompt(data, prompt_type=1):
     if prompt_type == 1:  # adapted from MMLU prompt
-        if 'question_concept' in data:
-            concept = data['question_concept'].strip()
-        elif 'question_concepts' in data:
-            concept = data['question_concepts'].strip()
+        if "question_concept" in data:
+            concept = data["question_concept"].strip()
+        elif "question_concepts" in data:
+            concept = data["question_concepts"].strip()
         else:
             raise Exception(f"Question concept not found for: {data}")
-        
+
         return f"""The following are multiple choice questions (with answers) about \"{concept}\".
 {data['question'].strip()}
 {generate_choices_text(data['choices'], with_quote=False).strip()}
@@ -164,13 +201,13 @@ Choices:
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
     elif prompt_type == 3:  # adapted from HELM prompt
-        if 'question_concept' in data:
-            concept = data['question_concept'].strip()
-        elif 'question_concepts' in data:
-            concept = data['question_concepts'].strip()
+        if "question_concept" in data:
+            concept = data["question_concept"].strip()
+        elif "question_concepts" in data:
+            concept = data["question_concepts"].strip()
         else:
             raise Exception(f"Question concept not found for: {data}")
-        
+
         return f"""The following are multiple choice questions (with answers) about \"{concept}\".
 
 Question: {data['question'].strip()}
@@ -178,3 +215,21 @@ Question: {data['question'].strip()}
 Answer:"""
     else:
         raise NotImplementedError(f"Not implemented for prompt_type: {prompt_type}")
+
+
+def generate_id_synthetic_gen_prompt(concepts, cat):
+    return f"""Given a list of Indonesian concepts [{', '.join(concepts)}], create one Indonesian commonsense QA data with topic "{cat}" for each concept, that consists of three components: "question", "choices", and "answer_creator". The "question" must contains the concept explicitly. The "choices" consist of 5 different choices marked A to E where one should be the "answer_creator". All data should be in Indonesian, return only your answer in JSON data format, and add the concept of the data as "question_concepts".
+
+JSON Data:"""
+
+
+def generate_su_synthetic_gen_prompt(concepts, cat):
+    return f"""Given a list of Sundanese concepts [{', '.join(concepts)}], create one Sundanese commonsense QA data with topic "{cat}" for each concept, that consists of three components: "question", "choices", and "answer_creator". The "question" must contains the concept explicitly. The "choices" consist of 5 different choices marked A to E where one should be the "answer_creator". All data should be in Sundanese, return only your answer in JSON data format, and add the concept of the data as "question_concepts".
+
+JSON Data:"""
+
+
+def generate_combined_synthetic_gen_prompt(id_concepts, su_concepts, cat):
+    return f"""Given a list of Indonesian concepts [{', '.join(id_concepts)}] and Sundanese concepts [{', '.join(su_concepts)}], create one commonsense QA data with topic "{cat}" for each concept, that consists of three components: "question", "choices", and "answer_creator". The "question" must contains the concept explicitly. The "choices" consist of 5 different choices marked A to E where one should be the "answer_creator". All data should be in Indonesian or Sundanese based on the concept, return only your answer in JSON data format, and add the concept of the data as "question_concepts".
+
+JSON Data:"""

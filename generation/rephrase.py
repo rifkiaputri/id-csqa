@@ -1,7 +1,5 @@
-import os
 import ast
 import time
-import pandas as pd
 
 from tqdm import tqdm
 
@@ -128,16 +126,6 @@ def postprocess_result_name(response):
     return rephrased_result
 
 
-def save_response_history(response_history, history_path):
-    resp_history_df = pd.DataFrame(
-        {
-            "prompt": response_history.keys(),
-            "response": response_history.values(),
-        }
-    )
-    resp_history_df.to_csv(history_path, index=False)
-
-
 def generate_rephrased_data(data, model_name, history, prompt_type="all"):
     if prompt_type == "all":
         input_prompt = helpers.generate_rephrase_all_prompt(data)
@@ -168,17 +156,7 @@ def rephrase_data(raw_data, split, output_path, all_model, name_model):
         print(f"Process data on split: {s}")
 
         history_path = f"{history_dir}/{s}_history.csv"
-        if os.path.exists(history_path):
-            print(f"Load response history from file {history_path}")
-            resp_history_df = pd.read_csv(
-                history_path, converters={"response": lambda x: ast.literal_eval(x)}
-            )
-            response_history = dict(
-                zip(resp_history_df.prompt, resp_history_df.response)
-            )
-        else:
-            print(f"Initialize response history")
-            response_history = {}
+        response_history = helpers.load_response_history(history_path)
 
         rephrased_result = []
         for data in tqdm(raw_data[s]):
@@ -192,7 +170,7 @@ def rephrase_data(raw_data, split, output_path, all_model, name_model):
                 prompt_type="all",
             )
             response_history[prompt] = {"response": response}
-            save_response_history(response_history, history_path)
+            helpers.save_response_history(response_history, history_path)
 
             result = postprocess_result_all(data, response)
 
@@ -204,7 +182,7 @@ def rephrase_data(raw_data, split, output_path, all_model, name_model):
                     response_history,
                     prompt_type="name",
                 )
-                save_response_history(response_history, history_path)
+                helpers.save_response_history(response_history, history_path)
                 result["question"] = postprocess_result_name(response)
 
             rephrased_data["question"] = result["question"]

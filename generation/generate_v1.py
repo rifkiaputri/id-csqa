@@ -21,7 +21,10 @@ parser.add_argument(
     "--output_path", help="path to the output directory", required=True, type=str
 )
 parser.add_argument(
-    "--raw_data_path", help="path to the raw data directory", required=True, type=str
+    "--raw_data_path",
+    help="path to the raw CommonsenseQA data directory",
+    required=True,
+    type=str,
 )
 parser.add_argument(
     "--rephrase_all_model",
