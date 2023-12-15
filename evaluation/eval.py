@@ -36,8 +36,8 @@ def load_gpt_model(model_name, history_version):
     return lambda prompt: cache.query_model(prompt)
 
 
-def load_open_model(model_name, history_version):
-    cache = HfModelHistory(model_name, history_version)
+def load_open_model(model_name, history_version, prompt_type):
+    cache = HfModelHistory(model_name, history_version, prompt_type)
     return lambda prompts: cache.query_model(prompts)
 
 
@@ -108,7 +108,7 @@ def main(args):
         model = load_gpt_model(args.model_name, args.history_version)
         is_gpt = True
     else:
-        model = load_open_model(args.model_name, args.history_version)
+        model = load_open_model(args.model_name, args.history_version, args.prompt_type)
         is_gpt = False
 
     evaluation_results, evaluation_metrics = evaluate_model(
