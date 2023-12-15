@@ -182,7 +182,7 @@ Changed Question:"""
 
 
 # Function to generate prompts for benchmarking/evaluation based on prompt_type
-def generate_eval_prompt(data, prompt_type=1):
+def generate_eval_prompt(data, prompt_type=1, use_prompt_template=False):
     if prompt_type == 1:  # adapted from MMLU prompt
         if "question_concept" in data:
             concept = data["question_concept"].strip()
@@ -191,12 +191,12 @@ def generate_eval_prompt(data, prompt_type=1):
         else:
             raise Exception(f"Question concept not found for: {data}")
 
-        return f"""The following are multiple choice questions (with answers) about \"{concept}\".
+        prompt = f"""The following are multiple choice questions (with answers) about \"{concept}\".
 {data['question'].strip()}
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
     elif prompt_type == 2:  # adapted from AI harness prompt
-        return f"""Question: {data['question'].strip()}
+        prompt = f"""Question: {data['question'].strip()}
 Choices:
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
@@ -208,13 +208,19 @@ Answer:"""
         else:
             raise Exception(f"Question concept not found for: {data}")
 
-        return f"""The following are multiple choice questions (with answers) about \"{concept}\".
+        prompt = f"""The following are multiple choice questions (with answers) about \"{concept}\".
 
 Question: {data['question'].strip()}
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
     else:
         raise NotImplementedError(f"Not implemented for prompt_type: {prompt_type}")
+    
+    if use_prompt_template:
+        prompt_template = "### USER:\n{human_prompt}\n\n### RESPONSE:\n"
+        return prompt_template.format(human_prompt=prompt)
+
+    return prompt
 
 
 def generate_id_synthetic_gen_prompt(concepts, cat):

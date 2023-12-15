@@ -156,61 +156,52 @@ class HfModelHistory:
         
         return model, tokenizer
     
-    def find_answer_key(self, prompt, resp):
-        """Return answer key given the response string"""
-        resp = resp.strip()
-        lines = prompt.split("\n")
+    def find_answer_key(self, prompt, resp_orig):
+        """Return answer key given the response string."""
+        resp = resp_orig.lower().strip()
+        if resp[-1] == ".":
+            resp = resp[:-1]
+        lines = prompt.lower().split("\n") 
+
         for line in lines:
             line = line.strip()
-            if resp in line:
-                answer_key = line.strip().split('.')[0].strip()
-                full_option = f"{answer_key}. {resp}"
-                if full_option == line:
-                    return answer_key
-            elif resp[3:] in line:
-                answer_key = line.strip().split('.')[0].strip()
-                full_option = f"{answer_key}. {resp[3:]}"
-                if full_option == line:
-                    return answer_key
+            answer_key = line.split('. ')[0].strip()
 
-        return f"Answer key not found in the provided text: {resp}"
+            if resp in line:
+                if resp == line:
+                    return answer_key.upper()
+                full_option = f"{answer_key}. {resp}"    
+                if full_option == line:
+                    return answer_key.upper()
+            elif resp.replace(' - ', '. ') == line or f"{resp[0]}.{resp[1:]}" == line:
+                return answer_key.upper()
+            elif resp[3:] in line:
+                full_option = f"{answer_key}. {resp[3:]}"    
+                if full_option == line:
+                    return answer_key.upper()
+            
+        return f"Answer key not found in the provided text: {resp_orig}"
     
     def get_cleaned_response(self, prompt, response):
         """Clean model output."""
         response = response.replace(prompt, "").strip()
-        response = response.replace("The correct answer is", "").strip()
-    
-        if '\n' in response:
-            response = response.split('\n')[0].strip()
+        unwanted_phrases = ["The correct answer is", "### USER:", "### USER", "### RESPONSE:", "### RESPONSE", "###"]
+        for phrase in unwanted_phrases:
+            response = response.replace(phrase, "").strip()
 
-        resp_no_punct = response.translate(self.translation_table).strip()
-
-        if len(resp_no_punct) == 1:
-            return resp_no_punct
-        
+        response = response.split('\n', 1)[0].strip()  # Keep only the first line
         if response == "A, B, C, D, E":
             return response
         
         if response[0] == '(' and response [2] == ')':
             return response[1]
-
-        if '. ' in response:
-            first_sentence = response.split('. ')[0]
-        elif ' - ' in response:
-            first_sentence = response.split(' - ')[0]
-        else:
-            return self.find_answer_key(prompt, response)
-
-        first_sentence_cleaned = first_sentence.translate(self.translation_table).strip()
-
-        if len(first_sentence_cleaned) != 1:
-            first_sentence_cleaned = self.find_answer_key(prompt, response)
         
-        if len(first_sentence_cleaned) == 1 or first_sentence_cleaned.startswith("Answer key not found"):
-            return first_sentence_cleaned
-        
-        return response
-    
+        resp_no_punct = response.translate(self.translation_table).strip()
+        if len(resp_no_punct) == 1:
+            return resp_no_punct
+
+        return self.find_answer_key(prompt, response)
+
     def query_model(self, prompts):
         """Query the HF model, using history if available."""
         responses = {}
@@ -239,7 +230,7 @@ class HfModelHistory:
                     temperature=0.1,  # using the same temperature setting as closed model
                     do_sample=True,
                     min_new_tokens=1,
-                    max_new_tokens=10
+                    max_new_tokens=20
                 )
 
             # for fairer comparison, using the same setting as closed model:

@@ -79,12 +79,13 @@ def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_met
         writer.writerow([model_name, data_name, lang, version, prompt_type, evaluation_metrics['accuracy']])
 
 
-def evaluate_model(model, dataset, batch_size, gold_key, is_gpt, prompt_type):
+def evaluate_model(model, model_name, dataset, batch_size, gold_key, is_gpt, prompt_type):
     results, golds = [], []
+    use_prompt_template = "sealion" in model_name and "instruct" in model_name
 
     for i in tqdm(range(0, len(dataset), batch_size), desc="Evaluating"):
         batch = dataset[i:i + batch_size]
-        batch_prompts = [helpers.generate_eval_prompt(item, prompt_type) for item in batch]
+        batch_prompts = [helpers.generate_eval_prompt(item, prompt_type, use_prompt_template) for item in batch]
         batch_golds = [item[gold_key] for item in batch]
 
         if is_gpt:
@@ -112,6 +113,7 @@ def main(args):
 
     evaluation_results, evaluation_metrics = evaluate_model(
         model=model,
+        model_name=args.model_name,
         dataset=dataset,
         batch_size=args.batch_size,
         gold_key=args.gold_key,
