@@ -5,7 +5,7 @@ CUDA_VISIBLE_DEVICES=4 python eval.py \
     --gold_key "answerKey" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "aisingapore/sealion7b-instruct-nc" \
@@ -13,7 +13,7 @@ CUDA_VISIBLE_DEVICES=4 python eval.py \
     --gold_key "answerKey" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "aisingapore/sealion7b-instruct-nc" \
@@ -21,7 +21,7 @@ CUDA_VISIBLE_DEVICES=4 python eval.py \
     --gold_key "answer_majority" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "aisingapore/sealion7b-instruct-nc" \
@@ -29,4 +29,4 @@ CUDA_VISIBLE_DEVICES=4 python eval.py \
     --gold_key "answer_majority" \
     --history_version "231205" \
     --batch_size 10 \
-    --prompt_type 3
+    --prompt_type 1
