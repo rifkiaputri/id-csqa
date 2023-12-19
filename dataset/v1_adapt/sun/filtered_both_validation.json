@@ -1,0 +1,4204 @@
+[
+    {
+        "id": "1afa02df02c908a558b4036e80242fac",
+        "question": "Turnstiles pisan merenah pikeun perjalanan dua arah, tapi og\u00e9 ngawula ka salaku ukuran kaamanan nu wangunan di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bank",
+                "perpustakaan",
+                "Departem\u00e9n toko",
+                "puseur balanja",
+                "Jakarta"
+            ]
+        },
+        "question_concepts": "turnstile",
+        "answer_creator": "A"
+    },
+    {
+        "id": "2435de612dd69f2012b9e40d6af4ce38",
+        "question": "Budi milarian tempat anu sae kanggo ngagaleuh lahan pertanian. Dimana anjeunna kedah milarian?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Tengah",
+                "padesaan",
+                "perkebunan",
+                "wewengkon tatan\u00e9n",
+                "Sumatra"
+            ]
+        },
+        "question_concepts": "lahan tatan\u00e9n",
+        "answer_creator": "B"
+    },
+    {
+        "id": "a4892551cb4beb279653ae52d0de4c89",
+        "question": "Di Pulo mana di Indon\u00e9sia musang pandan popul\u00e9r salaku piaraan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa",
+                "Sumatra",
+                "Kalimantan",
+                "Sulawesi",
+                "Bali"
+            ]
+        },
+        "question_concepts": "musang pandan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "118a9093a30695622363455e4d911866",
+        "question": "Di nagara Asia Tenggara mana anjeun tiasa k\u00e9ngingkeun sacangkir kopi anu sa\u00e9?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "warung kopi jawa",
+                "Indon\u00e9sia",
+                "Warung kopi Aceh",
+                "dapur imah",
+                "kantin sakola"
+            ]
+        },
+        "question_concepts": "sacangkir kopi",
+        "answer_creator": "B"
+    },
+    {
+        "id": "fc1d33a2301a30214523c12573f81aba",
+        "question": "Anita lalajo pilem sabab naon anu anjeunna resep?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "wangunan",
+                "seuri",
+                "dihibur",
+                "sieun",
+                "kabosenan"
+            ]
+        },
+        "question_concepts": "nonton pilem",
+        "answer_creator": "C"
+    },
+    {
+        "id": "8d3dc21a53523850ec80771daaa5ff20",
+        "question": "Budi hoyong milarian peta bawah tanah kuno taun 50-an. Dimana anjeunna tiasa milarianana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perpustakaan",
+                "stasion kar\u00e9ta api",
+                "kantor r\u00e9gional insinyur urang",
+                "supermark\u00e9t",
+                "imah"
+            ]
+        },
+        "question_concepts": "peta jero taneuh",
+        "answer_creator": "A"
+    },
+    {
+        "id": "ba640b9634ad6b4ad98b17b4f152e562",
+        "question": "Kadal nu ngaranna Budi hirup di tempat haneut nu loba cai. Dimana anjeunna paling dipikaresep cicing?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Batu karang",
+                "leuweung hujan tropis",
+                "klub jazz",
+                "Pulo Bali",
+                "tempat taringgul"
+            ]
+        },
+        "question_concepts": "kadal",
+        "answer_creator": "B"
+    },
+    {
+        "id": "6e433471d0e2590b8c73ceef275022b1",
+        "question": "Ahmad terang y\u00e9n anjeunna henteu kedah ngagaleuh bir kanggo anu di handapeun umur. Anjeunna malah teu meunang bayaran pikeun eta. Naha ieu gor\u00e9ng?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kaleungitan duit",
+                "pikaresepeun",
+                "teu boga duit",
+                "ngalanggar hukum",
+                "r\u00e9laxasi"
+            ]
+        },
+        "question_concepts": "meuli bir",
+        "answer_creator": "D"
+    },
+    {
+        "id": "91f512273a2da7ae796919069b20d6cf",
+        "question": "Kusabab Andi nya\u00e9ta biola utama, man\u00e9hna kudu mawa hal penting pikeun digaw\u00e9 unggal po\u00e9. Naon anu kedah anjeunna bawa ka padamelan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko musik",
+                "obesitas",
+                "orkestra simfoni",
+                "orkestra",
+                "kotak biola"
+            ]
+        },
+        "question_concepts": "biola utama",
+        "answer_creator": "E"
+    },
+    {
+        "id": "950af0b765c298960ce3dada66df8db1",
+        "question": "Jalan tol teu aya lalu lintas sareng sababaraha gedong, dimana \u00e9ta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "padesaan",
+                "kota ged\u00e9",
+                "Bali",
+                "Indon\u00e9sia"
+            ]
+        },
+        "question_concepts": "Jalan tol",
+        "answer_creator": "B"
+    },
+    {
+        "id": "49e466b1782aa4837dae53ff891fcdee",
+        "question": "Upami anjeun aya di bar di propinsi anu katelah Pulo Dewata, dimana anjeun bakal aya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "dina saku kuring",
+                "di Jawa",
+                "di Bali",
+                "di r\u00e9storan",
+                "di pub"
+            ]
+        },
+        "question_concepts": "bar",
+        "answer_creator": "C"
+    },
+    {
+        "id": "c1c7a9efa379b8a7024a71cf364a144c",
+        "question": "Ratna mak\u00e9 clipboard pikeun nahan kertas-kertasna bari macakeun ngaran-ngaran dina mimiti po\u00e9. Dimana anjeunna tiasa dianggo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "m\u00e9ja",
+                "jand\u00e9la 95",
+                "toko alat tulis kantor",
+                "ningali karya",
+                "sakola"
+            ]
+        },
+        "question_concepts": "clipboard",
+        "answer_creator": "E"
+    },
+    {
+        "id": "dd11fea36d89aa09f9a6069545ba4c9c",
+        "question": "Naon anu henteu leres ngeunaan bask\u00e9t upami \u00e9ta ngagaduhan liang tapi henteu leungit bentuk umumna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "liang",
+                "popul\u00e9r di Indon\u00e9sia",
+                "pinuh ku hawa",
+                "geus leungit",
+                "buleud"
+            ]
+        },
+        "question_concepts": "bask\u00e9t",
+        "answer_creator": "C"
+    },
+    {
+        "id": "ea8664e77205224154f8519f922220e1",
+        "question": "Joko ngarasa kalakuanana geus takdir. Ceuk Budi mah sok bisa nyieun pilihan nu b\u00e9da.Naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kahayang b\u00e9bas",
+                "pilihan",
+                "bakal",
+                "alkohol",
+                "kabebasan"
+            ]
+        },
+        "question_concepts": "takdir",
+        "answer_creator": "B"
+    },
+    {
+        "id": "60e92cd2f35c345872d1a898e1718d55",
+        "question": "Andi teu boga mobil, tapi masih boga dua suku. Kaos kakina bau sareng dampal sukuna melepuh, tapi henteu masalah. Naon anu masih tiasa anjeunna laksanakeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "numpak motor",
+                "leumpang",
+                "Jemp\u00e9",
+                "bau",
+                "leungeun"
+            ]
+        },
+        "question_concepts": "suku",
+        "answer_creator": "B"
+    },
+    {
+        "id": "db0cfd52ca6b2bbfcf26d1a898fd929b",
+        "question": "Juma\u2019ah t\u00e9h ka-5 taun kawinan Ahmad. Aranjeunna ngarencanakeun bobo awal supados aranjeunna tiasa ny\u00e9\u00e9pkeun waktos anu lami pikeun ngalakukeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "istirahat",
+                "insomnia",
+                "nyieun cinta",
+                "kaleuleuwihi",
+                "ngirim pesen"
+            ]
+        },
+        "question_concepts": "bobo mimiti",
+        "answer_creator": "C"
+    },
+    {
+        "id": "716ce4404a84b42dd64e561390c4b53b",
+        "question": "Hiji anggota Pulisi Kehutanan turun di stasiun subway. Kota mana meureun anjeunna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "wewengkon urban",
+                "m\u00e9tropolitan",
+                "Jakarta",
+                "Surabaya",
+                "Bandung"
+            ]
+        },
+        "question_concepts": "stasiun subway",
+        "answer_creator": "C"
+    },
+    {
+        "id": "49902e768c45aa41a0f9f95be81114e5",
+        "question": "Sanggeus lalampahan panjang ti sawah, anjeunna dipariksa ka hot\u00e9l nalika anjeunna anjog dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "imah kadua",
+                "bunker jaman perang",
+                "Resort",
+                "Bali",
+                "kota"
+            ]
+        },
+        "question_concepts": "hot\u00e9l",
+        "answer_creator": "E"
+    },
+    {
+        "id": "320ec9b68fdefe13d59cc8b628083790",
+        "question": "Kumaha anjeun meuntas salah sahiji saluran irigasi di Bali?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Subak",
+                "Jakarta",
+                "Borobudur",
+                "sasak",
+                "parahu tradisional"
+            ]
+        },
+        "question_concepts": "saluran irigasi",
+        "answer_creator": "D"
+    },
+    {
+        "id": "e3949997bf9d02048cfa5d8dd0f287aa",
+        "question": "R\u00e9storan seafood mindeng dipak\u00e9 pikeun narik wisatawan.Di mana di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bali",
+                "toko sapatu",
+                "kota",
+                "Jakarta",
+                "kota basisir"
+            ]
+        },
+        "question_concepts": "r\u00e9storan seafood",
+        "answer_creator": "E"
+    },
+    {
+        "id": "a7d51b753c2113d8b2dbd0ebb5375855",
+        "question": "Ponakan Budi naroskeun perkawis akina. Naon anu anjeunna minat diajar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tangkal kulawarga",
+                "reuni kulawarga",
+                "ngurus budak",
+                "imah lanceukna",
+                "pusaka"
+            ]
+        },
+        "question_concepts": "ponakan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "3e4b326aff96e9adbb52ba18cfa877b2",
+        "question": "Ahmad neuteup ka luhur, katembong b\u00e9ntang-b\u00e9ntang ngageleber di langit peuting nu po\u00e9k. Anjeunna kagum kana jumlah sareng ageungna naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jagat raya",
+                "orbit",
+                "langit peuting",
+                "angkasa",
+                "domp\u00e9tna"
+            ]
+        },
+        "question_concepts": "b\u00e9ntang",
+        "answer_creator": "A"
+    },
+    {
+        "id": "80697d599280d994d8a584c95824ef1f",
+        "question": "Dimana papan catur anu henteu dianggo tiasa disimpen?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko kaulinan",
+                "Jawa",
+                "kamar diuk",
+                "loteng",
+                "lomari"
+            ]
+        },
+        "question_concepts": "papan catur",
+        "answer_creator": "E"
+    },
+    {
+        "id": "ae038e9af9d5a511ada7456b5e73b15e",
+        "question": "Naon anu bisa ma\u00e9nkeun angklung?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pama\u00e9n gamelan",
+                "grup musik tradisional",
+                "toko musik",
+                "ucing",
+                "simfoni"
+            ]
+        },
+        "question_concepts": "angklung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "11d7db1d8e1cff2f40d4184f15cf7ae7",
+        "question": "Joko jeung Budi teh jelema teu wijaksana. Meser dua tiket pertandingan Persija vs Arema padahal teu aya nu hoyong nonton naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "warnet intern\u00e9t",
+                "acara olahraga",
+                "menc\u00e9t tombol salah",
+                "obesitas",
+                "patandingan hoki"
+            ]
+        },
+        "question_concepts": "teu wijaksana",
+        "answer_creator": "B"
+    },
+    {
+        "id": "7ec11eeca4221795c117943ca2639e86",
+        "question": "An\u00e9mon laut warna-warni di Indon\u00e9sia mindeng nyarupaan obj\u00e9k naon anu ilahar kapanggih di kebon imah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "zona pasang surut",
+                "laut karang",
+                "jero cai",
+                "kebon kembang",
+                "Kapuloan Raja Ampat"
+            ]
+        },
+        "question_concepts": "anemone laut",
+        "answer_creator": "D"
+    },
+    {
+        "id": "30e66db11e0257a14a17108b90cd69fb",
+        "question": "Budi nguji arus listrik sarta perhatikeun y\u00e9n arusna luhur. Ceuk pikir nu kabel bisa boga teuing naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kapasitas",
+                "panjang",
+                "Voltaseu",
+                "lalawanan",
+                "konduktivitas"
+            ]
+        },
+        "question_concepts": "arus listrik",
+        "answer_creator": "D"
+    },
+    {
+        "id": "e476e2c8c278eaecfe1a8b884b6aeb8e",
+        "question": "Ali urang asing. Sanajan kitu, kumaha perlakuan Budi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Babaturan",
+                "kulawarga",
+                "jalma dipikawanoh",
+                "taman",
+                "urang luar"
+            ]
+        },
+        "question_concepts": "urang asing",
+        "answer_creator": "B"
+    },
+    {
+        "id": "191e3c676f05a11d6b2565d8c27d2001",
+        "question": "Hiji-hijina sumber cahaya anu dipiboga Andi nya\u00e9ta lampu leutik. Tembokna aya opat, mun aya pantona teu bisa nempo. Dimana ari Andi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kamar katutup",
+                "langit",
+                "poek",
+                "kuburanna",
+                "imah"
+            ]
+        },
+        "question_concepts": "sumber cahaya",
+        "answer_creator": "A"
+    },
+    {
+        "id": "99098375c7b651d524eebac72e358238",
+        "question": "Budi nganggap sistem peradilan pidana ibarat program komputer. Ieu kedah dianggo leres. Pamendak naon anu teu dipikaresep ku Budi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sacara manual",
+                "ngolah informasi",
+                "mareuman kakuatan",
+                "mod\u00e9l kontrol",
+                "alesanana aya"
+            ]
+        },
+        "question_concepts": "program komputer",
+        "answer_creator": "D"
+    },
+    {
+        "id": "fa031cff8e11e75c68d6a99ef0e5ca3a",
+        "question": "Kumaha carana bisa asup ka imah adat Betawi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kampung",
+                "ketok",
+                "kampung",
+                "hateup",
+                "Jakarta"
+            ]
+        },
+        "question_concepts": "Rumah adat Betawi",
+        "answer_creator": "B"
+    },
+    {
+        "id": "1ac54dbf6b67f27daa3d456416047584",
+        "question": "Dimana urang tiasa mendakan oray dina kandang di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "leuweung tropis",
+                "Pulo Jawa",
+                "leuweung",
+                "toko piaraan",
+                "Pulo Sumatra"
+            ]
+        },
+        "question_concepts": "oray",
+        "answer_creator": "D"
+    },
+    {
+        "id": "a018d65a74b9e77d81014fd8f6d78f77",
+        "question": "Andi nyelapkeun daging kana timbangan, ari Andi damel dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko musik",
+                "kantor pajeg",
+                "pantai jeung ombak badag",
+                "warung daging",
+                "kamar mandi"
+            ]
+        },
+        "question_concepts": "timbangan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "900492bd731f8f615ed7c08155737d44",
+        "question": "Sateuacan pelari ngamimitian balapan, naon anu kedah dilakukeun di garis awal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "diajar leumpang",
+                "leumpang",
+                "leumpang lalaunan",
+                "ngambekan",
+                "nangtung k\u00e9n\u00e9h"
+            ]
+        },
+        "question_concepts": "balapan",
+        "answer_creator": "E"
+    },
+    {
+        "id": "fb35c7aa5694bab2cde4b7257bfae003",
+        "question": "Status naon wae nu dibikeun ka Garuda Pancasila?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "peuntas laut",
+                "dunya",
+                "panyalindungan",
+                "Bali",
+                "Indon\u00e9sia"
+            ]
+        },
+        "question_concepts": "Garuda Pancasila",
+        "answer_creator": "C"
+    },
+    {
+        "id": "895aa97bb84d874d71b2aed572cebfdd",
+        "question": "Dimana anjeun tiasa mendakan mony\u00e9t liar di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kebon binatang",
+                "leuweung",
+                "laboratorium panalungtikan",
+                "panangkaran",
+                "Bali"
+            ]
+        },
+        "question_concepts": "mony\u00e9t",
+        "answer_creator": "B"
+    },
+    {
+        "id": "b33047f46db680a9b630c13e8ca115cc",
+        "question": "Budi diuk dina sofa bari ngom\u00e9an buku. Siti panginten ngan ukur fokus kana naon anu anjeunna laksanakeun, tapi naon anu anjeunna lakukeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dahar",
+                "mikir",
+                "maca",
+                "semedi",
+                "sar\u00e9"
+            ]
+        },
+        "question_concepts": "diuk cicing",
+        "answer_creator": "E"
+    },
+    {
+        "id": "e3426e4f60c142aa3d813479f79d6305",
+        "question": "Dimana anjeun biasana angkat sateuacan penc\u00e9t bar wengi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "Bali",
+                "r\u00e9storan",
+                "klub peuting",
+                "Taman Kota"
+            ]
+        },
+        "question_concepts": "bar",
+        "answer_creator": "C"
+    },
+    {
+        "id": "9310c39a0752f28640c3a05cba1d5ca7",
+        "question": "Naon ngaran tong sampah di indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kokotor",
+                "angkutan jero taneuh",
+                "Taman Nasional",
+                "wadahna",
+                "tong runtah"
+            ]
+        },
+        "question_concepts": "tong runtah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "fee5f4e9d8e37f0183e36eb9b8dbcbb9",
+        "question": "Upami Ani hoyong ngadamel sat\u00e9 emb\u00e9 Indon\u00e9sia, bahan utama naon anu kedah didamelna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "domba",
+                "b\u00e9as bodas",
+                "t\u00e9mp\u00e9",
+                "daging sapi",
+                "daging hayam"
+            ]
+        },
+        "question_concepts": "sat\u00e9 embe",
+        "answer_creator": "A"
+    },
+    {
+        "id": "bf10bfda7328c8671e15adf8546b64d7",
+        "question": "Ahmad meunang pamulangan pajegna. Anjeunna ngarawat \u00e9ta saolah-olah \u00e9ta naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perm\u00e9n",
+                "maot jeung",
+                "duit haratis",
+                "diskon",
+                "kiridit"
+            ]
+        },
+        "question_concepts": "pajeg",
+        "answer_creator": "C"
+    },
+    {
+        "id": "f2645d0ee8662b6553954cee7e77979e",
+        "question": "Rudi jeung Dani keur maen basket. Maranehna ngalakukeunana unggal poe di sawah tukangeun imahna. Naha maran\u00e9hna ma\u00e9n bask\u00e9t?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pangajaran",
+                "keur senang",
+                "gering",
+                "surak",
+                "tatu tuur"
+            ]
+        },
+        "question_concepts": "ma\u00e9n bask\u00e9t",
+        "answer_creator": "B"
+    },
+    {
+        "id": "095767956c500ca1af7cf7671556de5b",
+        "question": "Kanyataan y\u00e9n Ahmad bisa ngapalkeun daptar ngaran-ngaran pahlawan nasional Indon\u00e9sia sanajan siga kaayaan, ngabuktikeun y\u00e9n bagian otakna t\u00e9h?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hudang",
+                "malikan deui",
+                "Sar\u00e9",
+                "konsentrasi",
+                "maca kalawan tarik"
+            ]
+        },
+        "question_concepts": "ngapalkeun",
+        "answer_creator": "A"
+    },
+    {
+        "id": "abcf1b550b4d44f46d4f68b8e1d98ec8",
+        "question": "Saatos pasang surut, dimana di basisir Indon\u00e9sia anjeun tiasa milarian anemon laut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pisciculture",
+                "museum",
+                "Teluk Jakarta",
+                "kolam renang pasang surut",
+                "zona intertidal"
+            ]
+        },
+        "question_concepts": "anemone laut",
+        "answer_creator": "D"
+    },
+    {
+        "id": "0542414710025f56b0c26e1bae5c4d06",
+        "question": "Kumaha jalma anu nyingkahan sayuran h\u00e9jo tiasa nampi mineral?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "multivitamin",
+                "tatan\u00e9n",
+                "Jawa",
+                "bumi",
+                "bijih"
+            ]
+        },
+        "question_concepts": "mineral",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d2871dc28c82471e5d7f71f79e49c257",
+        "question": "Budi teu resep mak\u00e9 jamban batur. Anjeunna ngan ngarasa nyaman sorangan. Janten, iraha wa\u00e9 anjeunna kedah najis, dimana anjeunna bad\u00e9 uih deui?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kamar mandi",
+                "kamar hot\u00e9l",
+                "jamban umum pangdeukeutna",
+                "imah",
+                "susun"
+            ]
+        },
+        "question_concepts": "jamban",
+        "answer_creator": "D"
+    },
+    {
+        "id": "21fb76bd8349628b441c76f47c33e77b",
+        "question": "Dimana jalma anu paling dipikaresep manggihan imah adat Betawi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "wewengkon perumahan",
+                "ngirining",
+                "Yogyakarta",
+                "cicing di"
+            ]
+        },
+        "question_concepts": "Imah Betawi",
+        "answer_creator": "A"
+    },
+    {
+        "id": "adf228312401c9ff421a4da1b46bb70a",
+        "question": "Dimana anjeun tiasa mendakan kantor pamar\u00e9ntahan og\u00e9 seueur politikus di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "unggal kota",
+                "wangunan kantor",
+                "kebon binatang",
+                "pamar\u00e9ntah Perancis",
+                "Jakarta"
+            ]
+        },
+        "question_concepts": "kantor pamar\u00e9ntah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "57c85e4c7ea2501ef9d8f304b524e2e4",
+        "question": "R\u00e9k nyumputkeun c\u00e9k di kantorna, dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mesin kasir",
+                "laci",
+                "akuarium lauk",
+                "bank",
+                "mayar amplop"
+            ]
+        },
+        "question_concepts": "c\u00e9k",
+        "answer_creator": "B"
+    },
+    {
+        "id": "66458bf8599c3ef1e7b50fa527531882",
+        "question": "Ahmad Yani t\u00e9h tokoh penting pikeun pamar\u00e9ntah Indon\u00e9sia, jadi di kota mana ba\u00e9 nu bisa loba waktu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sakuliah tempat",
+                "wangunan parlem\u00e9n",
+                "atraksi wisata",
+                "Singapur",
+                "Jakarta"
+            ]
+        },
+        "question_concepts": "pamar\u00e9ntah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "879239b8a788f3c9e3dfdd0862f3d7c5",
+        "question": "Aya leuwih ti hiji pengemis menta ganti atawa tiket, ieu t\u00e9h cara paling murah pikeun ngarambat jadi teu heran lamun aranjeunna katempo dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "stasiun kar\u00e9ta",
+                "pantai",
+                "terminal beus",
+                "sasak",
+                "pengemis jalanan"
+            ]
+        },
+        "question_concepts": "pengemis",
+        "answer_creator": "C"
+    },
+    {
+        "id": "8a69e6df5e8ad6c9e6828aa66c59d046",
+        "question": "Andi jeung Dedi resep maen bal, tapi Dedi katarajang bal nepi ka murag. Naon anu bakal kajadian ka Dedi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "amarah",
+                "bater alus-natured",
+                "kabungahan",
+                "tatu",
+                "pikagumbiraeun"
+            ]
+        },
+        "question_concepts": "Ma\u00e9n bal",
+        "answer_creator": "D"
+    },
+    {
+        "id": "d6bb990e8c409d2b3af37a2da198e01f",
+        "question": "Ahmad Rifai nulis buku otobiografi. Buku naon anu tiasa janten topik buku?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Perjuangan kamerd\u00e9kaan Indon\u00e9sia",
+                "m\u00e9ja kopi",
+                "pendidikan di Indon\u00e9sia",
+                "pagawe pulo",
+                "m\u00e9ja bedside"
+            ]
+        },
+        "question_concepts": "buku",
+        "answer_creator": "A"
+    },
+    {
+        "id": "c5ad166ab5c5f5f067aa02b20f482523",
+        "question": "Tina sagala olahraga, Andi resep pisan ma\u00e9n bal, tapi kumaha saur indungna anu hariwang ngeunaan olahraga ieu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ngahibur pisan",
+                "pikaresepeun",
+                "lalaunan",
+                "kalapa",
+                "teuas"
+            ]
+        },
+        "question_concepts": "olahraga",
+        "answer_creator": "E"
+    },
+    {
+        "id": "ceafca2445b1b974d085a8cce38e8e44",
+        "question": "Kota-kota mana di Indonesia anu sigana loba gedong parkir?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "kota ged\u00e9",
+                "wangunan badag di kota",
+                "lingkungan",
+                "kampus universitas"
+            ]
+        },
+        "question_concepts": "parkir",
+        "answer_creator": "A"
+    },
+    {
+        "id": "2ef2ae21a2d3a9ecbd5c45ff378d10e3",
+        "question": "Siti hariwang bahaya sok mariksa dua kali naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ngalawan musuh",
+                "kaamanan",
+                "janten dina kaamanan",
+                "kaamanan",
+                "sabudeureun"
+            ]
+        },
+        "question_concepts": "Bahaya",
+        "answer_creator": "D"
+    },
+    {
+        "id": "793672da43fbc609e8c5760630c7e239",
+        "question": "Kumaha habitat rubah jawa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kandang hayam",
+                "ngagali",
+                "Jawa Barat",
+                "Jawa Tengah",
+                "pagunungan"
+            ]
+        },
+        "question_concepts": "rubah jawa",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d867f76d000bdb59b9b4cb982bd7f0a0",
+        "question": "Budi dialungkeun tina parahu ka cai. Cai tiis lantaran tengah usum hujan, man\u00e9hna ngagorowok m\u00e9nta tulung ka anak buahna. Aranjeunna teu tiasa ngadangu \u00e9ta kusabab sora naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Beungeut bumi",
+                "cimata",
+                "cihujan",
+                "Hurricane",
+                "motor parahu"
+            ]
+        },
+        "question_concepts": "cai",
+        "answer_creator": "D"
+    },
+    {
+        "id": "5215e26c99b2a9b376fb1c70096a388a",
+        "question": "Aranjeunna ngaliwat tangkal pelem dina jalan ka sirkuit balap, dimana aranjeunna bad\u00e9 nonton tontonan balap motor pangged\u00e9na di dunya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "sentul",
+                "dina televisi",
+                "taman",
+                "Bali"
+            ]
+        },
+        "question_concepts": "Tangkal manggu",
+        "answer_creator": "B"
+    },
+    {
+        "id": "720b98fbc365736597147c984f6bd301",
+        "question": "Pasi\u00e9n kanker diperkirakeun maot, janten naon anu anjeunna laksanakeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "teu hayang hirup",
+                "nyieun wasiat",
+                "pernah hayang",
+                "n\u00e9angan pitulung",
+                "indit ka naraka"
+            ]
+        },
+        "question_concepts": "maot",
+        "answer_creator": "B"
+    },
+    {
+        "id": "c611875b43b67b91030b889b267bbcb3",
+        "question": "Aya jalan tol anu manjang ti Jakarta dugi ka Bandung, dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Barat",
+                "Jawa Tengah",
+                "Bumi abdi",
+                "Jawa Timur",
+                "nawaran"
+            ]
+        },
+        "question_concepts": "jalan tol",
+        "answer_creator": "A"
+    },
+    {
+        "id": "0bf4d64ad0eee7224acb3a4eb85accb2",
+        "question": "Kumaha kajadian \u00e9s batu nalika kakeunaan cahya panonpo\u00e9 di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "dipahat",
+                "ngalembereh",
+                "\u00e9s krim",
+                "Antartika",
+                "kabentuk"
+            ]
+        },
+        "question_concepts": "\u00e9s",
+        "answer_creator": "B"
+    },
+    {
+        "id": "5279a2ea333ba8a5bf3a7637a7279da1",
+        "question": "Joko meuli bir di Indon\u00e9sia. Taya botol sadia. Naon anu kedah anjeunna pilih?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rak",
+                "kaulinan ma\u00e9n bal",
+                "tong",
+                "tiasa",
+                "kulkas"
+            ]
+        },
+        "question_concepts": "bir",
+        "answer_creator": "D"
+    },
+    {
+        "id": "42c46e28baf0fc617a07419286178c0a",
+        "question": "Anjeun tiasa mendakan mony\u00e9t di bagian mana di Indon\u00e9sia anu kasohor ku leuweung hujan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "nagara Am\u00e9rika Kidul",
+                "hutan hujan Kalimantan",
+                "mayar hutang",
+                "gawe",
+                "Pantai Kuta di Bali"
+            ]
+        },
+        "question_concepts": "mony\u00e9t",
+        "answer_creator": "B"
+    },
+    {
+        "id": "d910859b9d1acae40456dbeaa8334bc0",
+        "question": "Nalika ma\u00e9n bal, Andi tabrakan sareng pama\u00e9n san\u00e9s, sareng ieu san\u00e9s waktos anu munggaran. Anjeunna hariwang ngeunaan akibat naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pikagumbiraeun",
+                "interaksi",
+                "tatu sirah",
+                "maot",
+                "keur senang"
+            ]
+        },
+        "question_concepts": "Ma\u00e9n bal",
+        "answer_creator": "C"
+    },
+    {
+        "id": "27f2074270ea8a5e8f5ec2a017ec4a50",
+        "question": "Budi t\u00e9h patani ngan hiji sapi perah. Tapi henteu masalah, anjeunna ngan ukur ngagedekeun pikeun susu, sareng anjeunna henteu nyangka bakal mendakan lahan pertanian anu sa\u00e9 dina tempat anu tiis?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bali",
+                "pakarangan tegalan",
+                "Jawa",
+                "Widang Jerman",
+                "peternakan susu"
+            ]
+        },
+        "question_concepts": "sapi perah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "0843c51212a3c2eee660fab5648c9e19",
+        "question": "Teleponna maot sareng aranjeunna henteu mendakan jalan raya, anjeunna muka kompartemen sarung tangan sareng masihan panumpangna naon anu kedah dilayari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Peta Jawa",
+                "Peta Bali",
+                "peta",
+                "kompas",
+                "Peta kota Jakarta"
+            ]
+        },
+        "question_concepts": "jalan tol",
+        "answer_creator": "C"
+    },
+    {
+        "id": "cab9eea2a91b1bd5c0a01b11f594f154",
+        "question": "Dimana anjeun tiasa mendakan r\u00e9storan Jepang anu henteu dijalankeun ku urang Jepang di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bali",
+                "Jakarta Pusat",
+                "kota ged\u00e9",
+                "Tokyo",
+                "Glodok"
+            ]
+        },
+        "question_concepts": "r\u00e9storan Jepang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "5a50ea4bb2d13dc4f620ebd45025d445",
+        "question": "Budi teu bisa sar\u00e9 deui lantaran ngimpi. Naon ngimpi \u00e9ta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hudang",
+                "kaayaan sieun",
+                "pagawe ngimpi",
+                "kanyataanana",
+                "ngimpina"
+            ]
+        },
+        "question_concepts": "ngimpi",
+        "answer_creator": "E"
+    },
+    {
+        "id": "f8544c9679d27b747dfad3b8d7aac87a",
+        "question": "Upami abdi hoyong muka rumah steak, naon anu kedah abdi k\u00e9ngingkeun heula?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bali",
+                "Jakarta",
+                "inuman anggur",
+                "daging sapi wagyu",
+                "wangunan"
+            ]
+        },
+        "question_concepts": "imah steak",
+        "answer_creator": "E"
+    },
+    {
+        "id": "5cac4da628f0a58db980649079bd5784",
+        "question": "Dina fasilitas naon Budi ngokolakeun anemon laut di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Laut Jawa",
+                "kolam renang",
+                "Samudra Hindia",
+                "perikanan",
+                "Teluk Jakarta"
+            ]
+        },
+        "question_concepts": "anemone laut",
+        "answer_creator": "D"
+    },
+    {
+        "id": "f7140f00ddd8d1c5d93b05ea32ad1fff",
+        "question": "Loba jalma hayang ninggalkeun imah nagara badag maran\u00e9hna pikeun pindah ka imah baris, naon maran\u00e9hna kudu pindah ka dinya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hirup leuwih \u00e9konomis",
+                "Inggris",
+                "panjara",
+                "kota",
+                "kabupat\u00e9n"
+            ]
+        },
+        "question_concepts": "imah baris",
+        "answer_creator": "D"
+    },
+    {
+        "id": "ad8ee2965a33ff4b0e3d2ac732676594",
+        "question": "Bari Budi jeung Joko teu papanggih komodo komodo, dimana anjeun kudu indit pikeun nempo hiji?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "belah w\u00e9tan",
+                "kota",
+                "sabana",
+                "program televisi",
+                "Taman Nasional Komodo"
+            ]
+        },
+        "question_concepts": "komodo",
+        "answer_creator": "E"
+    },
+    {
+        "id": "6c70d98cfb8e97fda8caefcee761a229",
+        "question": "Zainal teu resep ngajawab patarosan. Anjeunna henteu sa\u00e9 kusabab anjeunna ngalaman naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "panik",
+                "diskusi",
+                "perhatian",
+                "kabingungan",
+                "kapuasan"
+            ]
+        },
+        "question_concepts": "Jawab pananya",
+        "answer_creator": "D"
+    },
+    {
+        "id": "cc917ca0e03c91a5141920f5a902a36c",
+        "question": "Upami \u00e9ta waktos Natal, naon hal anu paling anyar anu kajantenan sateuacanna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Lebaran",
+                "usum panas",
+                "Paskah",
+                "Po\u00e9 Kamerd\u00e9kaan Indon\u00e9sia",
+                "Lebaran"
+            ]
+        },
+        "question_concepts": "Natal",
+        "answer_creator": "E"
+    },
+    {
+        "id": "8bdbb8caefcc607a9ec7579aa0c87cba",
+        "question": "Upami Ani damel di pamar\u00e9ntahan salaku anggota DPR, dimana seueur waktosna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gedung DPR/MPR",
+                "sakuliah tempat",
+                "Jakarta",
+                "Rusia",
+                "Kanada"
+            ]
+        },
+        "question_concepts": "pamar\u00e9ntah",
+        "answer_creator": "A"
+    },
+    {
+        "id": "e145618c2062eb9ea8928fdb0d42185e",
+        "question": "Dimana abdi teu hoyong ningali komodo komodo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "imah hayam",
+                "Taman Nasional Komodo",
+                "pagunungan",
+                "luar jandela pangkeng",
+                "Indon\u00e9sia"
+            ]
+        },
+        "question_concepts": "komodo",
+        "answer_creator": "A"
+    },
+    {
+        "id": "3a3b5d4a517ef70d25eb558f1a622937",
+        "question": "Hiji lalaki patriotik jeung kam\u00e9ra keur pilari Garuda Pancasila, naon kamungkinan anjeunna ngalakukeun jeung Garuda lamun manggihan eta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota",
+                "Kanada",
+                "Minnesota",
+                "termal",
+                "nyokot poto"
+            ]
+        },
+        "question_concepts": "Garuda Pancasila",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d6644eacdb543a60545d2eb1ac7e6dbd",
+        "question": "Numutkeun buku naon tangkal apel ngabalukarkeun ragrag tina lalaki kahiji?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Alkitab",
+                "Mahabarata",
+                "maledog deui",
+                "pantun melayu",
+                "carita alus tuah"
+            ]
+        },
+        "question_concepts": "tangkal apel",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d1ad9b79f54205b6b9ac19a27f9c2be5",
+        "question": "Lingkungan boga rasa komunitas kuat, sok sibuk dina badarat ti naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tangga apartemen",
+                "Stadion",
+                "pantai",
+                "bandara",
+                "wangunan kantor"
+            ]
+        },
+        "question_concepts": "badarat",
+        "answer_creator": "A"
+    },
+    {
+        "id": "edbb57ac2f476679ae547f75ec2bef3e",
+        "question": "Budi ningali luwak lumpat di sisi basisir, ngarasa bagja aya di basisir w\u00e9tan. Saur anjeun dimana anjeunna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bali",
+                "Papua",
+                "Sulawesi",
+                "Jawa Timur",
+                "pagunungan"
+            ]
+        },
+        "question_concepts": "luwak",
+        "answer_creator": "B"
+    },
+    {
+        "id": "91756d8e475d8d59fa0a4e35f408e366",
+        "question": "Nalika anjeun ningali Gunung Semeru bitu, dimana anjeun aya hubunganana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "di puncak gunung",
+                "deukeut",
+                "ragrag",
+                "handapeun",
+                "handap"
+            ]
+        },
+        "question_concepts": "bitu",
+        "answer_creator": "D"
+    },
+    {
+        "id": "9808782b2e2e1bfbfa27c41e605bfffe",
+        "question": "Dimana mungkin orangutan ulin di pasar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gurun",
+                "liang",
+                "India",
+                "kalam",
+                "leuweung hujan"
+            ]
+        },
+        "question_concepts": "orang utan",
+        "answer_creator": "E"
+    },
+    {
+        "id": "463521a93ae71e93bea8b97cdf7a6792",
+        "question": "Andi r\u00e9k ngabersihkeun sakab\u00e9h lebu nu aya di imahna sam\u00e9m\u00e9h mapah lalajo acara karesepna. Naon meureun nu paling hese lebu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lomari",
+                "handapeun ranjang",
+                "televisi",
+                "loteng",
+                "lolobana wangunan"
+            ]
+        },
+        "question_concepts": "lebu",
+        "answer_creator": "D"
+    },
+    {
+        "id": "ad37795fd9e3a65553683ff305b5113d",
+        "question": "Provinsi mana di Indon\u00e9sia nu boga garis basisir r\u00e9buan kilom\u00e9ter?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gambar pantai",
+                "kota basisir",
+                "basisir",
+                "Bali",
+                "poto sisi laut"
+            ]
+        },
+        "question_concepts": "basisir",
+        "answer_creator": "D"
+    },
+    {
+        "id": "72baf6ca5c4daa01c2cc7fda22183db8",
+        "question": "Dimana aya gelut ngalibetkeun kecap?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rohang pangadilan",
+                "medan perang",
+                "kaulinan pid\u00e9o",
+                "parlem\u00e9n",
+                "tempat ibadah"
+            ]
+        },
+        "question_concepts": "gelut",
+        "answer_creator": "A"
+    },
+    {
+        "id": "e63a210053cf7f961ca0b5a7e6eb355d",
+        "question": "Ujung senjata api primitif naon anu bentukna siga bel?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bedil",
+                "taromp\u00e9t",
+                "mariem",
+                "kendang",
+                "ketel"
+            ]
+        },
+        "question_concepts": "bel",
+        "answer_creator": "A"
+    },
+    {
+        "id": "fce1c5d069758aea57a787fc98dcf7a9",
+        "question": "Dimana tempat anu sa\u00e9 pikeun m\u00e9s\u00e9r buah seger?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "kulkas",
+                "retailers utama",
+                "tangkal",
+                "pasar tradisional"
+            ]
+        },
+        "question_concepts": "buah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d07f149d8d953dcc45dda432194c375e",
+        "question": "Budi keur senang-senang, teu nganyerikeun batur. Naon anu anjeunna tiasa laksanakeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ngalukis wayang",
+                "ma\u00e9n marbles",
+                "ngawangun imah tina kardus",
+                "istirahat sabab geus cap\u00e9",
+                "ma\u00e9n langlayangan"
+            ]
+        },
+        "question_concepts": "keur senang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "ef6ede0af827ddd1dc7bbeb36a6fdd22",
+        "question": "Dimana anjeun tiasa mendakan antara 1000 sareng 10000 r\u00e9storan di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota ged\u00e9",
+                "kota leutik",
+                "kampung",
+                "Jakarta",
+                "kaca kon\u00e9ng"
+            ]
+        },
+        "question_concepts": "r\u00e9storan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "81e016974d33fe383c848b6c819791cd",
+        "question": "Pikeun badan naon pamar\u00e9ntah kedah dianggo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "nagara",
+                "d\u00e9mokrasi",
+                "Indon\u00e9sia",
+                "peradaban",
+                "kantor pajeg"
+            ]
+        },
+        "question_concepts": "pamar\u00e9ntah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "2f97a77d155cb99092e8a7c055737b03_1",
+        "question": "Di nagara mana aya jumlah pangbadagna r\u00e9storan dahareun gancang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "wewengkon klaster",
+                "Puseur dayeuh",
+                "Indon\u00e9sia",
+                "kota ged\u00e9"
+            ]
+        },
+        "question_concepts": "r\u00e9storan dahareun gancang",
+        "answer_creator": "D"
+    },
+    {
+        "id": "af11faa29097b71141fe192ad019d1dd",
+        "question": "Christine moal mungkin gaduh orok dina umurna, saur anjeunna sorangan. Naon Christine?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kolot",
+                "ngamimitian ngobrol",
+                "dewasa",
+                "lalaki heubeul",
+                "budak aw\u00e9w\u00e9"
+            ]
+        },
+        "question_concepts": "orok",
+        "answer_creator": "A"
+    },
+    {
+        "id": "07fd8b0aed06406fedb137d11b07a890",
+        "question": "Budi maenkeun alat perkusi wae. Dimana anjeunna tiasa ma\u00e9nkeun \u00e9ta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "imahna sorangan",
+                "toko musik",
+                "marching band",
+                "orkestra",
+                "pihak"
+            ]
+        },
+        "question_concepts": "alat musik perkusi",
+        "answer_creator": "D"
+    },
+    {
+        "id": "38e61d4be0da46b3cbbd76dc20bce677",
+        "question": "Rani cicing di stasion kar\u00e9ta api. Anjeunna longed ningali tempat-tempat jauh. Dimana anjeunna ngabayangkeun bade?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "wewengkon puseur dayeuh",
+                "Puseur dayeuh Jakarta",
+                "kamarna",
+                "\u00c9ropa",
+                "Lain kota ged\u00e9 di Indon\u00e9sia"
+            ]
+        },
+        "question_concepts": "stasion kar\u00e9ta api",
+        "answer_creator": "D"
+    },
+    {
+        "id": "de0386024f32cdf277a785a851b97544",
+        "question": "Dimana tangkal ficus tiasa tumbuh sa\u00e9 di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pondok di leuweung",
+                "Bali",
+                "pakarangan hareup imah",
+                "rumah kaca",
+                "leuweung tropis"
+            ]
+        },
+        "question_concepts": "ficus",
+        "answer_creator": "C"
+    },
+    {
+        "id": "8b25332de2894ab38784235838d38cec",
+        "question": "Mun Presiden rek ngaharamkeun oray, di mana eta SK bakal ngaluarkeun SK?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jalan-jalan",
+                "leuweung tropis",
+                "taman paradise",
+                "M\u00e9ksiko Anyar",
+                "karaton bebas"
+            ]
+        },
+        "question_concepts": "oray",
+        "answer_creator": "E"
+    },
+    {
+        "id": "6abd34442438509b4a00c69d6fd24764",
+        "question": "Dimana anjeun mendakan kecap 'komodo' dina hurup K?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "padang rumput hejo",
+                "pantai",
+                "kamus",
+                "Pulo Komodo",
+                "\u00e9nsiklop\u00e9dia"
+            ]
+        },
+        "question_concepts": "komodo",
+        "answer_creator": "C"
+    },
+    {
+        "id": "aa4c5d2d348796b8d7fa324f27f4c34f",
+        "question": "Dimana anjeun bakal nyimpen sarung bantal anu henteu dianggo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "cabinets dapur",
+                "toko parabot keur sare",
+                "Inggris",
+                "laci",
+                "pangkeng"
+            ]
+        },
+        "question_concepts": "sarung bantal",
+        "answer_creator": "D"
+    },
+    {
+        "id": "7400e9c4a2c8e600a0f7e2d162a07837",
+        "question": "Lamun anak ucing bakal tumuwuh nepi ka jadi moro beurit kawas indungna, dimana eta kudu m\u00e9akkeun lolobana waktu na?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "panyumputan",
+                "lantai",
+                "tempat haneut",
+                "imah patani",
+                "kamar diuk"
+            ]
+        },
+        "question_concepts": "anak ucing",
+        "answer_creator": "D"
+    },
+    {
+        "id": "c0e4d0118c9cdfe2edc49ef954572b31",
+        "question": "Andi resep pisan ka oray piaraanna. Ieu hiji-hijina hal anjeunna dipikacinta. Anjeunna henteu resep nongkrong sareng jalma san\u00e9s sareng sering kasar, tapi anjeunna resep pisan ka oray piaraan. Kumaha anjeun tiasa ngajelaskeun oray?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "cahaya panonpoe sorangan",
+                "leuweung tropis",
+                "piaraan",
+                "kasar",
+                "seukeut"
+            ]
+        },
+        "question_concepts": "oray",
+        "answer_creator": "C"
+    },
+    {
+        "id": "9382bc51ba092f55a494eff8615899de",
+        "question": "Kuring metik tina tangkal durian di luar kota Medan, dimana kuring?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "leuweung",
+                "Jakarta",
+                "Sumatera Utara",
+                "Bali",
+                "Surabaya"
+            ]
+        },
+        "question_concepts": "tangkal durian",
+        "answer_creator": "C"
+    },
+    {
+        "id": "a328285c6212c899e335c45db3c49ffd",
+        "question": "Rudi manggihan pilem heubeul di guha anu disegel dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pulo Komodo",
+                "Taman Mini Indonesia Indah",
+                "Abdi jatijajar",
+                "lomari pusaka",
+                "bioskop"
+            ]
+        },
+        "question_concepts": "pilem",
+        "answer_creator": "C"
+    },
+    {
+        "id": "7fe53bf68ec57a52a508611acf5b279e",
+        "question": "Barudak di Indonesia sering ngageuingkeun kolotna. Sebutkeun hiji hal nu matak h\u00e9s\u00e9 ngurus budak.",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "datang mimiti",
+                "diajar leumpang",
+                "lalaki atanapi aw\u00e9w\u00e9",
+                "mawa kabagjaan",
+                "ngomong omong kosong"
+            ]
+        },
+        "question_concepts": "ngurus orok",
+        "answer_creator": "E"
+    },
+    {
+        "id": "96ea2c3174229c4a6a0e2ffaed2df378",
+        "question": "Dimana anjeun tiasa janten upami anjeun m\u00e9s\u00e9r daging babi di toko grosir?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "pasar",
+                "gurun",
+                "Bali",
+                "Yogyakarta"
+            ]
+        },
+        "question_concepts": "toko sembako",
+        "answer_creator": "B"
+    },
+    {
+        "id": "3eb397b96b6c3a245c81ab30205943f1",
+        "question": "Rudi keur anteng nari jeung nyanyi jeung babaturanana. Anjeunna henteu paduli kana hal-hal anu teu pikaresepeun. Pikeun man\u00e9hna, ngabogaan fun sarua jeung naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tatu",
+                "seuri",
+                "bagja",
+                "pikagumbiraeun",
+                "luncat"
+            ]
+        },
+        "question_concepts": "keur senang",
+        "answer_creator": "C"
+    },
+    {
+        "id": "26d7d59ef7b9f2e0c2d47419fa5bca91",
+        "question": "Dimana anjeun tiasa ningali sawah h\u00e9jo nalika nyetir?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa",
+                "padang rumput hejo",
+                "lahan tatan\u00e9n",
+                "padesaan",
+                "wewengkon d\u00e9sa"
+            ]
+        },
+        "question_concepts": "sawah",
+        "answer_creator": "D"
+    },
+    {
+        "id": "3fdc0c422c524c994b9911a17f1f1834",
+        "question": "A showroom mintonkeun mesin cuci jeung kulkas, dimana showroom ieu lokasina?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko \u00e9l\u00e9ktronik",
+                "Jakarta",
+                "toko parabotan imah",
+                "dealer mobil",
+                "dapur"
+            ]
+        },
+        "question_concepts": "showroom",
+        "answer_creator": "C"
+    },
+    {
+        "id": "cc8eac9956f645533b8d7b99702e3507",
+        "question": "Jalma nu mindeng nyieun komentar lucu, misalna y\u00e9n unggal r\u00e9storan t\u00e9h r\u00e9storan Indon\u00e9sia.",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota",
+                "Jakarta",
+                "Bali",
+                "Spanyol",
+                "Indon\u00e9sia"
+            ]
+        },
+        "question_concepts": "R\u00e9storan Indon\u00e9sia",
+        "answer_creator": "E"
+    },
+    {
+        "id": "316a8dee8a4dde7d95cf503a715104be",
+        "question": "Rina ngarasa gugupay dina dadana. Anjeunna hariwang tapi henteu hoyong angkat ka rumah sakit. Dimana anjeunna tiasa angkat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "kons\u00e9r musik",
+                "pangkeng",
+                "toko antik",
+                "lalaki"
+            ]
+        },
+        "question_concepts": "dada",
+        "answer_creator": "C"
+    },
+    {
+        "id": "4d67cdb4ba1b0058e383c212303a9f4e",
+        "question": "Kapuloan di Indon\u00e9sia dimana anjeun tiasa mendakan Komodo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa",
+                "Sumatra",
+                "komodo",
+                "Bali",
+                "Sulawesi"
+            ]
+        },
+        "question_concepts": "Komodo",
+        "answer_creator": "C"
+    },
+    {
+        "id": "3df1b88da6a90c9526be2c8a6cc736dc",
+        "question": "Budi ningali aya anjing lumpat ka arah anjeunna, teras anjeunna nyobian ngajauhan. Anjeunna luncat ka tempat anu teu tiasa dihontal ku anjing sareng mac\u00e9t. Dimana saur anjeun anjeunna nyangkut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kalam",
+                "m\u00e9ja",
+                "tarasi",
+                "pakarangan tukang",
+                "taman"
+            ]
+        },
+        "question_concepts": "anjing",
+        "answer_creator": "B"
+    },
+    {
+        "id": "f912bcd7479b76db9b1c57a612b90f00",
+        "question": "Ahmad jeung Nita geus kolot. Aranjeunna gaduh dua murangkalih anu sa\u00e9 anu henteu salawasna kalakuanana. Sanajan kitu, aranjeunna lemah lembut. Naon anu aranjeunna ngarasa \u00e9ta tugas kolot?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ngadalikeun barudak",
+                "nungtun barudak",
+                "nyarita bebas",
+                "ceurik",
+                "ngarti barudak"
+            ]
+        },
+        "question_concepts": "kolot",
+        "answer_creator": "B"
+    },
+    {
+        "id": "94f34cc1e6aa9eefe06563cce8225658",
+        "question": "Naon anu anjeun bad\u00e9 ma\u00e9n upami anjeun ma\u00e9n biola?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "musik keroncong",
+                "nyieun musik",
+                "lungsur",
+                "instrumen string",
+                "masalah"
+            ]
+        },
+        "question_concepts": "ma\u00e9n biola",
+        "answer_creator": "A"
+    },
+    {
+        "id": "a7e3de0719fe30e7048f67426e29fdd1",
+        "question": "Budi ny\u00e9\u00e9pkeun anteneu tina parahuna kusabab teu resep sinyal nalika meuntas selat ti Indon\u00e9sia. Dimana anjeunna angkat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "walungan",
+                "televisi",
+                "Singapur",
+                "Malaysia",
+                "Australia"
+            ]
+        },
+        "question_concepts": "selat",
+        "answer_creator": "C"
+    },
+    {
+        "id": "bdf92566f14599f1606109677206001f",
+        "question": "Bu Sari nyokot pamupus ti Budi sabab keur ulin di kelas. Anjeunna hoyong mastikeun y\u00e9n Budi henteu tiasa nyandak deui, teras disimpen dimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "laci meja guru",
+                "laci dapur",
+                "kelas",
+                "saku",
+                "kantor sakola"
+            ]
+        },
+        "question_concepts": "pamupus",
+        "answer_creator": "A"
+    },
+    {
+        "id": "042898e0c71adac5d123aaa6221c9754",
+        "question": "Dimana aya kamungkinan euweuh r\u00e9storan halal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "wewengkon Muslim",
+                "r\u00e9storan jero",
+                "Bali",
+                "r\u00e9storan"
+            ]
+        },
+        "question_concepts": "r\u00e9storan halal",
+        "answer_creator": "D"
+    },
+    {
+        "id": "93bbaccb1c46d22124a846b8514de5bc",
+        "question": "Elang botak hiber ti Gunung Bromo ka Selat Sunda jeung meuntas naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Timur",
+                "Yogyakarta",
+                "Nusantara",
+                "Sumatera Barat",
+                "gurun"
+            ]
+        },
+        "question_concepts": "garuda botak",
+        "answer_creator": "A"
+    },
+    {
+        "id": "87505da761eaa5c3c4703d02a12d46bc",
+        "question": "Kecap naon anu ditambahkeun ka Jakarta anu nuduhkeun propinsi di mana ayana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Indon\u00e9sia",
+                "Jawa",
+                "Jawa Barat",
+                "DKI Jakarta",
+                "nawaran"
+            ]
+        },
+        "question_concepts": "Jakarta",
+        "answer_creator": "D"
+    },
+    {
+        "id": "ef3d5d35128678937c36438466e0fc93",
+        "question": "Program terus ngalaman kasalahan, pamak\u00e9 biasa di Indon\u00e9sia mimiti ngarasa naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ambek",
+                "nyusun",
+                "manggihan jeung ngabenerkeun kasalahan",
+                "nulis kode",
+                "hanjelu"
+            ]
+        },
+        "question_concepts": "program",
+        "answer_creator": "E"
+    },
+    {
+        "id": "515834727e23e30ab7c8fe5ba7e9a765",
+        "question": "Andi meuli rant\u00e9 anyar keur motorna, terus disimpen di tempat nu bisa manggihan. Dimana nyimpenna Andi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "handapeun ranjang",
+                "garasi",
+                "dapur",
+                "perhiasan",
+                "wangunan toko"
+            ]
+        },
+        "question_concepts": "rant\u00e9",
+        "answer_creator": "B"
+    },
+    {
+        "id": "061f326d2a87a10da6316b55bd5522bd",
+        "question": "Ahmad meuli selang cai anyar. Sanajan kitu, anjeunna manggihan selang heubeul na deukeut mobil na. Dimana anjeunna manggihan selang heubeul?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gudang taman",
+                "wangunan toko",
+                "rumah kaca",
+                "garasi",
+                "dina van"
+            ]
+        },
+        "question_concepts": "selang cai",
+        "answer_creator": "D"
+    },
+    {
+        "id": "1bf4c6b5bd870b1a079106e1e97e5d09",
+        "question": "Jalan raya oray ngaliwatan sawah jeung leuweung, dimana lokasina?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pindah ka ditu ka dieu",
+                "kota",
+                "padesaan",
+                "kabupat\u00e9n",
+                "Kota Jakarta"
+            ]
+        },
+        "question_concepts": "Jalan raya",
+        "answer_creator": "C"
+    },
+    {
+        "id": "c1c73ef0ff662a76cd42c3500240974a",
+        "question": "Upami abdi hoyong m\u00e9s\u00e9r korsi puff anyar, dimana abdi kedah angkat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko mebel",
+                "salon",
+                "Turki",
+                "kamar diuk",
+                "kamar kulawarga"
+            ]
+        },
+        "question_concepts": "korsi puff",
+        "answer_creator": "A"
+    },
+    {
+        "id": "aefa60233f3c5c4966f8ac22e901a1c7",
+        "question": "Budi t\u00e9h balik ti pagaw\u00e9an jeung nyokot jalan anu nuju ka wewengkon mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "wewengkon perumahan",
+                "kota",
+                "nasib",
+                "padesaan",
+                "peta"
+            ]
+        },
+        "question_concepts": "jalan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "2634468d21fa33a88cefe28a5d613f59",
+        "question": "Panumpang parahu ngajelaskeun kasieunana ku lauk buntal, tapi kapt\u00e9n mikir y\u00e9n anjeunna nyarioskeun piranha sabab aya di walungan naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kuba",
+                "Walungan Styx",
+                "Samudra Atlantik",
+                "Perancis",
+                "leuweung"
+            ]
+        },
+        "question_concepts": "lauk buntal",
+        "answer_creator": "E"
+    },
+    {
+        "id": "66bfb6e209c94e6be5b0d04b0c7e2064",
+        "question": "Dimana anjeun biasana manggihan ngan sababaraha kantor?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gedung pencakar langit",
+                "Jakarta",
+                "wangunan sakola",
+                "kota",
+                "tempat gaw\u00e9"
+            ]
+        },
+        "question_concepts": "kantor",
+        "answer_creator": "C"
+    },
+    {
+        "id": "fd5a34e94303d7fd343de2a8f36943d5",
+        "question": "Saatos naek gunung, ngajajah manggihan guha, naon g\u00e9ografi umum wewengkon mana anjeunna manggihan eta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Papua",
+                "Jawa Barat",
+                "gurun",
+                "laut",
+                "bukit batu"
+            ]
+        },
+        "question_concepts": "guha",
+        "answer_creator": "E"
+    },
+    {
+        "id": "a5db1e9677af118deb8e4add8bc18db2",
+        "question": "Provinsi mana nu kaasup kana golongan Pulo Sunda Leutik?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Barat",
+                "Sumatera Utara",
+                "Nusa Tenggara Barat",
+                "Kalimantan Timur",
+                "Sulawesi Kidul"
+            ]
+        },
+        "question_concepts": "Kapuloan Sunda Leutik",
+        "answer_creator": "C"
+    },
+    {
+        "id": "a5ca7c89196e54938b5827814d0071d4",
+        "question": "Budi ningali langlayangan ngalayang di langit. Anjeunna nuturkeun string langlayangan ka asal na kapanggih eta. Dimana tali dimimitian?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tungtung benang",
+                "toko hobi",
+                "leungeunna sorangan",
+                "toko kaulinan",
+                "leungeun barudak"
+            ]
+        },
+        "question_concepts": "langlayangan",
+        "answer_creator": "E"
+    },
+    {
+        "id": "9190efbd77fe10b989fcaae35e208a0f",
+        "question": "Dimana lokasina stadion baseball panganyarna di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "Surabaya",
+                "Papua",
+                "Bandung",
+                "wewengkon urban"
+            ]
+        },
+        "question_concepts": "stadion baseball",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d35112a99ab3983fb51c3adae80bc2da",
+        "question": "Anjeunna nganggo payung nalika berjemur, dimana anjeunna tiasa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ombak",
+                "Bali",
+                "koper",
+                "pantai",
+                "jaket lomari"
+            ]
+        },
+        "question_concepts": "payung",
+        "answer_creator": "D"
+    },
+    {
+        "id": "a0f5414bf98e094f4d807abee28861a4",
+        "question": "Dimana di Indon\u00e9sia anjeun bakal manggihan anemone laut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kebon kembang",
+                "kolam renang pasang",
+                "Kapuloan Raja Ampat",
+                "laut karang",
+                "akuarium"
+            ]
+        },
+        "question_concepts": "anemone laut",
+        "answer_creator": "C"
+    },
+    {
+        "id": "a5e207803684eea8a43ca6670c50b354",
+        "question": "Sanaos panonpoe parantos na\u00e9k, naon anu diingetkeun ku jalma anu pesimis bakal kajadian di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ngagol\u00e9r",
+                "dilelepkeun",
+                "ragrag",
+                "handapeun",
+                "sor\u00e9"
+            ]
+        },
+        "question_concepts": "na\u00e9k",
+        "answer_creator": "B"
+    },
+    {
+        "id": "37d88a9bb24913c1973cc26d4ce3394f",
+        "question": "Pama\u00e9n geus siap pikeun ngamimitian pintonan sarta ngal\u00e9ngkah ka panggung peluncuran, naon tugas na?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bung Karno surge di Jakarta",
+                "pintonan wayang gol\u00e9k",
+                "kapal perang RI",
+                "Samudra Hindia",
+                "pintonan sirkus"
+            ]
+        },
+        "question_concepts": "tahap peluncuran",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d60c5a494539c66982c0f692afde9499",
+        "question": "Naon anu anjeun bakal dianggo pikeun milarian tempat cicing di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "peta Indon\u00e9sia",
+                "buku telepon",
+                "kota",
+                "aplikasi pilarian hot\u00e9l",
+                "kompas"
+            ]
+        },
+        "question_concepts": "tempat cicing",
+        "answer_creator": "D"
+    },
+    {
+        "id": "5bba03b425f5abc6e017f194cf074b06",
+        "question": "Loba imah di nagara ieu diwangun sabudeureun hiji palataran muka. Dimana \u00e9ta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "calon",
+                "Spanyol",
+                "jukut",
+                "Indon\u00e9sia",
+                "komplek kantor"
+            ]
+        },
+        "question_concepts": "pakarangan muka",
+        "answer_creator": "D"
+    },
+    {
+        "id": "78276a4eab6e8d6b9ae3749211816977",
+        "question": "Budi jadi uing. Anjeunna resep pisan ngawangun imah, tapi dina kaayaan ayeuna, anjeunna henteu tiasa ngalakukeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "nangtung",
+                "ngahasilkeun",
+                "ngawangun",
+                "nyieun",
+                "ngadegkeun"
+            ]
+        },
+        "question_concepts": "uing",
+        "answer_creator": "C"
+    },
+    {
+        "id": "60b909ad1d7956218a5d99954fdebecd",
+        "question": "Budi manggihan lancah tempat neundeun parabotna. Dimana \u00e9ta tempat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lomari",
+                "kotak pakakas",
+                "papak\u00e9an",
+                "garasi",
+                "kotak surat"
+            ]
+        },
+        "question_concepts": "Lancah",
+        "answer_creator": "D"
+    },
+    {
+        "id": "9fdebd1c2cf498f1d726a025b780a39a",
+        "question": "Nalika naek kapal kipas, anjeunna panginten bakal ningali rawa sareng buaya, tapi anjeunna kaget ningali garuda jawa di da\u00e9rah alam naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Taman Nasional Ujung Kulon",
+                "pagunungan",
+                "habitat alam",
+                "Jakarta",
+                "Bali"
+            ]
+        },
+        "question_concepts": "garuda jawa",
+        "answer_creator": "A"
+    },
+    {
+        "id": "26c8a7165d0ed7250b9328f90d83ba83",
+        "question": "Naha jalma anu maot nampi bayaran Jaminan Sosial Ketenagakerjaan (Jamsostek) di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "recovery kas\u00e9hatan",
+                "kalahiran deui",
+                "henteu deui",
+                "teu tiasa dianggo",
+                "parobahan warna"
+            ]
+        },
+        "question_concepts": "maot",
+        "answer_creator": "D"
+    },
+    {
+        "id": "732183ead4206e51ed4df18b9c9f14fe",
+        "question": "Naon anu biasana dilakukeun ku barudak di Indon\u00e9sia nalika usum hujan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ma\u00e9n bal",
+                "ma\u00e9n langlayangan",
+                "berjemur",
+                "ninun",
+                "ngojay"
+            ]
+        },
+        "question_concepts": "usum hujan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "bd780fea2d4dd262583446e64c0f314d",
+        "question": "Budi didinya nepungan loba jalma. Nalika anjeunna meuntas aula lawang, man\u00e9hna nempo loba urang asing datang ti jauh. Gedong naon anjeunna sigana di?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "imah pribadi",
+                "kotak",
+                "puseur konv\u00e9nsi",
+                "wangunan pamar\u00e9ntah",
+                "wangunan badag"
+            ]
+        },
+        "question_concepts": "aula lawang",
+        "answer_creator": "C"
+    },
+    {
+        "id": "99e0b2ddf88ebed98b977043b7c2331b",
+        "question": "Ahmad r\u00e9k ngaburak-barik lebu pamajikanana di hiji situ di alam liar. Anjeunna kedah ditunda kusabab dimana anjeunna cicing. Dimana anjeunna cicing?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pagunungan",
+                "mayit",
+                "mayar hutang",
+                "Taman Nasional",
+                "Jakarta"
+            ]
+        },
+        "question_concepts": "situ",
+        "answer_creator": "E"
+    },
+    {
+        "id": "5b8a3081c3235d62bc77e2d15f3ad454",
+        "question": "Kota anu aya di antara dua gunung perenahna di naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lebak",
+                "rumah sakit",
+                "Propinsi",
+                "stasiun kar\u00e9ta",
+                "Jawa"
+            ]
+        },
+        "question_concepts": "kota",
+        "answer_creator": "A"
+    },
+    {
+        "id": "e43c4eaa04243ddee30f29171718eb92",
+        "question": "Budi peryogi jamban nalika di Jakarta, tapi teu aya jamban umum. Tungtungna, anjeunna ngalakukeun hal anu mahal pisan pikeun tiasa nganggo jamban. Saur anjeun dimana anjeunna angkat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kamar hot\u00e9l",
+                "susun",
+                "kamar mandi",
+                "puseur kaulinan",
+                "imah"
+            ]
+        },
+        "question_concepts": "jamban",
+        "answer_creator": "A"
+    },
+    {
+        "id": "ce246bc94a54431b9c0530e71d2456b5",
+        "question": "Imahna rame-rame, manehna mimiti ngerjakeun pagawean rumah tangga meunang naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kabosenan",
+                "imah nyaman",
+                "Jawa",
+                "rasa sugema",
+                "imah beresih"
+            ]
+        },
+        "question_concepts": "ngalakukeun pagawean rumah tangga",
+        "answer_creator": "E"
+    },
+    {
+        "id": "2eef2d255fe629414f4d24ade8590102",
+        "question": "Dimana layon biasana ditutupan ku lawon batik?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko batik",
+                "pangkeng",
+                "rumah sakit",
+                "kebon kembang",
+                "Jawa"
+            ]
+        },
+        "question_concepts": "lawon batik",
+        "answer_creator": "C"
+    },
+    {
+        "id": "bea07406aaadeef50110883b6932d86a",
+        "question": "Naon bagian tina r\u00e9publik kawas Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Propinsi",
+                "demokratis",
+                "karajaan",
+                "d\u00e9mokrasi",
+                "diktator"
+            ]
+        },
+        "question_concepts": "r\u00e9publik",
+        "answer_creator": "A"
+    },
+    {
+        "id": "76b2c6d254f9127b4fd66d90e1a330e7",
+        "question": "Naon anu tiasa dilakukeun ku tangkal apel?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Barat",
+                "kembangan",
+                "Bali",
+                "cahaya panonpoe",
+                "spontan ngaduruk"
+            ]
+        },
+        "question_concepts": "tangkal apel",
+        "answer_creator": "B"
+    },
+    {
+        "id": "cdd3d074031fbd3efeb4f9408abef04e",
+        "question": "Di wewengkon wetan anu kacida tiisna di Indon\u00e9sia, dimana bisa kapanggih keuyeup?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pasar lauk",
+                "cai deet",
+                "laut Pasifik",
+                "cai tawar",
+                "basisir"
+            ]
+        },
+        "question_concepts": "keuyeup",
+        "answer_creator": "C"
+    },
+    {
+        "id": "3f4b48708d08f8bf7bec796531023f9c",
+        "question": "Budi nuju maca koran pas nuju damel naek KRL Commuter Line, tapi dugi ka tempat anu dituju, koranna digulung sareng disimpen dimana. Dimana anjeunna nempatkeun \u00e9ta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tong runtah",
+                "lantai",
+                "Jalur komuter KRL",
+                "darat",
+                "taman"
+            ]
+        },
+        "question_concepts": "koran",
+        "answer_creator": "A"
+    },
+    {
+        "id": "37644422df4bcd28b3f54bbf3fc2c0f8",
+        "question": "Aranjeunna kedah terang dimana angkat, aranjeunna angkat ka jalan raya nasional saatos konsultasi naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "peta Indon\u00e9sia",
+                "atlas",
+                "pituduh perjalanan",
+                "kota badag",
+                "buku pituduh"
+            ]
+        },
+        "question_concepts": "jalan tol nasional",
+        "answer_creator": "A"
+    },
+    {
+        "id": "6915dfdefe3b1cd5fd8886c8bb84929a",
+        "question": "Siti ngantri di kantor pos. Antrian t\u00e9h lambat pisan. Naon anu anjeunna karasaeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hanjelu",
+                "telat",
+                "kaganggu",
+                "maju kahareup",
+                "kamajuan"
+            ]
+        },
+        "question_concepts": "ngantri di kantor pos",
+        "answer_creator": "A"
+    },
+    {
+        "id": "5efadabaf61b5174916e3ab659bcd283",
+        "question": "Denny manggihan y\u00e9n karp\u00e9t teu cocog jeung curtains, nu disappoints anjeunna, sabab tempat ieu mahal. Nanging, ieu mangrupikeun hiji-hijina tempat di kota anu henteu pinuh salami saminggu sareng anjeunna peryogina nalika anjeunna di kota, janten anjeunna henteu tiasa ngawadul. Dimana anjeun pikir tempat ieu bisa lokasina?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "panti pijat",
+                "r\u00e9storan",
+                "wangunan",
+                "boling gang",
+                "di hot\u00e9l"
+            ]
+        },
+        "question_concepts": "karp\u00e9t",
+        "answer_creator": "E"
+    },
+    {
+        "id": "0bed77da54b6c54facd0ee6614aad72e",
+        "question": "Budi mutuskeun pikeun leungit beurat. Anjeunna nyangka y\u00e9n olahraga mangrupikeun cara anu pangsa\u00e9na pikeun ngirangan beurat sabab anjeunna henteu tiasa leungit naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kabutuhan dahareun",
+                "kabugaran",
+                "kesang",
+                "tuangeun gancang saji",
+                "haus"
+            ]
+        },
+        "question_concepts": "olahraga",
+        "answer_creator": "A"
+    },
+    {
+        "id": "bc05bc6b4df7a3d25a361515fe8912ad",
+        "question": "Provinsi mana di Indon\u00e9sia anu dipikawanoh ku lobana rawa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kalimantan Tengah",
+                "Jawa Barat",
+                "Sulawesi Kidul",
+                "Papua",
+                "Sumatera Kidul"
+            ]
+        },
+        "question_concepts": "rawa",
+        "answer_creator": "E"
+    },
+    {
+        "id": "0a006d16d9042e0c170935e5fbf7f9af",
+        "question": "Budi handapeun balon hawa panas. Anjeunna ningali balon na\u00e9k. Dimana anjeunna pilari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ka lant\u00e9 luhur",
+                "kana rohangan",
+                "diagonal",
+                "hulu",
+                "ka luhur"
+            ]
+        },
+        "question_concepts": "handapeun",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d33a81660058e570a18fb2eafa284a78",
+        "question": "Ahmad jeung Rudi resep ma\u00e9n bal. Kumaha ieu ngajadikeun aranjeunna ngarasa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ngarasa bagja",
+                "Pangajaran",
+                "tatu",
+                "dibeuleum",
+                "jadi lapar"
+            ]
+        },
+        "question_concepts": "Ma\u00e9n bal",
+        "answer_creator": "A"
+    },
+    {
+        "id": "5e851c47682bdf79ec7c139ecf124c9a",
+        "question": "Ucing Dito ngambeu hal anu ngeunah terus luncat ka dinya, matak panik jeung hariwang kana kasalametan ucing. Dimana ucing geus luncat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rendang",
+                "pangkeng",
+                "gelombang mikro",
+                "kamar diuk",
+                "lantai"
+            ]
+        },
+        "question_concepts": "ucing",
+        "answer_creator": "C"
+    },
+    {
+        "id": "db1eb157671109bbb9113b0f71a6b957",
+        "question": "Rudi hayang wortel teu kudu kamana-mana. Ti mana man\u00e9hna meunangkeun \u00e9ta?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kulkas",
+                "toko",
+                "pasar tani",
+                "supermark\u00e9t",
+                "pengering"
+            ]
+        },
+        "question_concepts": "wortel",
+        "answer_creator": "A"
+    },
+    {
+        "id": "5d809e0ee19badc66071653630ea7c51",
+        "question": "Saurang teknisi mariksa rotor Helikopter MI-35P Angkatan Darat Indon\u00e9sia, nu teu digerakkeun ku mesin durukan internal, tapi ku naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mesin jet",
+                "helikopter",
+                "motor listrik",
+                "rotator",
+                "sirkuit listrik"
+            ]
+        },
+        "question_concepts": "rotor",
+        "answer_creator": "A"
+    },
+    {
+        "id": "30d0c2006613eec41ae814d76c17a798",
+        "question": "Kamar naon anu kamungkinan gaduh sideboard di luhur loket?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "imah",
+                "tempat pikeun ngalayanan dahareun prasmanan",
+                "rohangan tuang",
+                "kamar diuk",
+                "dapur"
+            ]
+        },
+        "question_concepts": "sideboard",
+        "answer_creator": "C"
+    },
+    {
+        "id": "e40fd2c17fe2cde4bd4af540d35fd518",
+        "question": "Upami anjeun gaduh kondo di kota Indon\u00e9sia anu kasohor ku kopi, dimana anjeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota",
+                "sirkuit listrik",
+                "wewengkon padumukan",
+                "suburbs",
+                "Bandung"
+            ]
+        },
+        "question_concepts": "kondo",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d0c67c7ae6f2361fe237110455127866",
+        "question": "Di wewengkon mana di kota Indon\u00e9sia anjeun bakal manggihan r\u00e9storan Jepang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "Kyoto",
+                "Puseur dayeuh",
+                "Wakanda",
+                "kota ged\u00e9"
+            ]
+        },
+        "question_concepts": "r\u00e9storan Jepang",
+        "answer_creator": "C"
+    },
+    {
+        "id": "c7526b682e64f355384631b35cd78fc9",
+        "question": "Budi murag tina bangku bar. Ieu kajantenan kusabab anjeunna langkung seueur naon tibatan sateuacanna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "dapur",
+                "mabok",
+                "kios sisi jalan",
+                "r\u00e9storan",
+                "pondok"
+            ]
+        },
+        "question_concepts": "bar stool",
+        "answer_creator": "B"
+    },
+    {
+        "id": "7b7941b883328ad39048d4dfb1eb5623",
+        "question": "Siti nganggap y\u00e9n tanding Pencak Silat t\u00e9h teu matak bahaya. Lamun man\u00e9hna geus diusahakeun harder, naon bisa jadi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tekanan",
+                "cobian deui",
+                "nyorong sorangan harder",
+                "nyieun musuh",
+                "tatu serius atawa maot"
+            ]
+        },
+        "question_concepts": "bersaing dina Pencak Silat",
+        "answer_creator": "E"
+    },
+    {
+        "id": "008b7ba0c039f6d0d542c6c90aae173c",
+        "question": "Budi keur diuk di bilik wc di kamar mandi, di luar kad\u00e9ng\u00e9 sora mobil nu baralik. Naon fungsi tina tempat dimana anjeunna paling dipikaresep?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "dahar kadaharan",
+                "tempat umum",
+                "sirkuit balap",
+                "di hot\u00e9l",
+                "wangunan umum"
+            ]
+        },
+        "question_concepts": "kamar mandi",
+        "answer_creator": "C"
+    },
+    {
+        "id": "eee9476bf29498b7d74b043afe316fc6",
+        "question": "Dimana apel ngabentuk dina tangkal apel?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Barat",
+                "cahaya panonpoe",
+                "Kalimantan",
+                "kembang",
+                "gagang"
+            ]
+        },
+        "question_concepts": "tangkal apel",
+        "answer_creator": "D"
+    },
+    {
+        "id": "8b2af2d865b7dc500427786c846eacaf",
+        "question": "Salila moro na di leuweung hujan tropis, anjeunna bisa ngad\u00e9ng\u00e9 unggal gerakan sabudeureun anjeunna, naon ieu disababkeun ku?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kalembaban hawa",
+                "tiiseun",
+                "katenangan alam",
+                "d\u00e9nsitas vegetasi",
+                "tiiseun"
+            ]
+        },
+        "question_concepts": "gerakan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "eaf6838d29bcd4ebf408da2f75aa65c3",
+        "question": "Ahmad nya\u00e9ta astronot Indon\u00e9sia. Nalika anjeunna ningali Indonesia ti luar angkasa, kumaha rupana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rupa-rupa",
+                "buleud",
+                "sagi opat",
+                "hejo",
+                "pajeulit"
+            ]
+        },
+        "question_concepts": "Indon\u00e9sia",
+        "answer_creator": "B"
+    },
+    {
+        "id": "f50209f04d11690d7c8f30e29b35ff02",
+        "question": "Dimana anjeun tiasa mendakan r\u00e9storan halal sareng sababaraha tempat tuang san\u00e9s di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jakarta",
+                "puseur balanja",
+                "Bali",
+                "masarakat Muslim",
+                "lingkungan Muslim"
+            ]
+        },
+        "question_concepts": "r\u00e9storan halal",
+        "answer_creator": "B"
+    },
+    {
+        "id": "23df3bac9cfcb156f4cfd8a05f21c5e2",
+        "question": "Budi resep pisan surfing di pantai Bali, tapi anjeunna henteu sa\u00e9. Naon anu anjeunna salawasna ngalakukeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "murag tina papan selancar",
+                "ngarasakeun diri",
+                "ngamimitian gelut",
+                "jibrug",
+                "tilelep"
+            ]
+        },
+        "question_concepts": "surfing",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d21777d771dc6fd08e769d378651817e",
+        "question": "Sarah masihan adi lanceukna konci imahna. Nalika anjeunna angkat, adina ngagunakeun konci pikeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "panto hareup",
+                "muka konci",
+                "solusi pikeun masalah",
+                "masang",
+                "mukakeun panto"
+            ]
+        },
+        "question_concepts": "konci",
+        "answer_creator": "E"
+    },
+    {
+        "id": "611a4cc0e288b8a11afa923f48cb2ab4",
+        "question": "Iraha jaman prasejarah di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jaman karajaan Hindu-Budha",
+                "jaman karajaan Islam",
+                "jaman kolonial Walanda",
+                "jaman prasejarah",
+                "jaman kamerd\u00e9kaan"
+            ]
+        },
+        "question_concepts": "jaman prasejarah",
+        "answer_creator": "D"
+    },
+    {
+        "id": "b9121c3228f961c5ad68958c702cd94b",
+        "question": "Budi nangtung dina jukut dikurilingan ku tatangkalan jeung alam, dimana Budi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tempat istirahat",
+                "gurun",
+                "Taman Nasional",
+                "widang pam\u00e9ran",
+                "kaulinan ma\u00e9n bal"
+            ]
+        },
+        "question_concepts": "jukut",
+        "answer_creator": "C"
+    },
+    {
+        "id": "4015ab002ff8c233d1c7ef26f5156b88",
+        "question": "Budi ngadaptarkeun kudana dina sayembara. Dimana anjeunna ngalakukeun ieu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sirkus",
+                "di Jawa",
+                "pilem koboy",
+                "Taman Monas",
+                "Jakarta Fair"
+            ]
+        },
+        "question_concepts": "kuda",
+        "answer_creator": "E"
+    },
+    {
+        "id": "0197ade3bb26d163ab2e284c960c626f",
+        "question": "Dimana asalna kristal salju?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "awan",
+                "badai salju",
+                "ombak",
+                "hawa",
+                "badai salju"
+            ]
+        },
+        "question_concepts": "kristal salju",
+        "answer_creator": "A"
+    },
+    {
+        "id": "f427f9de6bf580314531baf86de8acbc",
+        "question": "Jenis buah naon anu gampang ngabagi kana sababaraha bagian?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "apel",
+                "oranyeu",
+                "cau",
+                "durian",
+                "kalapa"
+            ]
+        },
+        "question_concepts": "bagian",
+        "answer_creator": "B"
+    },
+    {
+        "id": "c872c08a95dd28a16479b76f240a4ad5",
+        "question": "Budi resep nyupiran mobil. Anjeunna sa\u00e9 dina \u00e9ta. Tapi, man\u00e9hna jadi gelisah saprak bapana ngalaman naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kacilakaan",
+                "polusi",
+                "setr\u00e9s",
+                "maot",
+                "indit wae"
+            ]
+        },
+        "question_concepts": "nyetir mobil",
+        "answer_creator": "D"
+    },
+    {
+        "id": "0a2195ae8d4706abc5721578c9991466",
+        "question": "Dimana anjeun tiasa k\u00e9ngingkeun angklung upami anjeun henteu gaduh?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pintonan wayang gol\u00e9k",
+                "toko musik",
+                "meuli alat musik",
+                "nyieun alat musik",
+                "ork\u00e9stra gamelan"
+            ]
+        },
+        "question_concepts": "angklung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "506c2dbfe7b00a82bfdf0507a8de88fb",
+        "question": "Saha anu henteu kasohor gaduh jalan tol anu henteu aya wates laju?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jerman",
+                "Indon\u00e9sia",
+                "nagara maju",
+                "kota",
+                "Am\u00e9rika"
+            ]
+        },
+        "question_concepts": "Jalan tol",
+        "answer_creator": "B"
+    },
+    {
+        "id": "43fb083962f825ae651d88648bbd2f74",
+        "question": "Di wewengkon mana loba lahan tatan\u00e9n di Indon\u00e9sia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jawa Tengah",
+                "Sumatera Utara",
+                "Jawa Barat",
+                "Bali",
+                "Sulawesi Kidul"
+            ]
+        },
+        "question_concepts": "lahan tatan\u00e9n",
+        "answer_creator": "C"
+    },
+    {
+        "id": "edd1634d911614590c6b8ca730df95fe",
+        "question": "Dimana prajurit silat mindeng digambarkeun salaku pahlawan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Jaman karajaan",
+                "papan catur",
+                "carita barudak",
+                "dong\u00e9ng",
+                "karaton"
+            ]
+        },
+        "question_concepts": "pejuang silat",
+        "answer_creator": "D"
+    },
+    {
+        "id": "9a544e9f4847c41a15fdf47ae7b98d8a",
+        "question": "Budi mawa tas olah raga lantaran teu boga kandaraan sorangan butuh tas keur ngagotong barang naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perpustakaan",
+                "angkutan umum",
+                "terminal beus",
+                "barak milit\u00e9r",
+                "kamar ganti baju"
+            ]
+        },
+        "question_concepts": "tas olahraga",
+        "answer_creator": "B"
+    },
+    {
+        "id": "3884d82524f2337ce53ce64776293cf7",
+        "question": "Andi mutuskeun y\u00e9n bersaing mangrupikeun pilihan anu pas. Henteu bersaing ngagaduhan hasil anu tangtu, tapi upami anjeunna bersaing, naon anu bakal kajadian?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "meureun meunang",
+                "ma\u00e9n had\u00e9",
+                "ngalawan",
+                "winners na losers",
+                "leungit"
+            ]
+        },
+        "question_concepts": "bersaing",
+        "answer_creator": "A"
+    },
+    {
+        "id": "1ddd239a2a6438a891cb411b82e7f450",
+        "question": "Siti ngarasa bosen lantaran teu resep kana program-program anu teu kualitasna alus dina naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "m\u00e9ja",
+                "garasi",
+                "rak",
+                "ranjang",
+                "televisi"
+            ]
+        },
+        "question_concepts": "acara teu kualitas alus",
+        "answer_creator": "E"
+    },
+    {
+        "id": "5ff6ce8ad88459272ffe23d33db4970a",
+        "question": "Ahmad ngarasa aya oray ngageleser bari keur istirahat. Sieun ngangkat simbut sabab sieun ngageterkeun oray. Dimana anjeunna tiasa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko piaraan",
+                "leuweung di Kalimantan",
+                "basement",
+                "pangkeng",
+                "ngimpi"
+            ]
+        },
+        "question_concepts": "oray",
+        "answer_creator": "D"
+    },
+    {
+        "id": "8f2976690c83be6b8fa3a1196dfd9722",
+        "question": "Andi resep nginget-nginget masa lalu, sabab \u00e9ta ngabantuan anjeunna ngartos. Sareng ngartos masa lalu ngabantosan anjeunna dina ngalakukeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "nelepon",
+                "nostalgia",
+                "nulis",
+                "aktip",
+                "nyiapkeun"
+            ]
+        },
+        "question_concepts": "dina m\u00e9mori tina",
+        "answer_creator": "E"
+    },
+    {
+        "id": "570be8c1edb8c638603dc5c8cae421cc",
+        "question": "Andi nit\u00e9nan manuk-manuk nu nyaranggakeun mak\u00e9 teropongna waktu keur libur. Dimana meureun Andi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "langit",
+                "libur",
+                "leuweung",
+                "padesaan",
+                "hateup"
+            ]
+        },
+        "question_concepts": "manuk",
+        "answer_creator": "C"
+    },
+    {
+        "id": "ace8fa2943ba8414aebdb74b48906fae",
+        "question": "Batik mangrupikeun lawon tradisional Indon\u00e9sia, merek naon anu kedah dipilarian nalika m\u00e9s\u00e9r?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Yogyakarta",
+                "Danar Hadi",
+                "toko lawon",
+                "toko pakean",
+                "alleira batik"
+            ]
+        },
+        "question_concepts": "batik",
+        "answer_creator": "B"
+    }
+]

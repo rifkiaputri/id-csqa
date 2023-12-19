@@ -1,0 +1,4204 @@
+[
+    {
+        "id": "1afa02df02c908a558b4036e80242fac",
+        "question": "Pintu putar sangat nyaman untuk perjalanan dua arah, tetapi juga berfungsi sebagai langkah keamanan di gedung apa di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bank",
+                "perpustakaan",
+                "toko serba ada",
+                "pusat perbelanjaan",
+                "jakarta"
+            ]
+        },
+        "question_concepts": "pintu putar",
+        "answer_creator": "A"
+    },
+    {
+        "id": "2435de612dd69f2012b9e40d6af4ce38",
+        "question": "Budi sedang mencari tempat yang baik untuk membeli lahan pertanian. Di mana dia sebaiknya mencari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa tengah",
+                "pedesaan",
+                "perkebunan",
+                "area pertanian",
+                "sumatera"
+            ]
+        },
+        "question_concepts": "lahan pertanian",
+        "answer_creator": "B"
+    },
+    {
+        "id": "a4892551cb4beb279653ae52d0de4c89",
+        "question": "Di pulau mana di Indonesia musang pandan populer sebagai hewan peliharaan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa",
+                "sumatra",
+                "kalimantan",
+                "sulawesi",
+                "bali"
+            ]
+        },
+        "question_concepts": "musang pandan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "118a9093a30695622363455e4d911866",
+        "question": "Di negara Asia Tenggara manakah Anda bisa mendapatkan secangkir kopi yang enak?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "warung kopi jawa",
+                "indonesia",
+                "kedai kopi aceh",
+                "dapur rumah",
+                "kantin sekolah"
+            ]
+        },
+        "question_concepts": "secangkir kopi",
+        "answer_creator": "B"
+    },
+    {
+        "id": "fc1d33a2301a30214523c12573f81aba",
+        "question": "Anita menonton film tersebut karena dia menyukai apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bangunan",
+                "tawa",
+                "terhibur",
+                "ketakutan",
+                "kebosanan"
+            ]
+        },
+        "question_concepts": "menonton film",
+        "answer_creator": "C"
+    },
+    {
+        "id": "8d3dc21a53523850ec80771daaa5ff20",
+        "question": "Budi ingin menemukan peta bawah tanah kuno dari tahun 50-an. Di mana dia mungkin mencarinya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perpustakaan",
+                "stasiun kereta api",
+                "kantor insinyur daerah",
+                "supermarket",
+                "rumah"
+            ]
+        },
+        "question_concepts": "peta bawah tanah",
+        "answer_creator": "A"
+    },
+    {
+        "id": "ba640b9634ad6b4ad98b17b4f152e562",
+        "question": "Kadal bernama Budi tinggal di tempat yang hangat dengan banyak air. Di manakah dia kemungkinan besar tinggal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "batu karang",
+                "hutan hujan tropis",
+                "klub jazz",
+                "pulau bali",
+                "tempat berbatu"
+            ]
+        },
+        "question_concepts": "kadal",
+        "answer_creator": "B"
+    },
+    {
+        "id": "6e433471d0e2590b8c73ceef275022b1",
+        "question": "Ahmad tahu bahwa dia seharusnya tidak membelikan bir untuk orang di bawah umur. Dia bahkan tidak dibayar untuk itu. Mengapa ini buruk?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kehilangan uang",
+                "menyenangkan",
+                "tidak memiliki uang",
+                "melanggar hukum",
+                "relaksasi"
+            ]
+        },
+        "question_concepts": "membelikan bir",
+        "answer_creator": "D"
+    },
+    {
+        "id": "91f512273a2da7ae796919069b20d6cf",
+        "question": "Karena Andi adalah pemain biola utama, ia harus membawa sesuatu yang penting ke tempat kerja setiap hari. Apa yang perlu ia bawa ke tempat kerja?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko musik",
+                "kegemukan",
+                "orkestra simfoni",
+                "orkestra",
+                "kotak biola"
+            ]
+        },
+        "question_concepts": "pemain biola utama",
+        "answer_creator": "E"
+    },
+    {
+        "id": "950af0b765c298960ce3dada66df8db1",
+        "question": "Jalan bebas hambatan itu tidak ada lalu lintas dan sedikit bangunan, di mana itu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "pedesaan",
+                "kota besar",
+                "bali",
+                "indonesia"
+            ]
+        },
+        "question_concepts": "jalan bebas hambatan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "49e466b1782aa4837dae53ff891fcdee",
+        "question": "Jika Anda berada di sebuah bar di provinsi yang dikenal dengan pulau dewata, Anda berada di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "di sakuku",
+                "di jawa",
+                "di bali",
+                "di rumah makan",
+                "di pub"
+            ]
+        },
+        "question_concepts": "bar",
+        "answer_creator": "C"
+    },
+    {
+        "id": "c1c7a9efa379b8a7024a71cf364a144c",
+        "question": "Ratna menggunakan papan klip untuk menahan kertas-kertasnya saat ia membacakan nama-nama di awal hari. Di mana ia mungkin bekerja?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "meja",
+                "windows 95",
+                "toko alat tulis kantor",
+                "melihat pekerjaan",
+                "sekolah"
+            ]
+        },
+        "question_concepts": "papan klip",
+        "answer_creator": "E"
+    },
+    {
+        "id": "dd11fea36d89aa09f9a6069545ba4c9c",
+        "question": "Apa yang tidak benar tentang bola basket jika terdapat lubang di dalamnya tetapi tidak kehilangan bentuk umumnya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "berlubang",
+                "populer di indonesia",
+                "penuh dengan udara",
+                "hilang",
+                "bundar"
+            ]
+        },
+        "question_concepts": "bola basket",
+        "answer_creator": "C"
+    },
+    {
+        "id": "ea8664e77205224154f8519f922220e1",
+        "question": "Joko merasa bahwa tindakannya adalah takdir. Budi berkata bahwa dia selalu bisa membuat pilihan yang berbeda apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kehendak bebas",
+                "pilihan",
+                "kemauan",
+                "alkohol",
+                "kebebasan"
+            ]
+        },
+        "question_concepts": "takdir",
+        "answer_creator": "B"
+    },
+    {
+        "id": "60e92cd2f35c345872d1a898e1718d55",
+        "question": "Andi tidak memiliki mobil, tetapi dia masih memiliki kedua kakinya. Kaos kakinya bau dan telapak kakinya melepuh, tetapi itu tidak masalah. Dia masih bisa melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mengendarai sepeda motor",
+                "berjalan",
+                "diam saja",
+                "bau",
+                "tangan"
+            ]
+        },
+        "question_concepts": "kaki",
+        "answer_creator": "B"
+    },
+    {
+        "id": "db0cfd52ca6b2bbfcf26d1a898fd929b",
+        "question": "Jumat adalah ulang tahun pernikahan ke-5 Ahmad. Mereka berencana tidur lebih awal agar bisa menghabiskan waktu lama untuk melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "beristirahat",
+                "insomnia",
+                "membuat cinta",
+                "tidur kesiangan",
+                "mengirim pesan"
+            ]
+        },
+        "question_concepts": "tidur lebih awal",
+        "answer_creator": "C"
+    },
+    {
+        "id": "716ce4404a84b42dd64e561390c4b53b",
+        "question": "Seorang anggota Polisi Kehutanan turun di sebuah stasiun kereta bawah tanah. Di kota mana dia mungkin berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "area perkotaan",
+                "metropolis",
+                "jakarta",
+                "surabaya",
+                "bandung"
+            ]
+        },
+        "question_concepts": "stasiun kereta bawah tanah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "49902e768c45aa41a0f9f95be81114e5",
+        "question": "Setelah perjalanan panjang dari ladang, dia menginap di hotel ketika tiba di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rumah kedua",
+                "bunker zaman perang",
+                "resor",
+                "bali",
+                "kota"
+            ]
+        },
+        "question_concepts": "hotel",
+        "answer_creator": "E"
+    },
+    {
+        "id": "320ec9b68fdefe13d59cc8b628083790",
+        "question": "Bagaimana cara Anda menyeberangi salah satu saluran irigasi di Bali?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "subak",
+                "jakarta",
+                "borobudur",
+                "jembatan",
+                "perahu tradisional"
+            ]
+        },
+        "question_concepts": "saluran irigasi",
+        "answer_creator": "D"
+    },
+    {
+        "id": "e3949997bf9d02048cfa5d8dd0f287aa",
+        "question": "Restoran seafood sering digunakan untuk menarik wisatawan di mana di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bali",
+                "toko sepatu",
+                "kota",
+                "jakarta",
+                "kota-kota pesisir"
+            ]
+        },
+        "question_concepts": "restoran seafood",
+        "answer_creator": "E"
+    },
+    {
+        "id": "a7d51b753c2113d8b2dbd0ebb5375855",
+        "question": "Keponakan Budi bertanya kepadanya tentang kakeknya. Dia tertarik untuk belajar tentang apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pohon keluarga",
+                "reuni keluarga",
+                "penitipan anak",
+                "rumah saudara laki-laki",
+                "barang pusaka"
+            ]
+        },
+        "question_concepts": "keponakan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "3e4b326aff96e9adbb52ba18cfa877b2",
+        "question": "Ahmad menoleh ke atas dan melihat bintang-bintang berkelip di langit malam yang gelap. Dia takjub dengan jumlah yang sangat banyak dan besarnya apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "alam semesta",
+                "orbit",
+                "langit malam",
+                "angkasa luar",
+                "dompetnya"
+            ]
+        },
+        "question_concepts": "bintang",
+        "answer_creator": "A"
+    },
+    {
+        "id": "80697d599280d994d8a584c95824ef1f",
+        "question": "Di mana papan catur yang tidak terpakai mungkin disimpan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko mainan",
+                "jawa",
+                "ruang tamu",
+                "loteng",
+                "lemari"
+            ]
+        },
+        "question_concepts": "papan catur",
+        "answer_creator": "E"
+    },
+    {
+        "id": "ae038e9af9d5a511ada7456b5e73b15e",
+        "question": "Apa yang bisa memainkan angklung?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pemain gamelan",
+                "kelompok musik tradisional",
+                "toko musik",
+                "kucing",
+                "simfoni"
+            ]
+        },
+        "question_concepts": "angklung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "11d7db1d8e1cff2f40d4184f15cf7ae7",
+        "question": "Joko dan Budi adalah orang yang tidak bijaksana. Mereka membeli dua tiket untuk pertandingan Persija vs Arema meskipun keduanya tidak ingin menonton apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "warung internet",
+                "acara olahraga",
+                "menekan tombol yang salah",
+                "kegemukan",
+                "pertandingan hoki"
+            ]
+        },
+        "question_concepts": "tidak bijaksana",
+        "answer_creator": "B"
+    },
+    {
+        "id": "7ec11eeca4221795c117943ca2639e86",
+        "question": "Anemon laut berwarna-warni di Indonesia sering kali mirip dengan objek apa yang biasa ditemukan di pekarangan rumah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "zona pasang surut",
+                "laut karang",
+                "di bawah air",
+                "taman bunga",
+                "kepulauan raja ampat"
+            ]
+        },
+        "question_concepts": "anemon laut",
+        "answer_creator": "D"
+    },
+    {
+        "id": "30e66db11e0257a14a17108b90cd69fb",
+        "question": "Budi menguji arus listrik dan memperhatikan bahwa arus tersebut tinggi. Dia berpikir bahwa kabel mungkin memiliki terlalu banyak apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kapasitas",
+                "panjang",
+                "voltase",
+                "resistansi",
+                "konduktivitas"
+            ]
+        },
+        "question_concepts": "arus listrik",
+        "answer_creator": "D"
+    },
+    {
+        "id": "e476e2c8c278eaecfe1a8b884b6aeb8e",
+        "question": "Ali adalah orang asing. Meskipun begitu, Budi memperlakukannya seperti apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "teman",
+                "keluarga",
+                "orang yang dikenal",
+                "taman",
+                "orang luar"
+            ]
+        },
+        "question_concepts": "orang asing",
+        "answer_creator": "B"
+    },
+    {
+        "id": "191e3c676f05a11d6b2565d8c27d2001",
+        "question": "Satu-satunya sumber cahaya yang dimiliki Andi adalah sebuah lampu kecil. Ada empat dinding, jika ada pintu dia tidak bisa melihatnya. Di mana Andi berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ruangan tertutup",
+                "langit",
+                "gelap",
+                "kuburannya",
+                "rumah"
+            ]
+        },
+        "question_concepts": "sumber cahaya",
+        "answer_creator": "A"
+    },
+    {
+        "id": "99098375c7b651d524eebac72e358238",
+        "question": "Budi menganggap sistem peradilan pidana seperti sebuah program komputer. Ini harus berfungsi dengan benar. Apa ide yang mungkin tidak disukai oleh Budi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "manual",
+                "mengolah informasi",
+                "mematikan daya",
+                "model kontrol",
+                "alasan ada"
+            ]
+        },
+        "question_concepts": "program komputer",
+        "answer_creator": "D"
+    },
+    {
+        "id": "fa031cff8e11e75c68d6a99ef0e5ca3a",
+        "question": "Bagaimana seseorang bisa masuk ke dalam rumah tradisional Betawi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kampung",
+                "ketuk",
+                "perkampungan",
+                "genteng",
+                "jakarta"
+            ]
+        },
+        "question_concepts": "rumah tradisional Betawi",
+        "answer_creator": "B"
+    },
+    {
+        "id": "1ac54dbf6b67f27daa3d456416047584",
+        "question": "Di mana seseorang dapat menemukan ular dalam kandang di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hutan tropis",
+                "pulau jawa",
+                "hutan",
+                "toko hewan peliharaan",
+                "pulau sumatra"
+            ]
+        },
+        "question_concepts": "ular",
+        "answer_creator": "D"
+    },
+    {
+        "id": "a018d65a74b9e77d81014fd8f6d78f77",
+        "question": "Andi menaruh daging di atas timbangan, di mana Andi bekerja?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko musik",
+                "kantor pajak",
+                "pantai dengan ombak besar",
+                "toko daging",
+                "kamar mandi"
+            ]
+        },
+        "question_concepts": "timbangan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "900492bd731f8f615ed7c08155737d44",
+        "question": "Sebelum pelari memulai lomba lari, mereka harus melakukan apa di garis start?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "belajar berjalan",
+                "berjalan",
+                "berjalan pelan",
+                "bernafas",
+                "berdiri diam"
+            ]
+        },
+        "question_concepts": "lomba lari",
+        "answer_creator": "E"
+    },
+    {
+        "id": "fb35c7aa5694bab2cde4b7257bfae003",
+        "question": "Apa jenis status yang diberikan kepada Garuda Pancasila?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "luar negeri",
+                "dunia",
+                "perlindungan",
+                "bali",
+                "indonesia"
+            ]
+        },
+        "question_concepts": "Garuda Pancasila",
+        "answer_creator": "C"
+    },
+    {
+        "id": "895aa97bb84d874d71b2aed572cebfdd",
+        "question": "Di mana Anda dapat menemukan monyet liar di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kebun binatang",
+                "hutan",
+                "laboratorium penelitian",
+                "penangkaran",
+                "bali"
+            ]
+        },
+        "question_concepts": "monyet",
+        "answer_creator": "B"
+    },
+    {
+        "id": "b33047f46db680a9b630c13e8ca115cc",
+        "question": "Budi sedang duduk dengan tenang di sofa dengan sebuah buku di tangannya. Siti mengira bahwa dia hanya fokus pada apa yang sedang dilakukannya, tetapi sebenarnya dia sedang melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "makan",
+                "berpikir",
+                "membaca",
+                "meditasi",
+                "tertidur"
+            ]
+        },
+        "question_concepts": "duduk dengan tenang",
+        "answer_creator": "E"
+    },
+    {
+        "id": "e3426e4f60c142aa3d813479f79d6305",
+        "question": "Ke mana Anda biasanya pergi sebelum mengunjungi bar di malam hari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "bali",
+                "restoran",
+                "klub malam",
+                "taman kota"
+            ]
+        },
+        "question_concepts": "bar",
+        "answer_creator": "C"
+    },
+    {
+        "id": "9310c39a0752f28640c3a05cba1d5ca7",
+        "question": "Apa nama tempat sampah di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kotoran",
+                "angkutan bawah tanah",
+                "taman nasional",
+                "wadah",
+                "tempat sampah"
+            ]
+        },
+        "question_concepts": "tempat sampah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "fee5f4e9d8e37f0183e36eb9b8dbcbb9",
+        "question": "Jika Ani ingin membuat sate kambing khas Indonesia, bahan utama apa yang harus dia siapkan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "daging kambing",
+                "nasi putih",
+                "tempe",
+                "daging sapi",
+                "daging ayam"
+            ]
+        },
+        "question_concepts": "sate kambing",
+        "answer_creator": "A"
+    },
+    {
+        "id": "bf10bfda7328c8671e15adf8546b64d7",
+        "question": "Ahmad mendapatkan pengembalian pajaknya. Dia memperlakukannya seolah-olah itu adalah apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "permen",
+                "kematian dan",
+                "uang gratis",
+                "diskon",
+                "kredit"
+            ]
+        },
+        "question_concepts": "pajak",
+        "answer_creator": "C"
+    },
+    {
+        "id": "f2645d0ee8662b6553954cee7e77979e",
+        "question": "Rudi dan Dani sedang bermain bola basket. Mereka melakukannya setiap hari di lapangan belakang rumah mereka. Mengapa mereka bermain bola basket?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "belajar",
+                "bersenang-senang",
+                "sakit",
+                "bersorak",
+                "cedera lutut"
+            ]
+        },
+        "question_concepts": "bermain bola basket",
+        "answer_creator": "B"
+    },
+    {
+        "id": "095767956c500ca1af7cf7671556de5b",
+        "question": "Fakta bahwa Ahmad mampu menghafal daftar nama pahlawan nasional Indonesia meskipun dalam keadaan yang tampak seperti apa, membuktikan bahwa bagian otaknya adalah apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "terjaga",
+                "mengulang",
+                "tidur",
+                "konsentrasi",
+                "membaca dengan suara keras"
+            ]
+        },
+        "question_concepts": "menghafal",
+        "answer_creator": "A"
+    },
+    {
+        "id": "abcf1b550b4d44f46d4f68b8e1d98ec8",
+        "question": "Setelah pasang surut, di mana di pesisir pantai Indonesia Anda dapat mencari anemon laut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pemeliharaan ikan",
+                "museum",
+                "teluk jakarta",
+                "kolam pasang surut",
+                "zona intertidal"
+            ]
+        },
+        "question_concepts": "anemon laut",
+        "answer_creator": "D"
+    },
+    {
+        "id": "0542414710025f56b0c26e1bae5c4d06",
+        "question": "Bagaimana seseorang yang menghindari sayuran hijau dapat memperoleh mineral?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "multivitamin",
+                "pertanian",
+                "jawa",
+                "bumi",
+                "bijih"
+            ]
+        },
+        "question_concepts": "mineral",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d2871dc28c82471e5d7f71f79e49c257",
+        "question": "Budi membenci menggunakan toilet orang lain. Dia hanya merasa nyaman di miliknya sendiri. Jadi, kapanpun dia perlu buang air besar, dia akan kembali ke rumahnya yang mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kamar mandi",
+                "kamar hotel",
+                "toilet umum terdekat",
+                "rumah",
+                "apartemen"
+            ]
+        },
+        "question_concepts": "toilet",
+        "answer_creator": "D"
+    },
+    {
+        "id": "21fb76bd8349628b441c76f47c33e77b",
+        "question": "Di mana seseorang kemungkinan besar menemukan rumah tradisional Betawi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "perumahan",
+                "cincin",
+                "yogyakarta",
+                "tinggal di"
+            ]
+        },
+        "question_concepts": "rumah Betawi",
+        "answer_creator": "A"
+    },
+    {
+        "id": "adf228312401c9ff421a4da1b46bb70a",
+        "question": "Di mana Anda dapat menemukan kantor pemerintahan serta banyak politisi di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "setiap kota",
+                "gedung perkantoran",
+                "kebun binatang",
+                "pemerintah prancis",
+                "jakarta"
+            ]
+        },
+        "question_concepts": "kantor pemerintahan",
+        "answer_creator": "E"
+    },
+    {
+        "id": "57c85e4c7ea2501ef9d8f304b524e2e4",
+        "question": "Bapak ingin menyembunyikan cek di kantornya, di mana beliau meletakkannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mesin kasir",
+                "laci meja",
+                "aquarium ikan",
+                "bank",
+                "amplop gaji"
+            ]
+        },
+        "question_concepts": "cek",
+        "answer_creator": "B"
+    },
+    {
+        "id": "66458bf8599c3ef1e7b50fa527531882",
+        "question": "Ahmad Yani adalah tokoh penting bagi pemerintah Indonesia, jadi di kota mana dia kemungkinan besar menghabiskan banyak waktu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "semua tempat",
+                "gedung parlemen",
+                "tempat wisata",
+                "singapura",
+                "jakarta"
+            ]
+        },
+        "question_concepts": "pemerintahan",
+        "answer_creator": "E"
+    },
+    {
+        "id": "879239b8a788f3c9e3dfdd0862f3d7c5",
+        "question": "Ada lebih dari satu pengemis yang meminta uang receh atau tiket, ini adalah cara termurah untuk bepergian jadi tidak mengherankan jika mereka terlihat di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "stasiun kereta",
+                "pantai",
+                "terminal bus",
+                "jembatan",
+                "pengemis kaki lima"
+            ]
+        },
+        "question_concepts": "pengemis",
+        "answer_creator": "C"
+    },
+    {
+        "id": "8a69e6df5e8ad6c9e6828aa66c59d046",
+        "question": "Andi dan Dedi suka bermain sepak bola, tetapi Dedi terkena bola dan terjatuh. Apa yang mungkin terjadi pada Dedi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kemarahan",
+                "gurauan yang baik hati",
+                "kesenangan",
+                "cedera",
+                "kegembiraan"
+            ]
+        },
+        "question_concepts": "bermain sepak bola",
+        "answer_creator": "D"
+    },
+    {
+        "id": "d6bb990e8c409d2b3af37a2da198e01f",
+        "question": "Ahmad Rifai menulis sebuah buku yang bersifat otobiografi. Buku apa yang mungkin menjadi topik buku tersebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perjuangan kemerdekaan indonesia",
+                "meja kopi",
+                "pendidikan di indonesia",
+                "buruh kepulauan",
+                "meja samping tempat tidur"
+            ]
+        },
+        "question_concepts": "buku",
+        "answer_creator": "A"
+    },
+    {
+        "id": "c5ad166ab5c5f5f067aa02b20f482523",
+        "question": "Dari semua cabang olahraga, Andi sangat menyukai sepak bola, tetapi apa pendapat ibunya yang khawatir tentang olahraga tersebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sangat menghibur",
+                "menyenangkan",
+                "lambat",
+                "kompetitif",
+                "keras"
+            ]
+        },
+        "question_concepts": "olahraga",
+        "answer_creator": "E"
+    },
+    {
+        "id": "ceafca2445b1b974d085a8cce38e8e44",
+        "question": "Kota mana di Indonesia yang kemungkinan memiliki banyak gedung parkir?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "kota besar",
+                "gedung besar di kota",
+                "lingkungan",
+                "kampus universitas"
+            ]
+        },
+        "question_concepts": "gedung parkir",
+        "answer_creator": "A"
+    },
+    {
+        "id": "2ef2ae21a2d3a9ecbd5c45ff378d10e3",
+        "question": "Siti khawatir akan bahaya dan selalu memeriksa dua kali apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "melawan musuh",
+                "pengamanan",
+                "berada dalam keamanan",
+                "keselamatan",
+                "sekitar"
+            ]
+        },
+        "question_concepts": "bahaya",
+        "answer_creator": "D"
+    },
+    {
+        "id": "793672da43fbc609e8c5760630c7e239",
+        "question": "Apa habitat dari rubah Jawa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kandang ayam",
+                "liang",
+                "jawa barat",
+                "jawa tengah",
+                "pegunungan"
+            ]
+        },
+        "question_concepts": "rubah Jawa",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d867f76d000bdb59b9b4cb982bd7f0a0",
+        "question": "Budi terlempar dari perahunya ke dalam air. Airnya dingin karena itu adalah tengah musim hujan dan dia berteriak minta tolong kepada krunya. Mereka tidak bisa mendengarnya karena suara apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "permukaan bumi",
+                "tetesan air mata",
+                "butir hujan",
+                "angin topan",
+                "motor perahu"
+            ]
+        },
+        "question_concepts": "air",
+        "answer_creator": "D"
+    },
+    {
+        "id": "5215e26c99b2a9b376fb1c70096a388a",
+        "question": "Mereka melewati pohon mangga dalam perjalanan ke sirkuit balap, mereka akan menonton spektakel balap motor terbesar di dunia di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "sentul",
+                "di televisi",
+                "taman",
+                "bali"
+            ]
+        },
+        "question_concepts": "pohon mangga",
+        "answer_creator": "B"
+    },
+    {
+        "id": "720b98fbc365736597147c984f6bd301",
+        "question": "Pasien kanker tersebut mengharapkan akan meninggal, jadi dia membuat apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tidak ingin hidup",
+                "membuat wasiat",
+                "tidak pernah mau",
+                "mencari bantuan",
+                "pergi ke neraka"
+            ]
+        },
+        "question_concepts": "meninggal",
+        "answer_creator": "B"
+    },
+    {
+        "id": "c611875b43b67b91030b889b267bbcb3",
+        "question": "Ada jalan tol yang membentang dari Jakarta ke Bandung, di mana itu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa barat",
+                "jawa tengah",
+                "rumah saya",
+                "jawa timur",
+                "banten"
+            ]
+        },
+        "question_concepts": "jalan tol",
+        "answer_creator": "A"
+    },
+    {
+        "id": "0bf4d64ad0eee7224acb3a4eb85accb2",
+        "question": "Apa yang terjadi pada es batu ketika terkena sinar matahari di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "dipahat",
+                "mencair",
+                "es krim",
+                "antartika",
+                "dibentuk"
+            ]
+        },
+        "question_concepts": "es batu",
+        "answer_creator": "B"
+    },
+    {
+        "id": "5279a2ea333ba8a5bf3a7637a7279da1",
+        "question": "Joko membeli bir di Indonesia. Tidak ada botol yang tersedia. Dia harus memilih apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rak",
+                "pertandingan sepak bola",
+                "tong",
+                "kaleng",
+                "kulkas"
+            ]
+        },
+        "question_concepts": "bir",
+        "answer_creator": "D"
+    },
+    {
+        "id": "42c46e28baf0fc617a07419286178c0a",
+        "question": "Anda dapat menemukan monyet di wilayah Indonesia bagian mana yang terkenal dengan hutan hujannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "negara amerika selatan",
+                "hutan hujan kalimantan",
+                "membayar hutang",
+                "pekerjaan",
+                "pantai kuta di bali"
+            ]
+        },
+        "question_concepts": "monyet",
+        "answer_creator": "B"
+    },
+    {
+        "id": "d910859b9d1acae40456dbeaa8334bc0",
+        "question": "Dalam bermain sepak bola, Andi bertabrakan dengan pemain lain, dan ini bukan kali pertama terjadi. Dia khawatir tentang konsekuensi dari banyak apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kegembiraan",
+                "interaksi",
+                "cedera kepala",
+                "kematian",
+                "bersenang-senang"
+            ]
+        },
+        "question_concepts": "bermain sepak bola",
+        "answer_creator": "C"
+    },
+    {
+        "id": "27f2074270ea8a5e8f5ec2a017ec4a50",
+        "question": "Budi adalah seorang petani dengan hanya satu ekor sapi perah. Tapi itu tidak masalah, dia hanya memeliharanya untuk susu, dan dia tidak berpikir dia akan menemukan lahan pertanian yang baik di tempat se-dingin apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bali",
+                "halaman pertanian",
+                "jawa",
+                "ladang jerman",
+                "peternakan susu"
+            ]
+        },
+        "question_concepts": "sapi perah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "0843c51212a3c2eee660fab5648c9e19",
+        "question": "Ponselnya mati dan mereka tidak bisa menemukan jalan tol, dia membuka kompartemen sarung tangan dan memberikan apa kepada penumpangnya untuk navigasi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "peta jawa",
+                "peta bali",
+                "peta",
+                "kompas",
+                "peta kota jakarta"
+            ]
+        },
+        "question_concepts": "jalan tol",
+        "answer_creator": "C"
+    },
+    {
+        "id": "cab9eea2a91b1bd5c0a01b11f594f154",
+        "question": "Di mana Anda kemungkinan menemukan restoran Jepang yang tidak dikelola oleh orang Jepang di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bali",
+                "jakarta pusat",
+                "kota besar",
+                "tokyo",
+                "glodok"
+            ]
+        },
+        "question_concepts": "restoran Jepang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "5a50ea4bb2d13dc4f620ebd45025d445",
+        "question": "Budi tidak bisa kembali tidur karena mimpi yang dia alami. Itu adalah mimpi jenis apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "terjaga",
+                "horor",
+                "pekerja mimpi",
+                "kenyataan",
+                "mimpi buruk"
+            ]
+        },
+        "question_concepts": "mimpi",
+        "answer_creator": "E"
+    },
+    {
+        "id": "f8544c9679d27b747dfad3b8d7aac87a",
+        "question": "Jika saya ingin membuka rumah steak, apa yang harus saya dapatkan terlebih dahulu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bali",
+                "jakarta",
+                "anggur",
+                "sapi wagyu",
+                "bangunan"
+            ]
+        },
+        "question_concepts": "rumah steak",
+        "answer_creator": "E"
+    },
+    {
+        "id": "5cac4da628f0a58db980649079bd5784",
+        "question": "Di fasilitas apa Budi membudidayakan anemon laut di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "laut jawa",
+                "kolam renang",
+                "samudra hindia",
+                "perikanan",
+                "teluk jakarta"
+            ]
+        },
+        "question_concepts": "anemon laut",
+        "answer_creator": "D"
+    },
+    {
+        "id": "f7140f00ddd8d1c5d93b05ea32ad1fff",
+        "question": "Banyak orang ingin meninggalkan rumah besar di pedesaan mereka untuk pindah ke rumah deret, apa yang mereka butuhkan untuk pindah ke sana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hidup lebih hemat",
+                "inggris",
+                "penjara",
+                "kota",
+                "kabupaten"
+            ]
+        },
+        "question_concepts": "rumah deret",
+        "answer_creator": "D"
+    },
+    {
+        "id": "ad8ee2965a33ff4b0e3d2ac732676594",
+        "question": "Sementara Budi dan Joko tidak bertemu dengan komodo, Anda harus pergi ke mana untuk melihat satu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "belahan bumi timur",
+                "kota",
+                "padang sabana",
+                "program televisi",
+                "taman nasional komodo"
+            ]
+        },
+        "question_concepts": "komodo",
+        "answer_creator": "E"
+    },
+    {
+        "id": "6c70d98cfb8e97fda8caefcee761a229",
+        "question": "Zainal tidak suka menjawab pertanyaan. Dia tidak pandai dalam hal itu karena dia menderita apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "panik",
+                "diskusi",
+                "perhatian",
+                "kebingungan",
+                "kepuasan"
+            ]
+        },
+        "question_concepts": "menjawab pertanyaan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "cc917ca0e03c91a5141920f5a902a36c",
+        "question": "Jika sekarang waktu Natal, apa yang paling baru-baru ini terjadi sebelumnya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "halloween",
+                "musim panas",
+                "paskah",
+                "hari kemerdekaan indonesia",
+                "lebaran"
+            ]
+        },
+        "question_concepts": "Natal",
+        "answer_creator": "E"
+    },
+    {
+        "id": "8bdbb8caefcc607a9ec7579aa0c87cba",
+        "question": "Jika Ani bekerja untuk pemerintah sebagai anggota DPR, di mana dia menghabiskan banyak waktu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gedung dpr/mpr",
+                "semua tempat",
+                "jakarta",
+                "rusia",
+                "kanada"
+            ]
+        },
+        "question_concepts": "pemerintah",
+        "answer_creator": "A"
+    },
+    {
+        "id": "e145618c2062eb9ea8928fdb0d42185e",
+        "question": "Di mana saya tidak ingin melihat komodo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rumah ayam",
+                "taman nasional komodo",
+                "pegunungan",
+                "di luar jendela kamar",
+                "indonesia"
+            ]
+        },
+        "question_concepts": "komodo",
+        "answer_creator": "A"
+    },
+    {
+        "id": "3a3b5d4a517ef70d25eb558f1a622937",
+        "question": "Seorang pria patriotik dengan kamera sedang mencari Garuda Pancasila, apa yang kemungkinan akan dia lakukan dengan Garuda jika dia menemukannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota",
+                "kanada",
+                "minnesota",
+                "termal",
+                "memotret"
+            ]
+        },
+        "question_concepts": "Garuda Pancasila",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d6644eacdb543a60545d2eb1ac7e6dbd",
+        "question": "Menurut kitab apa pohon apel menyebabkan kejatuhan manusia pertama?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "alkitab",
+                "mahabharata",
+                "lontar bali",
+                "pantun melayu",
+                "hikayat hang tuah"
+            ]
+        },
+        "question_concepts": "pohon apel",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d1ad9b79f54205b6b9ac19a27f9c2be5",
+        "question": "Lingkungan tersebut memiliki rasa kebersamaan yang kuat, selalu ramai di pendaratan dari apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tangga apartemen",
+                "stadion",
+                "pantai",
+                "bandara",
+                "gedung perkantoran"
+            ]
+        },
+        "question_concepts": "pendaratan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "edbb57ac2f476679ae547f75ec2bef3e",
+        "question": "Budi melihat seekor luwak berlari di sepanjang pantai dan merasa senang berada di pantai timur. Di mana kira-kira dia berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bali",
+                "papua",
+                "sulawesi",
+                "jawa timur",
+                "pegunungan"
+            ]
+        },
+        "question_concepts": "luwak",
+        "answer_creator": "B"
+    },
+    {
+        "id": "91756d8e475d8d59fa0a4e35f408e366",
+        "question": "Ketika Anda melihat Gunung Semeru meletus, Anda berada di mana terkait dengan itu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "di puncak gunung",
+                "dekat",
+                "jatuh",
+                "di bawah",
+                "lebih rendah"
+            ]
+        },
+        "question_concepts": "letusan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "9808782b2e2e1bfbfa27c41e605bfffe",
+        "question": "Di mana seekor orangutan mungkin bermain di pasar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gurun",
+                "lubang",
+                "india",
+                "kandang",
+                "hutan hujan"
+            ]
+        },
+        "question_concepts": "orangutan",
+        "answer_creator": "E"
+    },
+    {
+        "id": "463521a93ae71e93bea8b97cdf7a6792",
+        "question": "Andi ingin membersihkan seluruh debu di rumahnya sebelum menetap untuk menonton acara favoritnya. Apa yang mungkin paling sulit untuk dibersihkan dari debu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lemari",
+                "di bawah tempat tidur",
+                "televisi",
+                "loteng",
+                "sebagian besar bangunan"
+            ]
+        },
+        "question_concepts": "debu",
+        "answer_creator": "D"
+    },
+    {
+        "id": "ad37795fd9e3a65553683ff305b5113d",
+        "question": "Provinsi mana di Indonesia yang memiliki ribuan kilometer garis pantai?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gambar pantai",
+                "kota pesisir",
+                "pantai",
+                "bali",
+                "foto sisi laut"
+            ]
+        },
+        "question_concepts": "garis pantai",
+        "answer_creator": "D"
+    },
+    {
+        "id": "72baf6ca5c4daa01c2cc7fda22183db8",
+        "question": "Di mana bisa terjadi pertarungan yang melibatkan kata-kata?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ruang sidang",
+                "medan perang",
+                "permainan video",
+                "parlemen",
+                "tempat ibadah"
+            ]
+        },
+        "question_concepts": "pertarungan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "e63a210053cf7f961ca0b5a7e6eb355d",
+        "question": "Bagian ujung dari senjata api primitif apa yang berbentuk seperti lonceng?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bedil",
+                "terompet",
+                "meriam",
+                "gendang",
+                "ceret"
+            ]
+        },
+        "question_concepts": "lonceng",
+        "answer_creator": "A"
+    },
+    {
+        "id": "fce1c5d069758aea57a787fc98dcf7a9",
+        "question": "Di mana tempat yang bagus untuk membeli buah segar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "kulkas",
+                "pengecer besar",
+                "pohon",
+                "pasar tradisional"
+            ]
+        },
+        "question_concepts": "buah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d07f149d8d953dcc45dda432194c375e",
+        "question": "Budi sedang bersenang-senang, dan dia tidak menyakiti siapa pun. Apa yang mungkin dia lakukan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "melukis wayang",
+                "bermain kelereng",
+                "membangun rumah-rumahan dari karton",
+                "istirahat karena lelah",
+                "bermain layang-layang"
+            ]
+        },
+        "question_concepts": "bersenang-senang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "ef6ede0af827ddd1dc7bbeb36a6fdd22",
+        "question": "Di mana Anda bisa menemukan antara 1000 dan 10000 restoran di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota besar",
+                "kota kecil",
+                "desa",
+                "jakarta",
+                "halaman kuning"
+            ]
+        },
+        "question_concepts": "restoran",
+        "answer_creator": "D"
+    },
+    {
+        "id": "81e016974d33fe383c848b6c819791cd",
+        "question": "Untuk entitas apa seharusnya pemerintah bekerja?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "negara",
+                "demokrasi",
+                "indonesia",
+                "peradaban",
+                "kantor pajak"
+            ]
+        },
+        "question_concepts": "pemerintah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "2f97a77d155cb99092e8a7c055737b03_1",
+        "question": "Di negara mana terdapat jumlah restoran cepat saji terbanyak?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "kompleks perumahan",
+                "pusat kota",
+                "indonesia",
+                "kota besar"
+            ]
+        },
+        "question_concepts": "restoran cepat saji",
+        "answer_creator": "D"
+    },
+    {
+        "id": "af11faa29097b71141fe192ad019d1dd",
+        "question": "Christine tidak mungkin memiliki bayi di usianya, begitu pikirnya sendiri. Apakah Christine itu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "orang tua",
+                "mulai berbicara",
+                "dewasa",
+                "laki-laki tua",
+                "gadis"
+            ]
+        },
+        "question_concepts": "bayi",
+        "answer_creator": "A"
+    },
+    {
+        "id": "07fd8b0aed06406fedb137d11b07a890",
+        "question": "Budi memainkan alat musik perkusi di suatu tempat. Di mana kah ia mungkin memainkannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rumahnya sendiri",
+                "toko musik",
+                "band marching",
+                "orkestra",
+                "pesta"
+            ]
+        },
+        "question_concepts": "alat musik perkusi",
+        "answer_creator": "D"
+    },
+    {
+        "id": "38e61d4be0da46b3cbbd76dc20bce677",
+        "question": "Rani tinggal di stasiun kereta api. Dia ingin sekali melihat tempat-tempat yang jauh. Ke mana kira-kira dia membayangkan pergi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kawasan pusat kota",
+                "pusat kota jakarta",
+                "kamarnya",
+                "eropa",
+                "kota besar lain di indonesia"
+            ]
+        },
+        "question_concepts": "stasiun kereta api",
+        "answer_creator": "D"
+    },
+    {
+        "id": "de0386024f32cdf277a785a851b97544",
+        "question": "Di mana pohon ficus bisa tumbuh dengan baik di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pondok di hutan",
+                "bali",
+                "halaman depan rumah",
+                "rumah kaca",
+                "hutan tropis"
+            ]
+        },
+        "question_concepts": "ficus",
+        "answer_creator": "C"
+    },
+    {
+        "id": "8b25332de2894ab38784235838d38cec",
+        "question": "Jika Presiden ingin melarang ular, di mana beliau akan mengeluarkan dekrit tersebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jalan-jalan",
+                "hutan tropis",
+                "taman surga",
+                "new mexico",
+                "istana merdeka"
+            ]
+        },
+        "question_concepts": "ular",
+        "answer_creator": "E"
+    },
+    {
+        "id": "6abd34442438509b4a00c69d6fd24764",
+        "question": "Di mana Anda akan menemukan kata 'komodo' di bawah huruf K?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "padang rumput",
+                "pantai",
+                "kamus",
+                "pulau komodo",
+                "ensiklopedia"
+            ]
+        },
+        "question_concepts": "komodo",
+        "answer_creator": "C"
+    },
+    {
+        "id": "aa4c5d2d348796b8d7fa324f27f4c34f",
+        "question": "Di mana Anda akan menyimpan sarung bantal yang tidak sedang digunakan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lemari dapur",
+                "toko perlengkapan tempat tidur",
+                "inggris",
+                "laci",
+                "kamar tidur"
+            ]
+        },
+        "question_concepts": "sarung bantal",
+        "answer_creator": "D"
+    },
+    {
+        "id": "7400e9c4a2c8e600a0f7e2d162a07837",
+        "question": "Jika anak kucing tersebut akan tumbuh menjadi pemburu tikus seperti induknya, di mana seharusnya ia menghabiskan sebagian besar waktunya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "penampungan",
+                "lantai",
+                "tempat yang hangat",
+                "rumah pertanian",
+                "ruang tamu"
+            ]
+        },
+        "question_concepts": "anak kucing",
+        "answer_creator": "D"
+    },
+    {
+        "id": "c0e4d0118c9cdfe2edc49ef954572b31",
+        "question": "Andi sangat menyayangi ular peliharaannya. Itu adalah satu-satunya hal yang dia cintai. Dia tidak suka bergaul dengan orang lain dan sering bersikap kasar, tetapi dia sangat menyayangi ular peliharaannya. Bagaimana Anda bisa mendeskripsikan ular tersebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sinar matahari itu sendiri",
+                "hutan tropis",
+                "hewan peliharaan",
+                "kasar",
+                "tajam"
+            ]
+        },
+        "question_concepts": "ular",
+        "answer_creator": "C"
+    },
+    {
+        "id": "9382bc51ba092f55a494eff8615899de",
+        "question": "Saya memetik dari pohon durian di luar kota Medan, di mana saya berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "hutan",
+                "jakarta",
+                "sumatera utara",
+                "bali",
+                "surabaya"
+            ]
+        },
+        "question_concepts": "pohon durian",
+        "answer_creator": "C"
+    },
+    {
+        "id": "a328285c6212c899e335c45db3c49ffd",
+        "question": "Rudi menemukan film lama di dalam gua yang disegel di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pulau komodo",
+                "taman mini indonesia indah",
+                "gua jatijajar",
+                "lemari pusaka",
+                "bioskop"
+            ]
+        },
+        "question_concepts": "film",
+        "answer_creator": "C"
+    },
+    {
+        "id": "7fe53bf68ec57a52a508611acf5b279e",
+        "question": "Anak di Indonesia sering membuat orang tua mereka kewalahan. Sebutkan satu hal yang membuat merawat anak menjadi sulit.",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "datang lebih awal",
+                "belajar berjalan",
+                "laki-laki atau perempuan",
+                "membawa kegembiraan",
+                "bicara ngawur"
+            ]
+        },
+        "question_concepts": "merawat bayi",
+        "answer_creator": "E"
+    },
+    {
+        "id": "96ea2c3174229c4a6a0e2ffaed2df378",
+        "question": "Di mana Anda mungkin berada jika Anda membeli daging babi di toko kelontong?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "pasar",
+                "gurun",
+                "bali",
+                "yogyakarta"
+            ]
+        },
+        "question_concepts": "toko kelontong",
+        "answer_creator": "B"
+    },
+    {
+        "id": "3eb397b96b6c3a245c81ab30205943f1",
+        "question": "Rudi sedang bersenang-senang dengan menari dan bernyanyi bersama teman-temannya. Dia tidak peduli dengan hal-hal yang tidak menyenangkan. Bagi dia, bersenang-senang itu sama dengan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "cedera",
+                "tersenyum",
+                "bahagia",
+                "kegembiraan",
+                "lompat"
+            ]
+        },
+        "question_concepts": "bersenang-senang",
+        "answer_creator": "C"
+    },
+    {
+        "id": "26d7d59ef7b9f2e0c2d47419fa5bca91",
+        "question": "Di mana Anda mungkin melihat sawah hijau saat mengemudi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa",
+                "padang rumput",
+                "lahan pertanian",
+                "pedesaan",
+                "daerah rural"
+            ]
+        },
+        "question_concepts": "sawah",
+        "answer_creator": "D"
+    },
+    {
+        "id": "3fdc0c422c524c994b9911a17f1f1834",
+        "question": "Sebuah showroom menampilkan mesin cuci dan kulkas, di mana showroom ini berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko elektronik",
+                "jakarta",
+                "toko perabot rumah tangga",
+                "dealer mobil",
+                "dapur"
+            ]
+        },
+        "question_concepts": "showroom",
+        "answer_creator": "C"
+    },
+    {
+        "id": "cc8eac9956f645533b8d7b99702e3507",
+        "question": "Orang itu sering membuat komentar cerdas, seperti bahwa setiap restoran adalah restoran Indonesia di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota",
+                "jakarta",
+                "bali",
+                "spanyol",
+                "indonesia"
+            ]
+        },
+        "question_concepts": "restoran Indonesia",
+        "answer_creator": "E"
+    },
+    {
+        "id": "316a8dee8a4dde7d95cf503a715104be",
+        "question": "Rina merasakan ketegangan di dadanya. Dia khawatir tetapi tidak ingin pergi ke rumah sakit. Ke mana dia mungkin pergi sebagai gantinya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "konser musik",
+                "kamar tidur",
+                "toko antik",
+                "manusia"
+            ]
+        },
+        "question_concepts": "dada",
+        "answer_creator": "C"
+    },
+    {
+        "id": "4d67cdb4ba1b0058e383c212303a9f4e",
+        "question": "Pulau di Indonesia di mana Anda dapat menemukan Komodo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa",
+                "sumatra",
+                "komodo",
+                "bali",
+                "sulawesi"
+            ]
+        },
+        "question_concepts": "Komodo",
+        "answer_creator": "C"
+    },
+    {
+        "id": "3df1b88da6a90c9526be2c8a6cc736dc",
+        "question": "Budi melihat seekor anjing berlari ke arahnya dan dia berusaha sekuat tenaga untuk menjauh darinya. Dia melompat ke tempat yang tidak bisa dijangkau oleh anjing tersebut dan terjebak. Di mana kira-kira dia bisa terjebak?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kandang",
+                "meja",
+                "teras",
+                "halaman belakang",
+                "taman"
+            ]
+        },
+        "question_concepts": "anjing",
+        "answer_creator": "B"
+    },
+    {
+        "id": "f912bcd7479b76db9b1c57a612b90f00",
+        "question": "Ahmad dan Nita adalah orang tua. Mereka memiliki dua anak yang luar biasa yang tidak selalu berperilaku baik. Namun, mereka bersikap lembut. Mereka merasa bahwa tugas orang tua adalah untuk melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mengontrol anak-anak",
+                "membimbing anak-anak",
+                "berbicara bebas",
+                "menangis",
+                "memahami anak-anak"
+            ]
+        },
+        "question_concepts": "orang tua",
+        "answer_creator": "B"
+    },
+    {
+        "id": "94f34cc1e6aa9eefe06563cce8225658",
+        "question": "Apa yang sedang Anda mainkan jika Anda sedang memainkan biola?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "musik keroncong",
+                "membuat musik",
+                "menjatuhkan",
+                "instrumen gesek",
+                "masalah"
+            ]
+        },
+        "question_concepts": "memainkan biola",
+        "answer_creator": "A"
+    },
+    {
+        "id": "a7e3de0719fe30e7048f67426e29fdd1",
+        "question": "Budi merobek antena dari perahunya karena penerimaan sinyal yang buruk saat ia menyeberangi selat dari Indonesia. Ke mana ia pergi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sungai",
+                "televisi",
+                "singapura",
+                "malaysia",
+                "australia"
+            ]
+        },
+        "question_concepts": "selat",
+        "answer_creator": "C"
+    },
+    {
+        "id": "bdf92566f14599f1606109677206001f",
+        "question": "Bu Sari mengambil penghapus dari Budi karena dia bermain dengannya selama pelajaran. Dia ingin memastikan bahwa Budi tidak bisa mengambilnya lagi, jadi dia menyimpannya di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "laci meja guru",
+                "laci dapur",
+                "ruang kelas",
+                "saku",
+                "kantor sekolah"
+            ]
+        },
+        "question_concepts": "penghapus",
+        "answer_creator": "A"
+    },
+    {
+        "id": "042898e0c71adac5d123aaa6221c9754",
+        "question": "Di mana kemungkinan tidak ada restoran halal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "kawasan muslim",
+                "rumah makan di dalam",
+                "bali",
+                "rumah makan"
+            ]
+        },
+        "question_concepts": "restoran halal",
+        "answer_creator": "D"
+    },
+    {
+        "id": "93bbaccb1c46d22124a846b8514de5bc",
+        "question": "Elang botak terbang dari Gunung Bromo ke Selat Sunda dan melintasi apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa timur",
+                "yogyakarta",
+                "nusantara",
+                "sumatera barat",
+                "gurun pasir"
+            ]
+        },
+        "question_concepts": "elang botak",
+        "answer_creator": "A"
+    },
+    {
+        "id": "87505da761eaa5c3c4703d02a12d46bc",
+        "question": "Apa kata yang ditambahkan ke Jakarta yang menandakan provinsi tempatnya berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "indonesia",
+                "jawa",
+                "jawa barat",
+                "dki jakarta",
+                "banten"
+            ]
+        },
+        "question_concepts": "jakarta",
+        "answer_creator": "D"
+    },
+    {
+        "id": "ef3d5d35128678937c36438466e0fc93",
+        "question": "Program tersebut terus menerus mengalami kesalahan, pengguna awam di Indonesia mulai merasa apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "marah",
+                "mengkompilasi",
+                "mencari dan memperbaiki kesalahan",
+                "menulis kode",
+                "frustrasi"
+            ]
+        },
+        "question_concepts": "program",
+        "answer_creator": "E"
+    },
+    {
+        "id": "515834727e23e30ab7c8fe5ba7e9a765",
+        "question": "Andi membeli rantai baru untuk sepeda motornya dan menyimpannya di tempat yang bisa dia temukan. Di mana Andi akan menyimpannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bawah tempat tidur",
+                "garasi",
+                "dapur",
+                "toko perhiasan",
+                "toko bangunan"
+            ]
+        },
+        "question_concepts": "rantai",
+        "answer_creator": "B"
+    },
+    {
+        "id": "061f326d2a87a10da6316b55bd5522bd",
+        "question": "Ahmad membeli selang air baru. Namun, ia menemukan selang lamanya di dekat mobilnya. Di mana ia menemukan selang lama tersebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gudang kebun",
+                "toko bangunan",
+                "rumah kaca",
+                "garasi",
+                "dalam van"
+            ]
+        },
+        "question_concepts": "selang air",
+        "answer_creator": "D"
+    },
+    {
+        "id": "1bf4c6b5bd870b1a079106e1e97e5d09",
+        "question": "Sebuah jalan raya meliuk-liuk melewati sawah dan hutan, di mana jalur tersebut berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bergerak kesana-kemari",
+                "kota",
+                "pedesaan",
+                "kabupaten",
+                "kota jakarta"
+            ]
+        },
+        "question_concepts": "jalan raya",
+        "answer_creator": "C"
+    },
+    {
+        "id": "c1c73ef0ff662a76cd42c3500240974a",
+        "question": "Jika saya ingin membeli kursi puff baru, ke mana saya harus pergi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko mebel",
+                "salon",
+                "turki",
+                "ruang tamu",
+                "ruang keluarga"
+            ]
+        },
+        "question_concepts": "kursi puff",
+        "answer_creator": "A"
+    },
+    {
+        "id": "aefa60233f3c5c4966f8ac22e901a1c7",
+        "question": "Budi sedang pulang kerja dan mengambil jalan yang menuju ke daerah apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perumahan",
+                "kota",
+                "nasib",
+                "pedesaan",
+                "peta"
+            ]
+        },
+        "question_concepts": "jalan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "2634468d21fa33a88cefe28a5d613f59",
+        "question": "Penumpang perahu itu menjelaskan ketakutannya terhadap ikan buntal, tetapi sang kapten mengira dia berbicara tentang piranha karena mereka berada di sungai di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kuba",
+                "sungai styx",
+                "samudra atlantik",
+                "perancis",
+                "hutan"
+            ]
+        },
+        "question_concepts": "ikan buntal",
+        "answer_creator": "E"
+    },
+    {
+        "id": "66bfb6e209c94e6be5b0d04b0c7e2064",
+        "question": "Di mana Anda biasanya hanya menemukan beberapa kantor?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gedung pencakar langit",
+                "jakarta",
+                "gedung sekolah",
+                "kota",
+                "tempat kerja"
+            ]
+        },
+        "question_concepts": "kantor",
+        "answer_creator": "C"
+    },
+    {
+        "id": "fd5a34e94303d7fd343de2a8f36943d5",
+        "question": "Setelah mendaki gunung, penjelajah menemukan gua, bagaimana geografi umum dari daerah tempat ia menemukannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "papua",
+                "jawa barat",
+                "padang pasir",
+                "laut",
+                "bukit berbatu"
+            ]
+        },
+        "question_concepts": "gua",
+        "answer_creator": "E"
+    },
+    {
+        "id": "a5db1e9677af118deb8e4add8bc18db2",
+        "question": "Provinsi mana yang termasuk dalam kelompok Pulau Sunda Kecil?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa barat",
+                "sumatera utara",
+                "nusa tenggara barat",
+                "kalimantan timur",
+                "sulawesi selatan"
+            ]
+        },
+        "question_concepts": "Pulau Sunda Kecil",
+        "answer_creator": "C"
+    },
+    {
+        "id": "a5ca7c89196e54938b5827814d0071d4",
+        "question": "Budi melihat layang-layang terbang di langit. Dia mengikuti tali layang-layang tersebut hingga ke asalnya dan menemukannya. Di mana tali tersebut bermula?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ujung benang",
+                "toko hobi",
+                "tangannya sendiri",
+                "toko mainan",
+                "tangan anak-anak"
+            ]
+        },
+        "question_concepts": "layang-layang",
+        "answer_creator": "E"
+    },
+    {
+        "id": "9190efbd77fe10b989fcaae35e208a0f",
+        "question": "Di mana stadion bisbol terbaru di Indonesia berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "surabaya",
+                "papua",
+                "bandung",
+                "area perkotaan"
+            ]
+        },
+        "question_concepts": "stadion bisbol",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d35112a99ab3983fb51c3adae80bc2da",
+        "question": "Dia menggunakan payung saat berjemur, di mana dia kemungkinan berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ombak",
+                "bali",
+                "koper",
+                "pantai",
+                "lemari jaket"
+            ]
+        },
+        "question_concepts": "payung",
+        "answer_creator": "D"
+    },
+    {
+        "id": "a0f5414bf98e094f4d807abee28861a4",
+        "question": "Di mana di Indonesia Anda akan menemukan anemon laut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "taman bunga",
+                "kolam pasang",
+                "kepulauan raja ampat",
+                "laut koral",
+                "akuarium"
+            ]
+        },
+        "question_concepts": "anemon laut",
+        "answer_creator": "C"
+    },
+    {
+        "id": "a5e207803684eea8a43ca6670c50b354",
+        "question": "Meskipun matahari telah terbit, apa yang diperingatkan oleh seorang pesimis akan terjadi di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "berbaring",
+                "terbenam",
+                "jatuh",
+                "di bawah",
+                "senja"
+            ]
+        },
+        "question_concepts": "terbit",
+        "answer_creator": "B"
+    },
+    {
+        "id": "37d88a9bb24913c1973cc26d4ce3394f",
+        "question": "Penampil tersebut siap untuk memulai pertunjukan dan melangkah ke panggung peluncuran, apa pekerjaannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "gelora bung karno jakarta",
+                "pertunjukan wayang",
+                "kapal perang republik indonesia",
+                "samudra hindia",
+                "pertunjukan sirkus"
+            ]
+        },
+        "question_concepts": "panggung peluncuran",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d60c5a494539c66982c0f692afde9499",
+        "question": "Apa yang akan Anda gunakan untuk mencari tempat menginap di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "peta indonesia",
+                "buku telepon",
+                "kota",
+                "aplikasi pencarian hotel",
+                "kompas"
+            ]
+        },
+        "question_concepts": "tempat menginap",
+        "answer_creator": "D"
+    },
+    {
+        "id": "5bba03b425f5abc6e017f194cf074b06",
+        "question": "Banyak rumah di negara ini dibangun mengelilingi sebuah halaman terbuka. Di mana itu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kandidat",
+                "spanyol",
+                "rumput",
+                "indonesia",
+                "kompleks kantor"
+            ]
+        },
+        "question_concepts": "halaman terbuka",
+        "answer_creator": "D"
+    },
+    {
+        "id": "78276a4eab6e8d6b9ae3749211816977",
+        "question": "Budi menjadi puing. Dia sangat suka membangun rumah, tetapi dalam keadaannya saat ini, dia tidak bisa melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "berdiri",
+                "menghasilkan",
+                "membangun",
+                "membuat",
+                "mendirikan"
+            ]
+        },
+        "question_concepts": "puing",
+        "answer_creator": "C"
+    },
+    {
+        "id": "60b909ad1d7956218a5d99954fdebecd",
+        "question": "Budi menemukan laba-laba di tempat dia menyimpan peralatannya. Di mana tempat tersebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lemari",
+                "kotak perkakas",
+                "lemari pakaian",
+                "garasi",
+                "kotak surat"
+            ]
+        },
+        "question_concepts": "laba-laba",
+        "answer_creator": "D"
+    },
+    {
+        "id": "9fdebd1c2cf498f1d726a025b780a39a",
+        "question": "Saat berada di perahu kipas, dia pikir dia akan melihat rawa dan buaya, tetapi dia terkejut melihat elang Jawa di area alam apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "taman nasional ujung kulon",
+                "pegunungan",
+                "habitat alami",
+                "jakarta",
+                "bali"
+            ]
+        },
+        "question_concepts": "elang Jawa",
+        "answer_creator": "A"
+    },
+    {
+        "id": "26c8a7165d0ed7250b9328f90d83ba83",
+        "question": "Mengapa orang yang sedang sekarat menerima pembayaran Jaminan Sosial Tenaga Kerja (Jamsostek) di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pemulihan kesehatan",
+                "kelahiran kembali",
+                "tidak ada lagi",
+                "tidak mampu bekerja",
+                "perubahan warna"
+            ]
+        },
+        "question_concepts": "sekarat",
+        "answer_creator": "D"
+    },
+    {
+        "id": "732183ead4206e51ed4df18b9c9f14fe",
+        "question": "Apa yang biasanya dilakukan anak-anak di Indonesia saat musim hujan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "bermain sepak bola",
+                "bermain layang-layang",
+                "berjemur",
+                "menenun",
+                "berenang"
+            ]
+        },
+        "question_concepts": "musim hujan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "bd780fea2d4dd262583446e64c0f314d",
+        "question": "Budi sedang berada di sana untuk bertemu dengan banyak orang. Saat ia melintasi ruang masuk, ia melihat banyak orang asing yang datang dari tempat yang jauh. Bangunan apa yang kemungkinan ia berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rumah pribadi",
+                "kotak",
+                "pusat konvensi",
+                "gedung pemerintahan",
+                "bangunan besar"
+            ]
+        },
+        "question_concepts": "ruang masuk",
+        "answer_creator": "C"
+    },
+    {
+        "id": "99e0b2ddf88ebed98b977043b7c2331b",
+        "question": "Ahmad ingin menaburkan abu istrinya di sebuah danau di alam liar. Dia harus menunda karena tempat tinggalnya. Di mana dia tinggal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pegunungan",
+                "jenazah",
+                "membayar hutang",
+                "taman nasional",
+                "jakarta"
+            ]
+        },
+        "question_concepts": "danau",
+        "answer_creator": "E"
+    },
+    {
+        "id": "5b8a3081c3235d62bc77e2d15f3ad454",
+        "question": "Sebuah kota yang terletak di antara dua gunung berada di apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "lembah",
+                "rumah sakit",
+                "provinsi",
+                "stasiun kereta",
+                "jawa"
+            ]
+        },
+        "question_concepts": "kota",
+        "answer_creator": "A"
+    },
+    {
+        "id": "e43c4eaa04243ddee30f29171718eb92",
+        "question": "Budi membutuhkan toilet saat berada di Jakarta, tetapi tidak ada toilet umum yang terlihat. Akhirnya, ia melakukan sesuatu yang sangat mahal agar bisa menggunakan toilet. Ke mana kira-kira ia pergi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kamar hotel",
+                "apartemen",
+                "kamar mandi",
+                "pusat permainan",
+                "rumah"
+            ]
+        },
+        "question_concepts": "toilet",
+        "answer_creator": "A"
+    },
+    {
+        "id": "ce246bc94a54431b9c0530e71d2456b5",
+        "question": "Rumahnya berantakan, ia mulai melakukan pekerjaan rumah tangga untuk mendapatkan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kebosanan",
+                "rumah yang nyaman",
+                "jawa",
+                "rasa puas",
+                "rumah bersih"
+            ]
+        },
+        "question_concepts": "melakukan pekerjaan rumah tangga",
+        "answer_creator": "E"
+    },
+    {
+        "id": "2eef2d255fe629414f4d24ade8590102",
+        "question": "Di mana mayat biasanya ditutupi dengan kain batik?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko batik",
+                "kamar tidur",
+                "rumah sakit",
+                "taman bunga",
+                "jawa"
+            ]
+        },
+        "question_concepts": "kain batik",
+        "answer_creator": "C"
+    },
+    {
+        "id": "bea07406aaadeef50110883b6932d86a",
+        "question": "Apa yang merupakan bagian dari sebuah republik seperti Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "provinsi",
+                "demokratis",
+                "kerajaan",
+                "demokrasi",
+                "diktatorship"
+            ]
+        },
+        "question_concepts": "republik",
+        "answer_creator": "A"
+    },
+    {
+        "id": "76b2c6d254f9127b4fd66d90e1a330e7",
+        "question": "Apa yang bisa dilakukan oleh pohon apel?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa barat",
+                "berbunga",
+                "bali",
+                "sinar matahari",
+                "terbakar secara spontan"
+            ]
+        },
+        "question_concepts": "pohon apel",
+        "answer_creator": "B"
+    },
+    {
+        "id": "cdd3d074031fbd3efeb4f9408abef04e",
+        "question": "Di wilayah timur Indonesia yang sangat dingin, kepiting dapat ditemukan di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pasar ikan",
+                "perairan dangkal",
+                "samudra pasifik",
+                "air tawar",
+                "garis pantai"
+            ]
+        },
+        "question_concepts": "kepiting",
+        "answer_creator": "C"
+    },
+    {
+        "id": "3f4b48708d08f8bf7bec796531023f9c",
+        "question": "Budi sedang membaca koran saat ia berangkat kerja dengan naik KRL Commuter Line, tetapi setelah sampai di tujuannya, ia menggulung koran tersebut dan menaruhnya di suatu tempat. Di mana ia menaruhnya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tempat sampah",
+                "lantai",
+                "krl commuter line",
+                "tanah",
+                "taman"
+            ]
+        },
+        "question_concepts": "koran",
+        "answer_creator": "A"
+    },
+    {
+        "id": "37644422df4bcd28b3f54bbf3fc2c0f8",
+        "question": "Mereka harus tahu ke mana harus pergi, mereka naik ke jalan tol nasional setelah berkonsultasi dengan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "peta indonesia",
+                "atlas",
+                "panduan wisata",
+                "kota-kota besar",
+                "buku panduan"
+            ]
+        },
+        "question_concepts": "jalan tol nasional",
+        "answer_creator": "A"
+    },
+    {
+        "id": "6915dfdefe3b1cd5fd8886c8bb84929a",
+        "question": "Siti sedang mengantri di kantor pos. Antriannya sangat lambat. Apa yang dia rasakan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "frustrasi",
+                "keterlambatan",
+                "terganggu",
+                "bergerak maju",
+                "kemajuan"
+            ]
+        },
+        "question_concepts": "mengantri di kantor pos",
+        "answer_creator": "A"
+    },
+    {
+        "id": "5efadabaf61b5174916e3ab659bcd283",
+        "question": "Denny menemukan bahwa karpet tidak cocok dengan gorden, yang mengecewakannya, karena tempat ini mahal. Namun, ini adalah satu-satunya tempat di kota yang tidak penuh selama seminggu dan dia membutuhkannya selama dia berada di kota, jadi dia tidak bisa mengeluh. Di mana kira-kira tempat ini bisa berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "panti pijat",
+                "restoran",
+                "gedung",
+                "arena bowling",
+                "di hotel"
+            ]
+        },
+        "question_concepts": "karpet",
+        "answer_creator": "E"
+    },
+    {
+        "id": "0bed77da54b6c54facd0ee6614aad72e",
+        "question": "Budi memutuskan untuk menurunkan berat badan. Dia berpikir bahwa olahraga adalah cara terbaik untuk menurunkan berat badan karena tidak bisa menghilangkan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kebutuhan akan makanan",
+                "kebugaran",
+                "keringat",
+                "makanan cepat saji",
+                "haus"
+            ]
+        },
+        "question_concepts": "olahraga",
+        "answer_creator": "A"
+    },
+    {
+        "id": "bc05bc6b4df7a3d25a361515fe8912ad",
+        "question": "Provinsi mana di Indonesia yang dikenal dengan banyaknya rawa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kalimantan tengah",
+                "jawa barat",
+                "sulawesi selatan",
+                "papua",
+                "sumatera selatan"
+            ]
+        },
+        "question_concepts": "rawa",
+        "answer_creator": "E"
+    },
+    {
+        "id": "0a006d16d9042e0c170935e5fbf7f9af",
+        "question": "Budi berada di bawah balon udara. Dia menyaksikan balon itu naik. Ke arah mana dia melihat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "ke lantai atas",
+                "ke angkasa",
+                "secara diagonal",
+                "ke hulu",
+                "ke atas"
+            ]
+        },
+        "question_concepts": "di bawah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d33a81660058e570a18fb2eafa284a78",
+        "question": "Ahmad dan Rudi senang bermain sepak bola. Hal ini membuat mereka merasa bagaimana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "merasa senang",
+                "belajar",
+                "cedera",
+                "terbakar",
+                "menjadi lapar"
+            ]
+        },
+        "question_concepts": "bermain sepak bola",
+        "answer_creator": "A"
+    },
+    {
+        "id": "5e851c47682bdf79ec7c139ecf124c9a",
+        "question": "Kucing milik Dito mencium sesuatu yang lezat dan melompat ke dalam ini, membuatnya panik dan khawatir akan keselamatan kucing tersebut. Ke mana kucing itu mungkin melompat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rendang",
+                "kamar tidur",
+                "microwave",
+                "ruang tamu",
+                "lantai"
+            ]
+        },
+        "question_concepts": "kucing",
+        "answer_creator": "C"
+    },
+    {
+        "id": "db1eb157671109bbb9113b0f71a6b957",
+        "question": "Rudi ingin wortel dan tidak perlu pergi kemana-mana. Dia mendapatkannya dari mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kulkas",
+                "toko",
+                "pasar tani",
+                "supermarket",
+                "pengering"
+            ]
+        },
+        "question_concepts": "wortel",
+        "answer_creator": "A"
+    },
+    {
+        "id": "5d809e0ee19badc66071653630ea7c51",
+        "question": "Seorang teknisi memeriksa rotor dari Helikopter MI-35P TNI AD, yang tidak digerakkan oleh mesin pembakaran dalam, tetapi oleh apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mesin jet",
+                "helikopter",
+                "motor listrik",
+                "rotator",
+                "rangkaian listrik"
+            ]
+        },
+        "question_concepts": "rotor",
+        "answer_creator": "A"
+    },
+    {
+        "id": "30d0c2006613eec41ae814d76c17a798",
+        "question": "Ruangan apa yang kemungkinan memiliki bufet di atas konter?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "rumah",
+                "tempat penyajian makanan prasmanan",
+                "ruang makan",
+                "ruang tamu",
+                "dapur"
+            ]
+        },
+        "question_concepts": "bufet",
+        "answer_creator": "C"
+    },
+    {
+        "id": "e40fd2c17fe2cde4bd4af540d35fd518",
+        "question": "Jika Anda memiliki kondominium di kota Indonesia yang terkenal dengan kopi, di mana Anda berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kota",
+                "sirkuit listrik",
+                "area perumahan",
+                "pinggiran kota",
+                "bandung"
+            ]
+        },
+        "question_concepts": "kondominium",
+        "answer_creator": "E"
+    },
+    {
+        "id": "d0c67c7ae6f2361fe237110455127866",
+        "question": "Di wilayah mana dari kota di Indonesia Anda akan menemukan restoran Jepang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "kyoto",
+                "pusat kota",
+                "wakanda",
+                "kota besar"
+            ]
+        },
+        "question_concepts": "restoran Jepang",
+        "answer_creator": "C"
+    },
+    {
+        "id": "c7526b682e64f355384631b35cd78fc9",
+        "question": "Budi terjatuh dari bangku bar. Hal ini terjadi karena dia lebih apa dari sebelumnya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "dapur",
+                "mabuk",
+                "warung",
+                "restoran",
+                "pendek"
+            ]
+        },
+        "question_concepts": "bangku bar",
+        "answer_creator": "B"
+    },
+    {
+        "id": "7b7941b883328ad39048d4dfb1eb5623",
+        "question": "Siti berpikir bahwa berkompetisi dalam Pencak Silat tidak sebanding dengan risikonya. Jika dia berusaha lebih keras, apa yang mungkin terjadi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "tekanan",
+                "berusaha lebih keras",
+                "mendorong diri lebih keras",
+                "membuat musuh",
+                "cedera serius atau kematian"
+            ]
+        },
+        "question_concepts": "berkompetisi dalam Pencak Silat",
+        "answer_creator": "E"
+    },
+    {
+        "id": "008b7ba0c039f6d0d542c6c90aae173c",
+        "question": "Budi sedang duduk di bilik toilet di sebuah kamar mandi, di luar ia dapat mendengar suara mobil berputar-putar. Apa fungsi tempat yang paling mungkin dia berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "makan makanan",
+                "tempat umum",
+                "sirkuit balap",
+                "di hotel",
+                "gedung umum"
+            ]
+        },
+        "question_concepts": "kamar mandi",
+        "answer_creator": "C"
+    },
+    {
+        "id": "eee9476bf29498b7d74b043afe316fc6",
+        "question": "Di mana buah apel terbentuk pada pohon apel?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa barat",
+                "sinar matahari",
+                "kalimantan",
+                "bunga",
+                "batang"
+            ]
+        },
+        "question_concepts": "pohon apel",
+        "answer_creator": "D"
+    },
+    {
+        "id": "8b2af2d865b7dc500427786c846eacaf",
+        "question": "Selama berburu di hutan hujan tropis, dia bisa mendengar setiap gerakan di sekitar, hal ini disebabkan oleh apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kelembapan udara",
+                "kesunyian",
+                "ketenangan alam",
+                "kepadatan vegetasi",
+                "keadaan diam"
+            ]
+        },
+        "question_concepts": "gerakan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "eaf6838d29bcd4ebf408da2f75aa65c3",
+        "question": "Ahmad adalah seorang astronot Indonesia. Ketika dia melihat Indonesia dari luar angkasa, bagaimana bentuknya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "beragam",
+                "bulat",
+                "persegi",
+                "hijau",
+                "rumit"
+            ]
+        },
+        "question_concepts": "Indonesia",
+        "answer_creator": "B"
+    },
+    {
+        "id": "f50209f04d11690d7c8f30e29b35ff02",
+        "question": "Di mana Anda dapat menemukan restoran halal bersama dengan berbagai tempat makan lainnya di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jakarta",
+                "pusat perbelanjaan",
+                "bali",
+                "komunitas muslim",
+                "lingkungan muslim"
+            ]
+        },
+        "question_concepts": "restoran halal",
+        "answer_creator": "B"
+    },
+    {
+        "id": "23df3bac9cfcb156f4cfd8a05f21c5e2",
+        "question": "Budi sangat suka berselancar di pantai Bali, tetapi dia tidak mahir dalam melakukannya. Dia selalu melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "terjatuh dari papan selancar",
+                "menikmati diri sendiri",
+                "mulai berkelahi",
+                "basah kuyup",
+                "tenggelam"
+            ]
+        },
+        "question_concepts": "berselancar",
+        "answer_creator": "A"
+    },
+    {
+        "id": "d21777d771dc6fd08e769d378651817e",
+        "question": "Sarah memberikan adik laki-lakinya sebuah kunci ke rumahnya. Ketika dia pergi, adiknya menggunakan kunci tersebut untuk apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pintu depan",
+                "membuka kunci",
+                "solusi untuk masalah",
+                "memasang",
+                "membuka pintu"
+            ]
+        },
+        "question_concepts": "kunci",
+        "answer_creator": "E"
+    },
+    {
+        "id": "611a4cc0e288b8a11afa923f48cb2ab4",
+        "question": "Kapan zaman prasejarah di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "zaman kerajaan hindu-buddha",
+                "zaman kerajaan islam",
+                "zaman penjajahan belanda",
+                "zaman prasejarah",
+                "zaman kemerdekaan"
+            ]
+        },
+        "question_concepts": "zaman prasejarah",
+        "answer_creator": "D"
+    },
+    {
+        "id": "b9121c3228f961c5ad68958c702cd94b",
+        "question": "Budi berdiri di atas rumput yang dikelilingi oleh pohon-pohon dan alam, di mana Budi berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "area istirahat",
+                "gurun",
+                "taman nasional",
+                "lapangan pameran",
+                "pertandingan sepak bola"
+            ]
+        },
+        "question_concepts": "rumput",
+        "answer_creator": "C"
+    },
+    {
+        "id": "4015ab002ff8c233d1c7ef26f5156b88",
+        "question": "Budi mendaftarkan kudanya ke dalam kontes. Di mana dia melakukan ini?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "sirkus",
+                "di jawa",
+                "film koboi",
+                "taman monas",
+                "pekan raya jakarta"
+            ]
+        },
+        "question_concepts": "kuda",
+        "answer_creator": "E"
+    },
+    {
+        "id": "0197ade3bb26d163ab2e284c960c626f",
+        "question": "Dari mana asalnya bentuk kristal salju?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "awan",
+                "badai salju",
+                "ombak",
+                "udara",
+                "badai salju"
+            ]
+        },
+        "question_concepts": "kristal salju",
+        "answer_creator": "A"
+    },
+    {
+        "id": "f427f9de6bf580314531baf86de8acbc",
+        "question": "Jenis buah apa yang mudah dibagi menjadi bagian-bagian?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "apel",
+                "jeruk",
+                "pisang",
+                "durian",
+                "kelapa"
+            ]
+        },
+        "question_concepts": "bagian",
+        "answer_creator": "B"
+    },
+    {
+        "id": "c872c08a95dd28a16479b76f240a4ad5",
+        "question": "Budi suka mengemudi mobil. Dia pandai melakukannya. Namun, dia menjadi gelisah sejak ayahnya mengalami apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kecelakaan",
+                "polusi",
+                "stres",
+                "kematian",
+                "pergi ke suatu tempat"
+            ]
+        },
+        "question_concepts": "mengemudi mobil",
+        "answer_creator": "D"
+    },
+    {
+        "id": "0a2195ae8d4706abc5721578c9991466",
+        "question": "Di mana Anda bisa mendapatkan angklung jika Anda tidak memilikinya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "pertunjukan wayang",
+                "toko musik",
+                "membeli alat musik",
+                "membuat alat musik",
+                "orkestra gamelan"
+            ]
+        },
+        "question_concepts": "angklung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "506c2dbfe7b00a82bfdf0507a8de88fb",
+        "question": "Siapa yang tidak terkenal karena memiliki jalan bebas hambatan tanpa batas kecepatan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jerman",
+                "indonesia",
+                "negara maju",
+                "kota",
+                "amerika"
+            ]
+        },
+        "question_concepts": "jalan bebas hambatan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "43fb083962f825ae651d88648bbd2f74",
+        "question": "Lahan pertanian di Indonesia banyak terdapat di daerah mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "jawa tengah",
+                "sumatera utara",
+                "jawa barat",
+                "bali",
+                "sulawesi selatan"
+            ]
+        },
+        "question_concepts": "lahan pertanian",
+        "answer_creator": "C"
+    },
+    {
+        "id": "edd1634d911614590c6b8ca730df95fe",
+        "question": "Di mana pendekar silat sering digambarkan sebagai pahlawan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "zaman kerajaan",
+                "papan catur",
+                "cerita anak-anak",
+                "dongeng",
+                "istana"
+            ]
+        },
+        "question_concepts": "pendekar silat",
+        "answer_creator": "D"
+    },
+    {
+        "id": "9a544e9f4847c41a15fdf47ae7b98d8a",
+        "question": "Budi sedang membawa tas olahraga karena dia tidak memiliki kendaraan sendiri dan membutuhkan tas untuk membawa barang-barangnya saat menggunakan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perpustakaan",
+                "transportasi umum",
+                "terminal bus",
+                "barak militer",
+                "ruang ganti"
+            ]
+        },
+        "question_concepts": "tas olahraga",
+        "answer_creator": "B"
+    },
+    {
+        "id": "3884d82524f2337ce53ce64776293cf7",
+        "question": "Andi memutuskan bahwa berkompetisi adalah pilihan yang tepat. Tidak berkompetisi memiliki hasil yang pasti, tetapi jika dia berkompetisi maka apa yang mungkin terjadi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mungkin menang",
+                "bermain lebih baik",
+                "lawan",
+                "pemenang dan pecundang",
+                "kalah"
+            ]
+        },
+        "question_concepts": "berkompetisi",
+        "answer_creator": "A"
+    },
+    {
+        "id": "1ddd239a2a6438a891cb411b82e7f450",
+        "question": "Siti merasa bosan karena dia tidak menyukai acara-acara yang tidak berkualitas di apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "meja",
+                "garasi",
+                "rak",
+                "tempat tidur",
+                "televisi"
+            ]
+        },
+        "question_concepts": "acara tidak berkualitas",
+        "answer_creator": "E"
+    },
+    {
+        "id": "5ff6ce8ad88459272ffe23d33db4970a",
+        "question": "Ahmad merasa seekor ular melata di atasnya saat ia beristirahat. Ia takut mengangkat selimutnya karena takut akan mengagetkan ular tersebut. Di mana ia mungkin berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "toko hewan peliharaan",
+                "hutan di kalimantan",
+                "ruang bawah tanah",
+                "kamar tidur",
+                "mimpi"
+            ]
+        },
+        "question_concepts": "ular",
+        "answer_creator": "D"
+    },
+    {
+        "id": "8f2976690c83be6b8fa3a1196dfd9722",
+        "question": "Andi menikmati mengenang masa lalu karena hal itu membantunya memahaminya. Dan memahami masa lalu membantunya dalam melakukan apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "menelepon",
+                "nostalgia",
+                "menulis",
+                "aktif",
+                "bersiap-siap"
+            ]
+        },
+        "question_concepts": "mengenang",
+        "answer_creator": "E"
+    },
+    {
+        "id": "570be8c1edb8c638603dc5c8cae421cc",
+        "question": "Andi mengamati burung-burung yang sedang bersarang menggunakan teropongnya saat berlibur. Di mana mungkin Andi berada?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "langit",
+                "liburan",
+                "hutan",
+                "pedesaan",
+                "atap"
+            ]
+        },
+        "question_concepts": "burung",
+        "answer_creator": "C"
+    },
+    {
+        "id": "ace8fa2943ba8414aebdb74b48906fae",
+        "question": "Batik adalah kain tradisional Indonesia, merek apa yang harus saya cari saat membelinya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "yogyakarta",
+                "danar hadi",
+                "toko kain",
+                "toko pakaian",
+                "alleira batik"
+            ]
+        },
+        "question_concepts": "batik",
+        "answer_creator": "B"
+    }
+]
