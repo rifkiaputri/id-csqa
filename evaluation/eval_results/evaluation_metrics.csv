@@ -83,3 +83,15 @@ aisingapore/sealion7b-instruct-nc,v1_adapt,ind,231205,1,18.354430379746837
 aisingapore/sealion7b-instruct-nc,v1_adapt,sun,231205,1,13.924050632911392
 aisingapore/sealion7b-instruct-nc,v2_human,ind,231205,1,30.97463284379172
 aisingapore/sealion7b-instruct-nc,v2_human,sun,231205,1,22.348232154769846
+SeaLLMs/SeaLLM-7B-Chat,v1_adapt,ind,231205,3,53.16455696202531
+SeaLLMs/SeaLLM-7B-Chat,v1_adapt,sun,231205,3,35.44303797468354
+SeaLLMs/SeaLLM-7B-Chat,v2_human,ind,231205,3,58.61148197596796
+SeaLLMs/SeaLLM-7B-Chat,v2_human,sun,231205,3,41.9613075383589
+SeaLLMs/SeaLLM-7B-Chat,v1_adapt,ind,231205,2,50.63291139240506
+SeaLLMs/SeaLLM-7B-Chat,v1_adapt,sun,231205,2,35.44303797468354
+SeaLLMs/SeaLLM-7B-Chat,v2_human,ind,231205,2,57.810413885180246
+SeaLLMs/SeaLLM-7B-Chat,v2_human,sun,231205,2,42.09472981987992
+SeaLLMs/SeaLLM-7B-Chat,v1_adapt,ind,231205,1,49.36708860759494
+SeaLLMs/SeaLLM-7B-Chat,v1_adapt,sun,231205,1,36.075949367088604
+SeaLLMs/SeaLLM-7B-Chat,v2_human,ind,231205,1,58.41121495327103
+SeaLLMs/SeaLLM-7B-Chat,v2_human,sun,231205,1,40.360240160106734
