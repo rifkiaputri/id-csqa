@@ -95,3 +95,15 @@ SeaLLMs/SeaLLM-7B-Chat,v1_adapt,ind,231205,1,49.36708860759494
 SeaLLMs/SeaLLM-7B-Chat,v1_adapt,sun,231205,1,36.075949367088604
 SeaLLMs/SeaLLM-7B-Chat,v2_human,ind,231205,1,58.41121495327103
 SeaLLMs/SeaLLM-7B-Chat,v2_human,sun,231205,1,40.360240160106734
+bigscience/bloomz-7b1,v1_adapt,ind,231205,3,56.9620253164557
+bigscience/bloomz-7b1,v1_adapt,sun,231205,3,31.645569620253166
+bigscience/bloomz-7b1,v2_human,ind,231205,3,62.75033377837116
+bigscience/bloomz-7b1,v2_human,sun,231205,3,39.159439626417615
+bigscience/bloomz-7b1,v1_adapt,ind,231205,2,60.12658227848101
+bigscience/bloomz-7b1,v1_adapt,sun,231205,2,30.37974683544304
+bigscience/bloomz-7b1,v2_human,ind,231205,2,62.01602136181575
+bigscience/bloomz-7b1,v2_human,sun,231205,2,36.22414943295531
+bigscience/bloomz-7b1,v1_adapt,ind,231205,1,56.9620253164557
+bigscience/bloomz-7b1,v1_adapt,sun,231205,1,31.645569620253166
+bigscience/bloomz-7b1,v2_human,ind,231205,1,61.6822429906542
+bigscience/bloomz-7b1,v2_human,sun,231205,1,37.29152768512341
