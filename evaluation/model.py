@@ -118,6 +118,7 @@ class HfModelHistory:
         self.history = self.load_history()
         self.model, self.tokenizer = self.load_models()
         self.translation_table = str.maketrans('', '', string.punctuation)
+        self.translation_table_with_space = str.maketrans(string.punctuation, ' ' * len(string.punctuation))
 
     def load_history(self):
         """Load history responses from a CSV file into memory, skipping the header."""
@@ -141,7 +142,7 @@ class HfModelHistory:
             truncation_side="left",
             trust_remote_code=trust_remote_code
         )
-        if tokenizer.pad_token is None:
+        if tokenizer.pad_token is None or tokenizer.pad_token == "<unk>":
             print('Setting pad_token...')
             tokenizer.pad_token = tokenizer.bos_token if tokenizer.bos_token is not None else tokenizer.eos_token
             print('pad_token:', tokenizer.pad_token)
@@ -150,10 +151,14 @@ class HfModelHistory:
         model = AutoModelForCausalLM.from_pretrained(
             self.model_name, 
             device_map="auto", 
-            load_in_8bit=True, 
+            load_in_8bit=True,
             resume_download=True,
             trust_remote_code=trust_remote_code
         )
+        if "SeaLLM" in self.model_name:
+            # quick fix for tensor error
+            # https://github.com/facebookresearch/llama/issues/380
+            model = model.bfloat16()
         model = model.eval()
         
         return model, tokenizer
@@ -167,9 +172,21 @@ class HfModelHistory:
 
         for line in lines:
             line = line.strip()
-            answer_key = line.split('. ')[0].strip()
+            answers = line.split('. ')
 
-            if resp in line:
+            if len(answers) <= 1:
+                continue
+
+            answer_key = answers[0].strip()
+            answer_text = ' '.join(answers[1:])
+            answer_text_no_punct = [a for a in answer_text.translate(self.translation_table_with_space).split() if a != ""]
+            resp_no_punct = [r for r in resp.translate(self.translation_table_with_space).split() if r != ""]
+
+            if resp_no_punct == answer_text_no_punct:
+                return answer_key.upper()
+            elif resp_no_punct == [answer_key] + answer_text_no_punct:
+                return answer_key.upper()
+            elif resp in line:
                 if resp == line:
                     return answer_key.upper()
                 full_option = f"{answer_key}. {resp}"    
@@ -181,7 +198,7 @@ class HfModelHistory:
                 full_option = f"{answer_key}. {resp[3:]}"    
                 if full_option == line:
                     return answer_key.upper()
-            
+        
         return f"Answer key not found in the provided text: {resp_orig}"
     
     def get_cleaned_response(self, prompt, response):
@@ -232,7 +249,7 @@ class HfModelHistory:
                     temperature=0.1,  # using the same temperature setting as closed model
                     do_sample=True,
                     min_new_tokens=1,
-                    max_new_tokens=20
+                    max_new_tokens=30
                 )
 
             # for fairer comparison, using the same setting as closed model:
