@@ -107,3 +107,16 @@ bigscience/bloomz-7b1,v1_adapt,ind,231205,1,56.9620253164557
 bigscience/bloomz-7b1,v1_adapt,sun,231205,1,31.645569620253166
 bigscience/bloomz-7b1,v2_human,ind,231205,1,61.6822429906542
 bigscience/bloomz-7b1,v2_human,sun,231205,1,37.29152768512341
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,ind,231205,3,29.746835443037973
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,ind,231205,3,29.746835443037973
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,sun,231205,3,26.582278481012654
+DAMO-NLP-MT/polylm-chat-13b,v2_human,ind,231205,3,33.177570093457945
+DAMO-NLP-MT/polylm-chat-13b,v2_human,sun,231205,3,24.34956637758506
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,ind,231205,2,31.645569620253166
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,sun,231205,2,20.253164556962027
+DAMO-NLP-MT/polylm-chat-13b,v2_human,ind,231205,2,30.640854472630174
+DAMO-NLP-MT/polylm-chat-13b,v2_human,sun,231205,2,24.94996664442962
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,ind,231205,1,29.11392405063291
+DAMO-NLP-MT/polylm-chat-13b,v1_adapt,sun,231205,1,20.88607594936709
+DAMO-NLP-MT/polylm-chat-13b,v2_human,ind,231205,1,31.041388518024032
+DAMO-NLP-MT/polylm-chat-13b,v2_human,sun,231205,1,23.215476984656437

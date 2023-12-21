@@ -155,7 +155,7 @@ class HfModelHistory:
             resume_download=True,
             trust_remote_code=trust_remote_code
         )
-        if "SeaLLM" in self.model_name:
+        if "SeaLLM" in self.model_name or "polylm" in self.model_name:
             # quick fix for tensor error
             # https://github.com/facebookresearch/llama/issues/380
             model = model.bfloat16()
