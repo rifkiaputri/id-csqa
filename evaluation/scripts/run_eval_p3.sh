@@ -1,6 +1,6 @@
 #!/bin/bash
 CUDA_VISIBLE_DEVICES=5 python eval.py \
-    --model_name "bigscience/bloomz-7b1" \
+    --model_name "DAMO-NLP-MT/polylm-chat-13b" \
     --dataset_path "../dataset/v3_synthetic/filtered_ind.json" \
     --gold_key "answer_creator" \
     --history_version "231205" \
@@ -8,7 +8,7 @@ CUDA_VISIBLE_DEVICES=5 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=5 python eval.py \
-    --model_name "bigscience/bloomz-7b1" \
+    --model_name "DAMO-NLP-MT/polylm-chat-13b" \
     --dataset_path "../dataset/v3_synthetic/filtered_sun.json" \
     --gold_key "answer_creator" \
     --history_version "231205" \
