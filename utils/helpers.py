@@ -182,7 +182,7 @@ Changed Question:"""
 
 
 # Function to generate prompts for benchmarking/evaluation based on prompt_type
-def generate_eval_prompt(data, prompt_type=1, use_prompt_template=False):
+def generate_eval_prompt(data, prompt_type=1, use_prompt_template=False, few_shot_data=None):
     if prompt_type == 1:  # adapted from MMLU prompt
         if "question_concept" in data:
             concept = data["question_concept"].strip()
@@ -190,13 +190,36 @@ def generate_eval_prompt(data, prompt_type=1, use_prompt_template=False):
             concept = data["question_concepts"].strip()
         else:
             raise Exception(f"Question concept not found for: {data}")
+        
+        if few_shot_data is not None:
+            few_shot_texts, concepts = [], []
+            for ex in few_shot_data:
+                few_shot_texts.append(f"""{ex['question'].strip()}
+{generate_choices_text(ex['choices'], with_quote=False).strip()}
+Answer: {ex['answer_creator']}""")
+                concepts.append(ex['question_concepts'])
+            few_shot_text = "\n\n".join(few_shot_texts) + "\n\n"
+            concept = ", ".join(concepts) + ", and " + concept
+        else:
+            few_shot_text = ""
 
         prompt = f"""The following are multiple choice questions (with answers) about \"{concept}\".
-{data['question'].strip()}
+{few_shot_text}{data['question'].strip()}
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
     elif prompt_type == 2:  # adapted from AI harness prompt
-        prompt = f"""Question: {data['question'].strip()}
+        if few_shot_data is not None:
+            few_shot_texts = []
+            for ex in few_shot_data:
+                few_shot_texts.append(f"""Question: {ex['question'].strip()}
+Choices:
+{generate_choices_text(ex['choices'], with_quote=False).strip()}
+Answer: {ex['answer_creator']}""")
+            few_shot_text = "\n\n".join(few_shot_texts) + "\n\n"
+        else:
+            few_shot_text = ""
+    
+        prompt = f"""{few_shot_text}Question: {data['question'].strip()}
 Choices:
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
@@ -207,10 +230,22 @@ Answer:"""
             concept = data["question_concepts"].strip()
         else:
             raise Exception(f"Question concept not found for: {data}")
+        
+        if few_shot_data is not None:
+            few_shot_texts, concepts = [], []
+            for ex in few_shot_data:
+                few_shot_texts.append(f"""Question: {ex['question'].strip()}
+{generate_choices_text(ex['choices'], with_quote=False).strip()}
+Answer: {ex['answer_creator']}""")
+                concepts.append(ex['question_concepts'])
+            few_shot_text = "\n\n".join(few_shot_texts) + "\n\n"
+            concept = ", ".join(concepts) + ", and " + concept
+        else:
+            few_shot_text = ""
 
         prompt = f"""The following are multiple choice questions (with answers) about \"{concept}\".
 
-Question: {data['question'].strip()}
+{few_shot_text}Question: {data['question'].strip()}
 {generate_choices_text(data['choices'], with_quote=False).strip()}
 Answer:"""
     else:

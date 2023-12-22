@@ -63,8 +63,8 @@ def extract_data_info(dataset_filename):
     return data_name, lang
 
 
-def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_metrics, version, prompt_type):
-    filename = 'eval_results/evaluation_metrics.csv'
+def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_metrics, version, prompt_type, is_3_shot):
+    filename = 'eval_results/evaluation_metrics.csv' if not is_3_shot else 'eval_results/evaluation_metrics_3-shot.csv'
     file_exists = os.path.exists(filename)
 
     with open(filename, mode='a', newline='', encoding='utf-8') as file:
@@ -79,13 +79,13 @@ def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_met
         writer.writerow([model_name, data_name, lang, version, prompt_type, evaluation_metrics['accuracy']])
 
 
-def evaluate_model(model, model_name, dataset, batch_size, gold_key, is_gpt, prompt_type):
+def evaluate_model(model, model_name, dataset, batch_size, gold_key, is_gpt, prompt_type, few_shot_data):
     results, golds = [], []
     use_prompt_template = "sealion" in model_name and "instruct" in model_name
 
     for i in tqdm(range(0, len(dataset), batch_size), desc="Evaluating"):
         batch = dataset[i:i + batch_size]
-        batch_prompts = [helpers.generate_eval_prompt(item, prompt_type, use_prompt_template) for item in batch]
+        batch_prompts = [helpers.generate_eval_prompt(item, prompt_type, use_prompt_template, few_shot_data) for item in batch]
         batch_golds = [item[gold_key] for item in batch]
 
         if is_gpt:
@@ -111,6 +111,19 @@ def main(args):
         model = load_open_model(args.model_name, args.history_version, args.prompt_type)
         is_gpt = False
 
+    if not args.few_shot:
+        few_shot_data = None
+    else:
+        print("Load few-shot data...")
+        _, lang = extract_data_info(args.dataset_path)
+        if lang == "ind":
+            few_shot_data = helpers.load_json_data("../dataset/v1_adapt/ind/train_3_shot.json")
+        elif lang == "sun":
+            few_shot_data = helpers.load_json_data("../dataset/v1_adapt/ind/train_3_shot.json")
+        else:
+            print("Few shot data not found.")
+            few_shot_data = None
+
     evaluation_results, evaluation_metrics = evaluate_model(
         model=model,
         model_name=args.model_name,
@@ -118,7 +131,8 @@ def main(args):
         batch_size=args.batch_size,
         gold_key=args.gold_key,
         is_gpt=is_gpt,
-        prompt_type=args.prompt_type
+        prompt_type=args.prompt_type,
+        few_shot_data=few_shot_data
     )
 
     print("Evaluation complete.")
@@ -127,7 +141,14 @@ def main(args):
     print(f"[RESPONSE] {evaluation_results[0][1]}")
     print("Evaluation Metrics:", evaluation_metrics)
 
-    write_evaluation_metrics_to_csv(args.model_name, args.dataset_path, evaluation_metrics, args.history_version, args.prompt_type)
+    write_evaluation_metrics_to_csv(
+        args.model_name,
+        args.dataset_path,
+        evaluation_metrics,
+        args.history_version,
+        args.prompt_type,
+        args.few_shot
+    )
 
 
 if __name__ == "__main__":
@@ -138,6 +159,7 @@ if __name__ == "__main__":
     parser.add_argument("--history_version", help="history file version (only for GPT models)", required=False, type=str)
     parser.add_argument("--batch_size", help="eval batch size", required=True, type=int)
     parser.add_argument("--prompt_type", help="prompt type", required=True, type=int)
+    parser.add_argument("--few_shot", help="whether to add 3-shot examples or not", action='store_true')
     args = parser.parse_args()
 
     main(args)
