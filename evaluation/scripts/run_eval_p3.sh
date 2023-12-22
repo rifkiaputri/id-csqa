@@ -1,6 +1,6 @@
 #!/bin/bash
 CUDA_VISIBLE_DEVICES=5 python eval.py \
-    --model_name "meta-llama/Llama-2-7b-chat-hf" \
+    --model_name "bigscience/bloomz-7b1" \
     --dataset_path "../dataset/v3_synthetic/filtered_ind.json" \
     --gold_key "answer_creator" \
     --history_version "231205" \
@@ -8,7 +8,7 @@ CUDA_VISIBLE_DEVICES=5 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=5 python eval.py \
-    --model_name "meta-llama/Llama-2-7b-chat-hf" \
+    --model_name "bigscience/bloomz-7b1" \
     --dataset_path "../dataset/v3_synthetic/filtered_sun.json" \
     --gold_key "answer_creator" \
     --history_version "231205" \

@@ -150,3 +150,9 @@ meta-llama/Llama-2-7b-chat-hf,v3_synthetic,ind,231205,2,69.86817325800376
 meta-llama/Llama-2-7b-chat-hf,v3_synthetic,sun,231205,2,45.855925639039505
 meta-llama/Llama-2-7b-chat-hf,v3_synthetic,ind,231205,1,69.6798493408663
 meta-llama/Llama-2-7b-chat-hf,v3_synthetic,sun,231205,1,47.09527498063517
+bigscience/bloomz-7b1,v3_synthetic,ind,231205,3,76.8361581920904
+bigscience/bloomz-7b1,v3_synthetic,sun,231205,3,50.34856700232378
+bigscience/bloomz-7b1,v3_synthetic,ind,231205,2,75.32956685499059
+bigscience/bloomz-7b1,v3_synthetic,sun,231205,2,48.412083656080554
+bigscience/bloomz-7b1,v3_synthetic,ind,231205,1,77.21280602636534
+bigscience/bloomz-7b1,v3_synthetic,sun,231205,1,51.2006196746708
