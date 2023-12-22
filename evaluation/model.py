@@ -155,7 +155,7 @@ class HfModelHistory:
             resume_download=True,
             trust_remote_code=trust_remote_code
         )
-        if "SeaLLM" in self.model_name or "polylm" in self.model_name:
+        if any(model in self.model_name for model in ["SeaLLM", "polylm", "llama"]):
             # quick fix for tensor error
             # https://github.com/facebookresearch/llama/issues/380
             model = model.bfloat16()
@@ -249,7 +249,7 @@ class HfModelHistory:
                     temperature=0.1,  # using the same temperature setting as closed model
                     do_sample=True,
                     min_new_tokens=1,
-                    max_new_tokens=30
+                    max_new_tokens=40
                 )
 
             # for fairer comparison, using the same setting as closed model:
