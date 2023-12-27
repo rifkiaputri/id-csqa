@@ -161,6 +161,6 @@ cython_debug/
 
 
 # Others
-notebooks/analysis/*.json
+notebooks/*
 evaluation/eval_history
 .vscode/
