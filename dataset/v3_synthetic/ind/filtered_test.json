@@ -18,7 +18,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "air mancur",
+        "question_concept": "air mancur",
         "category": "place"
     },
     {
@@ -40,7 +40,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "air terjun",
+        "question_concept": "air terjun",
         "category": "place"
     },
     {
@@ -62,7 +62,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "akuarium",
+        "question_concept": "akuarium",
         "category": "place"
     },
     {
@@ -84,7 +84,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "alun-alun",
+        "question_concept": "alun-alun",
         "category": "place"
     },
     {
@@ -106,7 +106,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "angkot",
+        "question_concept": "angkot",
         "category": "place"
     },
     {
@@ -128,7 +128,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "angkringan",
+        "question_concept": "angkringan",
         "category": "place"
     },
     {
@@ -150,7 +150,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "angkutan umum",
+        "question_concept": "angkutan umum",
         "category": "place"
     },
     {
@@ -172,7 +172,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "apotek",
+        "question_concept": "apotek",
         "category": "place"
     },
     {
@@ -194,7 +194,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "asrama",
+        "question_concept": "asrama",
         "category": "place"
     },
     {
@@ -216,11 +216,11 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "auditorium",
+        "question_concept": "auditorium",
         "category": "place"
     },
     {
-        "question_concepts": "bukit",
+        "question_concept": "bukit",
         "question": "Apa yang biasanya orang lakukan di bukit pada waktu sore hari?",
         "choices": {
             "label": [
@@ -242,7 +242,7 @@
         "category": "place"
     },
     {
-        "question_concepts": "bundaran hi",
+        "question_concept": "bundaran hi",
         "question": "Di kota mana Bundaran HI berada?",
         "choices": {
             "label": [
@@ -282,7 +282,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pangkalan ojek",
+        "question_concept": "pangkalan ojek",
         "category": "place"
     },
     {
@@ -304,7 +304,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "danau",
+        "question_concept": "danau",
         "category": "place"
     },
     {
@@ -326,7 +326,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "dapur",
+        "question_concept": "dapur",
         "category": "place"
     },
     {
@@ -348,7 +348,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "delman",
+        "question_concept": "delman",
         "category": "place"
     },
     {
@@ -370,7 +370,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "diskotik",
+        "question_concept": "diskotik",
         "category": "place"
     },
     {
@@ -392,7 +392,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "fotokopian",
+        "question_concept": "fotokopian",
         "category": "place"
     },
     {
@@ -414,7 +414,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "gang",
+        "question_concept": "gang",
         "category": "place"
     },
     {
@@ -436,7 +436,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "gedung dpr",
+        "question_concept": "gedung dpr",
         "category": "place"
     },
     {
@@ -458,7 +458,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "gunung",
+        "question_concept": "gunung",
         "category": "place"
     },
     {
@@ -480,7 +480,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "halaman",
+        "question_concept": "halaman",
         "category": "place"
     },
     {
@@ -502,7 +502,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "halte",
+        "question_concept": "halte",
         "category": "place"
     },
     {
@@ -524,7 +524,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "hotel",
+        "question_concept": "hotel",
         "category": "place"
     },
     {
@@ -546,7 +546,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "hutan",
+        "question_concept": "hutan",
         "category": "place"
     },
     {
@@ -568,7 +568,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "institut teknologi bandung",
+        "question_concept": "institut teknologi bandung",
         "category": "place"
     },
     {
@@ -590,7 +590,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "istana",
+        "question_concept": "istana",
         "category": "place"
     },
     {
@@ -612,7 +612,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "istana presiden",
+        "question_concept": "istana presiden",
         "category": "place"
     },
     {
@@ -634,7 +634,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "jalan raya",
+        "question_concept": "jalan raya",
         "category": "place"
     },
     {
@@ -656,7 +656,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "jaklingko",
+        "question_concept": "jaklingko",
         "category": "place"
     },
     {
@@ -678,7 +678,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "jembatan",
+        "question_concept": "jembatan",
         "category": "place"
     },
     {
@@ -700,7 +700,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "jembatan penyebrangan",
+        "question_concept": "jembatan penyebrangan",
         "category": "place"
     },
     {
@@ -722,7 +722,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "kafe",
+        "question_concept": "kafe",
         "category": "place"
     },
     {
@@ -744,7 +744,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kamar",
+        "question_concept": "kamar",
         "category": "place"
     },
     {
@@ -766,7 +766,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kapal laut",
+        "question_concept": "kapal laut",
         "category": "place"
     },
     {
@@ -788,7 +788,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kuburan",
+        "question_concept": "kuburan",
         "category": "place"
     },
     {
@@ -810,7 +810,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "lampu merah",
+        "question_concept": "lampu merah",
         "category": "place"
     },
     {
@@ -832,7 +832,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "lapangan bola",
+        "question_concept": "lapangan bola",
         "category": "place"
     },
     {
@@ -854,7 +854,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "lembang",
+        "question_concept": "lembang",
         "category": "place"
     },
     {
@@ -876,7 +876,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "ojol",
+        "question_concept": "ojol",
         "category": "place"
     },
     {
@@ -898,7 +898,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "panti pijat",
+        "question_concept": "panti pijat",
         "category": "place"
     },
     {
@@ -920,7 +920,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "parkiran",
+        "question_concept": "parkiran",
         "category": "place"
     },
     {
@@ -942,7 +942,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pasar",
+        "question_concept": "pasar",
         "category": "place"
     },
     {
@@ -964,7 +964,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pasar malam",
+        "question_concept": "pasar malam",
         "category": "place"
     },
     {
@@ -986,7 +986,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "pegadaian",
+        "question_concept": "pegadaian",
         "category": "place"
     },
     {
@@ -1008,7 +1008,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "ruang laktasi",
+        "question_concept": "ruang laktasi",
         "category": "place"
     },
     {
@@ -1030,7 +1030,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "ruang pameran",
+        "question_concept": "ruang pameran",
         "category": "place"
     },
     {
@@ -1052,7 +1052,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "rumah",
+        "question_concept": "rumah",
         "category": "place"
     },
     {
@@ -1074,7 +1074,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "rumah sakit",
+        "question_concept": "rumah sakit",
         "category": "place"
     },
     {
@@ -1096,7 +1096,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "rumah tetangga",
+        "question_concept": "rumah tetangga",
         "category": "place"
     },
     {
@@ -1118,7 +1118,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "salon",
+        "question_concept": "salon",
         "category": "place"
     },
     {
@@ -1140,7 +1140,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "sekolah",
+        "question_concept": "sekolah",
         "category": "place"
     },
     {
@@ -1162,7 +1162,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "sofa",
+        "question_concept": "sofa",
         "category": "place"
     },
     {
@@ -1184,7 +1184,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "stadion",
+        "question_concept": "stadion",
         "category": "place"
     },
     {
@@ -1206,7 +1206,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "stasiun",
+        "question_concept": "stasiun",
         "category": "place"
     },
     {
@@ -1228,7 +1228,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "sungai",
+        "question_concept": "sungai",
         "category": "place"
     },
     {
@@ -1250,7 +1250,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "supermarket",
+        "question_concept": "supermarket",
         "category": "place"
     },
     {
@@ -1272,7 +1272,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "taksi",
+        "question_concept": "taksi",
         "category": "place"
     },
     {
@@ -1294,7 +1294,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "taman",
+        "question_concept": "taman",
         "category": "place"
     },
     {
@@ -1316,7 +1316,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "taman rekreasi",
+        "question_concept": "taman rekreasi",
         "category": "place"
     },
     {
@@ -1338,7 +1338,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "tempat penitipan anak",
+        "question_concept": "tempat penitipan anak",
         "category": "place"
     },
     {
@@ -1360,7 +1360,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tenda",
+        "question_concept": "tenda",
         "category": "place"
     },
     {
@@ -1382,7 +1382,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "toilet",
+        "question_concept": "toilet",
         "category": "place"
     },
     {
@@ -1404,7 +1404,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "universitas indonesia",
+        "question_concept": "universitas indonesia",
         "category": "place"
     },
     {
@@ -1426,7 +1426,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "vila",
+        "question_concept": "vila",
         "category": "place"
     },
     {
@@ -1448,7 +1448,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "warung",
+        "question_concept": "warung",
         "category": "place"
     },
     {
@@ -1470,7 +1470,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "warung tenda",
+        "question_concept": "warung tenda",
         "category": "place"
     },
     {
@@ -1492,7 +1492,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "yogyakarta",
+        "question_concept": "yogyakarta",
         "category": "place"
     },
     {
@@ -1514,7 +1514,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "adat istiadat",
+        "question_concept": "adat istiadat",
         "category": "culture"
     },
     {
@@ -1536,7 +1536,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "agama",
+        "question_concept": "agama",
         "category": "culture"
     },
     {
@@ -1558,7 +1558,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "air",
+        "question_concept": "air",
         "category": "culture"
     },
     {
@@ -1580,7 +1580,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "pingit",
+        "question_concept": "pingit",
         "category": "culture"
     },
     {
@@ -1602,7 +1602,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "alat musik",
+        "question_concept": "alat musik",
         "category": "culture"
     },
     {
@@ -1624,7 +1624,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "anak gadis",
+        "question_concept": "anak gadis",
         "category": "culture"
     },
     {
@@ -1646,7 +1646,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "angklung",
+        "question_concept": "angklung",
         "category": "culture"
     },
     {
@@ -1668,7 +1668,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "anyaman",
+        "question_concept": "anyaman",
         "category": "culture"
     },
     {
@@ -1690,7 +1690,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "api",
+        "question_concept": "api",
         "category": "culture"
     },
     {
@@ -1712,7 +1712,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "arak",
+        "question_concept": "arak",
         "category": "culture"
     },
     {
@@ -1734,7 +1734,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "bahasa",
+        "question_concept": "bahasa",
         "category": "culture"
     },
     {
@@ -1756,7 +1756,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "bali",
+        "question_concept": "bali",
         "category": "culture"
     },
     {
@@ -1778,7 +1778,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "bayi",
+        "question_concept": "bayi",
         "category": "culture"
     },
     {
@@ -1800,7 +1800,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "beragam",
+        "question_concept": "beragam",
         "category": "culture"
     },
     {
@@ -1822,7 +1822,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "berkembang",
+        "question_concept": "berkembang",
         "category": "culture"
     },
     {
@@ -1844,7 +1844,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "betawi",
+        "question_concept": "betawi",
         "category": "culture"
     },
     {
@@ -1866,7 +1866,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "biksu",
+        "question_concept": "biksu",
         "category": "culture"
     },
     {
@@ -1888,7 +1888,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "buku",
+        "question_concept": "buku",
         "category": "culture"
     },
     {
@@ -1910,7 +1910,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "bunga",
+        "question_concept": "bunga",
         "category": "culture"
     },
     {
@@ -1932,7 +1932,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "cagar alam",
+        "question_concept": "cagar alam",
         "category": "culture"
     },
     {
@@ -1954,7 +1954,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "ceramah",
+        "question_concept": "ceramah",
         "category": "culture"
     },
     {
@@ -1976,7 +1976,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "dangdut",
+        "question_concept": "dangdut",
         "category": "culture"
     },
     {
@@ -1998,7 +1998,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "darah",
+        "question_concept": "darah",
         "category": "culture"
     },
     {
@@ -2020,7 +2020,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "dayak",
+        "question_concept": "dayak",
         "category": "culture"
     },
     {
@@ -2042,7 +2042,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "eksotis",
+        "question_concept": "eksotis",
         "category": "culture"
     },
     {
@@ -2064,7 +2064,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "eksploitasi",
+        "question_concept": "eksploitasi",
         "category": "culture"
     },
     {
@@ -2086,7 +2086,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "etnis",
+        "question_concept": "etnis",
         "category": "culture"
     },
     {
@@ -2108,7 +2108,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "feminis",
+        "question_concept": "feminis",
         "category": "culture"
     },
     {
@@ -2130,7 +2130,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "film",
+        "question_concept": "film",
         "category": "culture"
     },
     {
@@ -2152,7 +2152,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "folklor",
+        "question_concept": "folklor",
         "category": "culture"
     },
     {
@@ -2174,7 +2174,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "galeri",
+        "question_concept": "galeri",
         "category": "culture"
     },
     {
@@ -2196,7 +2196,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "galungan",
+        "question_concept": "galungan",
         "category": "culture"
     },
     {
@@ -2218,7 +2218,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "global",
+        "question_concept": "global",
         "category": "culture"
     },
     {
@@ -2240,7 +2240,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "ibadah",
+        "question_concept": "ibadah",
         "category": "culture"
     },
     {
@@ -2262,7 +2262,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "jawa",
+        "question_concept": "jawa",
         "category": "culture"
     },
     {
@@ -2284,7 +2284,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "kabaret",
+        "question_concept": "kabaret",
         "category": "culture"
     },
     {
@@ -2306,7 +2306,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "kain",
+        "question_concept": "kain",
         "category": "culture"
     },
     {
@@ -2328,7 +2328,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "kanvas",
+        "question_concept": "kanvas",
         "category": "culture"
     },
     {
@@ -2350,7 +2350,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "karya",
+        "question_concept": "karya",
         "category": "culture"
     },
     {
@@ -2372,7 +2372,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kearifan lokal",
+        "question_concept": "kearifan lokal",
         "category": "culture"
     },
     {
@@ -2394,7 +2394,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kebaya",
+        "question_concept": "kebaya",
         "category": "culture"
     },
     {
@@ -2416,7 +2416,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kehamilan",
+        "question_concept": "kehamilan",
         "category": "culture"
     },
     {
@@ -2438,7 +2438,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "kekasih",
+        "question_concept": "kekasih",
         "category": "culture"
     },
     {
@@ -2460,7 +2460,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kekeluargaan",
+        "question_concept": "kekeluargaan",
         "category": "culture"
     },
     {
@@ -2482,7 +2482,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "kelahiran",
+        "question_concept": "kelahiran",
         "category": "culture"
     },
     {
@@ -2504,7 +2504,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kematian",
+        "question_concept": "kematian",
         "category": "culture"
     },
     {
@@ -2526,7 +2526,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kepercayaan",
+        "question_concept": "kepercayaan",
         "category": "culture"
     },
     {
@@ -2548,7 +2548,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "keraton",
+        "question_concept": "keraton",
         "category": "culture"
     },
     {
@@ -2570,7 +2570,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kerokan",
+        "question_concept": "kerokan",
         "category": "culture"
     },
     {
@@ -2592,7 +2592,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kesenian",
+        "question_concept": "kesenian",
         "category": "culture"
     },
     {
@@ -2614,7 +2614,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "khitanan",
+        "question_concept": "khitanan",
         "category": "culture"
     },
     {
@@ -2636,7 +2636,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pacaran",
+        "question_concept": "pacaran",
         "category": "culture"
     },
     {
@@ -2658,7 +2658,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "klenteng",
+        "question_concept": "klenteng",
         "category": "culture"
     },
     {
@@ -2680,7 +2680,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kompetisi",
+        "question_concept": "kompetisi",
         "category": "culture"
     },
     {
@@ -2702,7 +2702,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "konservasi",
+        "question_concept": "konservasi",
         "category": "culture"
     },
     {
@@ -2724,7 +2724,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kontemporer",
+        "question_concept": "kontemporer",
         "category": "culture"
     },
     {
@@ -2746,7 +2746,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "kuas",
+        "question_concept": "kuas",
         "category": "culture"
     },
     {
@@ -2768,7 +2768,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kuning",
+        "question_concept": "kuning",
         "category": "culture"
     },
     {
@@ -2790,7 +2790,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kuno",
+        "question_concept": "kuno",
         "category": "culture"
     },
     {
@@ -2812,7 +2812,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "lagu",
+        "question_concept": "lagu",
         "category": "culture"
     },
     {
@@ -2834,7 +2834,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "langka",
+        "question_concept": "langka",
         "category": "culture"
     },
     {
@@ -2856,7 +2856,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "latihan",
+        "question_concept": "latihan",
         "category": "culture"
     },
     {
@@ -2878,7 +2878,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "lukisan",
+        "question_concept": "lukisan",
         "category": "culture"
     },
     {
@@ -2900,7 +2900,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "mahal",
+        "question_concept": "mahal",
         "category": "culture"
     },
     {
@@ -2922,7 +2922,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "makan",
+        "question_concept": "makan",
         "category": "culture"
     },
     {
@@ -2944,7 +2944,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "malam",
+        "question_concept": "malam",
         "category": "culture"
     },
     {
@@ -2966,7 +2966,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mandi",
+        "question_concept": "mandi",
         "category": "culture"
     },
     {
@@ -2988,7 +2988,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "manusia",
+        "question_concept": "manusia",
         "category": "culture"
     },
     {
@@ -3010,7 +3010,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "masjid",
+        "question_concept": "masjid",
         "category": "culture"
     },
     {
@@ -3032,7 +3032,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "melestarikan",
+        "question_concept": "melestarikan",
         "category": "culture"
     },
     {
@@ -3054,7 +3054,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "membakar",
+        "question_concept": "membakar",
         "category": "culture"
     },
     {
@@ -3076,7 +3076,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "peci",
+        "question_concept": "peci",
         "category": "culture"
     },
     {
@@ -3098,7 +3098,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "memotong",
+        "question_concept": "memotong",
         "category": "culture"
     },
     {
@@ -3120,7 +3120,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "mendunia",
+        "question_concept": "mendunia",
         "category": "culture"
     },
     {
@@ -3142,7 +3142,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "menyebar",
+        "question_concept": "menyebar",
         "category": "culture"
     },
     {
@@ -3164,7 +3164,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "minang",
+        "question_concept": "minang",
         "category": "culture"
     },
     {
@@ -3186,7 +3186,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "minum",
+        "question_concept": "minum",
         "category": "culture"
     },
     {
@@ -3208,7 +3208,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "mitos",
+        "question_concept": "mitos",
         "category": "culture"
     },
     {
@@ -3230,7 +3230,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "multikultural",
+        "question_concept": "multikultural",
         "category": "culture"
     },
     {
@@ -3252,7 +3252,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mulut ke mulut",
+        "question_concept": "mulut ke mulut",
         "category": "culture"
     },
     {
@@ -3274,7 +3274,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "murni",
+        "question_concept": "murni",
         "category": "culture"
     },
     {
@@ -3296,7 +3296,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "musikalisasi",
+        "question_concept": "musikalisasi",
         "category": "culture"
     },
     {
@@ -3318,7 +3318,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "natal",
+        "question_concept": "natal",
         "category": "culture"
     },
     {
@@ -3340,7 +3340,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "nusantara",
+        "question_concept": "nusantara",
         "category": "culture"
     },
     {
@@ -3362,7 +3362,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "orang",
+        "question_concept": "orang",
         "category": "culture"
     },
     {
@@ -3384,7 +3384,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "pagi",
+        "question_concept": "pagi",
         "category": "culture"
     },
     {
@@ -3406,7 +3406,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pakaian",
+        "question_concept": "pakaian",
         "category": "culture"
     },
     {
@@ -3428,7 +3428,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pameran",
+        "question_concept": "pameran",
         "category": "culture"
     },
     {
@@ -3450,7 +3450,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "panen",
+        "question_concept": "panen",
         "category": "culture"
     },
     {
@@ -3472,7 +3472,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "panggung",
+        "question_concept": "panggung",
         "category": "culture"
     },
     {
@@ -3494,7 +3494,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "duduk di depan pintu",
+        "question_concept": "duduk di depan pintu",
         "category": "culture"
     },
     {
@@ -3516,7 +3516,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "parang",
+        "question_concept": "parang",
         "category": "culture"
     },
     {
@@ -3538,7 +3538,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "patriarki",
+        "question_concept": "patriarki",
         "category": "culture"
     },
     {
@@ -3560,7 +3560,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "patung",
+        "question_concept": "patung",
         "category": "culture"
     },
     {
@@ -3582,7 +3582,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "pekerjaan",
+        "question_concept": "pekerjaan",
         "category": "culture"
     },
     {
@@ -3604,7 +3604,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pelestarian",
+        "question_concept": "pelestarian",
         "category": "culture"
     },
     {
@@ -3626,7 +3626,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pemuda",
+        "question_concept": "pemuda",
         "category": "culture"
     },
     {
@@ -3648,7 +3648,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "jilbab",
+        "question_concept": "jilbab",
         "category": "culture"
     },
     {
@@ -3670,7 +3670,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "punah",
+        "question_concept": "punah",
         "category": "culture"
     },
     {
@@ -3692,7 +3692,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pura",
+        "question_concept": "pura",
         "category": "culture"
     },
     {
@@ -3714,7 +3714,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "rambut",
+        "question_concept": "rambut",
         "category": "culture"
     },
     {
@@ -3736,7 +3736,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "ritual",
+        "question_concept": "ritual",
         "category": "culture"
     },
     {
@@ -3758,7 +3758,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "rumah",
+        "question_concept": "rumah",
         "category": "culture"
     },
     {
@@ -3780,7 +3780,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "rumah adat",
+        "question_concept": "rumah adat",
         "category": "culture"
     },
     {
@@ -3802,7 +3802,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "salam",
+        "question_concept": "salam",
         "category": "culture"
     },
     {
@@ -3824,7 +3824,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "saman",
+        "question_concept": "saman",
         "category": "culture"
     },
     {
@@ -3846,7 +3846,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "sarung",
+        "question_concept": "sarung",
         "category": "culture"
     },
     {
@@ -3868,7 +3868,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "selamatan",
+        "question_concept": "selamatan",
         "category": "culture"
     },
     {
@@ -3890,7 +3890,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "seni rupa",
+        "question_concept": "seni rupa",
         "category": "culture"
     },
     {
@@ -3912,7 +3912,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "seniman",
+        "question_concept": "seniman",
         "category": "culture"
     },
     {
@@ -3934,7 +3934,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "sesajen",
+        "question_concept": "sesajen",
         "category": "culture"
     },
     {
@@ -3956,7 +3956,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "lepas alas kaki",
+        "question_concept": "lepas alas kaki",
         "category": "culture"
     },
     {
@@ -3978,7 +3978,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "sunda",
+        "question_concept": "sunda",
         "category": "culture"
     },
     {
@@ -4000,7 +4000,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "tahun baru",
+        "question_concept": "tahun baru",
         "category": "culture"
     },
     {
@@ -4022,7 +4022,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "tanah",
+        "question_concept": "tanah",
         "category": "culture"
     },
     {
@@ -4044,7 +4044,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tarian",
+        "question_concept": "tarian",
         "category": "culture"
     },
     {
@@ -4066,7 +4066,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "tenun",
+        "question_concept": "tenun",
         "category": "culture"
     },
     {
@@ -4088,7 +4088,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tradisi",
+        "question_concept": "tradisi",
         "category": "culture"
     },
     {
@@ -4110,7 +4110,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tradisional",
+        "question_concept": "tradisional",
         "category": "culture"
     },
     {
@@ -4132,7 +4132,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "turun temurun",
+        "question_concept": "turun temurun",
         "category": "culture"
     },
     {
@@ -4154,7 +4154,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "uang",
+        "question_concept": "uang",
         "category": "culture"
     },
     {
@@ -4176,7 +4176,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "ulang tahun",
+        "question_concept": "ulang tahun",
         "category": "culture"
     },
     {
@@ -4198,7 +4198,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "unesco",
+        "question_concept": "unesco",
         "category": "culture"
     },
     {
@@ -4220,7 +4220,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "ungu",
+        "question_concept": "ungu",
         "category": "culture"
     },
     {
@@ -4242,7 +4242,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tangan kanan",
+        "question_concept": "tangan kanan",
         "category": "culture"
     },
     {
@@ -4264,7 +4264,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "upacara",
+        "question_concept": "upacara",
         "category": "culture"
     },
     {
@@ -4286,7 +4286,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "waisak",
+        "question_concept": "waisak",
         "category": "culture"
     },
     {
@@ -4308,7 +4308,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "warisan",
+        "question_concept": "warisan",
         "category": "culture"
     },
     {
@@ -4330,7 +4330,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "wayang",
+        "question_concept": "wayang",
         "category": "culture"
     },
     {
@@ -4352,7 +4352,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "wihara",
+        "question_concept": "wihara",
         "category": "culture"
     },
     {
@@ -4374,7 +4374,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "wisata",
+        "question_concept": "wisata",
         "category": "culture"
     },
     {
@@ -4396,7 +4396,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "abad",
+        "question_concept": "abad",
         "category": "history"
     },
     {
@@ -4418,7 +4418,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "ahli",
+        "question_concept": "ahli",
         "category": "history"
     },
     {
@@ -4440,7 +4440,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "aksi",
+        "question_concept": "aksi",
         "category": "history"
     },
     {
@@ -4462,7 +4462,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "aktivis",
+        "question_concept": "aktivis",
         "category": "history"
     },
     {
@@ -4484,7 +4484,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "anggota",
+        "question_concept": "anggota",
         "category": "history"
     },
     {
@@ -4506,7 +4506,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "arkeologi",
+        "question_concept": "arkeologi",
         "category": "history"
     },
     {
@@ -4528,7 +4528,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "arsip",
+        "question_concept": "arsip",
         "category": "history"
     },
     {
@@ -4550,7 +4550,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "asal usul",
+        "question_concept": "asal usul",
         "category": "history"
     },
     {
@@ -4572,7 +4572,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "asuransi",
+        "question_concept": "asuransi",
         "category": "history"
     },
     {
@@ -4594,7 +4594,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "bambu runcing",
+        "question_concept": "bambu runcing",
         "category": "history"
     },
     {
@@ -4616,7 +4616,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "belanda",
+        "question_concept": "belanda",
         "category": "history"
     },
     {
@@ -4638,7 +4638,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "bendera",
+        "question_concept": "bendera",
         "category": "history"
     },
     {
@@ -4660,7 +4660,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "benteng",
+        "question_concept": "benteng",
         "category": "history"
     },
     {
@@ -4682,7 +4682,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "berdiri",
+        "question_concept": "berdiri",
         "category": "history"
     },
     {
@@ -4704,7 +4704,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "berjuang",
+        "question_concept": "berjuang",
         "category": "history"
     },
     {
@@ -4726,7 +4726,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "bertempur",
+        "question_concept": "bertempur",
         "category": "history"
     },
     {
@@ -4748,7 +4748,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "candi",
+        "question_concept": "candi",
         "category": "history"
     },
     {
@@ -4770,7 +4770,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "cerita",
+        "question_concept": "cerita",
         "category": "history"
     },
     {
@@ -4792,7 +4792,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "daerah",
+        "question_concept": "daerah",
         "category": "history"
     },
     {
@@ -4814,7 +4814,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "deklarasi",
+        "question_concept": "deklarasi",
         "category": "history"
     },
     {
@@ -4836,7 +4836,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "demonstran",
+        "question_concept": "demonstran",
         "category": "history"
     },
     {
@@ -4858,7 +4858,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "hilang",
+        "question_concept": "hilang",
         "category": "history"
     },
     {
@@ -4880,7 +4880,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "diktator",
+        "question_concept": "diktator",
         "category": "history"
     },
     {
@@ -4902,7 +4902,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "diplomatik",
+        "question_concept": "diplomatik",
         "category": "history"
     },
     {
@@ -4924,7 +4924,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "doktrin",
+        "question_concept": "doktrin",
         "category": "history"
     },
     {
@@ -4946,7 +4946,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "eksekusi",
+        "question_concept": "eksekusi",
         "category": "history"
     },
     {
@@ -4968,7 +4968,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "era",
+        "question_concept": "era",
         "category": "history"
     },
     {
@@ -4990,7 +4990,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "fosil",
+        "question_concept": "fosil",
         "category": "history"
     },
     {
@@ -5012,7 +5012,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "genosida",
+        "question_concept": "genosida",
         "category": "history"
     },
     {
@@ -5034,7 +5034,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "gerakan",
+        "question_concept": "gerakan",
         "category": "history"
     },
     {
@@ -5056,7 +5056,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "gunung meletus",
+        "question_concept": "gunung meletus",
         "category": "history"
     },
     {
@@ -5078,7 +5078,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "hak pilih",
+        "question_concept": "hak pilih",
         "category": "history"
     },
     {
@@ -5100,7 +5100,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "hari kemerdekaan",
+        "question_concept": "hari kemerdekaan",
         "category": "history"
     },
     {
@@ -5122,7 +5122,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "himpunan",
+        "question_concept": "himpunan",
         "category": "history"
     },
     {
@@ -5144,7 +5144,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "hukuman",
+        "question_concept": "hukuman",
         "category": "history"
     },
     {
@@ -5166,7 +5166,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "identitas",
+        "question_concept": "identitas",
         "category": "history"
     },
     {
@@ -5188,7 +5188,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "ideologi",
+        "question_concept": "ideologi",
         "category": "history"
     },
     {
@@ -5210,7 +5210,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "ilustrasi",
+        "question_concept": "ilustrasi",
         "category": "history"
     },
     {
@@ -5232,7 +5232,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "jatuh",
+        "question_concept": "jatuh",
         "category": "history"
     },
     {
@@ -5254,7 +5254,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "jawa",
+        "question_concept": "jawa",
         "category": "history"
     },
     {
@@ -5276,7 +5276,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "jelajah",
+        "question_concept": "jelajah",
         "category": "history"
     },
     {
@@ -5298,7 +5298,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "jepang",
+        "question_concept": "jepang",
         "category": "history"
     },
     {
@@ -5320,7 +5320,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "kampanye",
+        "question_concept": "kampanye",
         "category": "history"
     },
     {
@@ -5342,7 +5342,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kebangkitan",
+        "question_concept": "kebangkitan",
         "category": "history"
     },
     {
@@ -5364,7 +5364,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "kebebasan",
+        "question_concept": "kebebasan",
         "category": "history"
     },
     {
@@ -5386,7 +5386,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "kebijakan",
+        "question_concept": "kebijakan",
         "category": "history"
     },
     {
@@ -5408,7 +5408,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kegelapan",
+        "question_concept": "kegelapan",
         "category": "history"
     },
     {
@@ -5430,7 +5430,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kekerasan",
+        "question_concept": "kekerasan",
         "category": "history"
     },
     {
@@ -5452,7 +5452,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kekuasaan",
+        "question_concept": "kekuasaan",
         "category": "history"
     },
     {
@@ -5474,7 +5474,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "kelompok",
+        "question_concept": "kelompok",
         "category": "history"
     },
     {
@@ -5496,7 +5496,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kemerdekaan",
+        "question_concept": "kemerdekaan",
         "category": "history"
     },
     {
@@ -5518,7 +5518,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "kerajaan",
+        "question_concept": "kerajaan",
         "category": "history"
     },
     {
@@ -5540,7 +5540,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "kerja paksa",
+        "question_concept": "kerja paksa",
         "category": "history"
     },
     {
@@ -5562,7 +5562,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "kerja sama",
+        "question_concept": "kerja sama",
         "category": "history"
     },
     {
@@ -5584,7 +5584,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kilas balik",
+        "question_concept": "kilas balik",
         "category": "history"
     },
     {
@@ -5606,7 +5606,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "kolonial",
+        "question_concept": "kolonial",
         "category": "history"
     },
     {
@@ -5628,7 +5628,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "komite",
+        "question_concept": "komite",
         "category": "history"
     },
     {
@@ -5650,7 +5650,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "komunis",
+        "question_concept": "komunis",
         "category": "history"
     },
     {
@@ -5672,7 +5672,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "konflik",
+        "question_concept": "konflik",
         "category": "history"
     },
     {
@@ -5694,7 +5694,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kontrak",
+        "question_concept": "kontrak",
         "category": "history"
     },
     {
@@ -5716,7 +5716,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "korban",
+        "question_concept": "korban",
         "category": "history"
     },
     {
@@ -5738,7 +5738,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "kronologi",
+        "question_concept": "kronologi",
         "category": "history"
     },
     {
@@ -5760,7 +5760,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "lampau",
+        "question_concept": "lampau",
         "category": "history"
     },
     {
@@ -5782,7 +5782,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "lembaga",
+        "question_concept": "lembaga",
         "category": "history"
     },
     {
@@ -5804,7 +5804,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "makam",
+        "question_concept": "makam",
         "category": "history"
     },
     {
@@ -5826,7 +5826,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "masa depan",
+        "question_concept": "masa depan",
         "category": "history"
     },
     {
@@ -5848,7 +5848,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "massal",
+        "question_concept": "massal",
         "category": "history"
     },
     {
@@ -5870,7 +5870,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "masyarakat",
+        "question_concept": "masyarakat",
         "category": "history"
     },
     {
@@ -5892,7 +5892,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mati",
+        "question_concept": "mati",
         "category": "history"
     },
     {
@@ -5914,7 +5914,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "memimpin",
+        "question_concept": "memimpin",
         "category": "history"
     },
     {
@@ -5936,7 +5936,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "menaklukkan",
+        "question_concept": "menaklukkan",
         "category": "history"
     },
     {
@@ -5958,7 +5958,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "menciptakan",
+        "question_concept": "menciptakan",
         "category": "history"
     },
     {
@@ -5980,7 +5980,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "menguasai",
+        "question_concept": "menguasai",
         "category": "history"
     },
     {
@@ -6002,7 +6002,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "militer",
+        "question_concept": "militer",
         "category": "history"
     },
     {
@@ -6024,7 +6024,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "monarki",
+        "question_concept": "monarki",
         "category": "history"
     },
     {
@@ -6046,7 +6046,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "monopoli",
+        "question_concept": "monopoli",
         "category": "history"
     },
     {
@@ -6068,7 +6068,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "museum",
+        "question_concept": "museum",
         "category": "history"
     },
     {
@@ -6090,7 +6090,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "musuh",
+        "question_concept": "musuh",
         "category": "history"
     },
     {
@@ -6112,7 +6112,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "nasib",
+        "question_concept": "nasib",
         "category": "history"
     },
     {
@@ -6134,7 +6134,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "nasional",
+        "question_concept": "nasional",
         "category": "history"
     },
     {
@@ -6156,7 +6156,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "naskah",
+        "question_concept": "naskah",
         "category": "history"
     },
     {
@@ -6178,7 +6178,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "negara",
+        "question_concept": "negara",
         "category": "history"
     },
     {
@@ -6200,7 +6200,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "negosiasi",
+        "question_concept": "negosiasi",
         "category": "history"
     },
     {
@@ -6222,7 +6222,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "orde baru",
+        "question_concept": "orde baru",
         "category": "history"
     },
     {
@@ -6244,7 +6244,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "orde lama",
+        "question_concept": "orde lama",
         "category": "history"
     },
     {
@@ -6266,7 +6266,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "organisasi",
+        "question_concept": "organisasi",
         "category": "history"
     },
     {
@@ -6288,7 +6288,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "otoritas",
+        "question_concept": "otoritas",
         "category": "history"
     },
     {
@@ -6310,7 +6310,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pahlawan",
+        "question_concept": "pahlawan",
         "category": "history"
     },
     {
@@ -6332,7 +6332,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pancasila",
+        "question_concept": "pancasila",
         "category": "history"
     },
     {
@@ -6354,7 +6354,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "papua",
+        "question_concept": "papua",
         "category": "history"
     },
     {
@@ -6376,7 +6376,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "partai",
+        "question_concept": "partai",
         "category": "history"
     },
     {
@@ -6398,7 +6398,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pasukan",
+        "question_concept": "pasukan",
         "category": "history"
     },
     {
@@ -6420,7 +6420,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "patung",
+        "question_concept": "patung",
         "category": "history"
     },
     {
@@ -6442,7 +6442,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pelajaran",
+        "question_concept": "pelajaran",
         "category": "history"
     },
     {
@@ -6464,7 +6464,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pembantaian",
+        "question_concept": "pembantaian",
         "category": "history"
     },
     {
@@ -6486,7 +6486,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "pemberontakan",
+        "question_concept": "pemberontakan",
         "category": "history"
     },
     {
@@ -6508,7 +6508,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pembunuhan",
+        "question_concept": "pembunuhan",
         "category": "history"
     },
     {
@@ -6530,7 +6530,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pendokumentasian",
+        "question_concept": "pendokumentasian",
         "category": "history"
     },
     {
@@ -6552,7 +6552,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "penemuan",
+        "question_concept": "penemuan",
         "category": "history"
     },
     {
@@ -6574,7 +6574,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pengasingan",
+        "question_concept": "pengasingan",
         "category": "history"
     },
     {
@@ -6596,7 +6596,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "penguasa",
+        "question_concept": "penguasa",
         "category": "history"
     },
     {
@@ -6618,7 +6618,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "peninggalan",
+        "question_concept": "peninggalan",
         "category": "history"
     },
     {
@@ -6640,7 +6640,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "penjajah",
+        "question_concept": "penjajah",
         "category": "history"
     },
     {
@@ -6662,7 +6662,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "penjara",
+        "question_concept": "penjara",
         "category": "history"
     },
     {
@@ -6684,7 +6684,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "penjarahan",
+        "question_concept": "penjarahan",
         "category": "history"
     },
     {
@@ -6706,7 +6706,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "penjelajah",
+        "question_concept": "penjelajah",
         "category": "history"
     },
     {
@@ -6728,7 +6728,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "perang",
+        "question_concept": "perang",
         "category": "history"
     },
     {
@@ -6750,7 +6750,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "perdagangan",
+        "question_concept": "perdagangan",
         "category": "history"
     },
     {
@@ -6772,7 +6772,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "perdamaian",
+        "question_concept": "perdamaian",
         "category": "history"
     },
     {
@@ -6794,7 +6794,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "peringatan",
+        "question_concept": "peringatan",
         "category": "history"
     },
     {
@@ -6816,7 +6816,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "peristiwa",
+        "question_concept": "peristiwa",
         "category": "history"
     },
     {
@@ -6838,7 +6838,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "perjanjian",
+        "question_concept": "perjanjian",
         "category": "history"
     },
     {
@@ -6860,7 +6860,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "perlawanan",
+        "question_concept": "perlawanan",
         "category": "history"
     },
     {
@@ -6882,7 +6882,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "perlindungan",
+        "question_concept": "perlindungan",
         "category": "history"
     },
     {
@@ -6904,7 +6904,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pertahanan",
+        "question_concept": "pertahanan",
         "category": "history"
     },
     {
@@ -6926,7 +6926,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pki",
+        "question_concept": "pki",
         "category": "history"
     },
     {
@@ -6948,7 +6948,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "politik",
+        "question_concept": "politik",
         "category": "history"
     },
     {
@@ -6970,7 +6970,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "prasasti",
+        "question_concept": "prasasti",
         "category": "history"
     },
     {
@@ -6992,7 +6992,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "presiden",
+        "question_concept": "presiden",
         "category": "history"
     },
     {
@@ -7014,7 +7014,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pribumi",
+        "question_concept": "pribumi",
         "category": "history"
     },
     {
@@ -7036,7 +7036,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "priyai",
+        "question_concept": "priyai",
         "category": "history"
     },
     {
@@ -7058,7 +7058,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "proklamasi",
+        "question_concept": "proklamasi",
         "category": "history"
     },
     {
@@ -7080,7 +7080,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "proses",
+        "question_concept": "proses",
         "category": "history"
     },
     {
@@ -7102,7 +7102,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "protes",
+        "question_concept": "protes",
         "category": "history"
     },
     {
@@ -7124,7 +7124,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "raja",
+        "question_concept": "raja",
         "category": "history"
     },
     {
@@ -7146,7 +7146,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "rakyat",
+        "question_concept": "rakyat",
         "category": "history"
     },
     {
@@ -7168,7 +7168,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "ramalan",
+        "question_concept": "ramalan",
         "category": "history"
     },
     {
@@ -7190,7 +7190,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "rencana",
+        "question_concept": "rencana",
         "category": "history"
     },
     {
@@ -7212,7 +7212,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "republik",
+        "question_concept": "republik",
         "category": "history"
     },
     {
@@ -7234,7 +7234,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "resolusi",
+        "question_concept": "resolusi",
         "category": "history"
     },
     {
@@ -7256,7 +7256,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "revolusi",
+        "question_concept": "revolusi",
         "category": "history"
     },
     {
@@ -7278,7 +7278,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "runtuh",
+        "question_concept": "runtuh",
         "category": "history"
     },
     {
@@ -7300,7 +7300,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "sejarah",
+        "question_concept": "sejarah",
         "category": "history"
     },
     {
@@ -7322,7 +7322,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "sejarawan",
+        "question_concept": "sejarawan",
         "category": "history"
     },
     {
@@ -7344,7 +7344,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "sekutu",
+        "question_concept": "sekutu",
         "category": "history"
     },
     {
@@ -7366,7 +7366,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pencipta",
+        "question_concept": "pencipta",
         "category": "history"
     },
     {
@@ -7388,7 +7388,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "senjata",
+        "question_concept": "senjata",
         "category": "history"
     },
     {
@@ -7410,7 +7410,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "status",
+        "question_concept": "status",
         "category": "history"
     },
     {
@@ -7432,7 +7432,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "suara",
+        "question_concept": "suara",
         "category": "history"
     },
     {
@@ -7454,7 +7454,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "teks",
+        "question_concept": "teks",
         "category": "history"
     },
     {
@@ -7476,7 +7476,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "tempo dulu",
+        "question_concept": "tempo dulu",
         "category": "history"
     },
     {
@@ -7498,7 +7498,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "terbatas",
+        "question_concept": "terbatas",
         "category": "history"
     },
     {
@@ -7520,7 +7520,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "teroris",
+        "question_concept": "teroris",
         "category": "history"
     },
     {
@@ -7542,7 +7542,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tokoh",
+        "question_concept": "tokoh",
         "category": "history"
     },
     {
@@ -7564,7 +7564,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "toleransi",
+        "question_concept": "toleransi",
         "category": "history"
     },
     {
@@ -7586,7 +7586,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tombak",
+        "question_concept": "tombak",
         "category": "history"
     },
     {
@@ -7608,7 +7608,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "tragedi",
+        "question_concept": "tragedi",
         "category": "history"
     },
     {
@@ -7630,7 +7630,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "warisan",
+        "question_concept": "warisan",
         "category": "history"
     },
     {
@@ -7652,7 +7652,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "badminton",
+        "question_concept": "badminton",
         "category": "activity"
     },
     {
@@ -7674,7 +7674,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "balap karung",
+        "question_concept": "balap karung",
         "category": "activity"
     },
     {
@@ -7696,7 +7696,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "balap kerupuk",
+        "question_concept": "balap kerupuk",
         "category": "activity"
     },
     {
@@ -7718,7 +7718,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "basket",
+        "question_concept": "basket",
         "category": "activity"
     },
     {
@@ -7740,7 +7740,7 @@
             ]
         },
         "answer_creator": "E",
-        "question_concepts": "begadang",
+        "question_concept": "begadang",
         "category": "activity"
     },
     {
@@ -7762,7 +7762,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "bekerja",
+        "question_concept": "bekerja",
         "category": "activity"
     },
     {
@@ -7784,7 +7784,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "beradu",
+        "question_concept": "beradu",
         "category": "activity"
     },
     {
@@ -7806,7 +7806,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "berbaris",
+        "question_concept": "berbaris",
         "category": "activity"
     },
     {
@@ -7828,7 +7828,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "berburu",
+        "question_concept": "berburu",
         "category": "activity"
     },
     {
@@ -7850,7 +7850,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "bercerai",
+        "question_concept": "bercerai",
         "category": "activity"
     },
     {
@@ -7872,7 +7872,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "berdagang",
+        "question_concept": "berdagang",
         "category": "activity"
     },
     {
@@ -7894,7 +7894,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "berduka",
+        "question_concept": "berduka",
         "category": "activity"
     },
     {
@@ -7916,7 +7916,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "berenang",
+        "question_concept": "berenang",
         "category": "activity"
     },
     {
@@ -7938,7 +7938,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "bergegas",
+        "question_concept": "bergegas",
         "category": "activity"
     },
     {
@@ -7960,7 +7960,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "berharap",
+        "question_concept": "berharap",
         "category": "activity"
     },
     {
@@ -7982,7 +7982,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "beristirahat",
+        "question_concept": "beristirahat",
         "category": "activity"
     },
     {
@@ -8004,7 +8004,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "berjanji",
+        "question_concept": "berjanji",
         "category": "activity"
     },
     {
@@ -8026,7 +8026,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "berjemur",
+        "question_concept": "berjemur",
         "category": "activity"
     },
     {
@@ -8048,7 +8048,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "berkelahi",
+        "question_concept": "berkelahi",
         "category": "activity"
     },
     {
@@ -8070,7 +8070,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "berkeringat",
+        "question_concept": "berkeringat",
         "category": "activity"
     },
     {
@@ -8092,7 +8092,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "berkunjung",
+        "question_concept": "berkunjung",
         "category": "activity"
     },
     {
@@ -8114,7 +8114,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "berkurban",
+        "question_concept": "berkurban",
         "category": "activity"
     },
     {
@@ -8136,7 +8136,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "berlari",
+        "question_concept": "berlari",
         "category": "activity"
     },
     {
@@ -8158,7 +8158,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "demo",
+        "question_concept": "demo",
         "category": "activity"
     },
     {
@@ -8180,7 +8180,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "dipijat",
+        "question_concept": "dipijat",
         "category": "activity"
     },
     {
@@ -8202,7 +8202,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "diurut",
+        "question_concept": "diurut",
         "category": "activity"
     },
     {
@@ -8224,7 +8224,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "doa",
+        "question_concept": "doa",
         "category": "activity"
     },
     {
@@ -8246,7 +8246,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "futsal",
+        "question_concept": "futsal",
         "category": "activity"
     },
     {
@@ -8268,7 +8268,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "hidup",
+        "question_concept": "hidup",
         "category": "activity"
     },
     {
@@ -8290,7 +8290,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "hilang",
+        "question_concept": "hilang",
         "category": "activity"
     },
     {
@@ -8312,7 +8312,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "ibadah",
+        "question_concept": "ibadah",
         "category": "activity"
     },
     {
@@ -8334,7 +8334,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "kembali",
+        "question_concept": "kembali",
         "category": "activity"
     },
     {
@@ -8356,7 +8356,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "konser",
+        "question_concept": "konser",
         "category": "activity"
     },
     {
@@ -8378,7 +8378,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "lari sore",
+        "question_concept": "lari sore",
         "category": "activity"
     },
     {
@@ -8400,7 +8400,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "luluran",
+        "question_concept": "luluran",
         "category": "activity"
     },
     {
@@ -8422,7 +8422,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "main catur",
+        "question_concept": "main catur",
         "category": "activity"
     },
     {
@@ -8444,7 +8444,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "mandi",
+        "question_concept": "mandi",
         "category": "activity"
     },
     {
@@ -8466,7 +8466,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mati",
+        "question_concept": "mati",
         "category": "activity"
     },
     {
@@ -8488,7 +8488,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "melapor",
+        "question_concept": "melapor",
         "category": "activity"
     },
     {
@@ -8510,7 +8510,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "melawak",
+        "question_concept": "melawak",
         "category": "activity"
     },
     {
@@ -8532,7 +8532,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "melayat",
+        "question_concept": "melayat",
         "category": "activity"
     },
     {
@@ -8554,7 +8554,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "memancing",
+        "question_concept": "memancing",
         "category": "activity"
     },
     {
@@ -8576,7 +8576,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "membaca",
+        "question_concept": "membaca",
         "category": "activity"
     },
     {
@@ -8598,7 +8598,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "membaca koran",
+        "question_concept": "membaca koran",
         "category": "activity"
     },
     {
@@ -8620,7 +8620,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "membajak sawah",
+        "question_concept": "membajak sawah",
         "category": "activity"
     },
     {
@@ -8642,7 +8642,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "membantu",
+        "question_concept": "membantu",
         "category": "activity"
     },
     {
@@ -8664,7 +8664,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "memberi nasihat",
+        "question_concept": "memberi nasihat",
         "category": "activity"
     },
     {
@@ -8686,7 +8686,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "membuat",
+        "question_concept": "membuat",
         "category": "activity"
     },
     {
@@ -8708,7 +8708,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "meminjam uang",
+        "question_concept": "meminjam uang",
         "category": "activity"
     },
     {
@@ -8730,7 +8730,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "memotong",
+        "question_concept": "memotong",
         "category": "activity"
     },
     {
@@ -8752,7 +8752,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "menahan",
+        "question_concept": "menahan",
         "category": "activity"
     },
     {
@@ -8774,7 +8774,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menanak",
+        "question_concept": "menanak",
         "category": "activity"
     },
     {
@@ -8796,7 +8796,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menegur",
+        "question_concept": "menegur",
         "category": "activity"
     },
     {
@@ -8818,7 +8818,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "menembak",
+        "question_concept": "menembak",
         "category": "activity"
     },
     {
@@ -8840,7 +8840,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "menerobos",
+        "question_concept": "menerobos",
         "category": "activity"
     },
     {
@@ -8862,7 +8862,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mengajak",
+        "question_concept": "mengajak",
         "category": "activity"
     },
     {
@@ -8884,7 +8884,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "mengajar",
+        "question_concept": "mengajar",
         "category": "activity"
     },
     {
@@ -8906,7 +8906,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "mengaji",
+        "question_concept": "mengaji",
         "category": "activity"
     },
     {
@@ -8928,7 +8928,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mengamen",
+        "question_concept": "mengamen",
         "category": "activity"
     },
     {
@@ -8950,7 +8950,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "mengantar",
+        "question_concept": "mengantar",
         "category": "activity"
     },
     {
@@ -8972,7 +8972,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "mengelap kaca",
+        "question_concept": "mengelap kaca",
         "category": "activity"
     },
     {
@@ -8994,7 +8994,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "mengutang",
+        "question_concept": "mengutang",
         "category": "activity"
     },
     {
@@ -9016,7 +9016,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "menjenguk",
+        "question_concept": "menjenguk",
         "category": "activity"
     },
     {
@@ -9038,7 +9038,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menjilat",
+        "question_concept": "menjilat",
         "category": "activity"
     },
     {
@@ -9060,7 +9060,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "menonton",
+        "question_concept": "menonton",
         "category": "activity"
     },
     {
@@ -9082,7 +9082,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menyalakan",
+        "question_concept": "menyalakan",
         "category": "activity"
     },
     {
@@ -9104,7 +9104,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menyapu",
+        "question_concept": "menyapu",
         "category": "activity"
     },
     {
@@ -9126,7 +9126,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "menyelam",
+        "question_concept": "menyelam",
         "category": "activity"
     },
     {
@@ -9148,7 +9148,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menyetir",
+        "question_concept": "menyetir",
         "category": "activity"
     },
     {
@@ -9170,7 +9170,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "menyinggung",
+        "question_concept": "menyinggung",
         "category": "activity"
     },
     {
@@ -9192,7 +9192,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "merakit",
+        "question_concept": "merakit",
         "category": "activity"
     },
     {
@@ -9214,7 +9214,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "merakyat",
+        "question_concept": "merakyat",
         "category": "activity"
     },
     {
@@ -9236,7 +9236,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "meramal",
+        "question_concept": "meramal",
         "category": "activity"
     },
     {
@@ -9258,7 +9258,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "merangkai",
+        "question_concept": "merangkai",
         "category": "activity"
     },
     {
@@ -9280,7 +9280,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "merapikan",
+        "question_concept": "merapikan",
         "category": "activity"
     },
     {
@@ -9302,7 +9302,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "meratapi",
+        "question_concept": "meratapi",
         "category": "activity"
     },
     {
@@ -9324,7 +9324,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "merawat",
+        "question_concept": "merawat",
         "category": "activity"
     },
     {
@@ -9346,7 +9346,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "merayu",
+        "question_concept": "merayu",
         "category": "activity"
     },
     {
@@ -9368,7 +9368,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "merusak",
+        "question_concept": "merusak",
         "category": "activity"
     },
     {
@@ -9390,7 +9390,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "ngunduh mantu",
+        "question_concept": "ngunduh mantu",
         "category": "activity"
     },
     {
@@ -9412,7 +9412,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "panen",
+        "question_concept": "panen",
         "category": "activity"
     },
     {
@@ -9434,7 +9434,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "panjat pinang",
+        "question_concept": "panjat pinang",
         "category": "activity"
     },
     {
@@ -9456,7 +9456,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "panjat tebing",
+        "question_concept": "panjat tebing",
         "category": "activity"
     },
     {
@@ -9478,7 +9478,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "parkir",
+        "question_concept": "parkir",
         "category": "activity"
     },
     {
@@ -9500,7 +9500,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pemadaman",
+        "question_concept": "pemadaman",
         "category": "activity"
     },
     {
@@ -9522,7 +9522,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "pencak silat",
+        "question_concept": "pencak silat",
         "category": "activity"
     },
     {
@@ -9544,7 +9544,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pengajian",
+        "question_concept": "pengajian",
         "category": "activity"
     },
     {
@@ -9566,7 +9566,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "penggusuran",
+        "question_concept": "penggusuran",
         "category": "activity"
     },
     {
@@ -9588,7 +9588,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "pergantian",
+        "question_concept": "pergantian",
         "category": "activity"
     },
     {
@@ -9610,7 +9610,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "pergi",
+        "question_concept": "pergi",
         "category": "activity"
     },
     {
@@ -9632,7 +9632,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "berangkat sekolah",
+        "question_concept": "berangkat sekolah",
         "category": "activity"
     },
     {
@@ -9654,7 +9654,7 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "pingsan",
+        "question_concept": "pingsan",
         "category": "activity"
     },
     {
@@ -9676,7 +9676,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "santai",
+        "question_concept": "santai",
         "category": "activity"
     },
     {
@@ -9698,7 +9698,7 @@
             ]
         },
         "answer_creator": "C",
-        "question_concepts": "tahlilan",
+        "question_concept": "tahlilan",
         "category": "activity"
     },
     {
@@ -9720,7 +9720,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "tarawih",
+        "question_concept": "tarawih",
         "category": "activity"
     },
     {
@@ -9742,7 +9742,7 @@
             ]
         },
         "answer_creator": "D",
-        "question_concepts": "tarik tambang",
+        "question_concept": "tarik tambang",
         "category": "activity"
     },
     {
@@ -9764,7 +9764,7 @@
             ]
         },
         "answer_creator": "B",
-        "question_concepts": "tertawa",
+        "question_concept": "tertawa",
         "category": "activity"
     },
     {
@@ -9786,12 +9786,12 @@
             ]
         },
         "answer_creator": "A",
-        "question_concepts": "ziarah",
+        "question_concept": "ziarah",
         "category": "activity"
     },
     {
         "category": "culinary",
-        "question_concepts": "adab makan",
+        "question_concept": "adab makan",
         "question": "Apa yang dimaksud dengan 'adab makan' dalam konteks budaya Indonesia?",
         "choices": {
             "label": [
@@ -9813,7 +9813,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "adonan",
+        "question_concept": "adonan",
         "question": "Dalam pembuatan kue, apa yang disebut dengan 'adonan'?",
         "choices": {
             "label": [
@@ -9835,7 +9835,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "aduk",
+        "question_concept": "aduk",
         "question": "Mengapa penting untuk 'mengaduk' adonan kue secara merata?",
         "choices": {
             "label": [
@@ -9857,7 +9857,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "air",
+        "question_concept": "air",
         "question": "Dalam resep masakan, fungsi 'air' yang paling umum adalah untuk?",
         "choices": {
             "label": [
@@ -9879,7 +9879,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "air fryer",
+        "question_concept": "air fryer",
         "question": "Apa kelebihan menggunakan 'air fryer' dibandingkan metode penggorengan tradisional?",
         "choices": {
             "label": [
@@ -9901,7 +9901,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "aqiqah",
+        "question_concept": "aqiqah",
         "question": "Untuk acara apa biasanya daging kambing disajikan sebagai hidangan utama dalam tradisi aqiqah?",
         "choices": {
             "label": [
@@ -9923,7 +9923,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "angkringan",
+        "question_concept": "angkringan",
         "question": "Angkringan adalah tempat makan yang populer di kota mana di Indonesia?",
         "choices": {
             "label": [
@@ -9945,7 +9945,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "asam",
+        "question_concept": "asam",
         "question": "Bahan apa yang sering ditambahkan ke dalam masakan Indonesia untuk memberikan rasa asam?",
         "choices": {
             "label": [
@@ -9967,7 +9967,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "asin",
+        "question_concept": "asin",
         "question": "Apa nama makanan khas Indonesia yang memiliki rasa asin dan biasanya disajikan sebagai lauk pauk?",
         "choices": {
             "label": [
@@ -9989,7 +9989,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "ayam",
+        "question_concept": "ayam",
         "question": "Dalam dunia kuliner Indonesia, bahan utama dari 'sate ayam' adalah daging apa?",
         "choices": {
             "label": [
@@ -10011,7 +10011,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "bakar",
+        "question_concept": "bakar",
         "question": "Apa metode memasak yang biasa digunakan untuk membuat 'ikan bakar'?",
         "choices": {
             "label": [
@@ -10033,7 +10033,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "batak",
+        "question_concept": "batak",
         "question": "Masakan khas suku Batak yang terkenal adalah 'arsik'. Bahan utama dari masakan ini adalah?",
         "choices": {
             "label": [
@@ -10055,7 +10055,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "bebek",
+        "question_concept": "bebek",
         "question": "Dalam konteks kuliner Indonesia, bebek biasanya disajikan sebagai hidangan apa?",
         "choices": {
             "label": [
@@ -10077,7 +10077,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "bekal",
+        "question_concept": "bekal",
         "question": "Apa yang biasanya orang Indonesia bawa sebagai bekal makan siang?",
         "choices": {
             "label": [
@@ -10099,7 +10099,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "berkuah",
+        "question_concept": "berkuah",
         "question": "Hidangan Indonesia apa yang dikenal dengan ciri khas berkuah dan biasanya disantap dengan nasi?",
         "choices": {
             "label": [
@@ -10121,7 +10121,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "besek",
+        "question_concept": "besek",
         "question": "Apa fungsi dari 'besek' dalam konteks kuliner tradisional Indonesia?",
         "choices": {
             "label": [
@@ -10143,7 +10143,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "betawi",
+        "question_concept": "betawi",
         "question": "Makanan khas daerah mana yang disebut kerak telor, yang merupakan bagian dari kebudayaan Betawi?",
         "choices": {
             "label": [
@@ -10165,7 +10165,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "buah",
+        "question_concept": "buah",
         "question": "Buah apa yang sering digunakan dalam masakan Indonesia sebagai penyedap rasa dan memberikan aroma khas?",
         "choices": {
             "label": [
@@ -10187,7 +10187,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "bubur",
+        "question_concept": "bubur",
         "question": "Bubur ayam adalah sarapan populer di Indonesia, biasanya disajikan dengan taburan apa di atasnya?",
         "choices": {
             "label": [
@@ -10209,7 +10209,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "buka bersama",
+        "question_concept": "buka bersama",
         "question": "Kegiatan apa yang biasa dilakukan oleh umat Muslim di Indonesia saat waktu berbuka puasa tiba, yang dikenal dengan istilah 'buka bersama'?",
         "choices": {
             "label": [
@@ -10231,7 +10231,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "bumbu",
+        "question_concept": "bumbu",
         "question": "Bumbu dasar yang sering digunakan dalam masakan Indonesia dan dikenal dengan sebutan 'bumbu kuning' terbuat dari kunyit dan bahan apa lagi?",
         "choices": {
             "label": [
@@ -10253,7 +10253,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "dingin",
+        "question_concept": "dingin",
         "question": "Minuman apa yang biasanya disajikan dingin untuk menyegarkan di hari yang panas?",
         "choices": {
             "label": [
@@ -10275,7 +10275,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "es",
+        "question_concept": "es",
         "question": "Apa nama minuman khas Indonesia yang terdiri dari campuran es serut, sirup, dan berbagai macam topping seperti agar-agar?",
         "choices": {
             "label": [
@@ -10297,7 +10297,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "harum",
+        "question_concept": "harum",
         "question": "Mengapa kue bolu yang baru dipanggang disebut memiliki aroma 'harum'?",
         "choices": {
             "label": [
@@ -10319,7 +10319,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "gulung",
+        "question_concept": "gulung",
         "question": "Apa yang dimaksud dengan 'gulung' dalam konteks makanan Indonesia?",
         "choices": {
             "label": [
@@ -10341,7 +10341,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "gurih",
+        "question_concept": "gurih",
         "question": "Apa yang membuat makanan disebut 'gurih'?",
         "choices": {
             "label": [
@@ -10363,7 +10363,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "hidangan",
+        "question_concept": "hidangan",
         "question": "Apa yang biasanya disajikan dalam 'hidangan' pembuka di restoran Indonesia?",
         "choices": {
             "label": [
@@ -10385,7 +10385,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "hijau",
+        "question_concept": "hijau",
         "question": "Mengapa sayuran sering dihubungkan dengan warna 'hijau' dalam konteks kuliner?",
         "choices": {
             "label": [
@@ -10407,7 +10407,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "hitam",
+        "question_concept": "hitam",
         "question": "Apa nama kue tradisional Indonesia yang berwarna hitam karena menggunakan gula aren sebagai pemanisnya?",
         "choices": {
             "label": [
@@ -10429,7 +10429,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "iduladha",
+        "question_concept": "iduladha",
         "question": "Pada saat Iduladha, hidangan apa yang sering diolah dari daging kurban di Indonesia?",
         "choices": {
             "label": [
@@ -10451,7 +10451,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "idulfitri",
+        "question_concept": "idulfitri",
         "question": "Makanan apa yang biasanya menjadi hidangan khas saat Idulfitri di Indonesia?",
         "choices": {
             "label": [
@@ -10473,7 +10473,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "irisan",
+        "question_concept": "irisan",
         "question": "Irisan buah apa yang sering ditambahkan ke dalam rujak untuk memberikan rasa segar?",
         "choices": {
             "label": [
@@ -10495,7 +10495,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "jagung",
+        "question_concept": "jagung",
         "question": "Apa nama makanan yang terbuat dari jagung manis yang dipipil kemudian dibakar dan diberi bumbu?",
         "choices": {
             "label": [
@@ -10517,7 +10517,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "jajanan sekolah",
+        "question_concept": "jajanan sekolah",
         "question": "Jajanan sekolah yang mana biasanya dijual dengan harga yang terjangkau untuk anak-anak?",
         "choices": {
             "label": [
@@ -10539,7 +10539,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "jawa",
+        "question_concept": "jawa",
         "question": "Makanan khas Jawa yang manakah yang terkenal dengan bumbu rempah-rempahnya?",
         "choices": {
             "label": [
@@ -10561,7 +10561,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "kaldu",
+        "question_concept": "kaldu",
         "question": "Kaldu apa yang sering digunakan sebagai dasar pembuatan sup tradisional Indonesia?",
         "choices": {
             "label": [
@@ -10583,7 +10583,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "kambing",
+        "question_concept": "kambing",
         "question": "Masakan Indonesia apa yang biasanya menggunakan daging kambing sebagai bahan utamanya?",
         "choices": {
             "label": [
@@ -10605,7 +10605,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "rumah sakit",
+        "question_concept": "rumah sakit",
         "question": "Makanan apa yang biasanya disajikan di rumah sakit sebagai menu diet pasien?",
         "choices": {
             "label": [
@@ -10627,7 +10627,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "kenyal",
+        "question_concept": "kenyal",
         "question": "Makanan apa yang biasanya memiliki tekstur kenyal?",
         "choices": {
             "label": [
@@ -10649,7 +10649,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "kering",
+        "question_concept": "kering",
         "question": "Apa istilah untuk makanan yang telah dikurangi kadar airnya sehingga menjadi kering?",
         "choices": {
             "label": [
@@ -10671,7 +10671,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "kertas nasi",
+        "question_concept": "kertas nasi",
         "question": "Untuk apa kertas nasi biasanya digunakan dalam kuliner Indonesia?",
         "choices": {
             "label": [
@@ -10693,7 +10693,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "kerupuk",
+        "question_concept": "kerupuk",
         "question": "Kerupuk biasanya terbuat dari bahan dasar apa?",
         "choices": {
             "label": [
@@ -10715,7 +10715,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "ketupat",
+        "question_concept": "ketupat",
         "question": "Ketupat sering disajikan sebagai pelengkap makanan apa di hari raya Idul Fitri?",
         "choices": {
             "label": [
@@ -10737,7 +10737,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan dengan daun pisang",
+        "question_concept": "makan dengan daun pisang",
         "question": "Mengapa makan dengan daun pisang sering dilakukan dalam tradisi makan di Indonesia?",
         "choices": {
             "label": [
@@ -10759,7 +10759,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan dengan tangan kanan",
+        "question_concept": "makan dengan tangan kanan",
         "question": "Mengapa dalam adat Indonesia disarankan untuk makan dengan tangan kanan?",
         "choices": {
             "label": [
@@ -10781,7 +10781,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan malam",
+        "question_concept": "makan malam",
         "question": "Jam berapa biasanya orang Indonesia mengadakan makan malam?",
         "choices": {
             "label": [
@@ -10803,7 +10803,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan mendahului orang tua",
+        "question_concept": "makan mendahului orang tua",
         "question": "Apa yang harus dilakukan jika seseorang secara tidak sengaja makan mendahului orang tua di Indonesia?",
         "choices": {
             "label": [
@@ -10825,7 +10825,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan mengecap",
+        "question_concept": "makan mengecap",
         "question": "Apa tujuan dari makan mengecap makanan saat di Indonesia?",
         "choices": {
             "label": [
@@ -10847,7 +10847,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan sambil mengobrol",
+        "question_concept": "makan sambil mengobrol",
         "question": "Mengapa banyak orang suka makan sambil mengobrol?",
         "choices": {
             "label": [
@@ -10869,7 +10869,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan siang",
+        "question_concept": "makan siang",
         "question": "Apa yang biasanya dilakukan orang Indonesia saat waktu makan siang tiba?",
         "choices": {
             "label": [
@@ -10891,7 +10891,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "makan tidak habis",
+        "question_concept": "makan tidak habis",
         "question": "Apa yang sebaiknya dilakukan jika seseorang makan tidak habis di restoran?",
         "choices": {
             "label": [
@@ -10913,7 +10913,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "mangkok",
+        "question_concept": "mangkok",
         "question": "Untuk apa mangkok biasanya digunakan dalam konteks kuliner Indonesia?",
         "choices": {
             "label": [
@@ -10935,7 +10935,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "manis",
+        "question_concept": "manis",
         "question": "Bahan apa yang biasanya ditambahkan ke dalam masakan untuk memberikan rasa manis?",
         "choices": {
             "label": [
@@ -10957,7 +10957,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "mengembang",
+        "question_concept": "mengembang",
         "question": "Dalam pembuatan kue, bahan apa yang sering digunakan untuk membuat adonan mengembang?",
         "choices": {
             "label": [
@@ -10979,7 +10979,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "merah",
+        "question_concept": "merah",
         "question": "Bumbu dapur apa yang berwarna merah dan sering digunakan untuk memberi warna pada masakan?",
         "choices": {
             "label": [
@@ -11001,7 +11001,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "mi",
+        "question_concept": "mi",
         "question": "Mi instan adalah makanan cepat saji yang populer di Indonesia, bahan utama pembuatan mi instan adalah?",
         "choices": {
             "label": [
@@ -11023,7 +11023,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "natal",
+        "question_concept": "natal",
         "question": "Hidangan apa yang sering disajikan sebagai menu spesial dalam perayaan Natal di Indonesia?",
         "choices": {
             "label": [
@@ -11045,7 +11045,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "oleh-oleh",
+        "question_concept": "oleh-oleh",
         "question": "Apa yang biasanya dibawa pulang sebagai oleh-oleh setelah berkunjung ke daerah kuliner khas di Indonesia?",
         "choices": {
             "label": [
@@ -11067,7 +11067,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "mengembang",
+        "question_concept": "mengembang",
         "question": "Apa yang terjadi pada adonan kue ketika proses mengembang berhasil?",
         "choices": {
             "label": [
@@ -11089,7 +11089,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "mentega",
+        "question_concept": "mentega",
         "question": "Bahan apa yang sering digunakan sebagai pengganti mentega dalam pembuatan kue vegan?",
         "choices": {
             "label": [
@@ -11111,7 +11111,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "menu",
+        "question_concept": "menu",
         "question": "Dalam menu restoran, kategori apa yang biasanya mencakup mie goreng dan nasi goreng?",
         "choices": {
             "label": [
@@ -11133,7 +11133,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "merah",
+        "question_concept": "merah",
         "question": "Bumbu dapur apa yang memberikan warna merah pada masakan soto?",
         "choices": {
             "label": [
@@ -11155,7 +11155,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "mie",
+        "question_concept": "mie",
         "question": "Mie instan biasanya dimasak dalam berapa menit agar teksturnya menjadi pas?",
         "choices": {
             "label": [
@@ -11177,7 +11177,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "papua",
+        "question_concept": "papua",
         "question": "Makanan khas Papua yang terkenal, Papeda, terbuat dari bahan dasar apa?",
         "choices": {
             "label": [
@@ -11199,7 +11199,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "pedas",
+        "question_concept": "pedas",
         "question": "Makanan apa yang biasanya disukai oleh orang yang menyukai rasa pedas?",
         "choices": {
             "label": [
@@ -11221,7 +11221,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "pelangi",
+        "question_concept": "pelangi",
         "question": "Kue apa yang memiliki warna-warni seperti pelangi dan sering ditemukan di pesta ulang tahun anak-anak?",
         "choices": {
             "label": [
@@ -11243,7 +11243,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "plastik",
+        "question_concept": "plastik",
         "question": "Untuk mengurangi sampah plastik, bahan apa yang sering digunakan sebagai alternatif kantong plastik saat berbelanja di pasar tradisional Indonesia?",
         "choices": {
             "label": [
@@ -11265,7 +11265,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "puding",
+        "question_concept": "puding",
         "question": "Bahan utama apa yang digunakan untuk membuat puding tradisional Indonesia?",
         "choices": {
             "label": [
@@ -11287,7 +11287,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "putih",
+        "question_concept": "putih",
         "question": "Dalam kuliner Indonesia, bahan apa yang sering dijadikan simbol warna putih pada nasi tumpeng?",
         "choices": {
             "label": [
@@ -11309,7 +11309,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "ragi",
+        "question_concept": "ragi",
         "question": "Apa nama kue tradisional Indonesia yang dibuat dengan menggunakan ragi sebagai bahan pengembang?",
         "choices": {
             "label": [
@@ -11331,7 +11331,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "rempah",
+        "question_concept": "rempah",
         "question": "Rempah apa yang sering digunakan sebagai bumbu dasar dalam masakan Padang?",
         "choices": {
             "label": [
@@ -11353,7 +11353,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "rendang",
+        "question_concept": "rendang",
         "question": "Dari daerah manakah masakan rendang berasal?",
         "choices": {
             "label": [
@@ -11375,7 +11375,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "roti",
+        "question_concept": "roti",
         "question": "Roti yang dibuat dengan menggunakan ragi sebagai bahan pengembang dikenal sebagai roti apa?",
         "choices": {
             "label": [
@@ -11397,7 +11397,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "sagu",
+        "question_concept": "sagu",
         "question": "Apa nama makanan tradisional yang terbuat dari tepung sagu dan sering ditemukan di Papua?",
         "choices": {
             "label": [
@@ -11419,7 +11419,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "sambal",
+        "question_concept": "sambal",
         "question": "Bahan utama apa yang digunakan untuk membuat sambal?",
         "choices": {
             "label": [
@@ -11441,7 +11441,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "sarapan",
+        "question_concept": "sarapan",
         "question": "Apa yang biasanya orang Indonesia makan sebagai menu sarapan pagi?",
         "choices": {
             "label": [
@@ -11463,7 +11463,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "sate",
+        "question_concept": "sate",
         "question": "Sate adalah makanan khas Indonesia yang terbuat dari potongan daging yang ditusuk dengan tusukan bambu, biasanya disajikan dengan bumbu apa?",
         "choices": {
             "label": [
@@ -11485,7 +11485,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "saus",
+        "question_concept": "saus",
         "question": "Saus apa yang sering digunakan sebagai pelengkap makanan cepat saji di Indonesia?",
         "choices": {
             "label": [
@@ -11507,7 +11507,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "sayur",
+        "question_concept": "sayur",
         "question": "Sayur apa yang sering dijadikan bahan utama dalam masakan lodeh?",
         "choices": {
             "label": [
@@ -11529,7 +11529,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "selai",
+        "question_concept": "selai",
         "question": "Selai apa yang biasa dijadikan isian roti bakar di Indonesia?",
         "choices": {
             "label": [
@@ -11551,7 +11551,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "sunda",
+        "question_concept": "sunda",
         "question": "Masakan apa yang merupakan makanan khas dari daerah Sunda di Indonesia?",
         "choices": {
             "label": [
@@ -11573,7 +11573,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "syukuran",
+        "question_concept": "syukuran",
         "question": "Makanan apa yang sering disajikan sebagai ungkapan rasa syukur dalam acara syukuran di Indonesia?",
         "choices": {
             "label": [
@@ -11595,7 +11595,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "talenan",
+        "question_concept": "talenan",
         "question": "Untuk kegiatan apa talenan biasanya digunakan dalam proses memasak di dapur Indonesia?",
         "choices": {
             "label": [
@@ -11617,7 +11617,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "tangan",
+        "question_concept": "tangan",
         "question": "Dalam budaya kuliner Indonesia, makanan apa yang umumnya dimakan langsung dengan tangan tanpa menggunakan alat makan?",
         "choices": {
             "label": [
@@ -11639,7 +11639,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "tradisional",
+        "question_concept": "tradisional",
         "question": "Apa nama metode memasak tradisional Indonesia yang menggunakan api dari kayu bakar?",
         "choices": {
             "label": [
@@ -11661,7 +11661,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "ulang tahun",
+        "question_concept": "ulang tahun",
         "question": "Kue apa yang sering disajikan sebagai simbol perayaan dalam acara ulang tahun di Indonesia?",
         "choices": {
             "label": [
@@ -11683,7 +11683,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "urutan mengambil makan",
+        "question_concept": "urutan mengambil makan",
         "question": "Dalam adat istiadat Indonesia, apa yang biasanya diambil pertama kali dalam urutan mengambil makan di prasmanan?",
         "choices": {
             "label": [
@@ -11705,7 +11705,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "warna",
+        "question_concept": "warna",
         "question": "Warna apa yang sering diidentikkan dengan makanan pedas dalam kuliner Indonesia?",
         "choices": {
             "label": [
@@ -11727,7 +11727,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "warteg",
+        "question_concept": "warteg",
         "question": "Apa kepanjangan dari 'warteg' yang merupakan tempat makan populer di Indonesia?",
         "choices": {
             "label": [
@@ -11749,7 +11749,7 @@
     },
     {
         "category": "culinary",
-        "question_concepts": "wisata",
+        "question_concept": "wisata",
         "question": "Kota mana di Indonesia yang terkenal dengan wisata kulinernya, terutama bakso dan ayam goreng?",
         "choices": {
             "label": [

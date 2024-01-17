@@ -1,7 +1,7 @@
 [
     {
         "id": "129014ff081296c3d9bbc338c5ff32db",
-        "question": "Di mana biasanya seseorang memainkan biola?",
+        "question": "Dimana biasana ma\u00e9n biola?",
         "choices": {
             "label": [
                 "A",
@@ -12,18 +12,18 @@
             ],
             "text": [
                 "toko musik",
-                "gedung pertunjukan tari",
+                "aula pintonan tari",
                 "orkestra",
                 "simfoni",
-                "jawa"
+                "Jawa"
             ]
         },
-        "question_concepts": "biola",
+        "question_concept": "biola",
         "answer_creator": "C"
     },
     {
         "id": "6122883c3b5cd10b59a29dbd582e19c8",
-        "question": "Di provinsi mana di Indonesia terdapat jalan tol Jagorawi?",
+        "question": "Di propinsi mana di Indon\u00e9sia ayana jalan tol Jagorawi?",
         "choices": {
             "label": [
                 "A",
@@ -33,19 +33,19 @@
                 "E"
             ],
             "text": [
-                "jawa barat",
-                "jawa tengah",
-                "jawa timur",
-                "dki jakarta",
-                "bali"
+                "Jawa Barat",
+                "Jawa Tengah",
+                "Jawa Timur",
+                "DKI Jakarta",
+                "Bali"
             ]
         },
-        "question_concepts": "jalan tol",
+        "question_concept": "jalan tol",
         "answer_creator": "D"
     },
     {
         "id": "dd1f94d7288ed696f2d83b04abbf27a7",
-        "question": "Jika Anda mencari Orangutan, di mana Anda akan menemukannya?",
+        "question": "Upami anjeun milarian Orangutan, dimana anjeun bakal mendakanana?",
         "choices": {
             "label": [
                 "A",
@@ -55,14 +55,14 @@
                 "E"
             ],
             "text": [
-                "rusia",
-                "di rumah",
-                "lubang",
-                "hutan hujan tropis",
-                "surga"
+                "Rusia",
+                "Di bumi",
+                "liang",
+                "leuweung hujan tropis",
+                "sawarga"
             ]
         },
-        "question_concepts": "Orangutan",
+        "question_concept": "Orangutan",
         "answer_creator": "D"
     }
 ]

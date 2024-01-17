@@ -18,7 +18,7 @@
                 "apartemennya"
             ]
         },
-        "question_concepts": "lubang besar",
+        "question_concept": "lubang besar",
         "answer_creator": "A"
     },
     {
@@ -40,7 +40,7 @@
                 "kantor insinyur daerah"
             ]
         },
-        "question_concepts": "peta jaringan kereta api bawah tanah",
+        "question_concept": "peta jaringan kereta api bawah tanah",
         "answer_creator": "D"
     },
     {
@@ -62,7 +62,7 @@
                 "indonesia"
             ]
         },
-        "question_concepts": "cangkir kopi",
+        "question_concept": "cangkir kopi",
         "answer_creator": "A"
     },
     {
@@ -84,7 +84,7 @@
                 "sumur kering"
             ]
         },
-        "question_concepts": "sumur",
+        "question_concept": "sumur",
         "answer_creator": "C"
     },
     {
@@ -106,7 +106,7 @@
                 "taman kota"
             ]
         },
-        "question_concepts": "lapangan sepak bola",
+        "question_concept": "lapangan sepak bola",
         "answer_creator": "A"
     },
     {
@@ -128,7 +128,7 @@
                 "kamus"
             ]
         },
-        "question_concepts": "komodo",
+        "question_concept": "komodo",
         "answer_creator": "D"
     },
     {
@@ -150,7 +150,7 @@
                 "motel"
             ]
         },
-        "question_concepts": "kolam renang",
+        "question_concept": "kolam renang",
         "answer_creator": "A"
     },
     {
@@ -172,7 +172,7 @@
                 "kota"
             ]
         },
-        "question_concepts": "pekuburan",
+        "question_concept": "pekuburan",
         "answer_creator": "E"
     },
     {
@@ -194,7 +194,7 @@
                 "museum sejarah alam"
             ]
         },
-        "question_concepts": "musang",
+        "question_concept": "musang",
         "answer_creator": "E"
     },
     {
@@ -216,7 +216,7 @@
                 "tempat pembuangan sampah"
             ]
         },
-        "question_concepts": "luwak",
+        "question_concept": "luwak",
         "answer_creator": "C"
     },
     {
@@ -238,7 +238,7 @@
                 "kotak"
             ]
         },
-        "question_concepts": "angkasa luar",
+        "question_concept": "angkasa luar",
         "answer_creator": "C"
     },
     {
@@ -260,7 +260,7 @@
                 "kota"
             ]
         },
-        "question_concepts": "masjid",
+        "question_concept": "masjid",
         "answer_creator": "A"
     },
     {
@@ -282,7 +282,7 @@
                 "kandang"
             ]
         },
-        "question_concepts": "sapi perah muda",
+        "question_concept": "sapi perah muda",
         "answer_creator": "C"
     },
     {
@@ -304,7 +304,7 @@
                 "bandung"
             ]
         },
-        "question_concepts": "angklung",
+        "question_concept": "angklung",
         "answer_creator": "E"
     },
     {
@@ -326,7 +326,7 @@
                 "tali anjing"
             ]
         },
-        "question_concepts": "anjing",
+        "question_concept": "anjing",
         "answer_creator": "A"
     },
     {
@@ -348,7 +348,7 @@
                 "belajar lebih banyak tentang"
             ]
         },
-        "question_concepts": "menganalisis",
+        "question_concept": "menganalisis",
         "answer_creator": "E"
     },
     {
@@ -370,7 +370,7 @@
                 "belantara"
             ]
         },
-        "question_concepts": "orangutan",
+        "question_concept": "orangutan",
         "answer_creator": "D"
     },
     {
@@ -392,7 +392,7 @@
                 "taman nasional komodo"
             ]
         },
-        "question_concepts": "Komodo",
+        "question_concept": "Komodo",
         "answer_creator": "E"
     },
     {
@@ -414,7 +414,7 @@
                 "cagar alam"
             ]
         },
-        "question_concepts": "komodo",
+        "question_concept": "komodo",
         "answer_creator": "C"
     },
     {
@@ -436,7 +436,7 @@
                 "madagaskar"
             ]
         },
-        "question_concepts": "monyet",
+        "question_concept": "monyet",
         "answer_creator": "B"
     },
     {
@@ -458,7 +458,7 @@
                 "kamar mandi pribadi"
             ]
         },
-        "question_concepts": "deodoran",
+        "question_concept": "deodoran",
         "answer_creator": "A"
     },
     {
@@ -480,7 +480,7 @@
                 "pohon ceri"
             ]
         },
-        "question_concepts": "musang",
+        "question_concept": "musang",
         "answer_creator": "D"
     },
     {
@@ -502,7 +502,7 @@
                 "ketidakadilan"
             ]
         },
-        "question_concepts": "melakukan sumpah palsu",
+        "question_concept": "melakukan sumpah palsu",
         "answer_creator": "C"
     },
     {
@@ -524,7 +524,7 @@
                 "buku matematika"
             ]
         },
-        "question_concepts": "komodo",
+        "question_concept": "komodo",
         "answer_creator": "B"
     },
     {
@@ -546,7 +546,7 @@
                 "sejuk"
             ]
         },
-        "question_concepts": "dingin",
+        "question_concept": "dingin",
         "answer_creator": "C"
     },
     {
@@ -568,7 +568,7 @@
                 "bergerak cepat"
             ]
         },
-        "question_concepts": "berlari",
+        "question_concept": "berlari",
         "answer_creator": "B"
     },
     {
@@ -590,7 +590,7 @@
                 "kota"
             ]
         },
-        "question_concepts": "klinik gigi",
+        "question_concept": "klinik gigi",
         "answer_creator": "C"
     },
     {
@@ -612,7 +612,7 @@
                 "memberi semangat"
             ]
         },
-        "question_concepts": "guru",
+        "question_concept": "guru",
         "answer_creator": "C"
     },
     {
@@ -634,7 +634,7 @@
                 "yang bertanggung jawab"
             ]
         },
-        "question_concepts": "pembantu rumah tangga",
+        "question_concept": "pembantu rumah tangga",
         "answer_creator": "C"
     },
     {
@@ -656,7 +656,7 @@
                 "di pedesaan"
             ]
         },
-        "question_concepts": "pemakaman",
+        "question_concept": "pemakaman",
         "answer_creator": "E"
     },
     {
@@ -678,7 +678,7 @@
                 "pusing"
             ]
         },
-        "question_concepts": "menganalisis",
+        "question_concept": "menganalisis",
         "answer_creator": "B"
     },
     {
@@ -700,7 +700,7 @@
                 "kamar tidur"
             ]
         },
-        "question_concepts": "sarung bantal",
+        "question_concept": "sarung bantal",
         "answer_creator": "C"
     },
     {
@@ -722,7 +722,7 @@
                 "tidak perlu"
             ]
         },
-        "question_concepts": "prasyarat",
+        "question_concept": "prasyarat",
         "answer_creator": "C"
     },
     {
@@ -744,7 +744,7 @@
                 "bali"
             ]
         },
-        "question_concepts": "tukang cukur",
+        "question_concept": "tukang cukur",
         "answer_creator": "B"
     },
     {
@@ -766,7 +766,7 @@
                 "taman"
             ]
         },
-        "question_concepts": "pohon buah",
+        "question_concept": "pohon buah",
         "answer_creator": "B"
     },
     {
@@ -788,7 +788,7 @@
                 "kepanasan"
             ]
         },
-        "question_concepts": "merasa panas",
+        "question_concept": "merasa panas",
         "answer_creator": "E"
     },
     {
@@ -810,7 +810,7 @@
                 "gedung"
             ]
         },
-        "question_concepts": "boom mikrofon",
+        "question_concept": "boom mikrofon",
         "answer_creator": "C"
     },
     {
@@ -832,7 +832,7 @@
                 "sarang burung"
             ]
         },
-        "question_concepts": "musang",
+        "question_concept": "musang",
         "answer_creator": "B"
     },
     {
@@ -854,7 +854,7 @@
                 "pasar gede"
             ]
         },
-        "question_concepts": "pasar",
+        "question_concept": "pasar",
         "answer_creator": "D"
     },
     {
@@ -876,7 +876,7 @@
                 "peta"
             ]
         },
-        "question_concepts": "jalan tol nasional",
+        "question_concept": "jalan tol nasional",
         "answer_creator": "D"
     },
     {
@@ -898,7 +898,7 @@
                 "ditinggal sendirian"
             ]
         },
-        "question_concepts": "berbaring di tempat tidur",
+        "question_concept": "berbaring di tempat tidur",
         "answer_creator": "C"
     },
     {
@@ -920,7 +920,7 @@
                 "sebuah sandwich"
             ]
         },
-        "question_concepts": "stasiun kereta bawah tanah",
+        "question_concept": "stasiun kereta bawah tanah",
         "answer_creator": "B"
     },
     {
@@ -942,7 +942,7 @@
                 "kecil"
             ]
         },
-        "question_concepts": "dunia",
+        "question_concept": "dunia",
         "answer_creator": "C"
     },
     {
@@ -964,7 +964,7 @@
                 "gedung besar"
             ]
         },
-        "question_concepts": "sayap",
+        "question_concept": "sayap",
         "answer_creator": "D"
     },
     {
@@ -986,7 +986,7 @@
                 "kebijaksanaan"
             ]
         },
-        "question_concepts": "memahami lebih baik",
+        "question_concept": "memahami lebih baik",
         "answer_creator": "E"
     },
     {
@@ -1008,7 +1008,7 @@
                 "jakarta"
             ]
         },
-        "question_concepts": "menara",
+        "question_concept": "menara",
         "answer_creator": "C"
     },
     {
@@ -1030,7 +1030,7 @@
                 "sebagian besar bangunan"
             ]
         },
-        "question_concepts": "debu",
+        "question_concept": "debu",
         "answer_creator": "B"
     },
     {
@@ -1052,7 +1052,7 @@
                 "cepat"
             ]
         },
-        "question_concepts": "mengejar bola",
+        "question_concept": "mengejar bola",
         "answer_creator": "C"
     },
     {
@@ -1074,7 +1074,7 @@
                 "ada empat pilihan untuk setiap kalimat"
             ]
         },
-        "question_concepts": "pesawat luar angkasa LAPAN",
+        "question_concept": "pesawat luar angkasa LAPAN",
         "answer_creator": "B"
     },
     {
@@ -1096,7 +1096,7 @@
                 "email"
             ]
         },
-        "question_concepts": "menghentikan",
+        "question_concept": "menghentikan",
         "answer_creator": "D"
     },
     {
@@ -1118,7 +1118,7 @@
                 "pantai kuta, bali"
             ]
         },
-        "question_concepts": "pohon apel",
+        "question_concept": "pohon apel",
         "answer_creator": "C"
     },
     {
@@ -1140,7 +1140,7 @@
                 "negara gurun"
             ]
         },
-        "question_concepts": "kadal",
+        "question_concept": "kadal",
         "answer_creator": "B"
     },
     {
@@ -1162,7 +1162,7 @@
                 "papua"
             ]
         },
-        "question_concepts": "merah",
+        "question_concept": "merah",
         "answer_creator": "C"
     },
     {
@@ -1184,7 +1184,7 @@
                 "kesedihan"
             ]
         },
-        "question_concepts": "berkarya seni",
+        "question_concept": "berkarya seni",
         "answer_creator": "D"
     },
     {
@@ -1206,7 +1206,7 @@
                 "tanah"
             ]
         },
-        "question_concepts": "pasir",
+        "question_concept": "pasir",
         "answer_creator": "B"
     },
     {
@@ -1228,7 +1228,7 @@
                 "suntikan"
             ]
         },
-        "question_concepts": "ujung",
+        "question_concept": "ujung",
         "answer_creator": "A"
     },
     {
@@ -1250,7 +1250,7 @@
                 "sirkuit"
             ]
         },
-        "question_concepts": "kumparan",
+        "question_concept": "kumparan",
         "answer_creator": "D"
     },
     {
@@ -1272,7 +1272,7 @@
                 "tidur"
             ]
         },
-        "question_concepts": "kerbau",
+        "question_concept": "kerbau",
         "answer_creator": "C"
     },
     {
@@ -1294,7 +1294,7 @@
                 "batam"
             ]
         },
-        "question_concepts": "industri",
+        "question_concept": "industri",
         "answer_creator": "C"
     },
     {
@@ -1316,7 +1316,7 @@
                 "kota besar"
             ]
         },
-        "question_concepts": "pusat perbelanjaan",
+        "question_concept": "pusat perbelanjaan",
         "answer_creator": "E"
     },
     {
@@ -1338,7 +1338,7 @@
                 "kebutuhan integrasi"
             ]
         },
-        "question_concepts": "menulis program",
+        "question_concept": "menulis program",
         "answer_creator": "D"
     },
     {
@@ -1360,7 +1360,7 @@
                 "lukisan"
             ]
         },
-        "question_concepts": "kuda",
+        "question_concept": "kuda",
         "answer_creator": "B"
     },
     {
@@ -1382,7 +1382,7 @@
                 "hiburan"
             ]
         },
-        "question_concepts": "membaca buku",
+        "question_concept": "membaca buku",
         "answer_creator": "E"
     },
     {
@@ -1404,7 +1404,7 @@
                 "restoran cepat saji"
             ]
         },
-        "question_concepts": "burger",
+        "question_concept": "burger",
         "answer_creator": "E"
     },
     {
@@ -1426,7 +1426,7 @@
                 "blackout"
             ]
         },
-        "question_concepts": "hujan abu vulkanik",
+        "question_concept": "hujan abu vulkanik",
         "answer_creator": "C"
     },
     {
@@ -1448,7 +1448,7 @@
                 "mendapatkan pengetahuan"
             ]
         },
-        "question_concepts": "mengunjungi museum",
+        "question_concept": "mengunjungi museum",
         "answer_creator": "A"
     },
     {
@@ -1470,7 +1470,7 @@
                 "di hotel"
             ]
         },
-        "question_concepts": "kamar mandi",
+        "question_concept": "kamar mandi",
         "answer_creator": "C"
     },
     {
@@ -1492,7 +1492,7 @@
                 "italia"
             ]
         },
-        "question_concepts": "ruang penyimpanan anggur",
+        "question_concept": "ruang penyimpanan anggur",
         "answer_creator": "C"
     },
     {
@@ -1514,7 +1514,7 @@
                 "rumah"
             ]
         },
-        "question_concepts": "anak anjing",
+        "question_concept": "anak anjing",
         "answer_creator": "A"
     },
     {
@@ -1536,7 +1536,7 @@
                 "medali"
             ]
         },
-        "question_concepts": "Pencak Silat",
+        "question_concept": "Pencak Silat",
         "answer_creator": "D"
     },
     {
@@ -1558,7 +1558,7 @@
                 "air mata"
             ]
         },
-        "question_concepts": "air",
+        "question_concept": "air",
         "answer_creator": "E"
     },
     {
@@ -1580,7 +1580,7 @@
                 "medium"
             ]
         },
-        "question_concepts": "uang kertas",
+        "question_concept": "uang kertas",
         "answer_creator": "C"
     },
     {
@@ -1602,7 +1602,7 @@
                 "cuaca dingin"
             ]
         },
-        "question_concepts": "hujan es",
+        "question_concept": "hujan es",
         "answer_creator": "E"
     },
     {
@@ -1624,7 +1624,7 @@
                 "kedamaian"
             ]
         },
-        "question_concepts": "berlibur",
+        "question_concept": "berlibur",
         "answer_creator": "B"
     },
     {
@@ -1646,7 +1646,7 @@
                 "kapal layar"
             ]
         },
-        "question_concepts": "TNI",
+        "question_concept": "TNI",
         "answer_creator": "C"
     },
     {
@@ -1668,7 +1668,7 @@
                 "kalimantan"
             ]
         },
-        "question_concepts": "orangutan",
+        "question_concept": "orangutan",
         "answer_creator": "C"
     },
     {
@@ -1690,7 +1690,7 @@
                 "arena seluncur"
             ]
         },
-        "question_concepts": "bisbol",
+        "question_concept": "bisbol",
         "answer_creator": "A"
     },
     {
@@ -1712,7 +1712,7 @@
                 "tekanan"
             ]
         },
-        "question_concepts": "berkompetisi",
+        "question_concept": "berkompetisi",
         "answer_creator": "D"
     },
     {
@@ -1734,7 +1734,7 @@
                 "pantai"
             ]
         },
-        "question_concepts": "rumah panggung",
+        "question_concept": "rumah panggung",
         "answer_creator": "C"
     },
     {
@@ -1756,7 +1756,7 @@
                 "jawa"
             ]
         },
-        "question_concepts": "monyet",
+        "question_concept": "monyet",
         "answer_creator": "B"
     },
     {
@@ -1778,7 +1778,7 @@
                 "bulu ayam"
             ]
         },
-        "question_concepts": "ular",
+        "question_concept": "ular",
         "answer_creator": "A"
     },
     {
@@ -1800,7 +1800,7 @@
                 "perpustakaan"
             ]
         },
-        "question_concepts": "bukti kepemilikan kendaraan",
+        "question_concept": "bukti kepemilikan kendaraan",
         "answer_creator": "C"
     },
     {
@@ -1822,7 +1822,7 @@
                 "alam bebas"
             ]
         },
-        "question_concepts": "Komodo",
+        "question_concept": "Komodo",
         "answer_creator": "A"
     },
     {
@@ -1844,7 +1844,7 @@
                 "musim dingin"
             ]
         },
-        "question_concepts": "pohon mangga",
+        "question_concept": "pohon mangga",
         "answer_creator": "C"
     },
     {
@@ -1866,7 +1866,7 @@
                 "berputar"
             ]
         },
-        "question_concepts": "ice skating",
+        "question_concept": "ice skating",
         "answer_creator": "B"
     },
     {
@@ -1888,7 +1888,7 @@
                 "frustrasi"
             ]
         },
-        "question_concepts": "bermain catur",
+        "question_concept": "bermain catur",
         "answer_creator": "D"
     },
     {
@@ -1914,7 +1914,7 @@
                 "timor leste"
             ]
         },
-        "question_concepts": "kota",
+        "question_concept": "kota",
         "answer_creator": "F"
     },
     {
@@ -1936,7 +1936,7 @@
                 "luwak"
             ]
         },
-        "question_concepts": "musang",
+        "question_concept": "musang",
         "answer_creator": "B"
     },
     {
@@ -1958,7 +1958,7 @@
                 "kesedihan"
             ]
         },
-        "question_concepts": "memutuskan hukuman",
+        "question_concept": "memutuskan hukuman",
         "answer_creator": "C"
     },
     {
@@ -1980,7 +1980,7 @@
                 "toples"
             ]
         },
-        "question_concepts": "koin Rupiah",
+        "question_concept": "koin Rupiah",
         "answer_creator": "D"
     },
     {
@@ -2002,7 +2002,7 @@
                 "keras"
             ]
         },
-        "question_concepts": "lapangan sepak bola",
+        "question_concept": "lapangan sepak bola",
         "answer_creator": "D"
     },
     {
@@ -2024,7 +2024,7 @@
                 "sopan"
             ]
         },
-        "question_concepts": "sedih",
+        "question_concept": "sedih",
         "answer_creator": "E"
     },
     {
@@ -2046,7 +2046,7 @@
                 "papua ke maluku"
             ]
         },
-        "question_concepts": "komodo",
+        "question_concept": "komodo",
         "answer_creator": "C"
     },
     {
@@ -2068,7 +2068,7 @@
                 "indonesia"
             ]
         },
-        "question_concepts": "komodo",
+        "question_concept": "komodo",
         "answer_creator": "E"
     },
     {
@@ -2090,7 +2090,7 @@
                 "kebun binatang"
             ]
         },
-        "question_concepts": "fauna Indonesia",
+        "question_concept": "fauna Indonesia",
         "answer_creator": "D"
     },
     {
@@ -2112,7 +2112,7 @@
                 "liar"
             ]
         },
-        "question_concepts": "Komodo",
+        "question_concept": "Komodo",
         "answer_creator": "D"
     },
     {
@@ -2134,7 +2134,7 @@
                 "tenda"
             ]
         },
-        "question_concepts": "kompor",
+        "question_concept": "kompor",
         "answer_creator": "B"
     },
     {
@@ -2156,7 +2156,7 @@
                 "sekolah"
             ]
         },
-        "question_concepts": "papan catur",
+        "question_concept": "papan catur",
         "answer_creator": "A"
     },
     {
@@ -2178,7 +2178,7 @@
                 "stasiun kereta"
             ]
         },
-        "question_concepts": "majalah",
+        "question_concept": "majalah",
         "answer_creator": "D"
     },
     {
@@ -2200,7 +2200,7 @@
                 "kebutuhan untuk integrasi"
             ]
         },
-        "question_concepts": "menulis program",
+        "question_concept": "menulis program",
         "answer_creator": "B"
     },
     {
@@ -2222,7 +2222,7 @@
                 "penangkaran"
             ]
         },
-        "question_concepts": "cicak",
+        "question_concept": "cicak",
         "answer_creator": "B"
     },
     {
@@ -2244,7 +2244,7 @@
                 "zona sedang"
             ]
         },
-        "question_concepts": "hutan hujan tropis",
+        "question_concept": "hutan hujan tropis",
         "answer_creator": "B"
     },
     {
@@ -2266,7 +2266,7 @@
                 "jakarta"
             ]
         },
-        "question_concepts": "pria",
+        "question_concept": "pria",
         "answer_creator": "B"
     },
     {
@@ -2288,7 +2288,7 @@
                 "jam kerja"
             ]
         },
-        "question_concepts": "pekerjaan",
+        "question_concept": "pekerjaan",
         "answer_creator": "B"
     },
     {
@@ -2310,7 +2310,7 @@
                 "bandung"
             ]
         },
-        "question_concepts": "restoran halal",
+        "question_concept": "restoran halal",
         "answer_creator": "C"
     },
     {
@@ -2332,7 +2332,7 @@
                 "museum nasional indonesia"
             ]
         },
-        "question_concepts": "mamut",
+        "question_concept": "mamut",
         "answer_creator": "E"
     },
     {
@@ -2354,7 +2354,7 @@
                 "pegunungan himalaya"
             ]
         },
-        "question_concepts": "Samudra Hindia",
+        "question_concept": "Samudra Hindia",
         "answer_creator": "D"
     },
     {
@@ -2376,7 +2376,7 @@
                 "panggil orang"
             ]
         },
-        "question_concepts": "nama",
+        "question_concept": "nama",
         "answer_creator": "A"
     },
     {
@@ -2398,7 +2398,7 @@
                 "yogyakarta"
             ]
         },
-        "question_concepts": "stempel karet",
+        "question_concept": "stempel karet",
         "answer_creator": "B"
     },
     {
@@ -2420,7 +2420,7 @@
                 "laci"
             ]
         },
-        "question_concepts": "pakaian",
+        "question_concept": "pakaian",
         "answer_creator": "A"
     },
     {
@@ -2442,7 +2442,7 @@
                 "toko"
             ]
         },
-        "question_concepts": "anggur",
+        "question_concept": "anggur",
         "answer_creator": "E"
     },
     {
@@ -2464,7 +2464,7 @@
                 "kepulauan raja ampat"
             ]
         },
-        "question_concepts": "kadal",
+        "question_concept": "kadal",
         "answer_creator": "E"
     },
     {
@@ -2486,7 +2486,7 @@
                 "percaya kepada tuhan"
             ]
         },
-        "question_concepts": "perlindungan",
+        "question_concept": "perlindungan",
         "answer_creator": "E"
     },
     {
@@ -2508,7 +2508,7 @@
                 "relaksasi"
             ]
         },
-        "question_concepts": "duduk dengan tenang",
+        "question_concept": "duduk dengan tenang",
         "answer_creator": "C"
     },
     {
@@ -2530,7 +2530,7 @@
                 "makassar"
             ]
         },
-        "question_concepts": "stadion sepak bola",
+        "question_concept": "stadion sepak bola",
         "answer_creator": "C"
     },
     {
@@ -2552,7 +2552,7 @@
                 "kompleks perumahan"
             ]
         },
-        "question_concepts": "kondominium",
+        "question_concept": "kondominium",
         "answer_creator": "E"
     },
     {
@@ -2574,7 +2574,7 @@
                 "perpustakaan universitas"
             ]
         },
-        "question_concepts": "toko buku",
+        "question_concept": "toko buku",
         "answer_creator": "D"
     },
     {
@@ -2596,7 +2596,7 @@
                 "singapura"
             ]
         },
-        "question_concepts": "tetangga",
+        "question_concept": "tetangga",
         "answer_creator": "D"
     },
     {
@@ -2618,7 +2618,7 @@
                 "sakit kepala"
             ]
         },
-        "question_concepts": "terbangun",
+        "question_concept": "terbangun",
         "answer_creator": "D"
     },
     {
@@ -2640,7 +2640,7 @@
                 "proses pengadilan"
             ]
         },
-        "question_concepts": "pengacara",
+        "question_concept": "pengacara",
         "answer_creator": "E"
     },
     {
@@ -2662,7 +2662,7 @@
                 "alam semesta"
             ]
         },
-        "question_concepts": "bintang-bintang",
+        "question_concept": "bintang-bintang",
         "answer_creator": "C"
     },
     {
@@ -2684,7 +2684,7 @@
                 "kandang"
             ]
         },
-        "question_concepts": "kuda",
+        "question_concept": "kuda",
         "answer_creator": "A"
     },
     {
@@ -2706,7 +2706,7 @@
                 "berantakan"
             ]
         },
-        "question_concepts": "meletakkan cangkir di meja",
+        "question_concept": "meletakkan cangkir di meja",
         "answer_creator": "B"
     },
     {
@@ -2728,7 +2728,7 @@
                 "papua"
             ]
         },
-        "question_concepts": "kadal",
+        "question_concept": "kadal",
         "answer_creator": "E"
     },
     {
@@ -2750,7 +2750,7 @@
                 "ibu kota negara"
             ]
         },
-        "question_concepts": "gedung pengadilan",
+        "question_concept": "gedung pengadilan",
         "answer_creator": "B"
     },
     {
@@ -2772,7 +2772,7 @@
                 "toko barang bekas"
             ]
         },
-        "question_concepts": "celana jeans",
+        "question_concept": "celana jeans",
         "answer_creator": "B"
     },
     {
@@ -2794,7 +2794,7 @@
                 "meja"
             ]
         },
-        "question_concepts": "barang-barang",
+        "question_concept": "barang-barang",
         "answer_creator": "D"
     },
     {
@@ -2816,7 +2816,7 @@
                 "koper"
             ]
         },
-        "question_concepts": "payung",
+        "question_concept": "payung",
         "answer_creator": "E"
     },
     {
@@ -2838,7 +2838,7 @@
                 "persidangan"
             ]
         },
-        "question_concepts": "ruang sidang",
+        "question_concept": "ruang sidang",
         "answer_creator": "B"
     },
     {
@@ -2860,7 +2860,7 @@
                 "menyegarkan diri"
             ]
         },
-        "question_concepts": "hari panas",
+        "question_concept": "hari panas",
         "answer_creator": "D"
     },
     {
@@ -2882,7 +2882,7 @@
                 "gedung opera"
             ]
         },
-        "question_concepts": "sumur orkestra",
+        "question_concept": "sumur orkestra",
         "answer_creator": "A"
     },
     {
@@ -2904,7 +2904,7 @@
                 "pusat antariksa tanegashima"
             ]
         },
-        "question_concepts": "pesawat luar angkasa",
+        "question_concept": "pesawat luar angkasa",
         "answer_creator": "C"
     },
     {
@@ -2926,7 +2926,7 @@
                 "supermarket"
             ]
         },
-        "question_concepts": "wortel",
+        "question_concept": "wortel",
         "answer_creator": "C"
     },
     {
@@ -2948,7 +2948,7 @@
                 "luar biasa"
             ]
         },
-        "question_concepts": "buruk",
+        "question_concept": "buruk",
         "answer_creator": "D"
     },
     {
@@ -2970,7 +2970,7 @@
                 "membusuk"
             ]
         },
-        "question_concepts": "menjaga",
+        "question_concept": "menjaga",
         "answer_creator": "A"
     },
     {
@@ -2992,7 +2992,7 @@
                 "langit"
             ]
         },
-        "question_concepts": "burung",
+        "question_concept": "burung",
         "answer_creator": "B"
     },
     {
@@ -3014,7 +3014,7 @@
                 "kanada"
             ]
         },
-        "question_concepts": "Harimau Sumatera",
+        "question_concept": "Harimau Sumatera",
         "answer_creator": "C"
     },
     {
@@ -3036,7 +3036,7 @@
                 "musim hujan"
             ]
         },
-        "question_concepts": "debu vulkanik",
+        "question_concept": "debu vulkanik",
         "answer_creator": "D"
     },
     {
@@ -3058,7 +3058,7 @@
                 "kebingungan"
             ]
         },
-        "question_concepts": "menjawab pertanyaan",
+        "question_concept": "menjawab pertanyaan",
         "answer_creator": "C"
     },
     {
@@ -3080,7 +3080,7 @@
                 "bali"
             ]
         },
-        "question_concepts": "bankir",
+        "question_concept": "bankir",
         "answer_creator": "D"
     },
     {
@@ -3102,7 +3102,7 @@
                 "universitas"
             ]
         },
-        "question_concepts": "timbangan",
+        "question_concept": "timbangan",
         "answer_creator": "B"
     },
     {
@@ -3124,7 +3124,7 @@
                 "lokasi konstruksi"
             ]
         },
-        "question_concepts": "penggalian",
+        "question_concept": "penggalian",
         "answer_creator": "D"
     },
     {
@@ -3146,7 +3146,7 @@
                 "pusat kota"
             ]
         },
-        "question_concepts": "pusat perbelanjaan",
+        "question_concept": "pusat perbelanjaan",
         "answer_creator": "C"
     },
     {
@@ -3168,7 +3168,7 @@
                 "hutan hujan tropis"
             ]
         },
-        "question_concepts": "pohon cengkeh",
+        "question_concept": "pohon cengkeh",
         "answer_creator": "B"
     },
     {
@@ -3190,7 +3190,7 @@
                 "donat"
             ]
         },
-        "question_concepts": "lubang",
+        "question_concept": "lubang",
         "answer_creator": "E"
     },
     {
@@ -3212,7 +3212,7 @@
                 "rumah"
             ]
         },
-        "question_concepts": "pakaian",
+        "question_concept": "pakaian",
         "answer_creator": "C"
     },
     {
@@ -3234,7 +3234,7 @@
                 "pulau bali"
             ]
         },
-        "question_concepts": "Elang Jawa",
+        "question_concept": "Elang Jawa",
         "answer_creator": "B"
     },
     {
@@ -3256,7 +3256,7 @@
                 "kota-kota besar"
             ]
         },
-        "question_concepts": "bilik telepon umum",
+        "question_concept": "bilik telepon umum",
         "answer_creator": "B"
     },
     {
@@ -3278,7 +3278,7 @@
                 "bali"
             ]
         },
-        "question_concepts": "patung",
+        "question_concept": "patung",
         "answer_creator": "E"
     },
     {
@@ -3300,7 +3300,7 @@
                 "mempercepat"
             ]
         },
-        "question_concepts": "memperbaiki",
+        "question_concept": "memperbaiki",
         "answer_creator": "B"
     },
     {
@@ -3322,7 +3322,7 @@
                 "area perkotaan"
             ]
         },
-        "question_concepts": "taman depan rumah",
+        "question_concept": "taman depan rumah",
         "answer_creator": "A"
     },
     {
@@ -3344,7 +3344,7 @@
                 "tertidur"
             ]
         },
-        "question_concepts": "berbohong",
+        "question_concept": "berbohong",
         "answer_creator": "B"
     },
     {
@@ -3366,7 +3366,7 @@
                 "ketidaknyamanan"
             ]
         },
-        "question_concepts": "duduk dengan tenang",
+        "question_concept": "duduk dengan tenang",
         "answer_creator": "B"
     },
     {
@@ -3388,7 +3388,7 @@
                 "inggris raya"
             ]
         },
-        "question_concepts": "musang tanah",
+        "question_concept": "musang tanah",
         "answer_creator": "B"
     },
     {
@@ -3410,7 +3410,7 @@
                 "bali"
             ]
         },
-        "question_concepts": "sumur",
+        "question_concept": "sumur",
         "answer_creator": "C"
     },
     {
@@ -3432,7 +3432,7 @@
                 "lemari makanan"
             ]
         },
-        "question_concepts": "bawang merah",
+        "question_concept": "bawang merah",
         "answer_creator": "B"
     },
     {
@@ -3454,7 +3454,7 @@
                 "peta"
             ]
         },
-        "question_concepts": "jalan kabupaten",
+        "question_concept": "jalan kabupaten",
         "answer_creator": "D"
     },
     {
@@ -3476,7 +3476,7 @@
                 "suasana hati yang buruk"
             ]
         },
-        "question_concepts": "musang",
+        "question_concept": "musang",
         "answer_creator": "A"
     }
 ]
