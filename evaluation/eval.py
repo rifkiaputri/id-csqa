@@ -141,6 +141,7 @@ def main(args):
     print(f"[RESPONSE] {evaluation_results[0][1]}")
     print("Evaluation Metrics:", evaluation_metrics)
 
+    print("Write evaluation metrics...")
     write_evaluation_metrics_to_csv(
         args.model_name,
         args.dataset_path,

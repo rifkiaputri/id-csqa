@@ -116,7 +116,7 @@ class HfModelHistory:
             history_filename += f'_{prompt_type}'
         self.history_file = history_filename + '.csv'
         self.history = self.load_history()
-        self.model, self.tokenizer = self.load_models()
+        self.model, self.tokenizer = None, None
         self.translation_table = str.maketrans('', '', string.punctuation)
         self.translation_table_with_space = str.maketrans(string.punctuation, ' ' * len(string.punctuation))
 
@@ -232,6 +232,9 @@ class HfModelHistory:
                 batch_prompts.append(prompt)
         
         if batch_prompts:
+            if self.model is None or self.tokenizer is None:
+                self.model, self.tokenizer = self.load_models()
+
             inputs = self.tokenizer(
                 batch_prompts,
                 padding=True,
