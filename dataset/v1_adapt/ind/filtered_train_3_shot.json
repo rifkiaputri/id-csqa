@@ -1,6 +1,6 @@
 [
     {
-        "id": "129014ff081296c3d9bbc338c5ff32db",
+        "id": "adapt_ind_129014ff081296c3d9bbc338c5ff32db",
         "question": "Di mana biasanya seseorang memainkan biola?",
         "choices": {
             "label": [
@@ -22,7 +22,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "6122883c3b5cd10b59a29dbd582e19c8",
+        "id": "adapt_ind_6122883c3b5cd10b59a29dbd582e19c8",
         "question": "Di provinsi mana di Indonesia terdapat jalan tol Jagorawi?",
         "choices": {
             "label": [
@@ -44,7 +44,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "dd1f94d7288ed696f2d83b04abbf27a7",
+        "id": "adapt_ind_dd1f94d7288ed696f2d83b04abbf27a7",
         "question": "Jika Anda mencari Orangutan, di mana Anda akan menemukannya?",
         "choices": {
             "label": [

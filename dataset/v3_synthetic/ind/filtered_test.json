@@ -1,5 +1,6 @@
 [
     {
+        "id": "orig_m_ind_13d90b63c0284265813790fb5656fb09",
         "question": "Di mana biasanya kita dapat menemukan 'air mancur' yang sering menjadi atraksi di tempat umum?",
         "choices": {
             "label": [
@@ -22,6 +23,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_fbdce58365664365b3d05a46b6d06a61",
         "question": "Apa yang biasanya kita lihat ketika berkunjung ke 'air terjun'?",
         "choices": {
             "label": [
@@ -44,6 +46,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_c22f833cda434d4f81ce80c867ec57f9",
         "question": "Untuk apa 'akuarium' biasanya digunakan?",
         "choices": {
             "label": [
@@ -66,6 +69,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_60f27b1a32c541d8b25abb8018ce89a7",
         "question": "Apa yang biasanya terjadi di 'alun-alun' kota pada saat ada event khusus?",
         "choices": {
             "label": [
@@ -88,6 +92,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_09e6e12eab9c47c58b2a537e87b90e27",
         "question": "Apa fungsi utama 'angkot' di Indonesia?",
         "choices": {
             "label": [
@@ -110,6 +115,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_0b7cd3b9a3c84d9e89a222e6acbaffe1",
         "question": "Di manakah biasanya orang-orang berkumpul untuk menikmati makanan dan minuman di angkringan?",
         "choices": {
             "label": [
@@ -132,6 +138,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_fe4cc3c2e9d34728a218d125c9c0c554",
         "question": "Angkutan umum apa yang sering digunakan untuk perjalanan jarak jauh antar kota di Indonesia?",
         "choices": {
             "label": [
@@ -154,6 +161,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_89e5ba130d6546608348b424f50fdb46",
         "question": "Apa yang biasanya dijual di apotek?",
         "choices": {
             "label": [
@@ -176,6 +184,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_9f908c3446cd4fd9aaf603e61a8324b9",
         "question": "Siapa yang biasanya tinggal di asrama?",
         "choices": {
             "label": [
@@ -198,6 +207,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_55e38f30eba841bfa5c06683f0ce4038",
         "question": "Untuk kegiatan apa auditorium biasanya digunakan?",
         "choices": {
             "label": [
@@ -220,6 +230,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_66d540c3ab414c56b4741acb0481ea60",
         "question_concept": "bukit",
         "question": "Apa yang biasanya orang lakukan di bukit pada waktu sore hari?",
         "choices": {
@@ -242,6 +253,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_3cbf2fe901f342c7bac6cab3d4dea139",
         "question_concept": "bundaran hi",
         "question": "Di kota mana Bundaran HI berada?",
         "choices": {
@@ -264,6 +276,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_94d6b505065c45aa8f797f3d464dfb8f",
         "question": "Di mana biasanya pangkalan ojek dapat ditemukan?",
         "choices": {
             "label": [
@@ -286,6 +299,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_d5d4f815763e40ac9eabf64f718ae4a9",
         "question": "Apa yang biasanya terdapat di dalam sebuah danau?",
         "choices": {
             "label": [
@@ -308,6 +322,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_b3773bb7fc3648c8b5cf2e263d48b1be",
         "question": "Apa fungsi utama dari dapur di sebuah rumah?",
         "choices": {
             "label": [
@@ -330,6 +345,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_9d0969215c034769b9883ea196918819",
         "question": "Delman adalah alat transportasi yang ditarik oleh hewan, hewan apa yang biasanya menarik delman?",
         "choices": {
             "label": [
@@ -352,6 +368,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_cdef9ae9f8d44f709cbcb2cf97cba43e",
         "question": "Apa yang biasanya orang lakukan di diskotik?",
         "choices": {
             "label": [
@@ -374,6 +391,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_da31a2a3c2ed471fbee02da1a3d2673f",
         "question": "Untuk membuat salinan dokumen secara legal, ke mana saya harus pergi untuk menggunakan jasa 'fotokopian'?",
         "choices": {
             "label": [
@@ -396,6 +414,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_09b0787b0b1647f790cdbfeebd19bd67",
         "question": "Di kota besar, 'gang' biasanya merujuk pada apa?",
         "choices": {
             "label": [
@@ -418,6 +437,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_048ea9b0cbeb4625b62c65b0890ece3c",
         "question": "Apa fungsi utama 'gedung dpr' di Indonesia?",
         "choices": {
             "label": [
@@ -440,6 +460,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_d4f5eec437d14ad7af419fe115738896",
         "question": "Mengapa banyak pendaki ingin mencapai puncak gunung?",
         "choices": {
             "label": [
@@ -462,6 +483,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_c1481fce2d3d4d349e270a757957d210",
         "question": "Apa yang biasanya dilakukan anak-anak di halaman rumah?",
         "choices": {
             "label": [
@@ -484,6 +506,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_e80baedb37724946976606c0c74dd04a",
         "question": "Apa fungsi utama dari halte bus?",
         "choices": {
             "label": [
@@ -506,6 +529,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_c2c7e89b505548b7852957a0ab446586",
         "question": "Mengapa orang memilih untuk menginap di hotel saat berlibur?",
         "choices": {
             "label": [
@@ -528,6 +552,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_740aeb0d64fa4c4697d86c7290098f32",
         "question": "Apa yang biasanya dilindungi di dalam area hutan konservasi?",
         "choices": {
             "label": [
@@ -550,6 +575,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_87ea16cb086747fd95368f0eaa830108",
         "question": "Untuk jurusan apa Institut Teknologi Bandung terkenal?",
         "choices": {
             "label": [
@@ -572,6 +598,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_0fd5d98a9b1941c1a6afe3ae67cd51b5",
         "question": "Apa fungsi utama dari sebuah istana di Indonesia?",
         "choices": {
             "label": [
@@ -594,6 +621,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_45e5b01874c84baba383f594067457a9",
         "question": "Siapa yang biasanya tinggal di Istana Presiden Indonesia?",
         "choices": {
             "label": [
@@ -616,6 +644,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_f87a95f6fc994c1db5f97f68883db635",
         "question": "Apa yang dimaksud dengan 'jalan raya' di Indonesia?",
         "choices": {
             "label": [
@@ -638,6 +667,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_e1c5396cd1fd4b2793a6ab6d80e78a00",
         "question": "Di manakah jaklingko biasanya ditemukan?",
         "choices": {
             "label": [
@@ -660,6 +690,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_c62490a8895e42d89e36c838fe472e3b",
         "question": "Apa fungsi utama dari jembatan?",
         "choices": {
             "label": [
@@ -682,6 +713,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_a408507c8c00449b9b4786f633531e00",
         "question": "Mengapa jembatan penyebrangan dibangun di atas jalan raya?",
         "choices": {
             "label": [
@@ -704,6 +736,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_204148722ef64797a317d428a83b42ce",
         "question": "Apa yang biasanya bisa kamu lakukan di kafe?",
         "choices": {
             "label": [
@@ -726,6 +759,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_86e0c192f7074b9c8fe749b224db7ac7",
         "question": "Untuk apa kamar biasanya digunakan?",
         "choices": {
             "label": [
@@ -748,6 +782,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_90d5850fbe664c2cbeae12ab18433c4b",
         "question": "Di mana kapal laut biasanya bersandar ketika tidak sedang berlayar?",
         "choices": {
             "label": [
@@ -770,6 +805,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_5fe250e2ee20481aa7906a8aa4689080",
         "question": "Di mana biasanya orang mengunjungi kuburan?",
         "choices": {
             "label": [
@@ -792,6 +828,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_2ce8546265ee44229b81628206afe9a3",
         "question": "Di mana pengendara harus berhenti ketika lampu merah menyala?",
         "choices": {
             "label": [
@@ -814,6 +851,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_51a896b23f9542cead915fcbb0b474ea",
         "question": "Di mana biasanya lapangan bola ditemukan?",
         "choices": {
             "label": [
@@ -836,6 +874,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_7d7841d75f874d5fb776ee0b22987ccf",
         "question": "Apa yang biasanya dicari orang ketika mereka pergi ke Lembang?",
         "choices": {
             "label": [
@@ -858,6 +897,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_5bb9557820974c6a8bc8519b5b410455",
         "question": "Di manakah biasanya ojol menunggu penumpang?",
         "choices": {
             "label": [
@@ -880,6 +920,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_6c753773fe0d461393fa2f0cbdf8d2e8",
         "question": "Untuk apa orang biasanya pergi ke panti pijat?",
         "choices": {
             "label": [
@@ -902,6 +943,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_ba1a387c0d2d4524974e53712917e57a",
         "question": "Apa yang biasanya ditemukan di area parkiran?",
         "choices": {
             "label": [
@@ -924,6 +966,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_2a166f1a9bc442e3b831105e86805003",
         "question": "Apa yang biasanya dijual di pasar?",
         "choices": {
             "label": [
@@ -946,6 +989,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_984fcc38357a45bca808fdb552d3151c",
         "question": "Kegiatan apa yang biasanya dilakukan di pasar malam?",
         "choices": {
             "label": [
@@ -968,6 +1012,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_36d1393e78644e0699da289338596d5c",
         "question": "Untuk apa pegadaian biasanya digunakan?",
         "choices": {
             "label": [
@@ -990,6 +1035,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_899f038fb99b46a6b55492b53b114f40",
         "question": "Untuk apa biasanya ruang laktasi disediakan di tempat umum?",
         "choices": {
             "label": [
@@ -1012,6 +1058,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_09fc045afdc04d7e9fa73cbad2da652f",
         "question": "Apa yang biasanya ditemukan di ruang pameran?",
         "choices": {
             "label": [
@@ -1034,6 +1081,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_5b9bc4382c7749999ec80b40840aee97",
         "question": "Untuk apa biasanya orang pergi ke rumah?",
         "choices": {
             "label": [
@@ -1056,6 +1104,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_1a40e56ed1bd498c8d5b1db92db8b6b8",
         "question": "Apa yang biasanya ada di rumah sakit untuk membantu pasien?",
         "choices": {
             "label": [
@@ -1078,6 +1127,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_3b1e2ea34f6547efad18aa494962bec7",
         "question": "Mengapa seseorang mungkin pergi ke rumah tetangga?",
         "choices": {
             "label": [
@@ -1100,6 +1150,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_77c3f8d610c5417ea0c7018dd5ac56a2",
         "question": "Apa layanan utama yang disediakan oleh salon?",
         "choices": {
             "label": [
@@ -1122,6 +1173,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_fe2d48e7de82413f9ca133a02323648f",
         "question": "Apa tujuan utama dari sekolah?",
         "choices": {
             "label": [
@@ -1144,6 +1196,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_3d51a377205e4a55bb35f50c2b568818",
         "question": "Di mana biasanya orang dapat menemukan sofa untuk duduk dan bersantai?",
         "choices": {
             "label": [
@@ -1166,6 +1219,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_e50bed9583f3473796ea066ed5ab9c78",
         "question": "Stadion sering digunakan untuk kegiatan apa?",
         "choices": {
             "label": [
@@ -1188,6 +1242,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_bef54ff5e5ba4d899ebd0f194312182d",
         "question": "Apa fungsi utama stasiun?",
         "choices": {
             "label": [
@@ -1210,6 +1265,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_c429b54d0b724bba9bd8805f00642235",
         "question": "Sungai biasanya dimanfaatkan oleh masyarakat sekitar untuk keperluan apa?",
         "choices": {
             "label": [
@@ -1232,6 +1288,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_a387bb815efc495e89c945ad358f9b14",
         "question": "Apa yang biasanya dijual di supermarket?",
         "choices": {
             "label": [
@@ -1254,6 +1311,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_044f4d7ab3224a4f947a9f0a085451b0",
         "question": "Di manakah kamu biasanya menunggu taksi di bandara?",
         "choices": {
             "label": [
@@ -1276,6 +1334,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_e7143e1281e041b2945d6198b13ba1f8",
         "question": "Apa yang biasanya kamu lakukan di taman pada saat cuaca cerah?",
         "choices": {
             "label": [
@@ -1298,6 +1357,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_87bb4b2320e64d31a10723ae66405619",
         "question": "Taman rekreasi apa yang paling terkenal di Jakarta?",
         "choices": {
             "label": [
@@ -1320,6 +1380,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_95be88d410f647d294a57c9031c53df8",
         "question": "Tempat penitipan anak biasanya dibutuhkan oleh orang tua yang sedang apa?",
         "choices": {
             "label": [
@@ -1342,6 +1403,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_6b874597e28c4092b7a40a40aaf49c8f",
         "question": "Di manakah tenda biasanya didirikan ketika ada acara di luar ruangan?",
         "choices": {
             "label": [
@@ -1364,6 +1426,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_495fd6edc00c48e18f4bd8c3b6d9fafb",
         "question": "Di mana kamu biasanya menemukan toilet umum?",
         "choices": {
             "label": [
@@ -1386,6 +1449,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_0bd73a802ccb479b9f600893e81ce36b",
         "question": "Di manakah Universitas Indonesia biasanya ditemukan?",
         "choices": {
             "label": [
@@ -1408,6 +1472,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_ac03d98c91af48c8aba3bfc38c5a3229",
         "question": "Apa fungsi utama dari sebuah vila?",
         "choices": {
             "label": [
@@ -1430,6 +1495,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_3c7c82be77684b07a2115a3cc352d10f",
         "question": "Apa yang biasanya dijual di warung?",
         "choices": {
             "label": [
@@ -1452,6 +1518,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_83a7538b3ce44d4dbd242da09ad2e6b1",
         "question": "Untuk apa warung tenda biasanya digunakan?",
         "choices": {
             "label": [
@@ -1474,6 +1541,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_3c65215d0f9b42dcadc7b5ec6663898e",
         "question": "Apa yang membuat Yogyakarta terkenal sebagai tempat wisata?",
         "choices": {
             "label": [
@@ -1496,6 +1564,7 @@
         "category": "place"
     },
     {
+        "id": "orig_m_ind_abe727caf75b4a14909480ca5b1980a4",
         "question": "Bagaimana peran 'adat istiadat' dalam kehidupan masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -1518,6 +1587,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_44c5714f63884cb9aeeb63671390c37f",
         "question": "Dalam 'agama' apa umatnya berpuasa selama sebulan penuh?",
         "choices": {
             "label": [
@@ -1540,6 +1610,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_09938fcd94d2436d898f04e1ea36a896",
         "question": "Apa peran 'air' dalam upacara adat di Indonesia?",
         "choices": {
             "label": [
@@ -1562,6 +1633,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_fc6151ce538d4a0cbbc71b278f1ac1e4",
         "question": "Apa itu 'pingit' dalam konteks budaya Jawa?",
         "choices": {
             "label": [
@@ -1584,6 +1656,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_89307eff77f943c3be7ec7356a35518e",
         "question": "Sebutkan 'alat musik' tradisional yang berasal dari Indonesia?",
         "choices": {
             "label": [
@@ -1606,6 +1679,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_94d14725197a42378b94bc26e1452157",
         "question": "Untuk apa anak gadis di beberapa daerah di Indonesia biasanya mengenakan kebaya?",
         "choices": {
             "label": [
@@ -1628,6 +1702,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_949ba8fa7e724fc49419b7693940211d",
         "question": "Alat musik angklung berasal dari daerah mana di Indonesia?",
         "choices": {
             "label": [
@@ -1650,6 +1725,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_282cad148de5462b871b0c3b3262a194",
         "question": "Anyaman yang terbuat dari bambu biasanya digunakan sebagai apa di Indonesia?",
         "choices": {
             "label": [
@@ -1672,6 +1748,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_c8a856e6bb67400caae59fdf9f75b2ab",
         "question": "Apa simbol api dalam upacara adat di Indonesia?",
         "choices": {
             "label": [
@@ -1694,6 +1771,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_b8478dccb4dc465dbb4231755c6b4744",
         "question": "Minuman arak di Indonesia biasanya dikonsumsi saat apa?",
         "choices": {
             "label": [
@@ -1716,6 +1794,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3f401ebd8583412fadc1be4177ac8144",
         "question": "Apa bahasa yang paling banyak digunakan di Indonesia?",
         "choices": {
             "label": [
@@ -1738,6 +1817,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4978f6b39c3649f88e44a66ab3eaf177",
         "question": "Di pulau mana kebanyakan penduduknya menggunakan bahasa Bali?",
         "choices": {
             "label": [
@@ -1760,6 +1840,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_a46f88106156441c8f21117d285e008f",
         "question": "Apa yang biasanya dilakukan oleh orang tua untuk merayakan kelahiran bayi di Indonesia?",
         "choices": {
             "label": [
@@ -1782,6 +1863,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_d194f8514fe64bbc94d55a9bcbab8ec6",
         "question": "Dalam konteks makanan, apa yang dimaksud dengan 'beragam' di Indonesia?",
         "choices": {
             "label": [
@@ -1804,6 +1886,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_7752bc4aa90b427e825c8a778af6dc15",
         "question": "Apa yang terjadi pada suatu budaya yang 'berkembang' di Indonesia?",
         "choices": {
             "label": [
@@ -1826,6 +1909,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_478e637d67c34e25ab63a9323aa32734",
         "question": "Apa ciri khas dari kebudayaan Betawi?",
         "choices": {
             "label": [
@@ -1848,6 +1932,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_f201df21c96e4d73be57fa607d88824f",
         "question": "Apa peran biksu dalam masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -1870,6 +1955,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_22f1b346c6454c078c90829c4814eeb6",
         "question": "Untuk apa biasanya buku digunakan dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -1892,6 +1978,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4f67aa3ccecd417d9761bc20fb0c88db",
         "question": "Dalam budaya Indonesia, bunga sering kali digunakan sebagai simbol apa?",
         "choices": {
             "label": [
@@ -1914,6 +2001,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4ed418f530624dc4aac50bb49e84dc0d",
         "question": "Apa tujuan utama dari pembentukan cagar alam dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -1936,6 +2024,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_2d36d2d223dd46b3b319baf229437a48",
         "question": "Siapa yang biasanya memberikan ceramah dalam konteks budaya Indonesia?",
         "choices": {
             "label": [
@@ -1958,6 +2047,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_f5c23361b3344346996adcdd9e935391",
         "question": "Musik dangdut di Indonesia sering dihubungkan dengan acara sosial apa?",
         "choices": {
             "label": [
@@ -1980,6 +2070,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3ca342356a75486182f8e0892d3caca9",
         "question": "Apa yang dimaksud dengan 'darah' dalam konteks kekerabatan masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -2002,6 +2093,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_7d2f16c97d5b40968850eb9e3041ee00",
         "question": "Apa yang menjadi ciri khas dari suku Dayak yang terkenal di Kalimantan?",
         "choices": {
             "label": [
@@ -2024,6 +2116,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_e4cf20f90e1042f4bd31c2d121f498eb",
         "question": "Mengapa banyak wisatawan asing yang menganggap budaya Indonesia 'eksotis'?",
         "choices": {
             "label": [
@@ -2046,6 +2139,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_932c3f4de7bb4468b7eeb3362c369188",
         "question": "Bagaimana 'eksploitasi' terhadap kebudayaan lokal dapat terjadi?",
         "choices": {
             "label": [
@@ -2068,6 +2162,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_042161ee1e7345e5973c1f9c2e68c6c9",
         "question": "Apa yang dimaksud dengan 'etnis' dalam konteks masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -2090,6 +2185,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_dbebf39116a848218144a1ef25173f4e",
         "question": "Apa tujuan utama gerakan feminis di Indonesia?",
         "choices": {
             "label": [
@@ -2112,6 +2208,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_7a01297c59a64cccae25a225244b26a1",
         "question": "Film Indonesia apa yang berhasil memenangkan penghargaan internasional?",
         "choices": {
             "label": [
@@ -2134,6 +2231,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4f630d9d6b13417baef8c11ab6c7f93f",
         "question": "Apa yang dimaksud dengan 'folklor' dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -2156,6 +2254,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_91be4220181544788e1122ab80b897f5",
         "question": "Galeri mana di Indonesia yang terkenal dengan koleksi seni tradisional dan modern?",
         "choices": {
             "label": [
@@ -2178,6 +2277,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4f8dde07c7944f969aa619d833459a7b",
         "question": "Apa yang dirayakan umat Hindu di Bali pada hari raya Galungan?",
         "choices": {
             "label": [
@@ -2200,6 +2300,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_87379a4f2bf94ae388bd6195a70b6908",
         "question": "Dalam konteks kebudayaan, apa yang dimaksud dengan 'global'?",
         "choices": {
             "label": [
@@ -2222,6 +2323,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3c3408c91bef4ad695047a35aeea909b",
         "question": "Aktivitas apa yang umumnya dilakukan oleh umat Muslim di Indonesia sebagai bentuk ibadah selama bulan Ramadhan?",
         "choices": {
             "label": [
@@ -2244,6 +2346,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_c2f7d85d26fa41d8ba8bb7f7f6be0d4e",
         "question": "Dalam budaya Jawa, apa yang biasanya dilakukan untuk merayakan hari besar seperti Jawa Kuno?",
         "choices": {
             "label": [
@@ -2266,6 +2369,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_2197006728f54439a5bcda071d2751c0",
         "question": "Apa jenis pertunjukan yang sering dihubungkan dengan budaya kabaret di Indonesia?",
         "choices": {
             "label": [
@@ -2288,6 +2392,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_49ac919738ce4b65bdb700579c97a075",
         "question": "Kain batik, yang merupakan warisan budaya Indonesia, berasal dari daerah mana?",
         "choices": {
             "label": [
@@ -2310,6 +2415,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_ff456a4be8894d76985f7bd17a1b361b",
         "question": "Dalam seni lukis Indonesia, kanvas sering digunakan sebagai media untuk?",
         "choices": {
             "label": [
@@ -2332,6 +2438,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4186f2c9671c42a886ec68f109931512",
         "question": "Apa yang dimaksud dengan 'karya' dalam konteks seni dan budaya Indonesia?",
         "choices": {
             "label": [
@@ -2354,6 +2461,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_85647fdfecf64a18ae3ae78f9fb82740",
         "question": "Bagaimana kearifan lokal dapat membantu pelestarian lingkungan?",
         "choices": {
             "label": [
@@ -2376,6 +2484,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_472a70a1b12d466ab4676ff298c2101a",
         "question": "Apa fungsi kebaya dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -2398,6 +2507,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_bca4db4991494d1bbae5517098e90106",
         "question": "Apa yang dimaksud dengan 'kehamilan' dalam konteks keluarga Indonesia?",
         "choices": {
             "label": [
@@ -2420,6 +2530,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_48e353ae6e694005835e784577cf70d8",
         "question": "Apa peran 'kekasih' dalam tradisi pernikahan Indonesia?",
         "choices": {
             "label": [
@@ -2442,6 +2553,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_99cf7bbbeb9548a290ad5568538e16cc",
         "question": "Bagaimana nilai kekeluargaan diwujudkan dalam masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -2464,6 +2576,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_ea0751e0bcb64cf785e6219cc324e3f5",
         "question": "Apa yang biasanya dilakukan oleh keluarga Indonesia saat ada anggota keluarga yang mengalami kelahiran?",
         "choices": {
             "label": [
@@ -2486,6 +2599,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_1f68f8acb17845ddb685669fd96752bc",
         "question": "Apa yang biasanya dilakukan oleh masyarakat Indonesia untuk mengenang kematian seseorang?",
         "choices": {
             "label": [
@@ -2508,6 +2622,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_92e18f4f2b4745b99e3a10cf8beeb785",
         "question": "Apa yang dimaksud dengan 'kepercayaan' dalam konteks masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -2530,6 +2645,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4ef5ef60df414ca78a321fcc3bf077dd",
         "question": "Untuk apa keraton biasanya digunakan dalam masyarakat Jawa?",
         "choices": {
             "label": [
@@ -2552,6 +2668,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_6cb874d3864142f299b950ae6aa812ef",
         "question": "Apa tujuan dari melakukan kerokan dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -2574,6 +2691,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_c80fe9cedb3e49eea3d8a1aa7e3a97c7",
         "question": "Dalam konteks kebudayaan Indonesia, apa yang dimaksud dengan 'kesenian'?",
         "choices": {
             "label": [
@@ -2596,6 +2714,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_23d3a38a7dad494d992e7bc2f70f8af6",
         "question": "Apa yang biasanya dirayakan dalam acara 'khitanan' di Indonesia?",
         "choices": {
             "label": [
@@ -2618,6 +2737,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_e955a9927c9145b58a79b2655542321f",
         "question": "Apa yang dimaksud dengan 'pacaran' dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -2640,6 +2760,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_a6957b8fda83465783c17313cf4d1b93",
         "question": "Untuk apa 'klenteng' biasanya digunakan dalam masyarakat Tionghoa-Indonesia?",
         "choices": {
             "label": [
@@ -2662,6 +2783,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_51baa2bbca724e2da5a8501c0d94069a",
         "question": "Apa tujuan utama dari 'kompetisi' dalam konteks budaya Indonesia?",
         "choices": {
             "label": [
@@ -2684,6 +2806,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_9e87026b687b42bc9e3d391f779ff906",
         "question": "Dalam upaya konservasi budaya, apa yang biasanya dilakukan untuk menjaga kesenian tradisional Indonesia?",
         "choices": {
             "label": [
@@ -2706,6 +2829,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_234d14d55061481183e95bbc496acb9a",
         "question": "Apa yang dimaksud dengan seni kontemporer Indonesia?",
         "choices": {
             "label": [
@@ -2728,6 +2852,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_e6b4c8fbd12f4ee9a182856390833e5c",
         "question": "Alat musik tradisional Indonesia yang dimainkan dengan cara dipukul menggunakan kuas adalah?",
         "choices": {
             "label": [
@@ -2750,6 +2875,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_e78249cb0b734dfab37095febfd19236",
         "question": "Warna kuning pada pakaian adat Indonesia biasanya melambangkan?",
         "choices": {
             "label": [
@@ -2772,6 +2898,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_7055d9b7d1c24010b21fba43a1c88291",
         "question": "Apa yang dimaksud dengan 'kuno' dalam konteks budaya Indonesia?",
         "choices": {
             "label": [
@@ -2794,6 +2921,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4379f62074c04aa49ba400d7939f41db",
         "question": "Genre 'lagu' apa yang sering dianggap sebagai bagian dari kebudayaan tradisional Indonesia?",
         "choices": {
             "label": [
@@ -2816,6 +2944,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3ae22ca574f74e72beaf4a7b035dfb7e",
         "question": "Mengapa benda 'langka' di Indonesia dianggap penting untuk dilestarikan?",
         "choices": {
             "label": [
@@ -2838,6 +2967,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_c7877e335e3b4a3398349f04170be6d5",
         "question": "Apa tujuan utama dari 'latihan' tari tradisional di Indonesia?",
         "choices": {
             "label": [
@@ -2860,6 +2990,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_68a0a9bdb18b477fbf65ff1bb6b2df2f",
         "question": "Apa yang biasanya digambarkan dalam 'lukisan' tradisional Indonesia?",
         "choices": {
             "label": [
@@ -2882,6 +3013,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_94742d359b37433eb70451e481632ed4",
         "question": "Mengapa dalam budaya Indonesia, barang yang 'mahal' sering dianggap memiliki kualitas tinggi?",
         "choices": {
             "label": [
@@ -2904,6 +3036,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_89ea76c75d5543939911f4f85a25c210",
         "question": "Dalam budaya Indonesia, makanan apa yang biasanya disajikan saat 'makan' bersama keluarga di hari raya?",
         "choices": {
             "label": [
@@ -2926,6 +3059,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_b1a84c7946144b8197054f9e739ad09d",
         "question": "Apa yang biasanya dilakukan oleh masyarakat Indonesia pada 'malam' hari raya Idul Fitri?",
         "choices": {
             "label": [
@@ -2948,6 +3082,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_41970935d38844828e282d1209074aba",
         "question": "Mengapa 'mandi' sebelum sholat Jumat dianggap penting dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -2970,6 +3105,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4d78b09603ee4faa94652b0cf9262d11",
         "question": "Bagaimana 'manusia' dalam budaya Indonesia biasanya menunjukkan rasa hormat kepada orang yang lebih tua?",
         "choices": {
             "label": [
@@ -2992,6 +3128,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_244d857c0cd84ec58b305188461a1863",
         "question": "Untuk apa umat Islam menggunakan masjid?",
         "choices": {
             "label": [
@@ -3014,6 +3151,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_8255f60192084ae5a467a153e93154d9",
         "question": "Apa tujuan utama dari melestarikan kebudayaan lokal?",
         "choices": {
             "label": [
@@ -3036,6 +3174,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_b95dba81048c4c71b5ce3503ab12b045",
         "question": "Apa yang biasanya dilakukan saat upacara memperingati kemerdekaan Indonesia dengan membakar dupa?",
         "choices": {
             "label": [
@@ -3058,6 +3197,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_a22c0aa5935f48bfb4e61b88e596e381",
         "question": "Siapa yang sering terlihat mengenakan peci dalam kegiatan sehari-hari di Indonesia?",
         "choices": {
             "label": [
@@ -3080,6 +3220,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_9c75659464e44ef88234f5a1c5f81b09",
         "question": "Dalam tradisi adat mana biasanya memotong bambu digunakan sebagai bagian dari upacara?",
         "choices": {
             "label": [
@@ -3102,6 +3243,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_23b841ae6785418684565f384341e8f9",
         "question": "Bagaimana budaya Indonesia bisa mendunia dan dikenal banyak orang?",
         "choices": {
             "label": [
@@ -3124,6 +3266,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_d74dd0ac63194ac88ddbd91d63e0832a",
         "question": "Bagaimana cara tradisi dan kebudayaan lokal di Indonesia menyebar ke berbagai daerah?",
         "choices": {
             "label": [
@@ -3146,6 +3289,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_666f1fd24be5448d97b6cd2d46f94518",
         "question": "Apa yang menjadi ciri khas dari budaya Minang yang terkenal di Indonesia?",
         "choices": {
             "label": [
@@ -3168,6 +3312,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_ae43cda9c98142db9bb6f50f76cf8fc2",
         "question": "Minuman apa yang sering dikonsumsi oleh masyarakat Indonesia sebagai bagian dari kebiasaan sehari-hari?",
         "choices": {
             "label": [
@@ -3190,6 +3335,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_9c0fe8344d784deab304d34d490f4b56",
         "question": "Bagaimana mitos dapat mempengaruhi kebudayaan suatu masyarakat di Indonesia?",
         "choices": {
             "label": [
@@ -3212,6 +3358,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_cfc2517321ea416e9c447acf893f30d4",
         "question": "Apa peran konsep multikultural dalam memperkaya kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3234,6 +3381,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_b680fa19bb6d454bac9579c760136bf3",
         "question": "Bagaimana informasi tentang adat istiadat dapat tersebar dari mulut ke mulut dalam masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -3256,6 +3404,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_909ba5eba7df4cc7939a66865847cd50",
         "question": "Apa yang dimaksud dengan karya seni yang murni dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3278,6 +3427,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_e9166367937e488a82b4a6b6ea45ab9a",
         "question": "Bagaimana musikalisasi puisi dapat berkontribusi pada pelestarian budaya Indonesia?",
         "choices": {
             "label": [
@@ -3300,6 +3450,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_31218daccac74ebe81c1ecd16aa9560d",
         "question": "Bagaimana perayaan 'natal' biasanya dirayakan dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -3322,6 +3473,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_894a8b6cab694e73b3d0e7bb18bcffb1",
         "question": "Apa yang dimaksud dengan 'nusantara' dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3344,6 +3496,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_b232b3e5e4c84d69a79aae833eeeb542",
         "question": "Dalam kebudayaan Indonesia, kata 'orang' sering digunakan untuk menyebut apa?",
         "choices": {
             "label": [
@@ -3366,6 +3519,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4011a108f4eb4736b957d48c788fefab",
         "question": "Apa yang biasanya dilakukan oleh masyarakat Indonesia di 'pagi' hari sebagai bagian dari kebudayaannya?",
         "choices": {
             "label": [
@@ -3388,6 +3542,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_7ae46acf5e694dad8fb77fd159ce230a",
         "question": "Jenis 'pakaian' apa yang sering dikenakan dalam acara kebudayaan di Indonesia?",
         "choices": {
             "label": [
@@ -3410,6 +3565,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_c44f56059d3545cea23f12e0e15d2035",
         "question": "Untuk apa biasanya 'pameran' seni diselenggarakan di Indonesia?",
         "choices": {
             "label": [
@@ -3432,6 +3588,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_49ffb91a75314cbe9a6835b6475021b5",
         "question": "Apa yang biasanya dilakukan petani di Indonesia setelah 'panen' padi?",
         "choices": {
             "label": [
@@ -3454,6 +3611,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_60e823f1a69344c3a56e8b60200e785f",
         "question": "Apa fungsi 'panggung' dalam pertunjukan tradisional Indonesia?",
         "choices": {
             "label": [
@@ -3476,6 +3634,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_d77c1e30c9cf47cca234def6715e7231",
         "question": "Apa makna dari perilaku 'duduk di depan pintu' saat ada acara adat di Indonesia?",
         "choices": {
             "label": [
@@ -3498,6 +3657,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_6f466b14c09a467eaa47d812cd846363",
         "question": "Dalam kebudayaan Indonesia, 'parang' biasanya digunakan untuk apa?",
         "choices": {
             "label": [
@@ -3520,6 +3680,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_618dd808fe9d4296beb04e811e073655",
         "question": "Bagaimana patriarki dapat mempengaruhi kebudayaan suatu masyarakat?",
         "choices": {
             "label": [
@@ -3542,6 +3703,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_5d2e1c649fb544239a40b681bb82004c",
         "question": "Untuk apa patung seringkali dibuat dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3564,6 +3726,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_a8172f910ed6465980d56bb8613458cd",
         "question": "Apa peran pekerjaan dalam melestarikan kebudayaan lokal di Indonesia?",
         "choices": {
             "label": [
@@ -3586,6 +3749,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_cbff887be8df48349d458e95ce6a6de1",
         "question": "Mengapa pelestarian kebudayaan penting bagi masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -3608,6 +3772,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4c7006f391184c95b766ea0c0764fe70",
         "question": "Bagaimana pemuda dapat berkontribusi pada kebudayaan di Indonesia?",
         "choices": {
             "label": [
@@ -3630,6 +3795,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3ad60b919200459ebd3e67fc75ee16cb",
         "question": "Untuk apa jilbab biasanya digunakan dalam kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3652,6 +3818,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_4bcb526aa83d48d1a4b82c77eecf7bb1",
         "question": "Apa yang dimaksud dengan 'punah' dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3674,6 +3841,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_0ce5b0e182e842098fb42c8608f2b034",
         "question": "Apa fungsi 'pura' dalam masyarakat Bali, Indonesia?",
         "choices": {
             "label": [
@@ -3696,6 +3864,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_00ae0d38d8434e7d88aecfb972335bbb",
         "question": "Apa yang biasanya dilakukan dengan 'rambut' saat upacara potong rambut di Indonesia?",
         "choices": {
             "label": [
@@ -3718,6 +3887,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_da92d931c56a411d831ac710f2a89723",
         "question": "Ritual apa yang sering dilakukan di Indonesia untuk memperingati hari besar keagamaan?",
         "choices": {
             "label": [
@@ -3740,6 +3910,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_bc7fcf43245d4817aa5682ff15b2ee6f",
         "question": "Untuk apa biasanya 'rumah' digunakan dalam kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3762,6 +3933,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_fbca4341cf0f415a9587f9cdf7ca2a17",
         "question": "Apa fungsi 'rumah adat' dalam kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3784,6 +3956,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_44a383faeb464c81aa3310f650fe8de8",
         "question": "Apa makna dari 'salam' dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3806,6 +3979,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_94b3e03048ea40f7bfb023c5112f5028",
         "question": "Dari daerah manakah tarian 'saman' berasal?",
         "choices": {
             "label": [
@@ -3828,6 +4002,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_99bb4e4ff2b142b4872bfbad18e554ce",
         "question": "Apa kegunaan 'sarung' dalam kehidupan sehari-hari masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -3850,6 +4025,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_fec5a9d22a724067a640bcce6f679b04",
         "question": "Untuk apa umumnya selamatan dilakukan dalam budaya Indonesia?",
         "choices": {
             "label": [
@@ -3872,6 +4048,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3c8ff183b29245b992349d6ec87edd2c",
         "question": "Apa yang dimaksud dengan 'seni rupa' dalam konteks kebudayaan Indonesia?",
         "choices": {
             "label": [
@@ -3894,6 +4071,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_49ab382c85cf4c50908517a2b410c5f1",
         "question": "Apa peran seorang 'seniman' dalam masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -3916,6 +4094,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_0c53e75b60844d4a9bbe2deac25f6504",
         "question": "Apa fungsi 'sesajen' dalam tradisi Jawa?",
         "choices": {
             "label": [
@@ -3938,6 +4117,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_01870ee007e34618915206c07af0a29b",
         "question": "Mengapa di beberapa tempat di Indonesia, pengunjung diminta untuk 'lepas alas kaki' sebelum memasuki area tertentu?",
         "choices": {
             "label": [
@@ -3960,6 +4140,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_d4db92dfa73d4db78e791d518872f6c0",
         "question": "Apa yang menjadi ciri khas dari musik Sunda?",
         "choices": {
             "label": [
@@ -3982,6 +4163,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_10955be763334c42b53167cd7500b96f",
         "question": "Tradisi apa yang biasanya dilakukan oleh masyarakat Indonesia dalam merayakan tahun baru?",
         "choices": {
             "label": [
@@ -4004,6 +4186,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_6ce3a943ad714f659c43a39e93901115",
         "question": "Apa istilah untuk tanah adat yang dikelola oleh masyarakat hukum adat di Indonesia?",
         "choices": {
             "label": [
@@ -4026,6 +4209,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_dbd36ca39811446ca8d6c51f33996cea",
         "question": "Tarian apa yang merupakan tarian tradisional dari Bali?",
         "choices": {
             "label": [
@@ -4048,6 +4232,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_2d3d2e31d70a494baa7216147a1b1b3b",
         "question": "Apa nama kain tenun tradisional dari Nusa Tenggara Timur yang terkenal dengan motifnya yang khas?",
         "choices": {
             "label": [
@@ -4070,6 +4255,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_445a7ba24dbf4e1289e8aa5342f0de05",
         "question": "Apa yang biasanya menjadi fokus dalam perayaan tradisi pernikahan adat di Indonesia?",
         "choices": {
             "label": [
@@ -4092,6 +4278,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_09772967f375422487abcb604af1840a",
         "question": "Mengapa pertunjukan wayang kulit masih dianggap sebagai hiburan tradisional yang populer di Indonesia?",
         "choices": {
             "label": [
@@ -4114,6 +4301,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_ea36044edf53442e858eb6d0401b55f3",
         "question": "Apa yang dimaksud dengan pengetahuan yang diwariskan secara turun temurun dalam masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -4136,6 +4324,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_65849d831f224827aeb01a2da4e099c4",
         "question": "Dalam budaya Indonesia, untuk kegiatan apa biasanya uang diberikan sebagai hadiah?",
         "choices": {
             "label": [
@@ -4158,6 +4347,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_6cd84fcd70584abba1ab66c7d3d7e076",
         "question": "Apa yang biasanya dilakukan oleh keluarga di Indonesia untuk merayakan ulang tahun anggota keluarganya?",
         "choices": {
             "label": [
@@ -4180,6 +4370,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_1ca0cb212ef74465b51bcf626f7462a1",
         "question": "Apa saja situs warisan dunia UNESCO yang terdapat di Indonesia?",
         "choices": {
             "label": [
@@ -4202,6 +4393,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_3d192aa3cf9442db99372c65efe633fd",
         "question": "Warna ungu dalam budaya Indonesia sering dikaitkan dengan hal apa?",
         "choices": {
             "label": [
@@ -4224,6 +4416,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_45707c279656431f9aefda146930d2bd",
         "question": "Dalam adat istiadat Jawa, istilah 'tangan kanan' biasanya merujuk kepada peran apa?",
         "choices": {
             "label": [
@@ -4246,6 +4439,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_167afe7bdcac430294459a4f9f76a6bf",
         "question": "Upacara adat yang dilakukan saat seseorang meninggal di Bali dikenal dengan nama apa?",
         "choices": {
             "label": [
@@ -4268,6 +4462,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_55eb979ba7794152a5b8b8fc8ef47017",
         "question": "Apa yang biasanya dirayakan umat Buddha di Indonesia saat hari Waisak?",
         "choices": {
             "label": [
@@ -4290,6 +4485,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_ac99e49314db4880a3cb1dc0e56799b2",
         "question": "Apa yang dimaksud dengan 'warisan' dalam konteks budaya Indonesia?",
         "choices": {
             "label": [
@@ -4312,6 +4508,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_351a83ea7e6a45af8c3ee7cd5e7dab87",
         "question": "Wayang kulit adalah bentuk seni pertunjukan tradisional yang berasal dari daerah mana di Indonesia?",
         "choices": {
             "label": [
@@ -4334,6 +4531,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_0147d2914819479bb38f34af89b8825a",
         "question": "Apa fungsi utama dari sebuah 'wihara' dalam masyarakat Indonesia?",
         "choices": {
             "label": [
@@ -4356,6 +4554,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_ab7211db57654121871d45e1303cb586",
         "question": "Apa yang biasanya dicari oleh orang-orang ketika melakukan 'wisata' budaya di Indonesia?",
         "choices": {
             "label": [
@@ -4378,6 +4577,7 @@
         "category": "culture"
     },
     {
+        "id": "orig_m_ind_469c5ea80f0a4f8c8877528345866f05",
         "question": "Pada abad ke berapakah Kerajaan Majapahit mencapai puncak kejayaannya?",
         "choices": {
             "label": [
@@ -4400,6 +4600,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_443b434ff27a421f9a99708e2010d926",
         "question": "Siapakah ahli sejarah yang terkenal dengan penelitian tentang Kerajaan Sriwijaya?",
         "choices": {
             "label": [
@@ -4422,6 +4623,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a3ae5e94aa9d4e8797e1b91f533ae6c7",
         "question": "Aksi apa yang dilakukan oleh para pemuda Indonesia dalam memperjuangkan kemerdekaan pada masa penjajahan?",
         "choices": {
             "label": [
@@ -4444,6 +4646,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_9d0f6a933ab14c6db24bb545b404efca",
         "question": "Siapakah aktivis perempuan Indonesia yang berperan dalam emansipasi wanita dan pendidikan pada awal abad ke-20?",
         "choices": {
             "label": [
@@ -4466,6 +4669,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a2a636f69a554f38b6ba07f10d7eb4fe",
         "question": "Anggota organisasi pemuda mana yang berperan penting dalam Sumpah Pemuda pada tahun 1928?",
         "choices": {
             "label": [
@@ -4488,6 +4692,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_25bcdb484cb94d99af16a2b8b24bda90",
         "question": "Untuk apa ilmu arkeologi penting dalam mempelajari sejarah?",
         "choices": {
             "label": [
@@ -4510,6 +4715,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_806a0c6894304eaaba76dbbadf5b031d",
         "question": "Mengapa arsip sangat penting dalam studi sejarah?",
         "choices": {
             "label": [
@@ -4532,6 +4738,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_dde841f694be470dabfda1987e6cbe4b",
         "question": "Bagaimana pengetahuan tentang 'asal usul' suatu bangsa dapat mempengaruhi identitas nasional?",
         "choices": {
             "label": [
@@ -4554,6 +4761,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_75238af952454ea898a44eca04d8c639",
         "question": "Bagaimana peran asuransi dalam melindungi peninggalan sejarah?",
         "choices": {
             "label": [
@@ -4576,6 +4784,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_29c87f40c9614f2ea98b05788156ef8f",
         "question": "Apa fungsi 'bambu runcing' dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -4598,6 +4807,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_0fad48d013934c59b1fca542f4e2a72a",
         "question": "Negara manakah yang dikenal dengan sebutan 'Belanda' yang pernah menjajah Indonesia selama lebih dari 3 abad?",
         "choices": {
             "label": [
@@ -4620,6 +4830,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_cdf447956d12479989c7b71199a1c6d1",
         "question": "Apa nama 'bendera' yang menjadi simbol perjuangan kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -4642,6 +4853,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_080e288d0467454c94ce2bddd7a854d3",
         "question": "'Benteng' mana yang terkenal sebagai lokasi perjuangan Pangeran Diponegoro melawan penjajah Belanda?",
         "choices": {
             "label": [
@@ -4664,6 +4876,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_36da4bc022e9460fbf567f59312171d0",
         "question": "Kapan organisasi Boedi Oetomo yang menjadi cikal bakal kebangkitan nasional Indonesia 'berdiri'?",
         "choices": {
             "label": [
@@ -4686,6 +4899,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_c53b7f7b601b49fd8bb3ff5e911b25dc",
         "question": "Siapakah pahlawan nasional Indonesia yang dikenal karena 'berjuang' tanpa kenal lelah melawan penjajah?",
         "choices": {
             "label": [
@@ -4708,6 +4922,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_0aa99d5ffae8480787a97965635a401e",
         "question": "Dalam sejarah Indonesia, kerajaan mana yang dikenal karena bertempur melawan penjajah untuk mempertahankan wilayahnya?",
         "choices": {
             "label": [
@@ -4730,6 +4945,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_f1bfba42296847b9be878ff40d22c262",
         "question": "Candi Borobudur dibangun pada masa kekuasaan dinasti apa di Indonesia?",
         "choices": {
             "label": [
@@ -4752,6 +4968,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ef04f8cf8c824665909ab5b24fa1cf9f",
         "question": "Cerita rakyat 'Malin Kundang' berasal dari daerah mana di Indonesia?",
         "choices": {
             "label": [
@@ -4774,6 +4991,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ed6a6b9e43774433b8af3cfee671294a",
         "question": "Daerah manakah yang dikenal sebagai pusat penyebaran agama Islam pada masa kerajaan-kerajaan di Indonesia?",
         "choices": {
             "label": [
@@ -4796,6 +5014,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a522270f2ae74e62a11a2e67d6bf6ea3",
         "question": "Apa yang dideklarasikan oleh Soekarno dan Hatta pada tanggal 17 Agustus 1945 yang menjadi tonggak sejarah kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -4818,6 +5037,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_f742b9e048554e078eb27964bb77f1dd",
         "question": "Siapakah yang sering menjadi demonstran dalam peristiwa Tragedi Semanggi yang terjadi dalam sejarah Indonesia?",
         "choices": {
             "label": [
@@ -4840,6 +5060,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_069d906f6e53470cb6640cd30b4d04a8",
         "question": "Kapal apa yang hilang misterius di Segitiga Bermuda dan sering dikaitkan dengan cerita-cerita misteri dalam sejarah pelayaran?",
         "choices": {
             "label": [
@@ -4862,6 +5083,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_8713a80ea66745dda72a2908244963e5",
         "question": "Siapakah diktator yang memerintah Jerman selama Perang Dunia II dan bertanggung jawab atas Holocaust?",
         "choices": {
             "label": [
@@ -4884,6 +5106,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_5fcd65e1d641435b8ff4ed481ff0601f",
         "question": "Konferensi apa yang merupakan contoh dari pendekatan diplomatik dalam sejarah internasional untuk mengakhiri Perang Vietnam?",
         "choices": {
             "label": [
@@ -4906,6 +5129,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_0553483b8afa4fb0b2466f2895eab568",
         "question": "Apa doktrin yang menjadi dasar bagi Indonesia untuk melakukan operasi militer di Papua pada era 1960-an?",
         "choices": {
             "label": [
@@ -4928,6 +5152,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_f28f5645a9144e2a8095b0efd0e970cc",
         "question": "Bagaimana eksekusi terhadap para pahlawan revolusi Indonesia dilakukan oleh PKI pada tahun 1965?",
         "choices": {
             "label": [
@@ -4950,6 +5175,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_2ef390c1f7d74e00b351bf5745681c7d",
         "question": "Era apa yang ditandai dengan berakhirnya Perang Dingin dan runtuhnya Uni Soviet?",
         "choices": {
             "label": [
@@ -4972,6 +5198,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_846995ffa4bf425495a51e6501b12a75",
         "question": "Fosil manusia purba jenis Homo erectus yang ditemukan di Indonesia dan memberikan bukti tentang keberadaan manusia purba di wilayah ini dikenal dengan nama apa?",
         "choices": {
             "label": [
@@ -4994,6 +5221,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_608e0d3e28b44be492044af69bd47efa",
         "question": "Aksi genosida yang terjadi di Indonesia dan menewaskan ratusan ribu orang terjadi pada tahun berapa?",
         "choices": {
             "label": [
@@ -5016,6 +5244,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_b7d64e2b9fba49e3b6625418f9d3643a",
         "question": "Gerakan apa yang menjadi pemicu utama kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -5038,6 +5267,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_aa85fecc7b2247e1bb62e8dc0b62ad7f",
         "question": "Gunung meletus terbesar dalam sejarah Indonesia yang mempengaruhi perubahan iklim global adalah erupsi dari gunung apa?",
         "choices": {
             "label": [
@@ -5060,6 +5290,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_fde65e264f2d43aeb469984537487361",
         "question": "Kapan hak pilih pertama kali diberikan kepada rakyat Indonesia dalam pemilihan umum?",
         "choices": {
             "label": [
@@ -5082,6 +5313,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_e77889b78ab84bb48327a1f75a7face1",
         "question": "Hari kemerdekaan Indonesia diperingati setiap tanggal berapa?",
         "choices": {
             "label": [
@@ -5104,6 +5336,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_5981e9d4966f458b804f43c9c9603cef",
         "question": "Himpunan apa yang berperan penting dalam perjuangan kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -5126,6 +5359,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_6241d311192c42938f48cfbd7f27de43",
         "question": "Apa hukuman yang diberikan kepada pemberontak pada masa penjajahan di Indonesia?",
         "choices": {
             "label": [
@@ -5148,6 +5382,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_b257e0f05b284570952dd8687ce1e315",
         "question": "Identitas kebangsaan Indonesia mulai terbentuk sejak kapan?",
         "choices": {
             "label": [
@@ -5170,6 +5405,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_d6d5147aade040ee84a37bc91ee1992a",
         "question": "Ideologi apa yang menjadi dasar negara Republik Indonesia?",
         "choices": {
             "label": [
@@ -5192,6 +5428,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_4e78d556d2b9484b996d2f06444f92aa",
         "question": "Siapa yang sering membuat ilustrasi untuk menggambarkan keadaan sosial masyarakat Indonesia pada masa penjajahan?",
         "choices": {
             "label": [
@@ -5214,6 +5451,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_56e7599741cc4eb09442ff0cf1283212",
         "question": "Kerajaan Majapahit jatuh pada tahun berapa dan akibat dari apa?",
         "choices": {
             "label": [
@@ -5236,6 +5474,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a4deb1bc130a499ba5896ec148e15186",
         "question": "Apa peran Pulau Jawa dalam sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5258,6 +5497,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_41af7bbaaa1d46fd9c7ca7054ec6d5cb",
         "question": "Apa yang dimaksud dengan 'jelajah' dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5280,6 +5520,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_563dbc2555164d89b941b417284dc357",
         "question": "Bagaimana pengaruh Jepang terhadap sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5302,6 +5543,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_2f3273a3ec9b437ea192d5541056541d",
         "question": "Apa tujuan dari kampanye militer yang dilakukan oleh Kerajaan Mataram?",
         "choices": {
             "label": [
@@ -5324,6 +5566,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_79cda21c615e4533ad00a47b9b03bc7d",
         "question": "Kebangkitan nasional Indonesia ditandai oleh berdirinya organisasi apa?",
         "choices": {
             "label": [
@@ -5346,6 +5589,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_78d3c210aaab401ea59bcfe9637e8cba",
         "question": "Bagaimana peran 'kebebasan' pers dalam sejarah reformasi Indonesia tahun 1998?",
         "choices": {
             "label": [
@@ -5368,6 +5612,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_b96e94802d5b46acacd881591de1344d",
         "question": "Apa 'kebijakan' yang diambil oleh pemerintah Indonesia untuk mempercepat kemerdekaan dari penjajahan Jepang?",
         "choices": {
             "label": [
@@ -5390,6 +5635,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_6329d11599ee40bc8640acd0ce95cbf9",
         "question": "Apa yang menjadi simbol 'kegelapan' masa penjajahan yang dialami oleh bangsa Indonesia?",
         "choices": {
             "label": [
@@ -5412,6 +5658,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_3faa3aa5f83b45169a6dd0a7af6c5f6c",
         "question": "Siapakah tokoh yang dikenal karena 'kekerasan' yang dilakukannya selama masa pemerintahan Orde Baru?",
         "choices": {
             "label": [
@@ -5434,6 +5681,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_b3ebb25cf6ac478b8948995dad8ee6e7",
         "question": "Dalam sejarah Indonesia, 'kekuasaan' Presiden Soekarno terbatas setelah peristiwa apa?",
         "choices": {
             "label": [
@@ -5456,6 +5704,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_18e8bb87d64444ada9aa53a110703390",
         "question": "Dalam sejarah Indonesia, kelompok manakah yang memainkan peran penting dalam melawan penjajahan?",
         "choices": {
             "label": [
@@ -5478,6 +5727,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_eebdfaebe8e44c1790ac1520a52c89ed",
         "question": "Apa yang menjadi tujuan utama perjuangan kemerdekaan Indonesia dari penjajah?",
         "choices": {
             "label": [
@@ -5500,6 +5750,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ff4fad221c1f468dbf176df612d8ef23",
         "question": "Kerajaan manakah yang dikenal sebagai salah satu kerajaan maritim terbesar dalam sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5522,6 +5773,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_0b449bbaca754cebb6f0cb35a3037163",
         "question": "Istilah apa yang digunakan untuk menggambarkan kerja paksa pada masa penjajahan Belanda di Indonesia?",
         "choices": {
             "label": [
@@ -5544,6 +5796,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_8f2a0c5ace654130a2f22e6e3154b079",
         "question": "Kerja sama antara kerajaan-kerajaan Nusantara dengan pedagang asing pada masa lalu berdampak pada peningkatan apa?",
         "choices": {
             "label": [
@@ -5566,6 +5819,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_d724f711232d45e9b8b971477c4f7dad",
         "question": "Apa yang biasanya ditampilkan dalam segmen 'kilas balik' ketika membahas sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5588,6 +5842,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_88d78306689c438590799974f8f29fd5",
         "question": "Era 'kolonial' di Indonesia ditandai dengan dominasi bangsa asing. Bangsa mana yang terakhir kali menjajah Indonesia?",
         "choices": {
             "label": [
@@ -5610,6 +5865,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_cba743da599645c19b0137ad1e9a694b",
         "question": "Apa fungsi 'komite' yang sering dibentuk dalam rangka penyelidikan sejarah?",
         "choices": {
             "label": [
@@ -5632,6 +5888,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_72f27031ff314ae098b3561c79ced3c8",
         "question": "Bagaimana pengaruh 'komunis' terhadap sejarah politik Indonesia di pertengahan abad ke-20?",
         "choices": {
             "label": [
@@ -5654,6 +5911,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a9490111773e442580558d743b03b0e7",
         "question": "Apa yang biasanya menjadi akar penyebab 'konflik' antar kelompok di Indonesia pada masa lalu?",
         "choices": {
             "label": [
@@ -5676,6 +5934,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_255784e0ef864c489dcb8f7d4c8f1245",
         "question": "Dalam sejarah, kontrak apa yang menjadi titik awal bagi perusahaan Belanda untuk memulai monopoli perdagangan di Indonesia?",
         "choices": {
             "label": [
@@ -5698,6 +5957,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_2a9d62efa5ea4aa08680272f29667851",
         "question": "Siapakah korban pertama dari peristiwa G30S/PKI dalam sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5720,6 +5980,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_27a68e7ebefb46ed9c67ff85a6e5c5d0",
         "question": "Bagaimana kronologi terjadinya peristiwa Sumpah Pemuda dalam sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5742,6 +6003,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_8267e871dda6451e930098d88ad12745",
         "question": "Apa yang dimaksud dengan masa lampau dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5764,6 +6026,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_c1fed55907704216980d767639656bff",
         "question": "Lembaga apa yang bertugas untuk mengkaji dan memelihara nilai-nilai sejarah nasional Indonesia?",
         "choices": {
             "label": [
@@ -5786,6 +6049,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_0c2fbd50c30543268103252ab9fcd095",
         "question": "Mengapa makam para raja di Indonesia sering menjadi situs sejarah yang penting?",
         "choices": {
             "label": [
@@ -5808,6 +6072,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_5f97fb0396b64193981c503371a947d8",
         "question": "Bagaimana peran masa depan teknologi dalam mempelajari sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5830,6 +6095,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_cfa28943ed9d44d4801f5dd76e9d887f",
         "question": "Apa yang dimaksud dengan peristiwa massal dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5852,6 +6118,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_742de6351bfe4db7ab3821268702c0c7",
         "question": "Bagaimana masyarakat Indonesia pada masa lalu mempertahankan catatan sejarah mereka?",
         "choices": {
             "label": [
@@ -5874,6 +6141,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_94b8d04567a34d8d9f381fd2fdd133e9",
         "question": "Apa pengaruh kematian pahlawan nasional terhadap sejarah Indonesia?",
         "choices": {
             "label": [
@@ -5896,6 +6164,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_8f32c87d34f84cfdb9ec3f392a626a32",
         "question": "Siapa yang berhasil memimpin Indonesia meraih kemerdekaan pada tahun 1945?",
         "choices": {
             "label": [
@@ -5918,6 +6187,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_9aa519f6c1684ca4979075933a16ac8b",
         "question": "Kerajaan mana yang menaklukkan wilayah terluas di Nusantara pada masa lalu?",
         "choices": {
             "label": [
@@ -5940,6 +6210,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_e45ffeef52ba428294d88a6c0d90cbac",
         "question": "Apa nama candi yang menciptakan sejarah sebagai salah satu warisan budaya dunia di Indonesia?",
         "choices": {
             "label": [
@@ -5962,6 +6233,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_f37bde4e9f6d4289af4e71411de996ec",
         "question": "Siapa tokoh yang dikenal telah menguasai jalur rempah-rempah dan memonopoli perdagangan di Nusantara pada abad ke-16?",
         "choices": {
             "label": [
@@ -5984,6 +6256,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_1794198f08984c33a6f5ba1f2dcc3e5a",
         "question": "Dalam sejarah Indonesia, kapan militer pertama kali terbentuk?",
         "choices": {
             "label": [
@@ -6006,6 +6279,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_4856616c81e34449bbab2904816a366b",
         "question": "Monarki tertua yang tercatat dalam sejarah Indonesia adalah kerajaan apa?",
         "choices": {
             "label": [
@@ -6028,6 +6302,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_8df0a34ccac449c1bfefea8cf811afd6",
         "question": "Siapakah tokoh sejarah Indonesia yang dikenal karena monopoli perdagangan rempah-rempah?",
         "choices": {
             "label": [
@@ -6050,6 +6325,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_606a2dc337f44bfa8f63bb8fb3ae5b10",
         "question": "Museum apa yang menyimpan bukti sejarah peninggalan Kerajaan Majapahit?",
         "choices": {
             "label": [
@@ -6072,6 +6348,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ddac13057f2f4840a1c2da5d383d808a",
         "question": "Dalam sejarah Indonesia, kerajaan mana yang menjadi musuh utama dari Kerajaan Majapahit?",
         "choices": {
             "label": [
@@ -6094,6 +6371,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_6fbdbdeb8a7d448a9e37f6c8b077ae29",
         "question": "Bagaimana nasib Indonesia setelah Proklamasi Kemerdekaan pada 17 Agustus 1945?",
         "choices": {
             "label": [
@@ -6116,6 +6394,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_621f0a8be07941de892097ca452da3e2",
         "question": "Apa tujuan dari konferensi tingkat tinggi yang bersifat nasional dalam sejarah Indonesia?",
         "choices": {
             "label": [
@@ -6138,6 +6417,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_60436d5fc700447dae107a90f89cf364",
         "question": "Naskah apa yang menjadi dasar hukum bagi berdirinya negara Indonesia?",
         "choices": {
             "label": [
@@ -6160,6 +6440,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_1336a348818442b0800b2320021378e8",
         "question": "Negara manakah yang pertama kali mengakui kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -6182,6 +6463,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_201b6eaacbab46219a66d36d29159f6c",
         "question": "Negosiasi apa yang menandai akhir dari konflik bersenjata antara Indonesia dan Belanda?",
         "choices": {
             "label": [
@@ -6204,6 +6486,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_1bfc18dadbd84f4cbcd8e65ef6a0f826",
         "question": "Siapa presiden Indonesia yang memimpin selama periode Orde Baru?",
         "choices": {
             "label": [
@@ -6226,6 +6509,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_63722f846d5c4aa59dbf05ff64f56d59",
         "question": "Apa yang menjadi ciri khas pemerintahan Indonesia pada masa Orde Lama?",
         "choices": {
             "label": [
@@ -6248,6 +6532,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_697c2e6c549c477a948234cd12cccb8e",
         "question": "Apa fungsi utama sebuah organisasi?",
         "choices": {
             "label": [
@@ -6270,6 +6555,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_cdbd96c942054effb8d5163e5aa72d98",
         "question": "Dalam konteks pemerintahan, otoritas biasanya dipegang oleh?",
         "choices": {
             "label": [
@@ -6292,6 +6578,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_87baf02d7a3c487d93138d16ab71e584",
         "question": "Siapa yang diakui sebagai pahlawan nasional Indonesia karena perjuangannya melawan penjajah?",
         "choices": {
             "label": [
@@ -6314,6 +6601,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_530d3e84ea9b481f8d777832d6c33b66",
         "question": "Apa prinsip dasar negara Indonesia yang terdiri dari lima sila dan dikenal dengan nama 'Pancasila'?",
         "choices": {
             "label": [
@@ -6336,6 +6624,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_50b4b2e107fe4e2abe2fdcb9c1fca5e6",
         "question": "Wilayah mana yang menjadi bagian dari Indonesia pada tahun 1969 setelah Penentuan Pendapat Rakyat (Pepera) yang dikenal dengan nama 'Papua'?",
         "choices": {
             "label": [
@@ -6358,6 +6647,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_c9920c793a9a46eb8ce5ea8b3ac3917b",
         "question": "Apa istilah dalam bahasa Indonesia yang merujuk pada organisasi politik yang anggotanya berusaha mempengaruhi kebijakan pemerintah, sering disebut 'partai'?",
         "choices": {
             "label": [
@@ -6380,6 +6670,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_c8d229a1b53a4e7ea00b2bad587e8cae",
         "question": "Apa nama pasukan khusus yang dibentuk oleh Presiden Soekarno pada tahun 1962 untuk mempersiapkan operasi militer di Papua, dikenal sebagai 'Pasukan'?",
         "choices": {
             "label": [
@@ -6402,6 +6693,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7811b01dde424c5897262d9ed355231e",
         "question": "Monumen apa yang dibangun untuk mengenang perjuangan bangsa Indonesia dan menjadi ikon kota Jakarta, sering disebut 'patung'?",
         "choices": {
             "label": [
@@ -6424,6 +6716,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_4384438ada2643c69ae9cade18cc62c3",
         "question": "Pelajaran sejarah apa yang bisa diambil dari peristiwa G30S/PKI di Indonesia?",
         "choices": {
             "label": [
@@ -6446,6 +6739,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_37a59be3800243fcbcec16d4a6c4aae4",
         "question": "Pembantaian massal yang terjadi pada masa peristiwa 1965-1966 di Indonesia dikenal dengan istilah apa?",
         "choices": {
             "label": [
@@ -6468,6 +6762,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_8622aa24d3544794861771152475e4ad",
         "question": "Pemberontakan apa yang terjadi di Indonesia pada tahun 1950 yang dipimpin oleh Andi Azis?",
         "choices": {
             "label": [
@@ -6490,6 +6785,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_cb08152233e94d449ab22e361645d115",
         "question": "Pembunuhan tokoh nasional yang paling mengguncang Indonesia pada tahun 1965 adalah pembunuhan terhadap?",
         "choices": {
             "label": [
@@ -6512,6 +6808,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ee1a1c0de14247799767805fe3181248",
         "question": "Pendokumentasian peristiwa sejarah Indonesia yang dilakukan oleh pemerintah melalui film 'Pengkhianatan G30S/PKI' bertujuan untuk?",
         "choices": {
             "label": [
@@ -6534,6 +6831,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_6e28bc0b38c541e495bb4926d66e9d1b",
         "question": "Apa penemuan penting yang berhubungan dengan sejarah Indonesia?",
         "choices": {
             "label": [
@@ -6556,6 +6854,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_2c263877dd4f4327a651a6755c5a86ac",
         "question": "Selama periode pengasingan, tokoh Indonesia mana yang menulis buku 'Indonesia Menggugat'?",
         "choices": {
             "label": [
@@ -6578,6 +6877,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_28c6f013d753403ab2e177b860eaad27",
         "question": "Siapakah penguasa pertama Kerajaan Majapahit?",
         "choices": {
             "label": [
@@ -6600,6 +6900,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7e56faed463445d2b5f2710a0062681a",
         "question": "Peninggalan sejarah apa yang menunjukkan bukti keberadaan Kerajaan Sriwijaya?",
         "choices": {
             "label": [
@@ -6622,6 +6923,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_9cdbbe07972f4d99996ca025b772266f",
         "question": "Negara mana yang menjadi penjajah terakhir di Indonesia sebelum kemerdekaan?",
         "choices": {
             "label": [
@@ -6644,6 +6946,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7e033eec6fc04ef08a295a168d4100cf",
         "question": "Mengapa banyak narapidana politik di penjara selama masa Orde Baru di Indonesia?",
         "choices": {
             "label": [
@@ -6666,6 +6969,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_b21d06ca9a964431b874add756d30453",
         "question": "Apa yang terjadi selama periode penjarahan yang dilakukan oleh VOC di kepulauan Nusantara?",
         "choices": {
             "label": [
@@ -6688,6 +6992,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_1cd858858d604ddf9c28cec5caa341a8",
         "question": "Siapakah penjelajah yang pertama kali tiba di Indonesia dan memulai era kolonialisme?",
         "choices": {
             "label": [
@@ -6710,6 +7015,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_3ef7843874864651a5ec349f5f122586",
         "question": "Perang apa yang menjadi titik awal perjuangan kemerdekaan Indonesia dari kolonialisme?",
         "choices": {
             "label": [
@@ -6732,6 +7038,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_9999338ea5664efa9d16c0261ee7c7ff",
         "question": "Bagaimana perdagangan rempah-rempah mempengaruhi sejarah Indonesia?",
         "choices": {
             "label": [
@@ -6754,6 +7061,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_67c4adff1c7845d0a05d5824f6185ff6",
         "question": "Apa nama perjanjian perdamaian yang mengakhiri konflik antara Indonesia dan Belanda pada tahun 1949?",
         "choices": {
             "label": [
@@ -6776,6 +7084,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a5e964443a934edfa0523b78b7c6ccf9",
         "question": "Peringatan hari apa yang diperingati setiap tanggal 17 Agustus di Indonesia?",
         "choices": {
             "label": [
@@ -6798,6 +7107,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7835a90e29444e5f9a23bbc221641895",
         "question": "Peristiwa apa yang menandai dimulainya pergerakan nasional Indonesia pada tahun 1908?",
         "choices": {
             "label": [
@@ -6820,6 +7130,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_2876e695a722481f896c4fb42399275b",
         "question": "Perjanjian apa yang ditandatangani oleh Sultan Hamengkubuwono I dengan Inggris yang mengakibatkan terbaginya kerajaan Mataram?",
         "choices": {
             "label": [
@@ -6842,6 +7153,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_47bb39b9d02d4df2a2bf8581049dde8b",
         "question": "Perlawanan apa yang dilakukan oleh Pangeran Diponegoro terhadap penjajah Belanda yang dikenal sebagai Perang Diponegoro?",
         "choices": {
             "label": [
@@ -6864,6 +7176,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_e9cde4f1257645009ba283ee4354efa9",
         "question": "Dalam konteks sejarah Indonesia, konsep 'perlindungan' sering dikaitkan dengan upaya kerajaan-kerajaan di masa lalu untuk melindungi wilayahnya dari serangan musuh. Kerajaan apa yang terkenal dengan sistem perlindungan yang kuat melalui barisan benteng dan pertahanan?",
         "choices": {
             "label": [
@@ -6886,6 +7199,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_37a5706f5947464fa01accb56d0b84ec",
         "question": "Dalam sejarah Indonesia, 'pertahanan' menjadi aspek penting dalam menjaga kedaulatan negara. Pada masa penjajahan, bentuk pertahanan apa yang banyak digunakan oleh pejuang Indonesia untuk melawan penjajah?",
         "choices": {
             "label": [
@@ -6908,6 +7222,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_511a910854b64615b1ff6644b4b5c1ed",
         "question": "PKI merupakan singkatan dari Partai Komunis Indonesia, yang pernah menjadi salah satu partai politik di Indonesia. Pemberontakan yang dilakukan oleh PKI pada tahun 1965 dikenal dengan nama apa?",
         "choices": {
             "label": [
@@ -6930,6 +7245,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_e856e4f1756b4f9f9a4805726fb8d7f2",
         "question": "Dalam dunia 'politik' Indonesia, terdapat banyak tokoh yang berperan penting dalam sejarah. Siapakah presiden pertama Indonesia yang juga merupakan salah satu proklamator kemerdekaan?",
         "choices": {
             "label": [
@@ -6952,6 +7268,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a1f9f14c158a4e98830fdfc4c442c2cd",
         "question": "Dalam sejarah Indonesia, 'prasasti' merupakan bukti tertulis yang penting untuk mempelajari masa lalu. Prasasti mana yang merupakan sumber utama informasi tentang Kerajaan Tarumanagara, salah satu kerajaan Hindu tertua di Jawa Barat?",
         "choices": {
             "label": [
@@ -6974,6 +7291,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_af4e220d07f34cf4b7c3da16f66e1aae",
         "question": "Siapa presiden pertama Indonesia yang memproklamasikan kemerdekaan pada tahun 1945?",
         "choices": {
             "label": [
@@ -6996,6 +7314,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ce13392076c044829169c8dbe70532f8",
         "question": "Apa arti istilah 'pribumi' dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -7018,6 +7337,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_4b6c5b809d744631ac77f1050af00ca3",
         "question": "Apa yang dimaksud dengan 'priyai' dalam masyarakat Jawa pada masa kolonial?",
         "choices": {
             "label": [
@@ -7040,6 +7360,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_ebf447a958b049bbae5e847c9d0cb231",
         "question": "Kapan proklamasi kemerdekaan Indonesia diumumkan?",
         "choices": {
             "label": [
@@ -7062,6 +7383,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_666d7325ee3d43e3b06f7ed9941e8e08",
         "question": "Proses apa yang terjadi setelah proklamasi kemerdekaan Indonesia pada tahun 1945?",
         "choices": {
             "label": [
@@ -7084,6 +7406,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_9cbe4d5415c94373bd1612487a619925",
         "question": "Mengapa protes sering terjadi pada masa reformasi di Indonesia?",
         "choices": {
             "label": [
@@ -7106,6 +7429,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_fba9e7f25e5d4254b0316c440966c391",
         "question": "Siapakah raja yang dikenal sebagai penakluk Majapahit dan memperluas wilayah kerajaan Demak?",
         "choices": {
             "label": [
@@ -7128,6 +7452,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_92acabb26b434b76a7c2d7d5c6e36dc8",
         "question": "Dalam sejarah Indonesia, bagaimana rakyat biasanya menyampaikan ketidakpuasan mereka terhadap pemerintahan?",
         "choices": {
             "label": [
@@ -7150,6 +7475,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_13ede1671b5b443d818aba0341832e21",
         "question": "Ramalan Jayabaya banyak dikenal di kalangan masyarakat Jawa. Apa isi dari ramalan tersebut yang berkaitan dengan sejarah Indonesia?",
         "choices": {
             "label": [
@@ -7172,6 +7498,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7101ca0bc18b45849323dc92565263c0",
         "question": "Apa rencana yang dibuat oleh para pemuda Indonesia pada tanggal 28 Oktober 1928, yang kemudian dikenal sebagai Sumpah Pemuda?",
         "choices": {
             "label": [
@@ -7194,6 +7521,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7b101115300d4d14b67b57d5825a1a41",
         "question": "Apa yang dimaksud dengan 'Republik' dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -7216,6 +7544,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7beffa71515c4cc2901223577341ac69",
         "question": "Resolusi Jihad yang dikeluarkan oleh Masyumi pada tahun 1945 adalah respon terhadap apa?",
         "choices": {
             "label": [
@@ -7238,6 +7567,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_81aba770bb4a4e5ea3efbb8fe288dfc4",
         "question": "Revolusi Indonesia yang terjadi antara tahun 1945 hingga 1949 bertujuan untuk mencapai apa?",
         "choices": {
             "label": [
@@ -7260,6 +7590,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_47c9f0cf8b2b49babd62badaa34780cb",
         "question": "Keruntuhan dari kerajaan Majapahit ditandai oleh runtuhnya ibu kota kerajaan tersebut pada tahun?",
         "choices": {
             "label": [
@@ -7282,6 +7613,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_76c8b847e64f4caeaf4e1ad4b9f55006",
         "question": "Sejarah Indonesia seringkali dikaitkan dengan masa penjajahan. Negara manakah yang pertama kali menjajah Indonesia?",
         "choices": {
             "label": [
@@ -7304,6 +7636,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_900f747900a14582938417aea5c8cc9e",
         "question": "Siapakah sejarawan yang terkenal dengan karyanya mengenai sejarah Indonesia?",
         "choices": {
             "label": [
@@ -7326,6 +7659,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_a68b94fd9e7f4399b520cd49dd86fd45",
         "question": "Selama Perang Dunia II, Indonesia menjadi sekutu negara mana untuk melawan penjajah?",
         "choices": {
             "label": [
@@ -7348,6 +7682,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_2e6bd7275ccb4296adecf7900fa1fe2f",
         "question": "Siapakah pencipta lagu kebangsaan Indonesia Raya?",
         "choices": {
             "label": [
@@ -7370,6 +7705,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_7968c9b3dffa4601970ed94a64240c38",
         "question": "Apa nama senjata tradisional dari Indonesia yang dikenal luas karena keunikannya?",
         "choices": {
             "label": [
@@ -7392,6 +7728,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_d562cdc0f1694f7e9382f5ea83899d96",
         "question": "Status apa yang diberikan kepada Indonesia setelah Proklamasi Kemerdekaan pada tanggal 17 Agustus 1945?",
         "choices": {
             "label": [
@@ -7414,6 +7751,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_86c881c664ef47519856d79c5b7af71d",
         "question": "Bagaimana suara proklamasi kemerdekaan Indonesia direkam pada masa itu?",
         "choices": {
             "label": [
@@ -7436,6 +7774,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_65df9ea6f04a4205a226e31f23ea8fd3",
         "question": "Teks proklamasi kemerdekaan Indonesia ditandatangani oleh para pemimpin kemerdekaan pada tanggal berapa?",
         "choices": {
             "label": [
@@ -7458,6 +7797,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_70cd92632fdc4c1ba75eae103c2ca7e4",
         "question": "Apa yang dimaksud dengan 'tempo dulu' dalam konteks sejarah Indonesia?",
         "choices": {
             "label": [
@@ -7480,6 +7820,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_b04dd7d88cd6459491f5d127b1d12726",
         "question": "Mengapa informasi tentang perjuangan kemerdekaan Indonesia terbatas selama pendudukan Jepang?",
         "choices": {
             "label": [
@@ -7502,6 +7843,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_672e6a459f204eae9baf1ca5d325aefe",
         "question": "Siapakah yang sering dianggap sebagai 'teroris' oleh pemerintah kolonial Belanda selama perjuangan kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -7524,6 +7866,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_deb3185189f14c1d977bdd1f05131f35",
         "question": "Siapakah tokoh sejarah Indonesia yang dikenal sebagai Proklamator Kemerdekaan?",
         "choices": {
             "label": [
@@ -7546,6 +7889,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_32489ace0b1a460796259fd6a6d71101",
         "question": "Bagaimana toleransi antar suku dan agama di Indonesia berperan dalam perjuangan kemerdekaan?",
         "choices": {
             "label": [
@@ -7568,6 +7912,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_730bee1a02414f0f82eca13c896ec3ea",
         "question": "Apa fungsi tombak dalam perang kemerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -7590,6 +7935,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_74deb45582694b32a94fd6e0da62fbf1",
         "question": "Tragedi apa yang terjadi pada masa perjuangan kemerdekaan Indonesia yang sangat mempengaruhi jalannya sejarah?",
         "choices": {
             "label": [
@@ -7612,6 +7958,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_07e11fd917d44dfdac48ff98d9b8c4e2",
         "question": "Apa yang termasuk dalam warisan sejarah Indonesia yang diakui UNESCO?",
         "choices": {
             "label": [
@@ -7634,6 +7981,7 @@
         "category": "history"
     },
     {
+        "id": "orig_m_ind_e08be1d376bf4b3588243729a419250e",
         "question": "Untuk menjadi pemain yang handal, berapa kali seminggu sebaiknya seseorang berlatih badminton?",
         "choices": {
             "label": [
@@ -7656,6 +8004,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_00b0dc9f6aa948c0a87b73c87fba6850",
         "question": "Dalam permainan balap karung, apa yang harus dilakukan peserta untuk mencapai garis finish?",
         "choices": {
             "label": [
@@ -7678,6 +8027,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_8da03356cc1b46e1a74188410a87d6a5",
         "question": "Apa yang harus dipegang oleh peserta saat melakukan balap kerupuk?",
         "choices": {
             "label": [
@@ -7700,6 +8050,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_652af47f83a24e3680250b98cf29e2e1",
         "question": "Berapa jumlah pemain dalam satu tim basket yang berada di lapangan pada saat permainan dimulai?",
         "choices": {
             "label": [
@@ -7722,6 +8073,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_fed8a2230e4a4055bd2d5d64fa021367",
         "question": "Apa yang biasanya dilakukan orang saat begadang?",
         "choices": {
             "label": [
@@ -7744,6 +8096,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_1065b2b1b9a3416ebaedbf74497c4828",
         "question": "Apa yang biasanya dilakukan seseorang ketika mereka bekerja di kantor?",
         "choices": {
             "label": [
@@ -7766,6 +8119,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_0a6e9ea6fd934b34a3828606869d5b88",
         "question": "Dalam konteks olahraga, apa yang dilakukan dua tim ketika mereka beradu kekuatan?",
         "choices": {
             "label": [
@@ -7788,6 +8142,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_b9fb22cc93484f85b9b76602fd6c5380",
         "question": "Apa yang dilakukan para siswa ketika guru meminta mereka untuk berbaris sebelum masuk kelas?",
         "choices": {
             "label": [
@@ -7810,6 +8165,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_f7b41febbffc4de8b60749bc5c6155ed",
         "question": "Apa yang biasanya dibawa seseorang saat berburu di hutan?",
         "choices": {
             "label": [
@@ -7832,6 +8188,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_070a143676c84614af57f2c7c767a6eb",
         "question": "Apa yang biasanya dilakukan pasangan setelah bercerai?",
         "choices": {
             "label": [
@@ -7854,6 +8211,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_07dc84413b4545fab49247f98f76c7ec",
         "question": "Apa tujuan utama seseorang berdagang?",
         "choices": {
             "label": [
@@ -7876,6 +8234,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_b40c63f28cfa4026b4149befb3d86ac8",
         "question": "Apa yang biasanya dilakukan orang saat berduka karena kehilangan seseorang?",
         "choices": {
             "label": [
@@ -7898,6 +8257,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_d0be1dfb24e047ffa52ce24b194ee8ee",
         "question": "Apa yang harus dipakai saat berenang untuk melindungi mata dari air?",
         "choices": {
             "label": [
@@ -7920,6 +8280,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_9e70a731af4c4bce896f656fd30bb0e0",
         "question": "Apa yang biasanya dilakukan seseorang ketika mereka bergegas pergi ke kantor di pagi hari?",
         "choices": {
             "label": [
@@ -7942,6 +8303,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_4afbd64cd09949f19b86e10a44efa5ff",
         "question": "Apa yang biasanya dilakukan orang ketika mereka berharap mendapatkan hasil yang baik pada suatu ujian?",
         "choices": {
             "label": [
@@ -7964,6 +8326,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_90d70a1f9f984656ab2e4edf1f7d6eb0",
         "question": "Apa yang biasanya dilakukan seseorang saat beristirahat di rumah?",
         "choices": {
             "label": [
@@ -7986,6 +8349,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_89f3eb9d1d3247f7820602b6a9ae3c81",
         "question": "Apa yang biasanya diucapkan seseorang ketika berjanji untuk melakukan sesuatu?",
         "choices": {
             "label": [
@@ -8008,6 +8372,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_7ba30cc0a5e340ca89ce8cf753c0fefc",
         "question": "Apa yang dilakukan seseorang ketika berjemur di bawah sinar matahari?",
         "choices": {
             "label": [
@@ -8030,6 +8395,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_ecff7153887d42c0afb2e8114b3d75a9",
         "question": "Apa yang biasanya dilakukan dua orang yang sedang berkelahi?",
         "choices": {
             "label": [
@@ -8052,6 +8418,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_84a65e764ac6457faabd411d86750738",
         "question": "Apa yang terjadi pada tubuh seseorang ketika ia berkeringat setelah berolahraga?",
         "choices": {
             "label": [
@@ -8074,6 +8441,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_33141c32066c4af39e1ef75af849a34d",
         "question": "Apa tujuan seseorang berkunjung ke rumah temannya?",
         "choices": {
             "label": [
@@ -8096,6 +8464,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_540435459cd34027aaa488fcea949221",
         "question": "Apa yang dilakukan seseorang ketika ia berkurban?",
         "choices": {
             "label": [
@@ -8118,6 +8487,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_ed3251a720024e7fa0b2baf077ff14cf",
         "question": "Apa yang biasanya dilakukan seseorang ketika ia berlari?",
         "choices": {
             "label": [
@@ -8140,6 +8510,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_ace3784ff4f444af9e2f4b70c7843dde",
         "question": "Apa yang biasanya dilakukan oleh sekelompok orang saat ada 'demo'?",
         "choices": {
             "label": [
@@ -8162,6 +8533,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_29385010aa3f4c9c99f79d172b77fee5",
         "question": "Apa yang biasanya orang rasakan setelah 'dipijat' oleh terapis?",
         "choices": {
             "label": [
@@ -8184,6 +8556,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_3489f6a192bf4654aee9247416c3df2d",
         "question": "Untuk apa seseorang biasanya 'diurut' ketika mengalami cedera?",
         "choices": {
             "label": [
@@ -8206,6 +8579,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_169bdb2d1e4a4e628dc51d380fe79c77",
         "question": "Kegiatan apa yang biasanya dilakukan oleh umat beragama saat 'doa' bersama?",
         "choices": {
             "label": [
@@ -8228,6 +8602,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_4e76492ac90b4891bd23ff1ae3554db8",
         "question": "Apa yang biasanya dibutuhkan untuk melakukan 'futsal'?",
         "choices": {
             "label": [
@@ -8250,6 +8625,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_e082f3e2895e41dd93f35144e478c994",
         "question": "Apa yang biasanya dilakukan orang ketika mereka ingin merasakan kehidupan yang lebih sehat?",
         "choices": {
             "label": [
@@ -8272,6 +8648,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_6a7d79aa0a5347828f95e364fdcce747",
         "question": "Apa yang sering dilakukan orang untuk mencari sesuatu yang hilang?",
         "choices": {
             "label": [
@@ -8294,6 +8671,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_a79b2dfbacb8456cbbdd1b676e8b2779",
         "question": "Kegiatan apa yang biasanya dilakukan umat Muslim sebagai bentuk ibadah di bulan Ramadhan?",
         "choices": {
             "label": [
@@ -8316,6 +8694,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_fb236034e44741fd9d5e2f966806b314",
         "question": "Apa yang biasanya dilakukan orang setelah 'kembali' dari liburan?",
         "choices": {
             "label": [
@@ -8338,6 +8717,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_eb214654b9494919bb8b21b2d3a8bbf6",
         "question": "Apa yang biasanya orang lakukan saat menghadiri sebuah 'konser' musik?",
         "choices": {
             "label": [
@@ -8360,6 +8740,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_395f020fb6224a569126370cf9e6fce8",
         "question": "Apa tujuan utama orang melakukan 'lari sore' di taman kota?",
         "choices": {
             "label": [
@@ -8382,6 +8763,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_c018eec798e0403f84850d24d9264eff",
         "question": "Apa manfaat utama dari 'luluran' bagi kebanyakan orang?",
         "choices": {
             "label": [
@@ -8404,6 +8786,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_33cc507882f347f784472a0643cff7f9",
         "question": "Apa yang biasanya dibutuhkan saat seseorang akan 'main catur'?",
         "choices": {
             "label": [
@@ -8426,6 +8809,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_7671815e68e94369a30d55953e6d55c6",
         "question": "Apa yang biasanya dilakukan orang setelah 'mandi'?",
         "choices": {
             "label": [
@@ -8448,6 +8832,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_781fdf7ee5b44114be6f0a3827cc3489",
         "question": "Apa yang terjadi pada semua makhluk hidup setelah 'mati'?",
         "choices": {
             "label": [
@@ -8470,6 +8855,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_01ead16ad3d040b6a643301f7eae68d9",
         "question": "Apa yang sebaiknya dilakukan jika seseorang menjadi saksi kecelakaan sebelum 'melapor' ke polisi?",
         "choices": {
             "label": [
@@ -8492,6 +8878,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_3e97974c2a314421bbc3fa3081cd841f",
         "question": "Siapa yang biasanya 'melawak' di atas panggung?",
         "choices": {
             "label": [
@@ -8514,6 +8901,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_c02d7bfeedb848a9a92339f9e0781e51",
         "question": "Apa yang biasanya dilakukan seseorang saat melayat ke rumah duka?",
         "choices": {
             "label": [
@@ -8536,6 +8924,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_751fd17ca54d47c0939500a1eec9bd86",
         "question": "Apa yang biasanya dibutuhkan saat memancing di sungai?",
         "choices": {
             "label": [
@@ -8558,6 +8947,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_673d83f0c00c4ac3a46a7a65095373cf",
         "question": "Apa yang biasanya dilakukan seseorang saat sedang 'membaca'?",
         "choices": {
             "label": [
@@ -8580,6 +8970,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_619cd4202cf344d78163c24e0da44932",
         "question": "Kegiatan apa yang dilakukan seseorang dengan 'membaca koran' di pagi hari?",
         "choices": {
             "label": [
@@ -8602,6 +8993,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_8e6e14016715406a80466bcaf804b08d",
         "question": "Apa yang sedang dilakukan petani ketika 'membajak sawah'?",
         "choices": {
             "label": [
@@ -8624,6 +9016,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_7f1ebd48501246f8b12a09ccca0a48c9",
         "question": "Apa yang biasanya menjadi tujuan seseorang 'membantu' orang lain?",
         "choices": {
             "label": [
@@ -8646,6 +9039,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_58989dc6c17041339eb335f929555f0c",
         "question": "Apa yang diharapkan seseorang setelah 'memberi nasihat' kepada temannya?",
         "choices": {
             "label": [
@@ -8668,6 +9062,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_92e2b4faedd546c98a31c6a44174cf0d",
         "question": "Apa yang biasanya dilakukan seseorang saat mereka 'membuat' kue?",
         "choices": {
             "label": [
@@ -8690,6 +9085,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_3cc2998aa786497fb27e6c3e6a408345",
         "question": "Untuk apa orang sering 'meminjam uang' dari bank?",
         "choices": {
             "label": [
@@ -8712,6 +9108,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_e97d17ee4e8047acb06db1270e26fb4e",
         "question": "Apa yang biasanya dilakukan oleh tukang kebun saat 'memotong' rumput?",
         "choices": {
             "label": [
@@ -8734,6 +9131,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_5fbe2cc621744b57a355ae5d306e93cb",
         "question": "Dalam olahraga, apa yang dilakukan seorang penjaga gawang saat 'menahan' bola?",
         "choices": {
             "label": [
@@ -8756,6 +9154,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_0df505dbd3444e63a92b098d7a7ad64c",
         "question": "Apa yang dilakukan seseorang saat 'menanak' nasi?",
         "choices": {
             "label": [
@@ -8778,6 +9177,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_871b512390cc4a80bcb236536ffe6761",
         "question": "Apa yang biasanya dilakukan seseorang ketika ia menegur anaknya yang berbuat salah?",
         "choices": {
             "label": [
@@ -8800,6 +9200,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_5045571717954e80bb30137181d6621a",
         "question": "Apa yang biasanya seseorang lakukan ketika ia ingin menembak seseorang untuk menjadi kekasihnya?",
         "choices": {
             "label": [
@@ -8822,6 +9223,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_a21b1085a1744f498825a2187b41f20c",
         "question": "Apa yang dilakukan oleh pengendara yang menerobos lampu merah?",
         "choices": {
             "label": [
@@ -8844,6 +9246,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_739d2f9ffed34aae91578eaec76bced3",
         "question": "Apa yang biasanya dilakukan seseorang ketika mengajak temannya untuk pergi ke bioskop?",
         "choices": {
             "label": [
@@ -8866,6 +9269,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_0db3e18a6f8a47e1a2df825e1843231c",
         "question": "Apa yang dilakukan oleh seorang guru ketika ia mengajar di kelas?",
         "choices": {
             "label": [
@@ -8888,6 +9292,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_81511a62b8454a1daf58279d5fc8aa2f",
         "question": "Apa yang biasanya dilakukan saat seseorang mengaji?",
         "choices": {
             "label": [
@@ -8910,6 +9315,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_d5c24f28ad6b4ff39ec8d3a11d86cfe7",
         "question": "Kegiatan apa yang dilakukan oleh seseorang yang mengamen di jalanan?",
         "choices": {
             "label": [
@@ -8932,6 +9338,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_339b458b71154fe4b2c82fbd170ffa0b",
         "question": "Apa yang biasanya dilakukan seseorang ketika mengantar seseorang?",
         "choices": {
             "label": [
@@ -8954,6 +9361,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_1fbad632802c483f86f4afc07d5b3689",
         "question": "Apa yang dilakukan oleh seseorang ketika mengelap kaca?",
         "choices": {
             "label": [
@@ -8976,6 +9384,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_ce245a0836394970a4f051104d4f9612",
         "question": "Apa yang biasanya dilakukan seseorang setelah mengutang uang dari temannya?",
         "choices": {
             "label": [
@@ -8998,6 +9407,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_73ae812e3c4340b2982aac55dc6dcee9",
         "question": "Apa yang biasanya dilakukan seseorang saat menjenguk teman yang sedang sakit di rumah sakit?",
         "choices": {
             "label": [
@@ -9020,6 +9430,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_fe39efe7ddff4d9f8678f8cb7028cb9c",
         "question": "Apa yang dilakukan oleh seorang anak ketika ia menjilat es krim?",
         "choices": {
             "label": [
@@ -9042,6 +9453,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_144805b82a2649cdb3782dba95d0a63a",
         "question": "Kegiatan apa yang sering dilakukan orang untuk mengisi waktu luang di rumah dengan menonton sesuatu?",
         "choices": {
             "label": [
@@ -9064,6 +9476,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_53ac26b4d2de497fa742c3e969a16139",
         "question": "Apa yang biasanya dilakukan seseorang ketika menyalakan lampu di malam hari?",
         "choices": {
             "label": [
@@ -9086,6 +9499,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_043916ea651f4176a9f46e44412d7b36",
         "question": "Apa yang dilakukan ibu rumah tangga ketika menyapu lantai rumah?",
         "choices": {
             "label": [
@@ -9108,6 +9522,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_3c4784ef30484dcaa875c4abd17b724a",
         "question": "Kegiatan apa yang dilakukan seseorang ketika menyelam?",
         "choices": {
             "label": [
@@ -9130,6 +9545,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_53d350edcba148e288f678d42513d174",
         "question": "Apa yang biasanya dilakukan seseorang saat menyetir?",
         "choices": {
             "label": [
@@ -9152,6 +9568,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_d82e45669cda4427bcd30cb33e2f0f4a",
         "question": "Apa yang terjadi jika seseorang menyinggung perasaan orang lain?",
         "choices": {
             "label": [
@@ -9174,6 +9591,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_2b605158abbc4c768aea6b936f327d13",
         "question": "Apa yang dilakukan seseorang saat merakit sesuatu?",
         "choices": {
             "label": [
@@ -9196,6 +9614,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_1079c4274153447381492326cf35eb3e",
         "question": "Apa yang biasanya dilakukan seseorang ketika mereka ingin merakyat?",
         "choices": {
             "label": [
@@ -9218,6 +9637,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_b4b05a4c3bff496ebbd94d300eb4d189",
         "question": "Untuk apa seseorang biasanya meramal?",
         "choices": {
             "label": [
@@ -9240,6 +9660,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_f0a4ee32255440c79c0f4aa3c1e17afd",
         "question": "Kegiatan apa yang melibatkan merangkai bunga?",
         "choices": {
             "label": [
@@ -9262,6 +9683,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_5d50b70ad40d416bb0f9f4586937b218",
         "question": "Apa yang biasanya dilakukan seseorang ketika mereka merapikan kamar?",
         "choices": {
             "label": [
@@ -9284,6 +9706,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_6b2bab13891c4b44abd3d57178d9872f",
         "question": "Apa yang dilakukan seseorang ketika mereka meratapi kehilangan?",
         "choices": {
             "label": [
@@ -9306,6 +9729,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_d3ccbf1044f843c08cd907dbc01cebcd",
         "question": "Apa yang biasanya dilakukan seseorang saat mereka merawat taman?",
         "choices": {
             "label": [
@@ -9328,6 +9752,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_ffe525e871e5477cba2b8e967857ef29",
         "question": "Apa tujuan utama seseorang ketika mereka merayu orang lain?",
         "choices": {
             "label": [
@@ -9350,6 +9775,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_1cefe7d354da4131abfeca5fcb29454a",
         "question": "Apa yang mungkin terjadi pada sebuah rumah jika dibiarkan merusak tanpa perbaikan?",
         "choices": {
             "label": [
@@ -9372,6 +9798,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_66e8bd8a445441938592f0aeacb70b05",
         "question": "Apa yang biasanya dilakukan dalam acara ngunduh mantu?",
         "choices": {
             "label": [
@@ -9394,6 +9821,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_7dce1d380b8640d393a07065fce2bb76",
         "question": "Kegiatan apa yang biasanya dilakukan ketika musim panen tiba?",
         "choices": {
             "label": [
@@ -9416,6 +9844,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_f7206016db3340ae961639382642c96d",
         "question": "Dalam lomba 17 Agustus, apa yang dilakukan dalam permainan panjat pinang?",
         "choices": {
             "label": [
@@ -9438,6 +9867,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_49d0ce2f060c4b6a97bae7f074ef7f62",
         "question": "Apa yang dilakukan oleh seorang atlet dalam olahraga panjat tebing?",
         "choices": {
             "label": [
@@ -9460,6 +9890,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_344342f0c0c1463cb70052c46dceec35",
         "question": "Apa yang biasanya dilakukan di area parkir?",
         "choices": {
             "label": [
@@ -9482,6 +9913,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_dc58c0c5eae04b4cb1566f95cfd044e4",
         "question": "Apa yang biasanya dilakukan masyarakat saat terjadi pemadaman listrik di malam hari?",
         "choices": {
             "label": [
@@ -9504,6 +9936,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_d88de7f149f6453f837ed54cd407f49a",
         "question": "Kegiatan apa yang sering dilakukan dalam pencak silat?",
         "choices": {
             "label": [
@@ -9526,6 +9959,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_9bec56c68ae348eaa344bc4d3a48e61a",
         "question": "Apa tujuan utama dari pengajian yang diadakan di masjid?",
         "choices": {
             "label": [
@@ -9548,6 +9982,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_be5e09d7e31d473fb9aafeede949a8af",
         "question": "Apa yang biasanya terjadi pada penduduk ketika terjadi penggusuran?",
         "choices": {
             "label": [
@@ -9570,6 +10005,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_76e88cc8901a4c0eb24e86ce6ec3dfbc",
         "question": "Apa yang biasanya terjadi saat pergantian tahun baru?",
         "choices": {
             "label": [
@@ -9592,6 +10028,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_9a243b76b32a4b358d5dae619c299c4f",
         "question": "Apa yang biasanya dilakukan seseorang setelah berkata 'Saya akan pergi sekarang'?",
         "choices": {
             "label": [
@@ -9614,6 +10051,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_df4bcaee856347b5be094dcae3eabfa4",
         "question": "Apa yang dilakukan anak-anak di pagi hari sebelum berangkat sekolah?",
         "choices": {
             "label": [
@@ -9636,6 +10074,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_461a0b6ced9a4413adc6143dde3070d5",
         "question": "Apa yang harus dilakukan jika melihat seseorang pingsan di tempat umum?",
         "choices": {
             "label": [
@@ -9658,6 +10097,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_a33915f420d34bd4b423c2b93c0f7705",
         "question": "Apa yang biasanya dilakukan orang saat ingin merasa santai di rumah?",
         "choices": {
             "label": [
@@ -9680,6 +10120,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_61e22fc1a23243e6a84bda4f53ea0af3",
         "question": "Kegiatan apa yang biasanya dilakukan oleh umat Islam setelah kematian seseorang sebagai bentuk doa bersama, yang dikenal dengan nama tahlilan?",
         "choices": {
             "label": [
@@ -9702,6 +10143,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_25a1805ceb9a4206ad9b0b553a6c87dd",
         "question": "Apa nama shalat sunnah yang dilakukan oleh umat Islam pada malam hari di bulan Ramadhan, yang dikenal sebagai tarawih?",
         "choices": {
             "label": [
@@ -9724,6 +10166,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_071531e162a5455b836498bb25aafe8f",
         "question": "Permainan tradisional apa yang melibatkan dua tim yang saling tarik menarik tali, yang dikenal dengan tarik tambang?",
         "choices": {
             "label": [
@@ -9746,6 +10189,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_e3fd2ff228514652b8530ca19976b6ac",
         "question": "Apa istilah dalam bahasa Indonesia untuk reaksi spontan tubuh yang menunjukkan rasa senang atau gembira, yang biasa disebut tertawa?",
         "choices": {
             "label": [
@@ -9768,6 +10212,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_b1301126f31a4583a4f15c9724f01203",
         "question": "Apa nama kegiatan mengunjungi makam leluhur atau orang yang dihormati, yang sering disebut ziarah?",
         "choices": {
             "label": [
@@ -9790,6 +10235,7 @@
         "category": "activity"
     },
     {
+        "id": "orig_m_ind_b2cd8994009d4f899323a97d8bd1ea77",
         "category": "culinary",
         "question_concept": "adab makan",
         "question": "Apa yang dimaksud dengan 'adab makan' dalam konteks budaya Indonesia?",
@@ -9812,6 +10258,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_d7f6dc8ea3dd4f0e9e73ece192909bc8",
         "category": "culinary",
         "question_concept": "adonan",
         "question": "Dalam pembuatan kue, apa yang disebut dengan 'adonan'?",
@@ -9834,6 +10281,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_09b7a60f270c4f15a332c070f77a5667",
         "category": "culinary",
         "question_concept": "aduk",
         "question": "Mengapa penting untuk 'mengaduk' adonan kue secara merata?",
@@ -9856,6 +10304,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_2dd582c1b47943709c7defb3fee89184",
         "category": "culinary",
         "question_concept": "air",
         "question": "Dalam resep masakan, fungsi 'air' yang paling umum adalah untuk?",
@@ -9878,6 +10327,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_f1ee56969500470b98315aeb0a750c7d",
         "category": "culinary",
         "question_concept": "air fryer",
         "question": "Apa kelebihan menggunakan 'air fryer' dibandingkan metode penggorengan tradisional?",
@@ -9900,6 +10350,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_1b3ee02f8c694302909b163f6ad44e7c",
         "category": "culinary",
         "question_concept": "aqiqah",
         "question": "Untuk acara apa biasanya daging kambing disajikan sebagai hidangan utama dalam tradisi aqiqah?",
@@ -9922,6 +10373,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_1b2ff03247e243f69bb252db6c6bd18c",
         "category": "culinary",
         "question_concept": "angkringan",
         "question": "Angkringan adalah tempat makan yang populer di kota mana di Indonesia?",
@@ -9944,6 +10396,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_da3eec146be44fb082687b83f70d9a70",
         "category": "culinary",
         "question_concept": "asam",
         "question": "Bahan apa yang sering ditambahkan ke dalam masakan Indonesia untuk memberikan rasa asam?",
@@ -9966,6 +10419,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_dbcc2829d80449a5b2e3da1c03a09db0",
         "category": "culinary",
         "question_concept": "asin",
         "question": "Apa nama makanan khas Indonesia yang memiliki rasa asin dan biasanya disajikan sebagai lauk pauk?",
@@ -9988,6 +10442,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_4bcd708b070e4e60b13b87ba48cad3e9",
         "category": "culinary",
         "question_concept": "ayam",
         "question": "Dalam dunia kuliner Indonesia, bahan utama dari 'sate ayam' adalah daging apa?",
@@ -10010,6 +10465,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_2f95aca0277c44d2aac81d49ba1ac6cc",
         "category": "culinary",
         "question_concept": "bakar",
         "question": "Apa metode memasak yang biasa digunakan untuk membuat 'ikan bakar'?",
@@ -10032,6 +10488,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_c73212da8bd9476c9ba68648ea04fd8d",
         "category": "culinary",
         "question_concept": "batak",
         "question": "Masakan khas suku Batak yang terkenal adalah 'arsik'. Bahan utama dari masakan ini adalah?",
@@ -10054,6 +10511,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_1c1305ea54ed4ef78f78697eeb82f51c",
         "category": "culinary",
         "question_concept": "bebek",
         "question": "Dalam konteks kuliner Indonesia, bebek biasanya disajikan sebagai hidangan apa?",
@@ -10076,6 +10534,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_d0934975b6c345c1b9c2385fb33bc557",
         "category": "culinary",
         "question_concept": "bekal",
         "question": "Apa yang biasanya orang Indonesia bawa sebagai bekal makan siang?",
@@ -10098,6 +10557,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_49fe7323e26d45e8831ce939b7bd891b",
         "category": "culinary",
         "question_concept": "berkuah",
         "question": "Hidangan Indonesia apa yang dikenal dengan ciri khas berkuah dan biasanya disantap dengan nasi?",
@@ -10120,6 +10580,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_2651d7abe82e4749941be45eef55df8a",
         "category": "culinary",
         "question_concept": "besek",
         "question": "Apa fungsi dari 'besek' dalam konteks kuliner tradisional Indonesia?",
@@ -10142,6 +10603,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_37cf0b770f474dde81b0352af5330ebc",
         "category": "culinary",
         "question_concept": "betawi",
         "question": "Makanan khas daerah mana yang disebut kerak telor, yang merupakan bagian dari kebudayaan Betawi?",
@@ -10164,6 +10626,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_c4f57c7c07a5422dbf9b8c8294862a4a",
         "category": "culinary",
         "question_concept": "buah",
         "question": "Buah apa yang sering digunakan dalam masakan Indonesia sebagai penyedap rasa dan memberikan aroma khas?",
@@ -10186,6 +10649,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_fa0349e6feb74c96b7b694f074ce21a3",
         "category": "culinary",
         "question_concept": "bubur",
         "question": "Bubur ayam adalah sarapan populer di Indonesia, biasanya disajikan dengan taburan apa di atasnya?",
@@ -10208,6 +10672,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_c3e83e39a32d47e886ec62cf3cf8e067",
         "category": "culinary",
         "question_concept": "buka bersama",
         "question": "Kegiatan apa yang biasa dilakukan oleh umat Muslim di Indonesia saat waktu berbuka puasa tiba, yang dikenal dengan istilah 'buka bersama'?",
@@ -10230,6 +10695,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_7622af476cdb482482fa46ffa48aff35",
         "category": "culinary",
         "question_concept": "bumbu",
         "question": "Bumbu dasar yang sering digunakan dalam masakan Indonesia dan dikenal dengan sebutan 'bumbu kuning' terbuat dari kunyit dan bahan apa lagi?",
@@ -10252,6 +10718,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_da7a3abd3b524fd190258a703c8dc6a3",
         "category": "culinary",
         "question_concept": "dingin",
         "question": "Minuman apa yang biasanya disajikan dingin untuk menyegarkan di hari yang panas?",
@@ -10274,6 +10741,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_6e739f285ed14b2da1c88c74d487f4ca",
         "category": "culinary",
         "question_concept": "es",
         "question": "Apa nama minuman khas Indonesia yang terdiri dari campuran es serut, sirup, dan berbagai macam topping seperti agar-agar?",
@@ -10296,6 +10764,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_1db7cbb47b0e42e0b0b945c66cc51a0e",
         "category": "culinary",
         "question_concept": "harum",
         "question": "Mengapa kue bolu yang baru dipanggang disebut memiliki aroma 'harum'?",
@@ -10318,6 +10787,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_efca346df55c402f8c6ddfe9bbae337b",
         "category": "culinary",
         "question_concept": "gulung",
         "question": "Apa yang dimaksud dengan 'gulung' dalam konteks makanan Indonesia?",
@@ -10340,6 +10810,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_db5735c0982c469bacf06c88e170f62b",
         "category": "culinary",
         "question_concept": "gurih",
         "question": "Apa yang membuat makanan disebut 'gurih'?",
@@ -10362,6 +10833,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_8d0bdc5293854db1932ac1699f973518",
         "category": "culinary",
         "question_concept": "hidangan",
         "question": "Apa yang biasanya disajikan dalam 'hidangan' pembuka di restoran Indonesia?",
@@ -10384,6 +10856,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_ce1af1bc3ee84397a988d10df4761f5c",
         "category": "culinary",
         "question_concept": "hijau",
         "question": "Mengapa sayuran sering dihubungkan dengan warna 'hijau' dalam konteks kuliner?",
@@ -10406,6 +10879,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_c373e01045924d938adc279cb814b3b8",
         "category": "culinary",
         "question_concept": "hitam",
         "question": "Apa nama kue tradisional Indonesia yang berwarna hitam karena menggunakan gula aren sebagai pemanisnya?",
@@ -10428,6 +10902,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_f1e043e4486641428e026fcbdc6d0370",
         "category": "culinary",
         "question_concept": "iduladha",
         "question": "Pada saat Iduladha, hidangan apa yang sering diolah dari daging kurban di Indonesia?",
@@ -10450,6 +10925,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_44b0593369d642f2a426f67936528ac3",
         "category": "culinary",
         "question_concept": "idulfitri",
         "question": "Makanan apa yang biasanya menjadi hidangan khas saat Idulfitri di Indonesia?",
@@ -10472,6 +10948,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_9d33acf7ad434c32a84d600e692eb1f8",
         "category": "culinary",
         "question_concept": "irisan",
         "question": "Irisan buah apa yang sering ditambahkan ke dalam rujak untuk memberikan rasa segar?",
@@ -10494,6 +10971,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_0db034c3c3954d08a6034938aa6710da",
         "category": "culinary",
         "question_concept": "jagung",
         "question": "Apa nama makanan yang terbuat dari jagung manis yang dipipil kemudian dibakar dan diberi bumbu?",
@@ -10516,6 +10994,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_ef2ce15241c047419ef895c022cd5f54",
         "category": "culinary",
         "question_concept": "jajanan sekolah",
         "question": "Jajanan sekolah yang mana biasanya dijual dengan harga yang terjangkau untuk anak-anak?",
@@ -10538,6 +11017,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_8fcb0dee80b54401bad42c66806a263d",
         "category": "culinary",
         "question_concept": "jawa",
         "question": "Makanan khas Jawa yang manakah yang terkenal dengan bumbu rempah-rempahnya?",
@@ -10560,6 +11040,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_38725e6307594810b2bf10ec88d666e4",
         "category": "culinary",
         "question_concept": "kaldu",
         "question": "Kaldu apa yang sering digunakan sebagai dasar pembuatan sup tradisional Indonesia?",
@@ -10582,6 +11063,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_f3ca036bf4bc47159f2080235a4f2626",
         "category": "culinary",
         "question_concept": "kambing",
         "question": "Masakan Indonesia apa yang biasanya menggunakan daging kambing sebagai bahan utamanya?",
@@ -10604,6 +11086,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_e996bf563a4c4611b67357ef63ed9809",
         "category": "culinary",
         "question_concept": "rumah sakit",
         "question": "Makanan apa yang biasanya disajikan di rumah sakit sebagai menu diet pasien?",
@@ -10626,6 +11109,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_1336b658a295432fa87f142a1d031ab3",
         "category": "culinary",
         "question_concept": "kenyal",
         "question": "Makanan apa yang biasanya memiliki tekstur kenyal?",
@@ -10648,6 +11132,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_2452955a4aaf47898e20d2bcb0a65165",
         "category": "culinary",
         "question_concept": "kering",
         "question": "Apa istilah untuk makanan yang telah dikurangi kadar airnya sehingga menjadi kering?",
@@ -10670,6 +11155,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_9f3a2a3d9c6641a79c8f3f93718dd03d",
         "category": "culinary",
         "question_concept": "kertas nasi",
         "question": "Untuk apa kertas nasi biasanya digunakan dalam kuliner Indonesia?",
@@ -10692,6 +11178,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_3cabbb874f6846108620b2efc8d6da76",
         "category": "culinary",
         "question_concept": "kerupuk",
         "question": "Kerupuk biasanya terbuat dari bahan dasar apa?",
@@ -10714,6 +11201,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_250a51609fe744fbb90c9acbc6ef8fb0",
         "category": "culinary",
         "question_concept": "ketupat",
         "question": "Ketupat sering disajikan sebagai pelengkap makanan apa di hari raya Idul Fitri?",
@@ -10736,6 +11224,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_1b5d22bd9c294fa382869ca7df573d84",
         "category": "culinary",
         "question_concept": "makan dengan daun pisang",
         "question": "Mengapa makan dengan daun pisang sering dilakukan dalam tradisi makan di Indonesia?",
@@ -10758,6 +11247,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_a4de7e872bc249969bbd3fed8ccd5ced",
         "category": "culinary",
         "question_concept": "makan dengan tangan kanan",
         "question": "Mengapa dalam adat Indonesia disarankan untuk makan dengan tangan kanan?",
@@ -10780,6 +11270,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_2145ad2a5b014f968578ec294b41f7df",
         "category": "culinary",
         "question_concept": "makan malam",
         "question": "Jam berapa biasanya orang Indonesia mengadakan makan malam?",
@@ -10802,6 +11293,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_b57d8db49518407297e3be9a4dbf03d2",
         "category": "culinary",
         "question_concept": "makan mendahului orang tua",
         "question": "Apa yang harus dilakukan jika seseorang secara tidak sengaja makan mendahului orang tua di Indonesia?",
@@ -10824,6 +11316,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_546fe4eadfc44a7aacfd915eb5088f4e",
         "category": "culinary",
         "question_concept": "makan mengecap",
         "question": "Apa tujuan dari makan mengecap makanan saat di Indonesia?",
@@ -10846,6 +11339,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_4bfd32b31a3c46f8b83cb3e4f997f1cd",
         "category": "culinary",
         "question_concept": "makan sambil mengobrol",
         "question": "Mengapa banyak orang suka makan sambil mengobrol?",
@@ -10868,6 +11362,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_d011baab8dde4c16b32a3a8e9412ffdf",
         "category": "culinary",
         "question_concept": "makan siang",
         "question": "Apa yang biasanya dilakukan orang Indonesia saat waktu makan siang tiba?",
@@ -10890,6 +11385,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_108f5e667d524819952ae5f5afe28ed8",
         "category": "culinary",
         "question_concept": "makan tidak habis",
         "question": "Apa yang sebaiknya dilakukan jika seseorang makan tidak habis di restoran?",
@@ -10912,6 +11408,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_146e208d9bd6458e83ae3022cfdf9fc0",
         "category": "culinary",
         "question_concept": "mangkok",
         "question": "Untuk apa mangkok biasanya digunakan dalam konteks kuliner Indonesia?",
@@ -10934,6 +11431,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_46487725d9644b65996bb776aed08015",
         "category": "culinary",
         "question_concept": "manis",
         "question": "Bahan apa yang biasanya ditambahkan ke dalam masakan untuk memberikan rasa manis?",
@@ -10956,6 +11454,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_9f4bed28b57f4e5fab340e437330340c",
         "category": "culinary",
         "question_concept": "mengembang",
         "question": "Dalam pembuatan kue, bahan apa yang sering digunakan untuk membuat adonan mengembang?",
@@ -10978,6 +11477,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_d4f93697b1744f19bbb2be364b716dbf",
         "category": "culinary",
         "question_concept": "merah",
         "question": "Bumbu dapur apa yang berwarna merah dan sering digunakan untuk memberi warna pada masakan?",
@@ -11000,6 +11500,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_3bf0783e99624731ba5e30796568d288",
         "category": "culinary",
         "question_concept": "mi",
         "question": "Mi instan adalah makanan cepat saji yang populer di Indonesia, bahan utama pembuatan mi instan adalah?",
@@ -11022,6 +11523,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_2c257d27b904414a8885aaeea5870371",
         "category": "culinary",
         "question_concept": "natal",
         "question": "Hidangan apa yang sering disajikan sebagai menu spesial dalam perayaan Natal di Indonesia?",
@@ -11044,6 +11546,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_f223f63151214656ab1595477fd52619",
         "category": "culinary",
         "question_concept": "oleh-oleh",
         "question": "Apa yang biasanya dibawa pulang sebagai oleh-oleh setelah berkunjung ke daerah kuliner khas di Indonesia?",
@@ -11066,6 +11569,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_81986893ec914ec6ad80bdb1b09bf307",
         "category": "culinary",
         "question_concept": "mengembang",
         "question": "Apa yang terjadi pada adonan kue ketika proses mengembang berhasil?",
@@ -11088,6 +11592,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_5dcad285fac24fe085ef43424b849045",
         "category": "culinary",
         "question_concept": "mentega",
         "question": "Bahan apa yang sering digunakan sebagai pengganti mentega dalam pembuatan kue vegan?",
@@ -11110,6 +11615,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_8ad6cabb07374f96a1922362ccefd8c7",
         "category": "culinary",
         "question_concept": "menu",
         "question": "Dalam menu restoran, kategori apa yang biasanya mencakup mie goreng dan nasi goreng?",
@@ -11132,6 +11638,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_6cb56409e24d44a98936cc2537508e08",
         "category": "culinary",
         "question_concept": "merah",
         "question": "Bumbu dapur apa yang memberikan warna merah pada masakan soto?",
@@ -11154,6 +11661,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_9b412d51cbd84154b51957f9f5157398",
         "category": "culinary",
         "question_concept": "mie",
         "question": "Mie instan biasanya dimasak dalam berapa menit agar teksturnya menjadi pas?",
@@ -11176,6 +11684,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_1e28bb4a40ef484085e781c46d3d1632",
         "category": "culinary",
         "question_concept": "papua",
         "question": "Makanan khas Papua yang terkenal, Papeda, terbuat dari bahan dasar apa?",
@@ -11198,6 +11707,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_f5b48bfd02634e04ae37b4ccf62f3436",
         "category": "culinary",
         "question_concept": "pedas",
         "question": "Makanan apa yang biasanya disukai oleh orang yang menyukai rasa pedas?",
@@ -11220,6 +11730,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_dd0e65a4191f44758374159daaba33d9",
         "category": "culinary",
         "question_concept": "pelangi",
         "question": "Kue apa yang memiliki warna-warni seperti pelangi dan sering ditemukan di pesta ulang tahun anak-anak?",
@@ -11242,6 +11753,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_2683e3d0c3d24b88954e60d41b090ea9",
         "category": "culinary",
         "question_concept": "plastik",
         "question": "Untuk mengurangi sampah plastik, bahan apa yang sering digunakan sebagai alternatif kantong plastik saat berbelanja di pasar tradisional Indonesia?",
@@ -11264,6 +11776,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_95a4e64c886144e99ec6289b93662b87",
         "category": "culinary",
         "question_concept": "puding",
         "question": "Bahan utama apa yang digunakan untuk membuat puding tradisional Indonesia?",
@@ -11286,6 +11799,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_e374818d646747619002f3bee3b34804",
         "category": "culinary",
         "question_concept": "putih",
         "question": "Dalam kuliner Indonesia, bahan apa yang sering dijadikan simbol warna putih pada nasi tumpeng?",
@@ -11308,6 +11822,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_31127958c82243d4838f2d169f8d131c",
         "category": "culinary",
         "question_concept": "ragi",
         "question": "Apa nama kue tradisional Indonesia yang dibuat dengan menggunakan ragi sebagai bahan pengembang?",
@@ -11330,6 +11845,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_ac571c846b3845dab01e63133c73ce23",
         "category": "culinary",
         "question_concept": "rempah",
         "question": "Rempah apa yang sering digunakan sebagai bumbu dasar dalam masakan Padang?",
@@ -11352,6 +11868,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_5cbe76122a2c4cf188db5b02f480215a",
         "category": "culinary",
         "question_concept": "rendang",
         "question": "Dari daerah manakah masakan rendang berasal?",
@@ -11374,6 +11891,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_e9551f57ec5343fb88927fc1f5eb900b",
         "category": "culinary",
         "question_concept": "roti",
         "question": "Roti yang dibuat dengan menggunakan ragi sebagai bahan pengembang dikenal sebagai roti apa?",
@@ -11396,6 +11914,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_a479345aa95b4c46a9cea56b19ee97c2",
         "category": "culinary",
         "question_concept": "sagu",
         "question": "Apa nama makanan tradisional yang terbuat dari tepung sagu dan sering ditemukan di Papua?",
@@ -11418,6 +11937,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_a0587007fcc149cf9694501df485594c",
         "category": "culinary",
         "question_concept": "sambal",
         "question": "Bahan utama apa yang digunakan untuk membuat sambal?",
@@ -11440,6 +11960,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_b726cc5d90054273a2ff2a0267ef3886",
         "category": "culinary",
         "question_concept": "sarapan",
         "question": "Apa yang biasanya orang Indonesia makan sebagai menu sarapan pagi?",
@@ -11462,6 +11983,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_b56ebd1fa12f45b3b612915f1383c585",
         "category": "culinary",
         "question_concept": "sate",
         "question": "Sate adalah makanan khas Indonesia yang terbuat dari potongan daging yang ditusuk dengan tusukan bambu, biasanya disajikan dengan bumbu apa?",
@@ -11484,6 +12006,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_1166f90d50f545058453ff16986a4c11",
         "category": "culinary",
         "question_concept": "saus",
         "question": "Saus apa yang sering digunakan sebagai pelengkap makanan cepat saji di Indonesia?",
@@ -11506,6 +12029,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_388f32c8629944f28ca2d2da40197734",
         "category": "culinary",
         "question_concept": "sayur",
         "question": "Sayur apa yang sering dijadikan bahan utama dalam masakan lodeh?",
@@ -11528,6 +12052,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_b0fc260d9d90439fa46745a2660a9963",
         "category": "culinary",
         "question_concept": "selai",
         "question": "Selai apa yang biasa dijadikan isian roti bakar di Indonesia?",
@@ -11550,6 +12075,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_faeb449837af46e690878eb6fff51eaa",
         "category": "culinary",
         "question_concept": "sunda",
         "question": "Masakan apa yang merupakan makanan khas dari daerah Sunda di Indonesia?",
@@ -11572,6 +12098,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_41af5f11e026460db5128006f40ab7e1",
         "category": "culinary",
         "question_concept": "syukuran",
         "question": "Makanan apa yang sering disajikan sebagai ungkapan rasa syukur dalam acara syukuran di Indonesia?",
@@ -11594,6 +12121,7 @@
         "answer_creator": "E"
     },
     {
+        "id": "orig_m_ind_58409e247a0b48c39e1d88e6ea45475f",
         "category": "culinary",
         "question_concept": "talenan",
         "question": "Untuk kegiatan apa talenan biasanya digunakan dalam proses memasak di dapur Indonesia?",
@@ -11616,6 +12144,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_33c1e7384f0c4feab87f5d8e51622a7a",
         "category": "culinary",
         "question_concept": "tangan",
         "question": "Dalam budaya kuliner Indonesia, makanan apa yang umumnya dimakan langsung dengan tangan tanpa menggunakan alat makan?",
@@ -11638,6 +12167,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_ce8e79309220464d8e7c3f85f626abbb",
         "category": "culinary",
         "question_concept": "tradisional",
         "question": "Apa nama metode memasak tradisional Indonesia yang menggunakan api dari kayu bakar?",
@@ -11660,6 +12190,7 @@
         "answer_creator": "D"
     },
     {
+        "id": "orig_m_ind_64c72c8814124cea87bf9c41279da994",
         "category": "culinary",
         "question_concept": "ulang tahun",
         "question": "Kue apa yang sering disajikan sebagai simbol perayaan dalam acara ulang tahun di Indonesia?",
@@ -11682,6 +12213,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_9905e78caff04a4e88dd8fc938a69d25",
         "category": "culinary",
         "question_concept": "urutan mengambil makan",
         "question": "Dalam adat istiadat Indonesia, apa yang biasanya diambil pertama kali dalam urutan mengambil makan di prasmanan?",
@@ -11704,6 +12236,7 @@
         "answer_creator": "B"
     },
     {
+        "id": "orig_m_ind_36d16b86669f40218508d80047d148e1",
         "category": "culinary",
         "question_concept": "warna",
         "question": "Warna apa yang sering diidentikkan dengan makanan pedas dalam kuliner Indonesia?",
@@ -11726,6 +12259,7 @@
         "answer_creator": "C"
     },
     {
+        "id": "orig_m_ind_e42dfa0433bc453e911c64ce95152e09",
         "category": "culinary",
         "question_concept": "warteg",
         "question": "Apa kepanjangan dari 'warteg' yang merupakan tempat makan populer di Indonesia?",
@@ -11748,6 +12282,7 @@
         "answer_creator": "A"
     },
     {
+        "id": "orig_m_ind_64611b8eb7e0462bab1fd9296f7a2cdc",
         "category": "culinary",
         "question_concept": "wisata",
         "question": "Kota mana di Indonesia yang terkenal dengan wisata kulinernya, terutama bakso dan ayam goreng?",

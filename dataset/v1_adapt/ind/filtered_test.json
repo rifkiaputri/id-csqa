@@ -1,6 +1,6 @@
 [
     {
-        "id": "5929f5704637184dc3390dd6964cacca",
+        "id": "adapt_ind_5929f5704637184dc3390dd6964cacca",
         "question": "Budi khawatir ketika sebuah lubang besar muncul di halaman rumahnya di Indonesia. Jika lubang itu lebih besar, mungkin bisa menelan apa?",
         "choices": {
             "label": [
@@ -22,7 +22,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "6816062213d9298fbe40876b1be4e634",
+        "id": "adapt_ind_6816062213d9298fbe40876b1be4e634",
         "question": "Budi mempelajari peta jaringan kereta api bawah tanah dengan seksama. Dia belum pernah mengambil rute ini sebelumnya dan perlu tahu kemana harus pergi. Apa yang dia cari di peta tersebut?",
         "choices": {
             "label": [
@@ -44,7 +44,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "1891bccf27335dbc43201c9790e0996e",
+        "id": "adapt_ind_1891bccf27335dbc43201c9790e0996e",
         "question": "Di mana kebanyakan orang Indonesia menaruh cangkir kopi mereka saat bekerja?",
         "choices": {
             "label": [
@@ -66,7 +66,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "6917399ea434e6c484459f895c72ef90",
+        "id": "adapt_ind_6917399ea434e6c484459f895c72ef90",
         "question": "Jenis sumur apa yang kemungkinan besar akan menimbulkan kontroversi di Indonesia?",
         "choices": {
             "label": [
@@ -88,7 +88,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "eb252ee1a725a738d8c956caec8791fd",
+        "id": "adapt_ind_eb252ee1a725a738d8c956caec8791fd",
         "question": "Jika saya berada di lapangan sepak bola dan mendengar anak-anak kecil tertawa dan berteriak di dekatnya, di mana saya berada?",
         "choices": {
             "label": [
@@ -110,7 +110,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "99ee95c1d5a7a8e4409b6a17137dbf66",
+        "id": "adapt_ind_99ee95c1d5a7a8e4409b6a17137dbf66",
         "question": "Di mana Anda akan mencari untuk mengetahui apa itu komodo?",
         "choices": {
             "label": [
@@ -132,7 +132,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "df4368b976f1f7d2e2ea4807d4c4c045",
+        "id": "adapt_ind_df4368b976f1f7d2e2ea4807d4c4c045",
         "question": "Saya berada di kolam renang dekat dengan Monumen Nasional Monas, di mana saya berada?",
         "choices": {
             "label": [
@@ -154,7 +154,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "6843480c5c05eca606b83e9c925da43a",
+        "id": "adapt_ind_6843480c5c05eca606b83e9c925da43a",
         "question": "Budi menemukan dirinya di sebuah pekuburan kecil yang dikelilingi oleh gedung-gedung tinggi. Di mana kira-kira dia berada?",
         "choices": {
             "label": [
@@ -176,7 +176,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "b8fec0eabb7090db994997dd694cac69",
+        "id": "adapt_ind_b8fec0eabb7090db994997dd694cac69",
         "question": "Di mana Anda dapat menemukan musang yang tidak hidup di Indonesia?",
         "choices": {
             "label": [
@@ -198,7 +198,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "f4ba945c957f3444e35f833dd0435c0a",
+        "id": "adapt_ind_f4ba945c957f3444e35f833dd0435c0a",
         "question": "Di mana luwak di Indonesia kemungkinan besar memiliki aksen?",
         "choices": {
             "label": [
@@ -220,7 +220,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "5b8c59723217c25ab48b653822e0adac",
+        "id": "adapt_ind_5b8c59723217c25ab48b653822e0adac",
         "question": "Di mana Anda dapat menemukan seluruh angkasa luar?",
         "choices": {
             "label": [
@@ -242,7 +242,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "0889b1d775c31b6c8162a3349da5ddb0",
+        "id": "adapt_ind_0889b1d775c31b6c8162a3349da5ddb0",
         "question": "Siti dan semua temannya pergi ke sebuah masjid. Begitu juga semua tetangganya dan semua orang yang dia kenal. Tidak ada satu pun orang di daerahnya yang tidak pergi ke masjid. Di mana kira-kira dia tinggal?",
         "choices": {
             "label": [
@@ -264,7 +264,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "a069688802ba0a0418b9d3a1a5592859",
+        "id": "adapt_ind_a069688802ba0a0418b9d3a1a5592859",
         "question": "Jika seekor sapi perah muda hidup di daerah pedesaan bersama hewan ternak lainnya, apa nama area tersebut dalam konteks Indonesia?",
         "choices": {
             "label": [
@@ -286,7 +286,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "f2c11e9f99aa19752b57a8c4cfe27048",
+        "id": "adapt_ind_f2c11e9f99aa19752b57a8c4cfe27048",
         "question": "Di mana Anda bisa menemukan banyak angklung?",
         "choices": {
             "label": [
@@ -308,7 +308,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "6efe7877b8edb04b0ae605f648915f3b",
+        "id": "adapt_ind_6efe7877b8edb04b0ae605f648915f3b",
         "question": "Andi membawa anjingnya jalan-jalan di tempat di mana orang-orang sering piknik. Di mana kira-kira dia membawa anjingnya?",
         "choices": {
             "label": [
@@ -330,7 +330,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "e0c1481f8e7353d7ba82f98429d3e7b0",
+        "id": "adapt_ind_e0c1481f8e7353d7ba82f98429d3e7b0",
         "question": "Siti sedang menganalisis bukti karena dia merasa belum cukup tahu tentang hal itu. Apa yang ingin dia lakukan?",
         "choices": {
             "label": [
@@ -352,7 +352,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "b370186aefb03b810418051a7c3ea2f5",
+        "id": "adapt_ind_b370186aefb03b810418051a7c3ea2f5",
         "question": "Orangutan hidup sendirian. Bagaimana Anda bisa mendeskripsikan habitatnya?",
         "choices": {
             "label": [
@@ -374,7 +374,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "2a23800d9897030fdc7a9a286694ea6f",
+        "id": "adapt_ind_2a23800d9897030fdc7a9a286694ea6f",
         "question": "Komodo yang merupakan hewan endemik Indonesia banyak ditemukan di wilayah geografis mana?",
         "choices": {
             "label": [
@@ -396,7 +396,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "bbf271a16f66ced481869ac9246753fd",
+        "id": "adapt_ind_bbf271a16f66ced481869ac9246753fd",
         "question": "Komodo adalah maskot dari SMA mereka. Budi berdiri di bawah gambar salah satunya sambil memakai apa?",
         "choices": {
             "label": [
@@ -418,7 +418,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "d54709b9f05fcfcb7d89542bac81beac",
+        "id": "adapt_ind_d54709b9f05fcfcb7d89542bac81beac",
         "question": "Apa yang dimaksud dengan monyet di kebun binatang di Indonesia?",
         "choices": {
             "label": [
@@ -440,7 +440,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "8d5edc8511298586e2cc0c0f58757491",
+        "id": "adapt_ind_8d5edc8511298586e2cc0c0f58757491",
         "question": "Danny tidak suka deodoran roll-on. Dia lebih memilih deodoran jenis apa?",
         "choices": {
             "label": [
@@ -462,7 +462,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "1e22d463619bde9ee5130867eeaf0509",
+        "id": "adapt_ind_1e22d463619bde9ee5130867eeaf0509",
         "question": "Masyarakat tidak antusias untuk memilih, mereka tahu tidak peduli siapa yang mereka pilih itu hanyalah seekor musang yang mereka kirim ke mana?",
         "choices": {
             "label": [
@@ -484,7 +484,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "bbc744818da76fc80327d03ac23f0f27",
+        "id": "adapt_ind_bbc744818da76fc80327d03ac23f0f27",
         "question": "Budi takut melakukan sumpah palsu di pengadilan. Apa yang bisa terjadi akibat sumpah palsu?",
         "choices": {
             "label": [
@@ -506,7 +506,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "26cf1eca0eafba24ed7efe1c8c4f6170",
+        "id": "adapt_ind_26cf1eca0eafba24ed7efe1c8c4f6170",
         "question": "Siti membuka halaman acak dan melihat 'komodo'. Apa yang mungkin sedang dia lihat?",
         "choices": {
             "label": [
@@ -528,7 +528,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "44d474361e046b556b48b31e1bf5b611",
+        "id": "adapt_ind_44d474361e046b556b48b31e1bf5b611",
         "question": "Ahmad bersikap dingin, tetapi sebenarnya dia sangat apa?",
         "choices": {
             "label": [
@@ -550,7 +550,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "65ca5ca4ca1774d67adb78eeef8cc7d5",
+        "id": "adapt_ind_65ca5ca4ca1774d67adb78eeef8cc7d5",
         "question": "Budi takut untuk berlari di lintasan karena dia khawatir akan cedera. Apa yang mungkin dia lakukan sebagai gantinya?",
         "choices": {
             "label": [
@@ -572,7 +572,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "88007fc6a84123e90b792dc1807de427",
+        "id": "adapt_ind_88007fc6a84123e90b792dc1807de427",
         "question": "Jika saya mencari klinik gigi di Jakarta, saya kemungkinan berada di provinsi mana?",
         "choices": {
             "label": [
@@ -594,7 +594,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "e0fee64a8401f66e3c35c79d8519844e",
+        "id": "adapt_ind_e0fee64a8401f66e3c35c79d8519844e",
         "question": "Guru di sekolah mana di Indonesia yang merasa bahwa Budi memiliki potensi sehingga tidak seharusnya melakukan apa?",
         "choices": {
             "label": [
@@ -616,7 +616,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "f514fdb807c433be25529cc79610e3b3",
+        "id": "adapt_ind_f514fdb807c433be25529cc79610e3b3",
         "question": "Joko adalah pembantu rumah tangga. Ahmad adalah apa baginya?",
         "choices": {
             "label": [
@@ -638,7 +638,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "ebae1b07ab3230d4b59b2c7ecc5a89d3",
+        "id": "adapt_ind_ebae1b07ab3230d4b59b2c7ecc5a89d3",
         "question": "Ratna sedang mencari makam leluhurnya yang dikuburkan di pemakaman tua. Di mana kira-kira dia dapat menemukan pemakaman tersebut?",
         "choices": {
             "label": [
@@ -660,7 +660,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "27e65eba6f596045187e7af84151340a",
+        "id": "adapt_ind_27e65eba6f596045187e7af84151340a",
         "question": "Ahmad menghabiskan seluruh waktunya untuk menganalisis karya-karya maestro karena ia ingin menjadi apa?",
         "choices": {
             "label": [
@@ -682,7 +682,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "61984fa9de4fc5484dca07aa697c03b2",
+        "id": "adapt_ind_61984fa9de4fc5484dca07aa697c03b2",
         "question": "Di mana Anda biasanya menggunakan sarung bantal?",
         "choices": {
             "label": [
@@ -704,7 +704,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "36aa45a085fad5e9c9479811f19bffea",
+        "id": "adapt_ind_36aa45a085fad5e9c9479811f19bffea",
         "question": "Penasihat akademik mengatakan bahwa mata kuliah tersebut adalah prasyarat untuk jurusan yang diambilnya, tetapi pada hari pertama ia menyadari bahwa mata kuliah tersebut sepenuhnya apa?",
         "choices": {
             "label": [
@@ -726,7 +726,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "7c7576876bed0d9e07e69bc10cedbfd8",
+        "id": "adapt_ind_7c7576876bed0d9e07e69bc10cedbfd8",
         "question": "Di mana film tentang tukang cukur biasanya diambil?",
         "choices": {
             "label": [
@@ -748,7 +748,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "9c5880baa5e1746f83b40b9f7e4e118c",
+        "id": "adapt_ind_9c5880baa5e1746f83b40b9f7e4e118c",
         "question": "Menurut banyak kepercayaan, manusia pertama memakan buah dari pohon apa yang menyebabkan mereka diusir dari tempat asalnya?",
         "choices": {
             "label": [
@@ -770,7 +770,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "bb7108a24332df7512017038505e329d",
+        "id": "adapt_ind_bb7108a24332df7512017038505e329d",
         "question": "Danny mulai merasa panas. Dia menyalakan AC agar tidak merasa apa?",
         "choices": {
             "label": [
@@ -792,7 +792,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "622995494e6e096f778670cecb3d830b",
+        "id": "adapt_ind_622995494e6e096f778670cecb3d830b",
         "question": "Di mana boom mikrofon kemungkinan besar digunakan untuk siaran musik langsung di Indonesia?",
         "choices": {
             "label": [
@@ -814,7 +814,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "ea0ee21980f85234853de55d7064d10c",
+        "id": "adapt_ind_ea0ee21980f85234853de55d7064d10c",
         "question": "Di mana penemuan musang akan membuat petani di Indonesia marah?",
         "choices": {
             "label": [
@@ -836,7 +836,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "7b4fd5d4f54eb97257eee2c859f7cc69",
+        "id": "adapt_ind_7b4fd5d4f54eb97257eee2c859f7cc69",
         "question": "Di pasar mana Anda akan berbelanja jika Anda berada di pasar yang namanya diabadikan dalam sebuah lagu tahun 1950-an di Indonesia?",
         "choices": {
             "label": [
@@ -858,7 +858,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "f62d475a3ae5922c9e93b3ddb2a243bb",
+        "id": "adapt_ind_f62d475a3ae5922c9e93b3ddb2a243bb",
         "question": "Mereka memulai perjalanan keluarga, mereka berpindah dari satu jalan tol nasional ke jalan tol nasional lainnya dalam petualangan mereka melintasi apa?",
         "choices": {
             "label": [
@@ -880,7 +880,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "670aa5d324cc3f39c034dc0fc68d5861",
+        "id": "adapt_ind_670aa5d324cc3f39c034dc0fc68d5861",
         "question": "Dewi ingin berbaring di tempat tidur sepanjang hari. Dia terjaga hingga larut malam karena batuk semalam dan ingin melakukan apa?",
         "choices": {
             "label": [
@@ -902,7 +902,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "bfd67879d0b3550a94d99210387025ed",
+        "id": "adapt_ind_bfd67879d0b3550a94d99210387025ed",
         "question": "Siapa yang membutuhkan stasiun kereta bawah tanah?",
         "choices": {
             "label": [
@@ -924,7 +924,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "b573fb3b40fd85a9171c1e0b459b71cb",
+        "id": "adapt_ind_b573fb3b40fd85a9171c1e0b459b71cb",
         "question": "Andi memiliki alasan yang kuat untuk tindakannya, tetapi ia tidak bisa menjelaskannya kepada anak perempuannya. Dia melihat segala sesuatu secara hitam dan putih, tetapi sebenarnya, dunia tidak seperti itu. Apa itu dunia?",
         "choices": {
             "label": [
@@ -946,7 +946,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "cacdd89beb62e8c0d20d8c26f06d2e3d",
+        "id": "adapt_ind_cacdd89beb62e8c0d20d8c26f06d2e3d",
         "question": "Budi tinggal di sayap timur rumahnya. Sayap barat adalah tempat dia menyimpan kotak-kotak penuh barang tak terpakai. Terkadang dia berharap dia tidak memutuskan untuk tinggal di apa?",
         "choices": {
             "label": [
@@ -968,7 +968,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "219cbfc92cb8624da9f649edeabb9e5f",
+        "id": "adapt_ind_219cbfc92cb8624da9f649edeabb9e5f",
         "question": "Zainal adalah seorang filsuf. Dia memilih filsafat karena berpikir bahwa memahami sesuatu dengan lebih baik akan mengarah pada apa?",
         "choices": {
             "label": [
@@ -990,7 +990,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "a63d96a1a9387973976dff68c4039981",
+        "id": "adapt_ind_a63d96a1a9387973976dff68c4039981",
         "question": "Saat sang bupati mendekati menara pada kuda dan melihat menara, apa yang dia tahu dia sudah dekat dengan?",
         "choices": {
             "label": [
@@ -1012,7 +1012,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "4cdf83fe252f0883a93af57a421fd9c8",
+        "id": "adapt_ind_4cdf83fe252f0883a93af57a421fd9c8",
         "question": "Budi menghabiskan waktunya membersihkan debu. Di mana debu bisa ditemukan di Indonesia?",
         "choices": {
             "label": [
@@ -1034,7 +1034,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "298089ddab6eddec5e2c629abf1a51c8",
+        "id": "adapt_ind_298089ddab6eddec5e2c629abf1a51c8",
         "question": "Budi selalu berlari mengejar bola ke jalan raya, dan selalu gagal untuk apa?",
         "choices": {
             "label": [
@@ -1056,7 +1056,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "3141857e63c3cce542a7a210860e234f",
+        "id": "adapt_ind_3141857e63c3cce542a7a210860e234f",
         "question": "Pesawat luar angkasa LAPAN terbang melewati planet Neptune, ke mana ia berusaha untuk keluar?",
         "choices": {
             "label": [
@@ -1078,7 +1078,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "144fe132d8a7c178a6acedddc3aff873",
+        "id": "adapt_ind_144fe132d8a7c178a6acedddc3aff873",
         "question": "Budi ingin menghentikan pesan tersebut, tetapi pesan itu sudah dalam proses pengiriman. Jenis pesan apa yang bisa sangat cepat ini?",
         "choices": {
             "label": [
@@ -1100,7 +1100,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "9e8cf3376a136e9351671606bac8f1f2",
+        "id": "adapt_ind_9e8cf3376a136e9351671606bac8f1f2",
         "question": "Di mana Anda dapat menemukan pohon apel, traktor, atau bajak di Indonesia?",
         "choices": {
             "label": [
@@ -1122,7 +1122,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "a5d1dea3eaf8c90ff423bb37a6a3a62b",
+        "id": "adapt_ind_a5d1dea3eaf8c90ff423bb37a6a3a62b",
         "question": "Di mana Anda akan menemukan kadal yang bukan asli dari daerah dengan banyak hujan di Indonesia?",
         "choices": {
             "label": [
@@ -1144,7 +1144,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "7109a210dbec4d6dbd8c276b8ae644fa",
+        "id": "adapt_ind_7109a210dbec4d6dbd8c276b8ae644fa",
         "question": "Provinsi mana di Indonesia yang biasanya selalu memberikan suara mayoritas kepada partai berwarna merah dalam pemilihan umum?",
         "choices": {
             "label": [
@@ -1166,7 +1166,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "202ca80830063bde5e0e003a9fc8685d",
+        "id": "adapt_ind_202ca80830063bde5e0e003a9fc8685d",
         "question": "Budi merasa senang saat ia sedang berkarya seni. Melihat karyanya terbentuk membuatnya merasa sangat puas akan kemampuannya. Menunjukkannya kepada orang lain membuatnya merasa emosi apa?",
         "choices": {
             "label": [
@@ -1188,7 +1188,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "0ecca9e9b71eeb9af17abc512a37432c",
+        "id": "adapt_ind_0ecca9e9b71eeb9af17abc512a37432c",
         "question": "Budi berjalan cukup lama, namun yang ia lihat hanyalah pasir. Ia tidak tahu sudah seberapa jauh ia berjalan, atau masih seberapa jauh lagi ia harus melanjutkan perjalanan. Di manakah mungkin Budi berada?",
         "choices": {
             "label": [
@@ -1210,7 +1210,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "ee59810181e1ef04a60b46ed28abb3e9",
+        "id": "adapt_ind_ee59810181e1ef04a60b46ed28abb3e9",
         "question": "Dia membutuhkan jahitan, dokter tersebut mengarahkan ujung dari apa dan mulai?",
         "choices": {
             "label": [
@@ -1232,7 +1232,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "99cf0fa9b30ac255fc3385cb497e98cb",
+        "id": "adapt_ind_99cf0fa9b30ac255fc3385cb497e98cb",
         "question": "Kumparan kompresor kotor sehingga apa yang tidak akan berfungsi?",
         "choices": {
             "label": [
@@ -1254,7 +1254,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "c1f14c31f4d98445652e806cea770c99",
+        "id": "adapt_ind_c1f14c31f4d98445652e806cea770c99",
         "question": "Budi adalah seorang petani di Indonesia. Dia memiliki kerbau. Apa yang mungkin dilakukan kerbau tersebut ketika Budi menekan pahanya ke sisi kerbau itu?",
         "choices": {
             "label": [
@@ -1276,7 +1276,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "bea369dd17724c1a28af2e3f0e1dc212",
+        "id": "adapt_ind_bea369dd17724c1a28af2e3f0e1dc212",
         "question": "Di mana Anda akan menemukan sebagian besar industri besar suatu negara di Indonesia?",
         "choices": {
             "label": [
@@ -1298,7 +1298,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "95dd791dbe5e9b0c8905211c8401f350",
+        "id": "adapt_ind_95dd791dbe5e9b0c8905211c8401f350",
         "question": "Siti berada di pusat perbelanjaan yang dikelilingi oleh lalu lintas dan kota-kota besar, di mana dia berada?",
         "choices": {
             "label": [
@@ -1320,7 +1320,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "98efaf3f3a9c78e4c56e2880a4e7d451",
+        "id": "adapt_ind_98efaf3f3a9c78e4c56e2880a4e7d451",
         "question": "Siti sedang menulis program dalam bahasa pemrograman Java. Program tersebut tidak bisa selesai atau berhenti. Program tersebut terjebak dalam apa?",
         "choices": {
             "label": [
@@ -1342,7 +1342,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "a086e49b7864619b40e2b96e4463ca03",
+        "id": "adapt_ind_a086e49b7864619b40e2b96e4463ca03",
         "question": "Di mana seekor kuda mungkin berkeliaran?",
         "choices": {
             "label": [
@@ -1364,7 +1364,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "ff504d5cebb63437d7fe4ae3f4b4fea6",
+        "id": "adapt_ind_ff504d5cebb63437d7fe4ae3f4b4fea6",
         "question": "Ahmad melakukan penelitian tentang membaca buku. Ini adalah salah satu bentuk tertua dari apa?",
         "choices": {
             "label": [
@@ -1386,7 +1386,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "b82493e188ab497ee2195d4a3ed82c6d",
+        "id": "adapt_ind_b82493e188ab497ee2195d4a3ed82c6d",
         "question": "Budi tidak suka Whopper, tetapi dia masih ingin makan burger. Ke mana dia mungkin akan pergi?",
         "choices": {
             "label": [
@@ -1408,7 +1408,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "fa720b796d0748ff58fe29d37b1e38d7",
+        "id": "adapt_ind_fa720b796d0748ff58fe29d37b1e38d7",
         "question": "Apa nama fenomena ketika hujan abu vulkanik turun dengan cepat sehingga mengaburkan pandangan?",
         "choices": {
             "label": [
@@ -1430,7 +1430,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "7f757725231983b77b37efc43bf0d6c4",
+        "id": "adapt_ind_7f757725231983b77b37efc43bf0d6c4",
         "question": "Ahmad sangat menyukai kunjungan ke museum. Dia menghabiskan waktunya untuk memikirkan apa yang diwakili oleh lukisan-lukisan tersebut. Dia tidak mengerti semuanya, tetapi dia banyak melakukan apa?",
         "choices": {
             "label": [
@@ -1452,7 +1452,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "67590f4b9f40e72bb343b644a827c167",
+        "id": "adapt_ind_67590f4b9f40e72bb343b644a827c167",
         "question": "Ahmad harus menggunakan kamar mandi, tetapi dia tidak bisa melakukannya di tempat yang tidak ia kenal atau di tempat umum. Jadi dia menunggu sampai dia kembali ke apa?",
         "choices": {
             "label": [
@@ -1474,7 +1474,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "0e7cc1ba6d074b01b246cb38f9b2f4e3",
+        "id": "adapt_ind_0e7cc1ba6d074b01b246cb38f9b2f4e3",
         "question": "Jenis tempat apa yang memiliki anggur mahal di ruang penyimpanan anggurnya?",
         "choices": {
             "label": [
@@ -1496,7 +1496,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "82b9d59b3f1631240fb17764bc7b459e",
+        "id": "adapt_ind_82b9d59b3f1631240fb17764bc7b459e",
         "question": "Budi ingin mengadopsi anak anjing baru untuk dibawa pulang ke tempatnya. Di mana dia mungkin menemukan satu?",
         "choices": {
             "label": [
@@ -1518,7 +1518,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "7b30bd9183624d5e7268055311883a8a",
+        "id": "adapt_ind_7b30bd9183624d5e7268055311883a8a",
         "question": "Ahmad sangat menyukai gulat tradisional Indonesia yang disebut 'Pencak Silat'. Dia sangat terampil dalam olahraga tersebut dan merasa sangat senang ketika berhasil menjatuhkan lawannya ke matras. Apa yang diterima Ahmad ketika berhasil menjatuhkan lawan-lawannya?",
         "choices": {
             "label": [
@@ -1540,7 +1540,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "443422ec4a92076b1fe8c492e8b27624",
+        "id": "adapt_ind_443422ec4a92076b1fe8c492e8b27624",
         "question": "Pada hari yang panjang dan berat di musim hujan, Andi merasakan air hangat di wajahnya. Butuh beberapa menit baginya untuk menyadari bahwa air tersebut berasal dari dirinya sendiri. Itu adalah apa?",
         "choices": {
             "label": [
@@ -1562,7 +1562,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "3961ded51daf0ccca7e3b2e57bb52bb2",
+        "id": "adapt_ind_3961ded51daf0ccca7e3b2e57bb52bb2",
         "question": "Ketika Anda membayar dengan uang tunai dan tidak menggunakan uang kertas, Anda akan menggunakan apa?",
         "choices": {
             "label": [
@@ -1584,7 +1584,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "e63e77860c73a26808022d9f99ed851f",
+        "id": "adapt_ind_e63e77860c73a26808022d9f99ed851f",
         "question": "Prakiraan cuaca menyebutkan akan turun hujan es dan pembekuan, hal ini tentunya akan berhubungan dengan apa?",
         "choices": {
             "label": [
@@ -1606,7 +1606,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "621d6f1302960d2708aae3af062a08ee",
+        "id": "adapt_ind_621d6f1302960d2708aae3af062a08ee",
         "question": "Anita senang pergi berlibur, tetapi dia tidak sering melakukannya. Dia benci apa yang menyertainya. Apa yang mungkin menjadi konsekuensi dari berlibur?",
         "choices": {
             "label": [
@@ -1628,7 +1628,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "b24bab0aa46be6f5c924b42924b06e7b",
+        "id": "adapt_ind_b24bab0aa46be6f5c924b42924b06e7b",
         "question": "Siti bergabung dengan TNI pada masa damai. Tidak ada pertempuran, tetapi dia pergi ke banyak tempat. Ke mana saja dia pergi?",
         "choices": {
             "label": [
@@ -1650,7 +1650,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "3da502d3d6e997ac27632292401ddc76",
+        "id": "adapt_ind_3da502d3d6e997ac27632292401ddc76",
         "question": "Apa yang Anda butuhkan jika Anda tidak tahu apa itu orangutan?",
         "choices": {
             "label": [
@@ -1672,7 +1672,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "3d716eaf3dede711bc675c5ad3b8f6e7",
+        "id": "adapt_ind_3d716eaf3dede711bc675c5ad3b8f6e7",
         "question": "Di mana orang-orang bermain bisbol?",
         "choices": {
             "label": [
@@ -1694,7 +1694,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "33791ed38d9a78fadc5da4079322a87d",
+        "id": "adapt_ind_33791ed38d9a78fadc5da4079322a87d",
         "question": "Budi tidak suka berkompetisi tetapi orang tuanya tidak menyadarinya. Ketika dia gagal, mereka hanya berkata dia seharusnya melakukan apa?",
         "choices": {
             "label": [
@@ -1716,7 +1716,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "76b27670cba4f44a8ee9b34bd1030b7c",
+        "id": "adapt_ind_76b27670cba4f44a8ee9b34bd1030b7c",
         "question": "Rumah panggung dibangun di komunitas perumahan tertutup, di mana lokasinya?",
         "choices": {
             "label": [
@@ -1738,7 +1738,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "123abb29c3eabce97512c706df944895",
+        "id": "adapt_ind_123abb29c3eabce97512c706df944895",
         "question": "Di mana Anda paling mungkin melihat monyet di Indonesia?",
         "choices": {
             "label": [
@@ -1760,7 +1760,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "be28cb55ee9566bb1ec25bbc8f310024",
+        "id": "adapt_ind_be28cb55ee9566bb1ec25bbc8f310024",
         "question": "Budi merasa ada ular sanca di kamarnya. Dia pikir ular itu melata di atasnya. Ular itu sangat besar. Namun, ketika dia menyalakan lampu, tidak ada ular. Itu hanya apa?",
         "choices": {
             "label": [
@@ -1782,7 +1782,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "fd28207dc1418cfb60f06d41760b1268",
+        "id": "adapt_ind_fd28207dc1418cfb60f06d41760b1268",
         "question": "Jika seseorang baru saja membeli mobil baru di Indonesia, mereka mungkin akan menyimpan bukti kepemilikan kendaraan yang aman di mana?",
         "choices": {
             "label": [
@@ -1804,7 +1804,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "f30ccf756f489ff1a35c32116a94c624",
+        "id": "adapt_ind_f30ccf756f489ff1a35c32116a94c624",
         "question": "Anda mungkin menemukan Komodo di Pulau Komodo atau Pulau Rinca, yang keduanya terletak di mana?",
         "choices": {
             "label": [
@@ -1826,7 +1826,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "6991339de4302a6acbe1ba29c15860eb",
+        "id": "adapt_ind_6991339de4302a6acbe1ba29c15860eb",
         "question": "Buah dari pohon mangga di Indonesia biasanya matang pada musim apa?",
         "choices": {
             "label": [
@@ -1848,7 +1848,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "6756267f644f22b0289b3b8610d130fb",
+        "id": "adapt_ind_6756267f644f22b0289b3b8610d130fb",
         "question": "Apa emosi umum yang sering terjadi saat kencan di arena ice skating di Indonesia?",
         "choices": {
             "label": [
@@ -1870,7 +1870,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "61d0e01a9c6de4cfc3193f81e981c904",
+        "id": "adapt_ind_61d0e01a9c6de4cfc3193f81e981c904",
         "question": "Budi senang bermain catur, tetapi dia bukanlah seorang maestro. Dia sering kalah. Hal ini mengajarkannya sesuatu. Apa yang diajarkannya?",
         "choices": {
             "label": [
@@ -1892,7 +1892,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "e09bdf84babdcedc7c9a3bc332138add",
+        "id": "adapt_ind_e09bdf84babdcedc7c9a3bc332138add",
         "question": "Sebuah kota dikelilingi oleh banyak negara yang bisa dicapai hanya dengan beberapa jam berkendara, di mana kota itu berada?",
         "choices": {
             "label": [
@@ -1918,7 +1918,7 @@
         "answer_creator": "F"
     },
     {
-        "id": "4241c618ad14e404005bae050d808142",
+        "id": "adapt_ind_4241c618ad14e404005bae050d808142",
         "question": "Karakter Budi Musang dalam serial animasi bisa berbicara. Mengingat kebanyakan musang di Indonesia tidak bisa berbicara, dia kemungkinan adalah jenis apa?",
         "choices": {
             "label": [
@@ -1940,7 +1940,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "fbd32871913d534e3371e1672e78e164",
+        "id": "adapt_ind_fbd32871913d534e3371e1672e78e164",
         "question": "Ketika Hakim Agung Indonesia memutuskan hukuman bagi pembunuh tersebut, beliau mempertimbangkan hal tentang para korban yang selamat. Apa yang mungkin dipertimbangkan oleh Hakim Agung?",
         "choices": {
             "label": [
@@ -1962,7 +1962,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "4b06d650a437e367b9f077be054ee005",
+        "id": "adapt_ind_4b06d650a437e367b9f077be054ee005",
         "question": "Di mana Anda akan menyimpan beberapa koin Rupiah jika Anda tidak berencana untuk menggunakannya dalam waktu dekat?",
         "choices": {
             "label": [
@@ -1984,7 +1984,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "0358949aebf0f5ecd92f3f33ff3f50d3",
+        "id": "adapt_ind_0358949aebf0f5ecd92f3f33ff3f50d3",
         "question": "Jika seseorang berada di provinsi selatan dan menonton pertandingan di lapangan sepak bola, genre musik apa yang kemungkinan diputar?",
         "choices": {
             "label": [
@@ -2006,7 +2006,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "d4ad368b772bf814c61a2b38783e6f7c",
+        "id": "adapt_ind_d4ad368b772bf814c61a2b38783e6f7c",
         "question": "Budi masuk ke pesta ulang tahun kejutannya dengan hanya mengenakan sarung. Dia sedih karena semua temannya melihatnya saat dia tidak apa?",
         "choices": {
             "label": [
@@ -2028,7 +2028,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "76d87daedf5019dd928890bba42a2036",
+        "id": "adapt_ind_76d87daedf5019dd928890bba42a2036",
         "question": "Di mana komodo dapat berjalan dari satu pulau ke pulau lainnya di Indonesia?",
         "choices": {
             "label": [
@@ -2050,7 +2050,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "830513648a1ac1472a1c2b2aa39d2411",
+        "id": "adapt_ind_830513648a1ac1472a1c2b2aa39d2411",
         "question": "Jika Anda sedang berada di taman nasional di negara ini dan melihat komodo, di mana Anda berada?",
         "choices": {
             "label": [
@@ -2072,7 +2072,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "18513e42111fbaabf96f890769937005",
+        "id": "adapt_ind_18513e42111fbaabf96f890769937005",
         "question": "Hewan apa yang tidak mungkin ditemukan di Indonesia?",
         "choices": {
             "label": [
@@ -2094,7 +2094,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "d71cc8879853399a302e2cadcd0a180a",
+        "id": "adapt_ind_d71cc8879853399a302e2cadcd0a180a",
         "question": "Di mana Anda bisa melihat Komodo?",
         "choices": {
             "label": [
@@ -2116,7 +2116,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "6f66187e200d73b6fb1a03c124764286",
+        "id": "adapt_ind_6f66187e200d73b6fb1a03c124764286",
         "question": "Budi memiliki kompor gas kecil. Dia sering memasak di atasnya. Di mana Budi mungkin memiliki kompor gas kecil itu?",
         "choices": {
             "label": [
@@ -2138,7 +2138,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "a5151e21152ffeba204a51d702077002",
+        "id": "adapt_ind_a5151e21152ffeba204a51d702077002",
         "question": "Apa tempat dengan banyak dinding yang mungkin memiliki papan catur?",
         "choices": {
             "label": [
@@ -2160,7 +2160,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "25020186c6eb047b65c31665b8fce5d9",
+        "id": "adapt_ind_25020186c6eb047b65c31665b8fce5d9",
         "question": "Budi membaca majalah sambil menunggu antriannya. Ia ingin membeli sebuah novel, tetapi ia tidak ingin membacanya di sana. Di mana dia berada?",
         "choices": {
             "label": [
@@ -2182,7 +2182,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "ceb4ff8c131bfce127531b536430d70a",
+        "id": "adapt_ind_ceb4ff8c131bfce127531b536430d70a",
         "question": "Budi sedang menulis program tetapi dia tidak mengerti mengapa hasilnya seperti itu. Dia tahu bahwa kode yang kompleks seringkali menghasilkan apa?",
         "choices": {
             "label": [
@@ -2204,7 +2204,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "1b8259b7332bad1cf8e56a08049fea3b",
+        "id": "adapt_ind_1b8259b7332bad1cf8e56a08049fea3b",
         "question": "Cicak ingin mempelajari tentang dunia, di mana ia mencari informasi?",
         "choices": {
             "label": [
@@ -2226,7 +2226,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "727b07571c58d6cb98865961aa15b1c9",
+        "id": "adapt_ind_727b07571c58d6cb98865961aa15b1c9",
         "question": "Di mana Anda dapat menemukan hutan hujan tropis yang besar di Indonesia?",
         "choices": {
             "label": [
@@ -2248,7 +2248,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "44fd884b7a03d5ff6b8a0fa5126e1f19",
+        "id": "adapt_ind_44fd884b7a03d5ff6b8a0fa5126e1f19",
         "question": "Seorang pria sedang memberikan tur tentang istana dan museum terbesar, di mana ia memberikan tur tersebut?",
         "choices": {
             "label": [
@@ -2270,7 +2270,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "be6ef28148974512686aacd1a7463c22",
+        "id": "adapt_ind_be6ef28148974512686aacd1a7463c22",
         "question": "Budi berpura-pura pergi bekerja setiap hari, karena dia tidak bisa memberitahu istrinya tentang apa?",
         "choices": {
             "label": [
@@ -2292,7 +2292,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "15ad2d0c4ceb47701ed34a549311aa1f",
+        "id": "adapt_ind_15ad2d0c4ceb47701ed34a549311aa1f",
         "question": "Wilayah Indonesia mana yang kemungkinan memiliki banyak restoran halal?",
         "choices": {
             "label": [
@@ -2314,7 +2314,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "ea619f8fa41694248f52a71e44c99b54",
+        "id": "adapt_ind_ea619f8fa41694248f52a71e44c99b54",
         "question": "Ada banyak hal yang bisa dilihat selama perjalanan, tetapi pameran favorit anak itu adalah mamut di mana?",
         "choices": {
             "label": [
@@ -2336,7 +2336,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "856c44264a264bdd45da0d74b70f79d1",
+        "id": "adapt_ind_856c44264a264bdd45da0d74b70f79d1",
         "question": "Apa nama tempat di Samudra Hindia di mana lempeng tektoniknya bertemu?",
         "choices": {
             "label": [
@@ -2358,7 +2358,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "a64f862ebb15edf91ef94165a4a1c6f0",
+        "id": "adapt_ind_a64f862ebb15edf91ef94165a4a1c6f0",
         "question": "Joko tidak tahu nama ayahnya, jadi dia hanya mengetikkan apa ke dalam pencarian?",
         "choices": {
             "label": [
@@ -2380,7 +2380,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "0ef7dabdb46fb90189ff5a8188def6e1",
+        "id": "adapt_ind_0ef7dabdb46fb90189ff5a8188def6e1",
         "question": "Di mana Anda biasanya menggunakan stempel karet bermotif batik?",
         "choices": {
             "label": [
@@ -2402,7 +2402,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "4d13ee7deb7702b64a356a2a4a47f122",
+        "id": "adapt_ind_4d13ee7deb7702b64a356a2a4a47f122",
         "question": "Budi membeli banyak pakaian baru. Ketika dia sampai di rumah, dia menggantung pakaian tersebut dan menyimpannya di mana?",
         "choices": {
             "label": [
@@ -2424,7 +2424,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "bcedebfc8d41b24067f05d726352d376",
+        "id": "adapt_ind_bcedebfc8d41b24067f05d726352d376",
         "question": "Joko ingin membeli beberapa anggur dan mulai mencarinya. Dia menemukan beberapa anggur lokal di berbagai apa?",
         "choices": {
             "label": [
@@ -2446,7 +2446,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "b10c073f314ccbab72306b6f304fb9a4",
+        "id": "adapt_ind_b10c073f314ccbab72306b6f304fb9a4",
         "question": "Kadal tersebut secara tidak sengaja terbawa saat keluarga tersebut berlibur ke pantai, pantai yang sangat populer tersebut terletak di mana?",
         "choices": {
             "label": [
@@ -2468,7 +2468,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "a3af4e3e46d67230e3b5acf801b1ae2b",
+        "id": "adapt_ind_a3af4e3e46d67230e3b5acf801b1ae2b",
         "question": "Budi melihat seseorang di jalan di Indonesia. Dia mencoba memberikan mereka uang receh, tetapi mereka tidak menginginkannya. Sebaliknya mereka memberitahu dia bahwa mereka tidak memerlukan apa-apa karena mereka memiliki perlindungan. Apa yang mungkin mereka maksud?",
         "choices": {
             "label": [
@@ -2490,7 +2490,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "6abae2ffdbe0732b481918e896fe10c1",
+        "id": "adapt_ind_6abae2ffdbe0732b481918e896fe10c1",
         "question": "Budi sedang duduk dengan tenang di sebuah kursi besi yang keras dengan tepian yang tajam di sebuah ruang tunggu stasiun kereta api di Jakarta. Dia ingin mengungkapkan sesuatu, tetapi tetap diam karena takut mengganggu orang lain. Apa yang tidak dia ungkapkan?",
         "choices": {
             "label": [
@@ -2512,7 +2512,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "c0c1a0111bf39056c48d6b5877247c77",
+        "id": "adapt_ind_c0c1a0111bf39056c48d6b5877247c77",
         "question": "Di stadion sepak bola kota mana tim yang memenangkan Piala Presiden Indonesia pada tahun 2016 bermain?",
         "choices": {
             "label": [
@@ -2534,7 +2534,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "f73032836e6a82c3364131c057fe3411",
+        "id": "adapt_ind_f73032836e6a82c3364131c057fe3411",
         "question": "Apa yang bisa menjadi contoh dari kondominium?",
         "choices": {
             "label": [
@@ -2556,7 +2556,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "ab3c9e63a6533e9b769d613945d0eaaa",
+        "id": "adapt_ind_ab3c9e63a6533e9b769d613945d0eaaa",
         "question": "Denny tidak bisa menemukan novel yang diinginkannya di toko buku lokal atau toko-toko lain di sekitarnya, jadi dia memutuskan untuk mengemudi ke mana untuk mencarinya?",
         "choices": {
             "label": [
@@ -2578,7 +2578,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "3c26098ec2326c220b979859b1c6add5",
+        "id": "adapt_ind_3c26098ec2326c220b979859b1c6add5",
         "question": "Di mana tetangga terdekat Anda tinggal?",
         "choices": {
             "label": [
@@ -2600,7 +2600,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "a2a494e28e0a2d86677d07ef57fcbf20",
+        "id": "adapt_ind_a2a494e28e0a2d86677d07ef57fcbf20",
         "question": "Ahmad terbangun di kamarnya. Kepalanya berdenyut karena minuman keras yang ia konsumsi tadi malam, namun ia memiliki pekerjaan yang harus diselesaikan dan bertekad untuk menyelesaikannya. Apa yang pertama kali dia lakukan?",
         "choices": {
             "label": [
@@ -2622,7 +2622,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "67cf5df15145ba7612c75b9a6be321b3",
+        "id": "adapt_ind_67cf5df15145ba7612c75b9a6be321b3",
         "question": "Bagaimana seorang pengacara dapat membantu dalam memperoleh aset di Indonesia?",
         "choices": {
             "label": [
@@ -2644,7 +2644,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "c0c1bf18eaba41cafe2951559f5df14d",
+        "id": "adapt_ind_c0c1bf18eaba41cafe2951559f5df14d",
         "question": "Saat memandang bintang-bintang, Andi merasa ingin mengunjunginya, terbang ke mana?",
         "choices": {
             "label": [
@@ -2666,7 +2666,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "a086e49b7864619b40e2b96e4463ca03_1",
+        "id": "adapt_ind_a086e49b7864619b40e2b96e4463ca03_1",
         "question": "Kuda itu ingin merumput, ke mana ia perlu pergi?",
         "choices": {
             "label": [
@@ -2688,7 +2688,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "cc07972c47c3b286816d04098c6e91b7",
+        "id": "adapt_ind_cc07972c47c3b286816d04098c6e91b7",
         "question": "Budi menaruh gelasnya di meja batik. Ketika dia hendak meletakkan cangkirnya di atas meja, dia menyadari sesuatu. Apa yang mungkin dia sadari?",
         "choices": {
             "label": [
@@ -2710,7 +2710,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "43f14d9b1977885dcd49ec37cb74758d",
+        "id": "adapt_ind_43f14d9b1977885dcd49ec37cb74758d",
         "question": "Masih banyak spesies kadal yang belum ditemukan di hutan, terutama di pulau apa di Indonesia?",
         "choices": {
             "label": [
@@ -2732,7 +2732,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "dc5e1e5d196820aef741368274ac348f",
+        "id": "adapt_ind_dc5e1e5d196820aef741368274ac348f",
         "question": "Para pengacara memasuki gedung pengadilan di Jakarta, di provinsi mana mereka berada?",
         "choices": {
             "label": [
@@ -2754,7 +2754,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "f632b32d5114ee2d9e38e9b9c7a63bae",
+        "id": "adapt_ind_f632b32d5114ee2d9e38e9b9c7a63bae",
         "question": "Ahmad perlu bersiap-siap untuk pergi bekerja sehingga ia mengenakan celana jeans yang baru saja dicuci. Di mana ia kemungkinan berada saat mengenakan celana jeansnya?",
         "choices": {
             "label": [
@@ -2776,7 +2776,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "8fbcbe465ff2a48bc15afbd81e353283",
+        "id": "adapt_ind_8fbcbe465ff2a48bc15afbd81e353283",
         "question": "Sudah sangat malam dan Rudi perlu membersihkan barang-barang yang menutupi apa?",
         "choices": {
             "label": [
@@ -2798,7 +2798,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "e800f7dd1170be4d1ba1debcfa68739c",
+        "id": "adapt_ind_e800f7dd1170be4d1ba1debcfa68739c",
         "question": "Dia membawa payung untuk kunjungan ke pantai setelah pertemuan bisnis, di mana dia menyimpannya?",
         "choices": {
             "label": [
@@ -2820,7 +2820,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "34ba43dba5de2ef7df1fd1e7bb003568",
+        "id": "adapt_ind_34ba43dba5de2ef7df1fd1e7bb003568",
         "question": "Apa yang dilakukan oleh seseorang yang bersalah di ruang sidang di Indonesia?",
         "choices": {
             "label": [
@@ -2842,7 +2842,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "906bcca9852bc7f0bb9e271af9b24897",
+        "id": "adapt_ind_906bcca9852bc7f0bb9e271af9b24897",
         "question": "Hari itu sangat panas dan mereka semua ingin merasakan kesegaran air. Budi mendaki ke atas. Apa yang mungkin dilakukan Budi?",
         "choices": {
             "label": [
@@ -2864,7 +2864,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "cb2657f4073a4a2950f6303c8297960a",
+        "id": "adapt_ind_cb2657f4073a4a2950f6303c8297960a",
         "question": "Siti duduk terlalu dekat dengan sumur orkestra dan tidak bisa mendengar apa pun dari panggung. Dia sangat kecewa karena arsitek tidak memikirkan di mana harus menempatkan tempat duduknya. Apa nama tempat tersebut?",
         "choices": {
             "label": [
@@ -2886,7 +2886,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "b399eb649f8b4a5405a20ed862d1f698",
+        "id": "adapt_ind_b399eb649f8b4a5405a20ed862d1f698",
         "question": "Pesawat luar angkasa itu terjebak di dekat planet, apa yang membuatnya terjebak?",
         "choices": {
             "label": [
@@ -2908,7 +2908,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "76a0c2bb61952d0a9c726f857d866135",
+        "id": "adapt_ind_76a0c2bb61952d0a9c726f857d866135",
         "question": "Budi ingin mendapatkan wortel paling segar dengan harga terendah, dia harus pergi ke mana?",
         "choices": {
             "label": [
@@ -2930,7 +2930,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "4023b99af4927af5f89a50e5b1fa3b75",
+        "id": "adapt_ind_4023b99af4927af5f89a50e5b1fa3b75",
         "question": "Tindakan Budi buruk, tetapi menyiksanya karena itu sekarang apa?",
         "choices": {
             "label": [
@@ -2952,7 +2952,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "9f090f5d97084f7fe8394386e182443d",
+        "id": "adapt_ind_9f090f5d97084f7fe8394386e182443d",
         "question": "Andi berusaha menjaga lantai rumahnya sebaik mungkin, tetapi air merembes masuk menyebabkan lantai tersebut menjadi apa?",
         "choices": {
             "label": [
@@ -2974,7 +2974,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "653d0ef659899c4dc028a811e2b2b32c",
+        "id": "adapt_ind_653d0ef659899c4dc028a811e2b2b32c",
         "question": "Budi melihat ke atas saat sedang memotong rumput di halamannya dan melihat burung-burung sedang bersarang. Di mana burung-burung tersebut mungkin bersarang?",
         "choices": {
             "label": [
@@ -2996,7 +2996,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "4e94dffb2f364b99d6ab323f35396992",
+        "id": "adapt_ind_4e94dffb2f364b99d6ab323f35396992",
         "question": "Harimau Sumatera adalah salah satu dari banyak bahaya di mana?",
         "choices": {
             "label": [
@@ -3018,7 +3018,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "51f9903c8635c9b9eb4c62a6119133ed",
+        "id": "adapt_ind_51f9903c8635c9b9eb4c62a6119133ed",
         "question": "Sebuah butiran debu vulkanik dengan jutaan temannya dan angin dapat menyebabkan berbagai masalah, ini disebut apa?",
         "choices": {
             "label": [
@@ -3040,7 +3040,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "0aa87bbecdbad374acc1cc40d80a1641",
+        "id": "adapt_ind_0aa87bbecdbad374acc1cc40d80a1641",
         "question": "Siti sedang menjawab pertanyaan Johan dengan jujur. Dia menikmati kegiatan apa?",
         "choices": {
             "label": [
@@ -3062,7 +3062,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "3c46d1d50b0900e7c9d3e6121cecaae2",
+        "id": "adapt_ind_3c46d1d50b0900e7c9d3e6121cecaae2",
         "question": "Di mana sebagian besar bankir bekerja di Indonesia?",
         "choices": {
             "label": [
@@ -3084,7 +3084,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "590bf9fa97a3d5791c85767e25302c04",
+        "id": "adapt_ind_590bf9fa97a3d5791c85767e25302c04",
         "question": "Budi menaruh emas di timbangan, di mana Budi kemungkinan bekerja?",
         "choices": {
             "label": [
@@ -3106,7 +3106,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "e5febe99cbd3635a14688e0a0c89fae4",
+        "id": "adapt_ind_e5febe99cbd3635a14688e0a0c89fae4",
         "question": "Di mana seseorang kemungkinan besar akan berpartisipasi dalam penggalian situs kuno Majapahit?",
         "choices": {
             "label": [
@@ -3128,7 +3128,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "a4bc3a9d50055ea3004a86ff29816837",
+        "id": "adapt_ind_a4bc3a9d50055ea3004a86ff29816837",
         "question": "Di mana Anda mungkin menemukan pusat perbelanjaan berderet di Indonesia?",
         "choices": {
             "label": [
@@ -3150,7 +3150,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "0870ee9e3a47c384a484ae7cdc0a9d48",
+        "id": "adapt_ind_0870ee9e3a47c384a484ae7cdc0a9d48",
         "question": "Di mana Anda dapat menemukan pohon cengkeh yang terkenal?",
         "choices": {
             "label": [
@@ -3172,7 +3172,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "04e5f0a58c749ecc4f452a21fd94dc47",
+        "id": "adapt_ind_04e5f0a58c749ecc4f452a21fd94dc47",
         "question": "Dodi sedang bermain di lubang ke-18 dekat Krispy Kreme di Indonesia dan dia kehilangan bolanya. Dia mencari di ranselnya untuk pengganti dan mendapatkan ide yang buruk. Ada suara gemerisik yang membuat pemain lain sadar ada yang tidak beres, dan bola daruratnya tidak terlalu jauh. Apa yang dia gunakan sebagai bola?",
         "choices": {
             "label": [
@@ -3194,7 +3194,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "016324203f91f22d936eaa74773b4460",
+        "id": "adapt_ind_016324203f91f22d936eaa74773b4460",
         "question": "Ahmad mendapatkan pakaian untuk Hari Raya Idul Fitri. Dia melipatnya dengan hati-hati dan menaruhnya di suatu tempat. Di mana kira-kira dia bisa menaruhnya?",
         "choices": {
             "label": [
@@ -3216,7 +3216,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "b693fc52a837fb99c79480ceaa2401f8",
+        "id": "adapt_ind_b693fc52a837fb99c79480ceaa2401f8",
         "question": "Elang Jawa terbang ke udara tanpa menggepakkan sayapnya, apa yang dimanfaatkannya?",
         "choices": {
             "label": [
@@ -3238,7 +3238,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "c5dbe48097fb33ddd77d6aea77d983e7",
+        "id": "adapt_ind_c5dbe48097fb33ddd77d6aea77d983e7",
         "question": "Di mana Anda masih bisa menemukan bilik telepon umum di Indonesia?",
         "choices": {
             "label": [
@@ -3260,7 +3260,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "35d68bb6b9ec00475237433394156bc8",
+        "id": "adapt_ind_35d68bb6b9ec00475237433394156bc8",
         "question": "Di mana Anda pergi untuk melihat Patung Garuda Wisnu Kencana?",
         "choices": {
             "label": [
@@ -3282,7 +3282,7 @@
         "answer_creator": "E"
     },
     {
-        "id": "1310d3f4595280be53d11501c4d488c1",
+        "id": "adapt_ind_1310d3f4595280be53d11501c4d488c1",
         "question": "Andi tidak peduli apa yang saya lakukan padanya. Yang dia inginkan hanyalah tahu bahwa saya sedang berusaha membantu memperbaiki apa yang saya sebabkan rusak. Tapi tidak mudah melakukan apa terhadap itu?",
         "choices": {
             "label": [
@@ -3304,7 +3304,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "5f8101c2b7ce5a57bd4d267b841e8444",
+        "id": "adapt_ind_5f8101c2b7ce5a57bd4d267b841e8444",
         "question": "Dia ingin memamerkan taman depan rumahnya kepada semua orang, jadi di mana dia menempatkannya?",
         "choices": {
             "label": [
@@ -3326,7 +3326,7 @@
         "answer_creator": "A"
     },
     {
-        "id": "2ac0c61b6c04de3f8c3cf5dc23501ab5",
+        "id": "adapt_ind_2ac0c61b6c04de3f8c3cf5dc23501ab5",
         "question": "Rina tidak pandai berbohong. Dia memiliki ciri khas yang jelas. Setiap kali dia berbohong, wajahnya akan melakukan apa?",
         "choices": {
             "label": [
@@ -3348,7 +3348,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "eda022d48cfb59230b21c8d632feb17f",
+        "id": "adapt_ind_eda022d48cfb59230b21c8d632feb17f",
         "question": "Budi sedang duduk dengan tenang setelah kelas selesai. Dia adalah satu-satunya orang yang mendapat hukuman tambahan. Dia menikmati sesuatu tentang situasi ini. Apa yang mungkin dia nikmati tentang situasinya?",
         "choices": {
             "label": [
@@ -3370,7 +3370,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "2993d9aa7f3a164ec890187970fc3a97",
+        "id": "adapt_ind_2993d9aa7f3a164ec890187970fc3a97",
         "question": "Apa jenis perabot rumah yang sering rusak oleh musang tanah di Indonesia?",
         "choices": {
             "label": [
@@ -3392,7 +3392,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "f56437a35e05a6c80918c8550d066c71",
+        "id": "adapt_ind_f56437a35e05a6c80918c8550d066c71",
         "question": "Budi pindah ke tempat baru dan harus menggali sumur agar dia memiliki air. Di mana mungkin dia tinggal?",
         "choices": {
             "label": [
@@ -3414,7 +3414,7 @@
         "answer_creator": "C"
     },
     {
-        "id": "9677d15134e8bdef90c16e91f9a67696",
+        "id": "adapt_ind_9677d15134e8bdef90c16e91f9a67696",
         "question": "Budi ingin bawang merah tetapi Siti tidak ingin sama sekali. Karena itu, mereka membagi apa menjadi dua bagian?",
         "choices": {
             "label": [
@@ -3436,7 +3436,7 @@
         "answer_creator": "B"
     },
     {
-        "id": "b5406e7a0fbaa7b8ee42fd256c7636a5",
+        "id": "adapt_ind_b5406e7a0fbaa7b8ee42fd256c7636a5",
         "question": "Di mana jalan kabupaten di Indonesia kemungkinan besar akan melintasi?",
         "choices": {
             "label": [
@@ -3458,7 +3458,7 @@
         "answer_creator": "D"
     },
     {
-        "id": "27a3f39930a7383a9723897eb0e88f20",
+        "id": "adapt_ind_27a3f39930a7383a9723897eb0e88f20",
         "question": "Joko si musang adalah musang peliharaan dari sebuah Taman Kanak-kanak. Dia suka masuk ke tempat-tempat yang seharusnya tidak dia masuki. Suatu hari, musang itu hilang dan seluruh sekolah mencarinya. Pak Budi merasakan sesuatu merayap naik ke kakinya dan berhenti di sekitar area pribadinya. Pak Budi sama sekali tidak menyukai ini. Di mana musang itu?",
         "choices": {
             "label": [
