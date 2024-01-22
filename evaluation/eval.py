@@ -63,8 +63,8 @@ def extract_data_info(dataset_filename):
     return data_name, lang
 
 
-def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_metrics, version, prompt_type, is_3_shot):
-    filename = 'eval_results/evaluation_metrics.csv' if not is_3_shot else 'eval_results/evaluation_metrics_3-shot.csv'
+def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_metrics, version, prompt_type, out_name):
+    filename = f'eval_results/{out_name}'
     file_exists = os.path.exists(filename)
 
     with open(filename, mode='a', newline='', encoding='utf-8') as file:
@@ -148,7 +148,7 @@ def main(args):
         evaluation_metrics,
         args.history_version,
         args.prompt_type,
-        args.few_shot
+        args.out_name
     )
 
 
@@ -156,6 +156,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", help="name of the model to be tested", required=True, type=str)
     parser.add_argument("--dataset_path", help="path to the testing dataset", required=True, type=str)
+    parser.add_argument("--out_name", help="file name of the evaluation output", required=True, type=str)
     parser.add_argument("--gold_key", help="key for gold answer", required=True, type=str)
     parser.add_argument("--history_version", help="history file version (only for GPT models)", required=False, type=str)
     parser.add_argument("--batch_size", help="eval batch size", required=True, type=int)
