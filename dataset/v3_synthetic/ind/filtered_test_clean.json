@@ -1,0 +1,3302 @@
+[
+    {
+        "id": "orig_m_ind_09e6e12eab9c47c58b2a537e87b90e27",
+        "question": "Apa fungsi utama angkot di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Transportasi umum",
+                "Pengiriman barang",
+                "Wisata kota",
+                "Restoran berjalan",
+                "Pusat kebugaran"
+            ]
+        },
+        "question_concept": "angkot",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_fe4cc3c2e9d34728a218d125c9c0c554",
+        "question": "Angkutan umum apa yang sering digunakan untuk perjalanan jarak jauh antarkota di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Becak",
+                "Bus",
+                "Sepeda",
+                "Kereta api",
+                "Pesawat terbang"
+            ]
+        },
+        "question_concept": "angkutan umum",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_d5d4f815763e40ac9eabf64f718ae4a9",
+        "question": "Apa yang biasanya terdapat di dalam sebuah danau?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kerangka bangunan",
+                "Air dan kehidupan akuatik",
+                "Kendaraan bermotor",
+                "Perabotan rumah tangga",
+                "Peralatan olahraga"
+            ]
+        },
+        "question_concept": "danau",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_c1481fce2d3d4d349e270a757957d210",
+        "question": "Apa yang biasanya dilakukan anak-anak di halaman rumah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membaca buku perpustakaan",
+                "Bermain bola atau permainan lainnya",
+                "Menunggu bus umum",
+                "Membeli tiket pesawat",
+                "Mengadakan pertemuan bisnis"
+            ]
+        },
+        "question_concept": "halaman",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_e80baedb37724946976606c0c74dd04a",
+        "question": "Apa fungsi utama dari halte bus?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai tempat tinggal sementara",
+                "Sebagai tempat untuk membeli makanan",
+                "Sebagai tempat menunggu kedatangan bus",
+                "Sebagai tempat untuk berolahraga",
+                "Sebagai tempat pertunjukan musik"
+            ]
+        },
+        "question_concept": "halte",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_740aeb0d64fa4c4697d86c7290098f32",
+        "question": "Apa yang biasanya dilindungi di dalam area hutan konservasi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Gedung perkantoran",
+                "Kendaraan bermotor",
+                "Flora dan fauna liar",
+                "Pusat perbelanjaan",
+                "Lapangan sepak bola"
+            ]
+        },
+        "question_concept": "hutan",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_45e5b01874c84baba383f594067457a9",
+        "question": "Siapa yang biasanya tinggal di Istana Presiden Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menteri",
+                "Duta besar",
+                "Presiden",
+                "Gubernur",
+                "Walikota"
+            ]
+        },
+        "question_concept": "istana presiden",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_e1c5396cd1fd4b2793a6ab6d80e78a00",
+        "question": "Di manakah Jaklingko biasanya ditemukan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di perpustakaan",
+                "Di terminal bus",
+                "Di rumah sakit",
+                "Di sekolah",
+                "Di pusat perbelanjaan"
+            ]
+        },
+        "question_concept": "jaklingko",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_66d540c3ab414c56b4741acb0481ea60",
+        "question": "Apa yang biasanya orang lakukan di bukit pada waktu sore hari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Berbelanja",
+                "Berenang",
+                "Bersepeda",
+                "Memanjat",
+                "Menikmati pemandangan"
+            ]
+        },
+        "question_concept": "bukit",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_86e0c192f7074b9c8fe749b224db7ac7",
+        "question": "Untuk apa kamar biasanya digunakan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk memasak",
+                "Untuk makan",
+                "Untuk tidur",
+                "Untuk berkebun",
+                "Untuk berenang"
+            ]
+        },
+        "question_concept": "kamar",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_2ce8546265ee44229b81628206afe9a3",
+        "question": "Di mana pengendara harus berhenti ketika lampu merah menyala?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di lantai dansa",
+                "Di laboratorium",
+                "Di persimpangan jalan",
+                "Di kuburan",
+                "Di lapangan berkuda"
+            ]
+        },
+        "question_concept": "lampu merah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_6c753773fe0d461393fa2f0cbdf8d2e8",
+        "question": "Untuk apa orang biasanya pergi ke panti pijat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membeli sayuran",
+                "Memijat dan relaksasi",
+                "Menyimpan barang berharga",
+                "Menonton film",
+                "Berolahraga"
+            ]
+        },
+        "question_concept": "panti pijat",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_a408507c8c00449b9b4786f633531e00",
+        "question": "Mengapa jembatan penyebrangan dibangun di atas jalan raya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk mempercantik kota",
+                "Untuk tempat berjualan",
+                "Untuk menghubungkan dua gedung",
+                "Untuk memudahkan pejalan kaki menyeberang",
+                "Untuk menjadi tempat wisata"
+            ]
+        },
+        "question_concept": "jembatan penyebrangan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_204148722ef64797a317d428a83b42ce",
+        "question": "Apa yang biasanya bisa kamu lakukan di kafe?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Berolahraga",
+                "Belajar",
+                "Berenang",
+                "Berbelanja",
+                "Makan dan minum"
+            ]
+        },
+        "question_concept": "kafe",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_ba1a387c0d2d4524974e53712917e57a",
+        "question": "Apa yang biasanya ditemukan di area parkiran?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kendaraan yang diparkir",
+                "Penjual makanan",
+                "Pertunjukan seni",
+                "Pijat refleksi",
+                "Transaksi jual beli emas"
+            ]
+        },
+        "question_concept": "parkiran",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_90d5850fbe664c2cbeae12ab18433c4b",
+        "question": "Di mana kapal laut biasanya bersandar ketika tidak sedang berlayar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bandara",
+                "Stasiun kereta",
+                "Pelabuhan",
+                "Terminal bus",
+                "Garasi"
+            ]
+        },
+        "question_concept": "kapal laut",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_5fe250e2ee20481aa7906a8aa4689080",
+        "question": "Di mana biasanya orang mengunjungi kuburan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di pusat perbelanjaan",
+                "Di taman kota",
+                "Di dekat area pemakaman",
+                "Di dalam laboratorium",
+                "Di lapangan berkuda"
+            ]
+        },
+        "question_concept": "kuburan",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_51a896b23f9542cead915fcbb0b474ea",
+        "question": "Di mana biasanya lapangan bola ditemukan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di dalam ruangan",
+                "Di pusat perbelanjaan",
+                "Di area sekolah atau komunitas",
+                "Di kamar mandi",
+                "Di dapur"
+            ]
+        },
+        "question_concept": "lapangan bola",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_899f038fb99b46a6b55492b53b114f40",
+        "question": "Untuk apa biasanya ruang laktasi disediakan di tempat umum?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Makan siang",
+                "Pertemuan bisnis",
+                "Pameran seni",
+                "Memberi makan bayi",
+                "Menyimpan barang"
+            ]
+        },
+        "question_concept": "ruang laktasi",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_e50bed9583f3473796ea066ed5ab9c78",
+        "question": "Kegiatan apa yang sering dilakukan di stadion?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Berbelanja",
+                "Olahraga",
+                "Belajar",
+                "Berkebun",
+                "Memancing"
+            ]
+        },
+        "question_concept": "stadion",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_a387bb815efc495e89c945ad358f9b14",
+        "question": "Apa yang biasanya dijual di supermarket?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mobil",
+                "Pakaian",
+                "Buku",
+                "Obat-obatan",
+                "Bahan makanan"
+            ]
+        },
+        "question_concept": "supermarket",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_3c7c82be77684b07a2115a3cc352d10f",
+        "question": "Apa yang biasanya dijual di warung?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pakaian",
+                "Makanan dan minuman",
+                "Mobil",
+                "Perabotan rumah",
+                "Jasa keuangan"
+            ]
+        },
+        "question_concept": "warung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_83a7538b3ce44d4dbd242da09ad2e6b1",
+        "question": "Untuk apa warung tenda biasanya digunakan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai tempat tinggal sementara",
+                "Sebagai tempat penyimpanan barang",
+                "Sebagai tempat menjual makanan dan minuman",
+                "Sebagai kantor pos",
+                "Sebagai galeri seni"
+            ]
+        },
+        "question_concept": "warung tenda",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_5b9bc4382c7749999ec80b40840aee97",
+        "question": "Untuk apa biasanya orang pulang ke rumah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Belajar",
+                "Berbelanja",
+                "Beristirahat",
+                "Berolahraga",
+                "Bekerja"
+            ]
+        },
+        "question_concept": "rumah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_3d51a377205e4a55bb35f50c2b568818",
+        "question": "Di mana biasanya orang dapat menemukan sofa untuk duduk dan bersantai?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pasar",
+                "Rumah sakit",
+                "Taman kota",
+                "Rumah",
+                "Pantai"
+            ]
+        },
+        "question_concept": "sofa",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_bef54ff5e5ba4d899ebd0f194312182d",
+        "question": "Apa fungsi utama stasiun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pemberhentian kereta",
+                "Pusat perbelanjaan",
+                "Penginapan",
+                "Restoran",
+                "Perpustakaan"
+            ]
+        },
+        "question_concept": "stasiun",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_e7143e1281e041b2945d6198b13ba1f8",
+        "question": "Apa yang biasanya kamu lakukan di taman pada saat cuaca cerah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bermain bola",
+                "Berbelanja",
+                "Menonton film",
+                "Berenang",
+                "Berjemur"
+            ]
+        },
+        "question_concept": "taman",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_6b874597e28c4092b7a40a40aaf49c8f",
+        "question": "Di manakah tenda biasanya didirikan ketika ada acara di luar ruangan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di dalam ruangan",
+                "Di atas gedung",
+                "Di taman atau lapangan terbuka",
+                "Di bawah tanah",
+                "Di dalam air"
+            ]
+        },
+        "question_concept": "tenda",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_495fd6edc00c48e18f4bd8c3b6d9fafb",
+        "question": "Di mana kamu biasanya menemukan toilet umum?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Perpustakaan",
+                "Taman",
+                "Restoran",
+                "Gym",
+                "Sawah"
+            ]
+        },
+        "question_concept": "toilet",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_3c65215d0f9b42dcadc7b5ec6663898e",
+        "question": "Apa yang membuat Yogyakarta terkenal sebagai tempat wisata?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pusat perbelanjaan modern",
+                "Kehidupan malam yang ramai",
+                "Sejarah dan budaya yang kaya",
+                "Industri teknologi tinggi",
+                "Pusat keuangan internasional"
+            ]
+        },
+        "question_concept": "yogyakarta",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_44c5714f63884cb9aeeb63671390c37f",
+        "question": "Agama apa yang mengharuskan umatnya berpuasa sebulan penuh?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Hindu",
+                "Buddha",
+                "Islam",
+                "Kristen",
+                "Konghucu"
+            ]
+        },
+        "question_concept": "agama",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_f201df21c96e4d73be57fa607d88824f",
+        "question": "Apa peran biksu dalam masyarakat Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai pelatih olahraga",
+                "Sebagai pemimpin spiritual umat Buddha",
+                "Sebagai konsultan teknologi",
+                "Sebagai seniman musik",
+                "Sebagai ahli ekonomi"
+            ]
+        },
+        "question_concept": "biksu",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_3ca342356a75486182f8e0892d3caca9",
+        "question": "Apa yang dimaksud dengan 'darah' dalam konteks kekerabatan masyarakat Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebuah zat yang mengalir dalam tubuh manusia",
+                "Simbol dari kekuatan mistis",
+                "Ikatan biologis antara anggota keluarga",
+                "Jenis makanan tradisional",
+                "Nama lain dari sebuah suku di Indonesia"
+            ]
+        },
+        "question_concept": "darah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_dbebf39116a848218144a1ef25173f4e",
+        "question": "Apa tujuan utama gerakan feminis di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Meningkatkan kesadaran politik",
+                "Memperjuangkan kesetaraan gender",
+                "Mengurangi polusi lingkungan",
+                "Meningkatkan pendapatan nasional",
+                "Memajukan industri teknologi"
+            ]
+        },
+        "question_concept": "feminis",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_4186f2c9671c42a886ec68f109931512",
+        "question": "Apa yang dimaksud dengan 'karya' dalam konteks seni dan budaya Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebuah pertunjukan musik",
+                "Sebuah pameran seni",
+                "Sebuah ciptaan atau hasil kreativitas",
+                "Sebuah kompetisi tari",
+                "Sebuah festival kuliner"
+            ]
+        },
+        "question_concept": "karya",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_fc6151ce538d4a0cbbc71b278f1ac1e4",
+        "question": "Apa itu 'pingit' dalam konteks budaya Jawa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Upacara pernikahan",
+                "Masa menjelang kelahiran",
+                "Masa pendidikan tradisional",
+                "Masa sebelum pernikahan di mana pengantin wanita diisolasi",
+                "Periode berduka setelah kematian"
+            ]
+        },
+        "question_concept": "pingit",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_949ba8fa7e724fc49419b7693940211d",
+        "question": "Alat musik angklung berasal dari daerah mana di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sumatera",
+                "Kalimantan",
+                "Jawa Barat",
+                "Sulawesi",
+                "Papua"
+            ]
+        },
+        "question_concept": "angklung",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_c8a856e6bb67400caae59fdf9f75b2ab",
+        "question": "Apa arti dari simbol api bagi umat Hindu di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kekuatan",
+                "Kemakmuran",
+                "Kehidupan",
+                "Kematian",
+                "Kesucian"
+            ]
+        },
+        "question_concept": "api",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_7a01297c59a64cccae25a225244b26a1",
+        "question": "Film Indonesia apa yang berhasil memenangkan penghargaan internasional?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sang Pemimpi",
+                "Suster Ngesot",
+                "Marlina si Pembunuh dalam Empat Babak",
+                "Ada Apa dengan Cinta?",
+                "Warkop DKI Reborn"
+            ]
+        },
+        "question_concept": "film",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_41970935d38844828e282d1209074aba",
+        "question": "Mengapa mandi sebelum salat Jumat dianggap penting dalam budaya Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk menghemat air",
+                "Karena air memiliki sifat magis",
+                "Sebagai bentuk penghormatan dan kebersihan diri",
+                "Untuk menghindari hujan saat sholat",
+                "Karena itu adalah perintah dari raja"
+            ]
+        },
+        "question_concept": "mandi",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_666f1fd24be5448d97b6cd2d46f94518",
+        "question": "Apa yang menjadi ciri khas dari budaya Minang yang terkenal di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pakaian adat yang berwarna-warni",
+                "Tarian tradisional yang dinamis",
+                "Rumah adat yang disebut 'Joglo'",
+                "Masakan yang kaya akan rempah, seperti rendang",
+                "Bahasa daerah yang digunakan sehari-hari"
+            ]
+        },
+        "question_concept": "minang",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_85647fdfecf64a18ae3ae78f9fb82740",
+        "question": "Bagaimana kearifan lokal dapat membantu pelestarian lingkungan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dengan memanfaatkan teknologi modern",
+                "Melalui penerapan hukum internasional",
+                "Dengan mengadopsi praktik tradisional yang berkelanjutan",
+                "Melalui pendidikan formal di sekolah",
+                "Dengan mengabaikan perubahan iklim"
+            ]
+        },
+        "question_concept": "kearifan lokal",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_472a70a1b12d466ab4676ff298c2101a",
+        "question": "Apa fungsi kebaya dalam budaya Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai pakaian sehari-hari",
+                "Sebagai pakaian adat untuk upacara dan perayaan",
+                "Sebagai seragam sekolah",
+                "Sebagai kostum olahraga",
+                "Sebagai pakaian resmi pemerintahan"
+            ]
+        },
+        "question_concept": "kebaya",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_a6957b8fda83465783c17313cf4d1b93",
+        "question": "Apa fungsi klenteng bagi masyarakat Tionghoa-Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai tempat pendidikan",
+                "Sebagai pasar tradisional",
+                "Sebagai tempat tinggal",
+                "Sebagai tempat ibadah dan perayaan keagamaan",
+                "Sebagai gedung pertunjukan seni"
+            ]
+        },
+        "question_concept": "klenteng",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_51baa2bbca724e2da5a8501c0d94069a",
+        "question": "Apa tujuan utama dari kompetisi dalam konteks budaya Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk memperingati hari besar nasional",
+                "Untuk menyelesaikan konflik",
+                "Untuk mengukur kemampuan atau keterampilan dalam suatu bidang",
+                "Untuk merayakan hari jadi seseorang",
+                "Untuk melakukan transaksi jual beli"
+            ]
+        },
+        "question_concept": "kompetisi",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_e6b4c8fbd12f4ee9a182856390833e5c",
+        "question": "Apa kesenian Indonesia yang biasanya dihasilkan dengan menggunakan kuas?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Angklung",
+                "Sasando",
+                "Gamelan",
+                "Lukisan",
+                "Bonang"
+            ]
+        },
+        "question_concept": "kuas",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_89ea76c75d5543939911f4f85a25c210",
+        "question": "Dalam budaya Indonesia, makanan apa yang biasanya disajikan saat makan bersama keluarga di hari raya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Nasi goreng",
+                "Rendang",
+                "Pizza",
+                "Sushi",
+                "Hamburger"
+            ]
+        },
+        "question_concept": "makan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_b1a84c7946144b8197054f9e739ad09d",
+        "question": "Apa yang biasanya dilakukan oleh masyarakat Indonesia pada malam hari raya Idul Fitri?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Berziarah ke makam",
+                "Membakar petasan",
+                "Berdoa bersama di masjid",
+                "Menyanyikan lagu nasional",
+                "Bermain video game"
+            ]
+        },
+        "question_concept": "malam",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_4d78b09603ee4faa94652b0cf9262d11",
+        "question": "Bagaimana manusia dalam budaya Indonesia biasanya menunjukkan rasa hormat kepada orang yang lebih tua?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dengan memberikan hadiah mahal",
+                "Dengan menundukkan kepala",
+                "Dengan berjabat tangan",
+                "Dengan mencium tangan",
+                "Dengan berlari maraton"
+            ]
+        },
+        "question_concept": "manusia",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_244d857c0cd84ec58b305188461a1863",
+        "question": "Untuk apa umat Islam menggunakan masjid?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Berbelanja",
+                "Beribadah",
+                "Berenang",
+                "Makan",
+                "Bermain sepak bola"
+            ]
+        },
+        "question_concept": "masjid",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_b95dba81048c4c71b5ce3503ab12b045",
+        "question": "Apa yang biasanya dilakukan saat upacara memperingati kemerdekaan Indonesia dengan membakar dupa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menyanyi",
+                "Menari",
+                "Berdoa",
+                "Berlari",
+                "Bermain"
+            ]
+        },
+        "question_concept": "membakar",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_7ae46acf5e694dad8fb77fd159ce230a",
+        "question": "Jenis pakaian apa yang sering dikenakan dalam acara kebudayaan di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pakaian adat",
+                "Pakaian olahraga",
+                "Pakaian formal ala barat",
+                "Pakaian renang",
+                "Pakaian tidur"
+            ]
+        },
+        "question_concept": "pakaian",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_a8172f910ed6465980d56bb8613458cd",
+        "question": "Apa peran pekerjaan budayawan dalam melestarikan kebudayaan lokal di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Meningkatkan efisiensi produksi industri",
+                "Mempercepat proses urbanisasi",
+                "Mempromosikan pariwisata",
+                "Mengajarkan keterampilan dan kerajinan tradisional",
+                "Mengurangi penggunaan bahasa daerah"
+            ]
+        },
+        "question_concept": "pekerjaan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_00ae0d38d8434e7d88aecfb972335bbb",
+        "question": "Apa yang biasanya dilakukan pada rambut saat upacara potong rambut di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dibiarkan tergeletak di tanah",
+                "Dibakar sebagai tanda suci",
+                "Diberikan sebagai hadiah kepada dewa",
+                "Dijual kepada orang lain",
+                "Dipotong sebagai simbol transisi ke fase kehidupan baru"
+            ]
+        },
+        "question_concept": "rambut",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_fec5a9d22a724067a640bcce6f679b04",
+        "question": "Untuk apa umumnya selamatan dilakukan dalam budaya Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk merayakan ulang tahun",
+                "Sebagai bentuk syukuran atau doa bersama dalam acara tertentu",
+                "Untuk memperingati hari kemerdekaan",
+                "Sebagai acara pembukaan pertandingan olahraga",
+                "Untuk merayakan kelulusan sekolah"
+            ]
+        },
+        "question_concept": "selamatan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_0147d2914819479bb38f34af89b8825a",
+        "question": "Apa fungsi utama dari sebuah wihara dalam masyarakat Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai tempat ibadah umat Buddha",
+                "Sebagai tempat pendidikan",
+                "Sebagai tempat pertunjukan seni",
+                "Sebagai tempat peristirahatan",
+                "Sebagai pasar tradisional"
+            ]
+        },
+        "question_concept": "wihara",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_618dd808fe9d4296beb04e811e073655",
+        "question": "Bagaimana patriarki dapat mempengaruhi kebudayaan suatu masyarakat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dengan menekankan kesetaraan gender",
+                "Melalui peningkatan peran wanita dalam politik",
+                "Dengan mempertahankan struktur sosial yang didominasi laki-laki",
+                "Melalui penghapusan peran gender",
+                "Dengan mempromosikan pendidikan inklusif"
+            ]
+        },
+        "question_concept": "patriarki",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_bc7fcf43245d4817aa5682ff15b2ee6f",
+        "question": "Untuk apa biasanya rumah digunakan dalam kebudayaan Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sebagai tempat tinggal",
+                "Sebagai alat transportasi",
+                "Sebagai pakaian adat",
+                "Sebagai alat musik",
+                "Sebagai jenis makanan"
+            ]
+        },
+        "question_concept": "rumah",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_d4db92dfa73d4db78e791d518872f6c0",
+        "question": "Apa yang termasuk alat musik khas Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Gamelan Jawa",
+                "Angklung",
+                "Kolintang",
+                "Sasando",
+                "Gendang"
+            ]
+        },
+        "question_concept": "sunda",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_2d3d2e31d70a494baa7216147a1b1b3b",
+        "question": "Apa nama kain tenun tradisional dari Nusa Tenggara Timur yang terkenal dengan motifnya yang khas?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tenun Ikat",
+                "Songket",
+                "Batik",
+                "Ulos",
+                "Tenun Ikat Sumba"
+            ]
+        },
+        "question_concept": "tenun",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_469c5ea80f0a4f8c8877528345866f05",
+        "question": "Pada abad ke berapakah Kerajaan Majapahit mencapai puncak kejayaannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Abad ke-13",
+                "Abad ke-14",
+                "Abad ke-15",
+                "Abad ke-16",
+                "Abad ke-17"
+            ]
+        },
+        "question_concept": "abad",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_9d0f6a933ab14c6db24bb545b404efca",
+        "question": "Siapakah aktivis perempuan Indonesia yang berperan dalam emansipasi wanita dan pendidikan pada awal abad ke-20?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Cut Nyak Dien",
+                "Raden Ajeng Kartini",
+                "Raden Dewi Sartika",
+                "Tjut Njak Dhien",
+                "Martha Christina Tiahahu"
+            ]
+        },
+        "question_concept": "aktivis",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_25bcdb484cb94d99af16a2b8b24bda90",
+        "question": "Apa fungsi penting ilmu arkeologi dalam mempelajari sejarah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk memahami perkembangan teknologi modern",
+                "Untuk menemukan fosil dinosaurus",
+                "Untuk mengungkap bukti-bukti kehidupan manusia dan peradabannya di masa lalu",
+                "Untuk mempelajari struktur DNA manusia",
+                "Untuk memprediksi perubahan iklim di masa depan"
+            ]
+        },
+        "question_concept": "arkeologi",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_dde841f694be470dabfda1987e6cbe4b",
+        "question": "Bagaimana pengetahuan tentang asal usul suatu bangsa dapat mempengaruhi identitas nasional?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dapat meningkatkan kualitas pendidikan matematika",
+                "Dapat memperkuat rasa kebanggaan dan kesadaran sejarah",
+                "Dapat mempercepat pengembangan infrastruktur",
+                "Dapat menurunkan harga pasar saham",
+                "Dapat meningkatkan produksi film nasional"
+            ]
+        },
+        "question_concept": "asal usul",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_080e288d0467454c94ce2bddd7a854d3",
+        "question": "Benteng apa yang terkenal sebagai lokasi perjuangan Pangeran Diponegoro melawan penjajah Belanda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Benteng Rotterdam",
+                "Benteng Vredeburg",
+                "Benteng Marlborough",
+                "Benteng Kuto Besak",
+                "Benteng Van Den Bosch"
+            ]
+        },
+        "question_concept": "benteng",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_ef04f8cf8c824665909ab5b24fa1cf9f",
+        "question": "Cerita rakyat 'Malin Kundang' berasal dari daerah mana di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sumatera Barat",
+                "Jawa Barat",
+                "Sulawesi Selatan",
+                "Kalimantan Timur",
+                "Bali"
+            ]
+        },
+        "question_concept": "cerita",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_5fcd65e1d641435b8ff4ed481ff0601f",
+        "question": "Konferensi apa yang merupakan contoh dari pendekatan diplomatik dalam sejarah internasional untuk menyerahkan kedaulatan atas Indonesia sepenuhnya kepada Republik Indonesia Serikat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Konferensi Yalta",
+                "Konferensi Potsdam",
+                "Konferensi Meja Bundar",
+                "Konferensi Bandung",
+                "Konferensi Jenewa"
+            ]
+        },
+        "question_concept": "diplomatik",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_e77889b78ab84bb48327a1f75a7face1",
+        "question": "Hari kemerdekaan Indonesia diperingati setiap tanggal berapa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "17 Agustus",
+                "10 November",
+                "21 April",
+                "1 Juni",
+                "28 Oktober"
+            ]
+        },
+        "question_concept": "hari kemerdekaan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_5981e9d4966f458b804f43c9c9603cef",
+        "question": "Himpunan apa yang berperan penting dalam perjuangan kemerdekaan Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Himpunan Mahasiswa Islam",
+                "Himpunan Kerukunan Tani Indonesia",
+                "Himpunan Advokat Indonesia",
+                "Himpunan Wanita Karya",
+                "Himpunan Penulis Indonesia"
+            ]
+        },
+        "question_concept": "himpunan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_b3ebb25cf6ac478b8948995dad8ee6e7",
+        "question": "Dalam sejarah Indonesia, kekuasaan Presiden Soekarno terbatas setelah peristiwa apa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pembentukan MPR",
+                "Pemberontakan G30S/PKI",
+                "Supersemar",
+                "Konferensi Asia-Afrika",
+                "Pemilihan Umum 1955"
+            ]
+        },
+        "question_concept": "kekuasaan",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_d724f711232d45e9b8b971477c4f7dad",
+        "question": "Apa yang biasanya ditampilkan dalam segmen 'kilas balik' ketika membahas sejarah Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Prediksi cuaca masa depan",
+                "Peristiwa penting masa lalu",
+                "Berita terkini",
+                "Acara masak",
+                "Tips kecantikan"
+            ]
+        },
+        "question_concept": "kilas balik",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_cba743da599645c19b0137ad1e9a694b",
+        "question": "Apa fungsi komite yang sering dibentuk dalam rangka penyelidikan sejarah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mengadakan pesta",
+                "Mempromosikan produk",
+                "Melakukan investigasi dan penelitian",
+                "Mengajar di sekolah",
+                "Melakukan kegiatan seni"
+            ]
+        },
+        "question_concept": "komite",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_27a68e7ebefb46ed9c67ff85a6e5c5d0",
+        "question": "Bagaimana kronologi terjadinya peristiwa Sumpah Pemuda dalam sejarah Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pertemuan pemuda, pembacaan teks, penandatanganan sumpah",
+                "Penandatanganan sumpah, pertemuan pemuda, pembacaan teks",
+                "Pembacaan teks, penandatanganan sumpah, pertemuan pemuda",
+                "Pertemuan pemuda, penandatanganan sumpah, pembacaan teks",
+                "Penandatanganan sumpah, pembacaan teks, pertemuan pemuda"
+            ]
+        },
+        "question_concept": "kronologi",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_c1fed55907704216980d767639656bff",
+        "question": "Lembaga apa yang bertugas untuk mengkaji dan memelihara nilai-nilai sejarah nasional Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Lembaga Ilmu Pengetahuan Indonesia (LIPI)",
+                "Lembaga Pendidikan Indonesia (LPI)",
+                "Lembaga Sejarah Nasional Indonesia (LSNI)",
+                "Arsip Nasional Republik Indonesia (ANRI)",
+                "Badan Pelestarian Peninggalan Purbakala (BP3)"
+            ]
+        },
+        "question_concept": "lembaga",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_742de6351bfe4db7ab3821268702c0c7",
+        "question": "Bagaimana masyarakat Indonesia pada masa lalu mempertahankan catatan sejarah mereka?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Melalui lisan dari generasi ke generasi",
+                "Hanya melalui tulisan di buku sejarah",
+                "Menggunakan simbol dan tanda yang diukir di batu",
+                "Melalui media sosial dan internet",
+                "Tidak mempertahankan catatan sejarah sama sekali"
+            ]
+        },
+        "question_concept": "masyarakat",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_1794198f08984c33a6f5ba1f2dcc3e5a",
+        "question": "Dalam sejarah Indonesia, kapan militer Indonesia (TNI) pertama kali terbentuk?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Setelah kemerdekaan Indonesia",
+                "Sebelum kemerdekaan Indonesia",
+                "Pada masa Hindia Belanda",
+                "Pada masa kerajaan-kerajaan Nusantara",
+                "Setelah reformasi 1998"
+            ]
+        },
+        "question_concept": "militer",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_cdbd96c942054effb8d5163e5aa72d98",
+        "question": "Dalam konteks pemerintahan, otoritas biasanya dipegang oleh?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pemimpin agama",
+                "Pengusaha",
+                "Pejabat pemerintah",
+                "Organisasi non-pemerintah",
+                "Warga negara biasa"
+            ]
+        },
+        "question_concept": "otoritas",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_50b4b2e107fe4e2abe2fdcb9c1fca5e6",
+        "question": "Wilayah mana yang menjadi bagian dari Indonesia pada tahun 1969 setelah Penentuan Pendapat Rakyat (Pepera) yang dikenal dengan nama Papua?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sumatra",
+                "Kalimantan",
+                "Sulawesi",
+                "Papua",
+                "Jawa"
+            ]
+        },
+        "question_concept": "papua",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_c8d229a1b53a4e7ea00b2bad587e8cae",
+        "question": "Apa nama pasukan khusus yang dibentuk oleh Presiden Soekarno pada tahun 1962 untuk mempersiapkan operasi militer di Papua?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kopassus",
+                "Kostrad",
+                "Pasukan Komando Mandala",
+                "Pasukan Katak",
+                "Pasukan Khusus"
+            ]
+        },
+        "question_concept": "pasukan",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_ee1a1c0de14247799767805fe3181248",
+        "question": "Pendokumentasian peristiwa sejarah Indonesia yang dilakukan oleh pemerintah melalui film Pengkhianatan G30S/PKI bertujuan untuk?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menghibur masyarakat",
+                "Mengedukasi masyarakat tentang bahaya komunisme",
+                "Mempromosikan industri film nasional",
+                "Menambah pendapatan negara",
+                "Mengkritik pemerintahan saat itu"
+            ]
+        },
+        "question_concept": "pendokumentasian",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_7e56faed463445d2b5f2710a0062681a",
+        "question": "Peninggalan sejarah apa yang menunjukkan bukti keberadaan Kerajaan Sriwijaya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Candi Borobudur",
+                "Prasasti Kedukan Bukit",
+                "Candi Prambanan",
+                "Tugu Monas",
+                "Pura Besakih"
+            ]
+        },
+        "question_concept": "peninggalan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_9cdbbe07972f4d99996ca025b772266f",
+        "question": "Negara apa yang menjadi penjajah terakhir di Indonesia sebelum kemerdekaan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Portugal",
+                "Spanyol",
+                "Belanda",
+                "Inggris",
+                "Jepang"
+            ]
+        },
+        "question_concept": "penjajah",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_47bb39b9d02d4df2a2bf8581049dde8b",
+        "question": "Disebut sebagai apakah perlawanan yang dilakukan oleh Pangeran Diponegoro terhadap penjajah Belanda selama Perang Diponegoro?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Perlawanan Cirebon",
+                "Perlawanan Banten",
+                "Perlawanan Puputan Badung",
+                "Perlawanan Jawa Tengah",
+                "Perlawanan Aceh"
+            ]
+        },
+        "question_concept": "perlawanan",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_e9cde4f1257645009ba283ee4354efa9",
+        "question": "Dalam konteks sejarah Indonesia, konsep perlindungan sering dikaitkan dengan upaya kerajaan-kerajaan di masa lalu untuk melindungi wilayahnya dari serangan musuh. Kerajaan apa yang terkenal dengan sistem perlindungan yang kuat melalui barisan benteng dan pertahanan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kerajaan Majapahit",
+                "Kerajaan Sriwijaya",
+                "Kerajaan Pajajaran",
+                "Kerajaan Mataram",
+                "Kerajaan Singasari"
+            ]
+        },
+        "question_concept": "perlindungan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_37a5706f5947464fa01accb56d0b84ec",
+        "question": "Dalam sejarah Indonesia, pertahanan menjadi aspek penting dalam menjaga kedaulatan negara. Pada masa penjajahan, bentuk pertahanan apa yang banyak digunakan oleh pejuang Indonesia untuk melawan penjajah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pertahanan modern dengan senjata api",
+                "Pertahanan tradisional dengan bambu runcing",
+                "Pertahanan dengan kapal perang",
+                "Pertahanan dengan pesawat tempur",
+                "Pertahanan dengan teknologi nuklir"
+            ]
+        },
+        "question_concept": "pertahanan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_9cbe4d5415c94373bd1612487a619925",
+        "question": "Mengapa protes sering terjadi pada masa reformasi di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Karena adanya peningkatan kesadaran politik masyarakat",
+                "Karena masyarakat puas dengan pemerintahan",
+                "Karena perekonomian Indonesia sangat stabil",
+                "Karena adanya intervensi asing dalam politik Indonesia",
+                "Karena masyarakat tidak tertarik dengan politik"
+            ]
+        },
+        "question_concept": "protes",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_92acabb26b434b76a7c2d7d5c6e36dc8",
+        "question": "Dalam sejarah Indonesia, bagaimana rakyat biasanya menyampaikan ketidakpuasan mereka terhadap pemerintahan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Melalui pemilihan umum",
+                "Dengan mendirikan partai politik baru",
+                "Melalui demonstrasi dan unjuk rasa",
+                "Dengan menulis surat ke pemerintah",
+                "Melalui diskusi di media sosial"
+            ]
+        },
+        "question_concept": "rakyat",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_7101ca0bc18b45849323dc92565263c0",
+        "question": "Apa rencana yang dibuat oleh para pemuda Indonesia pada tanggal 28 Oktober 1928, yang kemudian dikenal sebagai Sumpah Pemuda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Rencana untuk mendirikan organisasi pemuda",
+                "Rencana untuk melakukan kudeta militer",
+                "Rencana untuk mendirikan partai politik baru",
+                "Rencana untuk menyatukan seluruh pemuda Indonesia",
+                "Rencana untuk melakukan perjalanan keliling Indonesia"
+            ]
+        },
+        "question_concept": "rencana",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_7b101115300d4d14b67b57d5825a1a41",
+        "question": "Apa yang dimaksud dengan 'Republik' dalam konteks sejarah Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bentuk pemerintahan yang dipimpin oleh seorang raja",
+                "Bentuk pemerintahan yang dipimpin oleh seorang presiden",
+                "Sistem ekonomi yang dianut oleh negara",
+                "Perjanjian damai antara negara-negara",
+                "Organisasi sosial kemasyarakatan"
+            ]
+        },
+        "question_concept": "republik",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_70cd92632fdc4c1ba75eae103c2ca7e4",
+        "question": "Apa yang dimaksud dengan 'tempo dulu' dalam konteks sejarah Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Periode setelah kemerdekaan",
+                "Periode sebelum kemerdekaan",
+                "Periode Reformasi",
+                "Periode Orde Baru",
+                "Periode Orde Lama"
+            ]
+        },
+        "question_concept": "tempo dulu",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_00b0dc9f6aa948c0a87b73c87fba6850",
+        "question": "Dalam permainan balap karung, apa yang harus dilakukan peserta untuk mencapai garis finish?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Berlari",
+                "Melompat dengan kaki di dalam karung",
+                "Berjalan cepat",
+                "Bersepeda",
+                "Berenang"
+            ]
+        },
+        "question_concept": "balap karung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_652af47f83a24e3680250b98cf29e2e1",
+        "question": "Berapa jumlah pemain dalam satu tim basket yang berada di lapangan pada saat permainan dimulai?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tiga pemain",
+                "Empat pemain",
+                "Lima pemain",
+                "Enam pemain",
+                "Tujuh pemain"
+            ]
+        },
+        "question_concept": "basket",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_0a6e9ea6fd934b34a3828606869d5b88",
+        "question": "Dalam konteks olahraga, apa yang dilakukan dua tim ketika mereka beradu kekuatan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bertukar hadiah",
+                "Bersantai",
+                "Bertanding",
+                "Berpesta",
+                "Berlibur"
+            ]
+        },
+        "question_concept": "beradu",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_b40c63f28cfa4026b4149befb3d86ac8",
+        "question": "Apa yang biasanya dilakukan orang saat berduka karena kehilangan seseorang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pesta pora",
+                "Berlibur ke pantai",
+                "Makan besar",
+                "Mengenang almarhum",
+                "Bermain video game"
+            ]
+        },
+        "question_concept": "berduka",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_9e70a731af4c4bce896f656fd30bb0e0",
+        "question": "Apa yang biasanya dilakukan seseorang ketika mereka bergegas pergi ke kantor di pagi hari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mereka akan berjalan santai",
+                "Mereka akan menonton televisi",
+                "Mereka akan berpakaian dengan cepat",
+                "Mereka akan membuat sarapan yang rumit",
+                "Mereka akan membaca buku"
+            ]
+        },
+        "question_concept": "bergegas",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_4afbd64cd09949f19b86e10a44efa5ff",
+        "question": "Apa yang biasanya dilakukan orang ketika mereka berharap mendapatkan hasil yang baik pada suatu ujian?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mereka akan berlibur",
+                "Mereka akan berharap dan belajar dengan giat",
+                "Mereka akan bermain video game",
+                "Mereka akan tidur sepanjang hari",
+                "Mereka akan mengabaikan ujian tersebut"
+            ]
+        },
+        "question_concept": "berharap",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_90d70a1f9f984656ab2e4edf1f7d6eb0",
+        "question": "Apa yang biasanya dilakukan seseorang saat beristirahat di rumah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membaca buku",
+                "Berlari di taman",
+                "Bermain musik",
+                "Membersihkan kamar mandi",
+                "Memasak makanan"
+            ]
+        },
+        "question_concept": "beristirahat",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_89f3eb9d1d3247f7820602b6a9ae3c81",
+        "question": "Apa yang biasanya diucapkan seseorang ketika berjanji untuk tidak datang telat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Saya akan datang tepat waktu",
+                "Saya tidak tahu",
+                "Saya tidak bisa",
+                "Saya tidak mau",
+                "Saya sudah makan"
+            ]
+        },
+        "question_concept": "berjanji",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_33141c32066c4af39e1ef75af849a34d",
+        "question": "Apa tujuan seseorang berkunjung ke rumah temannya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk berlibur",
+                "Untuk bersosialisasi",
+                "Untuk bekerja",
+                "Untuk berbelanja",
+                "Untuk berolahraga"
+            ]
+        },
+        "question_concept": "berkunjung",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_ace3784ff4f444af9e2f4b70c7843dde",
+        "question": "Apa yang biasanya dilakukan oleh sekelompok orang saat ada demo?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bermain musik",
+                "Menyampaikan aspirasi",
+                "Berolahraga",
+                "Berbelanja",
+                "Memancing"
+            ]
+        },
+        "question_concept": "demo",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_4e76492ac90b4891bd23ff1ae3554db8",
+        "question": "Apa yang biasanya dibutuhkan untuk bermain futsal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Raket",
+                "Bola basket",
+                "Bola futsal",
+                "Papan selancar",
+                "Sarung tangan"
+            ]
+        },
+        "question_concept": "futsal",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_a79b2dfbacb8456cbbdd1b676e8b2779",
+        "question": "Kegiatan apa yang biasanya dilakukan umat Muslim sebagai bentuk ibadah di bulan Ramadhan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Puasa",
+                "Karaoke",
+                "Berjemur di pantai",
+                "Berbelanja",
+                "Menonton film"
+            ]
+        },
+        "question_concept": "ibadah",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_eb214654b9494919bb8b21b2d3a8bbf6",
+        "question": "Apa yang biasanya orang lakukan saat menghadiri sebuah konser musik?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menyanyi bersama",
+                "Bermain alat musik",
+                "Menari",
+                "Mendengarkan pidato",
+                "Menonton film"
+            ]
+        },
+        "question_concept": "konser",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_395f020fb6224a569126370cf9e6fce8",
+        "question": "Apa tujuan utama orang melakukan lari sore di taman kota?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mencari hewan peliharaan",
+                "Berburu harta karun",
+                "Menjaga kesehatan",
+                "Bertemu teman",
+                "Melakukan riset"
+            ]
+        },
+        "question_concept": "lari sore",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_c02d7bfeedb848a9a92339f9e0781e51",
+        "question": "Apa yang biasanya dilakukan seseorang saat melayat ke rumah duka?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membawa karangan bunga",
+                "Memancing ikan",
+                "Bermain sepak bola",
+                "Menanam pohon",
+                "Menonton film"
+            ]
+        },
+        "question_concept": "melayat",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_673d83f0c00c4ac3a46a7a65095373cf",
+        "question": "Apa yang biasanya dilakukan seseorang saat sedang membaca?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menulis buku",
+                "Menggambar",
+                "Menyanyi",
+                "Membaca teks atau buku",
+                "Berlari"
+            ]
+        },
+        "question_concept": "membaca",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_619cd4202cf344d78163c24e0da44932",
+        "question": "Kegiatan apa yang dilakukan seseorang ketika membaca koran di pagi hari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Memeriksa berita terkini",
+                "Memasak sarapan",
+                "Berolahraga",
+                "Berkebun",
+                "Mendengarkan musik"
+            ]
+        },
+        "question_concept": "membaca koran",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_7f1ebd48501246f8b12a09ccca0a48c9",
+        "question": "Apa yang biasanya menjadi tujuan seseorang membantu orang lain?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mendapatkan uang",
+                "Meringankan beban orang tersebut",
+                "Menonton televisi",
+                "Bermain video game",
+                "Makan malam"
+            ]
+        },
+        "question_concept": "membantu",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_92e2b4faedd546c98a31c6a44174cf0d",
+        "question": "Apa yang biasanya dilakukan seseorang saat mereka membuat kue?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menakar bahan-bahan",
+                "Menyiram tanaman",
+                "Membaca buku",
+                "Bermain sepak bola",
+                "Mengendarai sepeda"
+            ]
+        },
+        "question_concept": "membuat",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_3cc2998aa786497fb27e6c3e6a408345",
+        "question": "Untuk apa orang sering meminjam uang dari bank?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membeli permen",
+                "Membayar tagihan",
+                "Investasi bisnis",
+                "Membeli buku",
+                "Berlibur"
+            ]
+        },
+        "question_concept": "meminjam uang",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_0db3e18a6f8a47e1a2df825e1843231c",
+        "question": "Apa yang dilakukan oleh seorang guru ketika ia mengajar di kelas?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menari",
+                "Bermain bola",
+                "Menyanyi",
+                "Memberikan pengetahuan kepada siswa",
+                "Makan"
+            ]
+        },
+        "question_concept": "mengajar",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_81511a62b8454a1daf58279d5fc8aa2f",
+        "question": "Apa yang biasanya dilakukan saat seseorang mengaji?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membaca buku resep masakan",
+                "Membaca dan mempelajari Al-Qur'an",
+                "Bermain alat musik",
+                "Menyanyikan lagu di jalanan",
+                "Membersihkan jendela"
+            ]
+        },
+        "question_concept": "mengaji",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_d5c24f28ad6b4ff39ec8d3a11d86cfe7",
+        "question": "Kegiatan apa yang dilakukan oleh seseorang yang mengamen di jalanan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membaca puisi",
+                "Menjual kue",
+                "Menyanyi sambil meminta sumbangan",
+                "Berlari maraton",
+                "Menggambar pemandangan"
+            ]
+        },
+        "question_concept": "mengamen",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_339b458b71154fe4b2c82fbd170ffa0b",
+        "question": "Apa yang biasanya dilakukan seseorang ketika mengantar seseorang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membawa seseorang ke suatu tempat",
+                "Memasak makanan",
+                "Berbelanja di pasar",
+                "Membaca buku di perpustakaan",
+                "Bermain bola di lapangan"
+            ]
+        },
+        "question_concept": "mengantar",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_73ae812e3c4340b2982aac55dc6dcee9",
+        "question": "Apa yang biasanya dilakukan seseorang saat menjenguk teman yang sedang sakit di rumah sakit?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membawakan buah",
+                "Menonton film",
+                "Bermain sepak bola",
+                "Menyanyi karaoke",
+                "Berkebun"
+            ]
+        },
+        "question_concept": "menjenguk",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_043916ea651f4176a9f46e44412d7b36",
+        "question": "Apa yang dilakukan ibu rumah tangga ketika menyapu lantai rumah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menyiram tanaman",
+                "Memasak",
+                "Menyapu lantai",
+                "Mencuci piring",
+                "Menyetrika pakaian"
+            ]
+        },
+        "question_concept": "menyapu",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_ffe525e871e5477cba2b8e967857ef29",
+        "question": "Apa tujuan utama seseorang ketika mereka merayu orang lain?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mendapatkan pekerjaan",
+                "Meminta maaf",
+                "Menarik simpati",
+                "Membujuk agar mendapatkan sesuatu",
+                "Berolahraga"
+            ]
+        },
+        "question_concept": "merayu",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_7dce1d380b8640d393a07065fce2bb76",
+        "question": "Kegiatan apa yang biasanya dilakukan ketika musim panen tiba?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mengundang keluarga untuk makan bersama",
+                "Berlibur ke tempat wisata",
+                "Memetik hasil pertanian",
+                "Memancing di sungai",
+                "Berbelanja di pasar"
+            ]
+        },
+        "question_concept": "panen",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_461a0b6ced9a4413adc6143dde3070d5",
+        "question": "Apa yang harus dilakukan jika melihat seseorang pingsan di tempat umum?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Membawanya ke rumah sakit",
+                "Mengabaikannya",
+                "Menertawakannya",
+                "Memotret orang tersebut",
+                "Menari di sekitarnya"
+            ]
+        },
+        "question_concept": "pingsan",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_e3fd2ff228514652b8530ca19976b6ac",
+        "question": "Apa istilah dalam bahasa Indonesia untuk reaksi spontan tubuh yang menunjukkan rasa senang atau gembira, yang biasa disebut tertawa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Menangis",
+                "Tertawa",
+                "Berbicara",
+                "Bersin",
+                "Mendengkur"
+            ]
+        },
+        "question_concept": "tertawa",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_b2cd8994009d4f899323a97d8bd1ea77",
+        "question": "Apa yang dimaksud dengan 'adab makan' dalam konteks budaya Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Cara memasak makanan tradisional",
+                "Etiket dan sopan santun saat makan",
+                "Resep makanan khas Indonesia",
+                "Dekorasi meja makan",
+                "Perlengkapan makan yang digunakan sehari-hari"
+            ]
+        },
+        "question_concept": "adab makan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_09b7a60f270c4f15a332c070f77a5667",
+        "question": "Mengapa penting untuk mengaduk adonan kue secara merata?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Untuk memastikan kue menjadi keras",
+                "Agar adonan kue tercampur rata dan teksturnya lembut",
+                "Untuk mengurangi jumlah adonan",
+                "Agar kue memiliki rasa yang sangat manis",
+                "Untuk mempercepat proses pembuatan kue"
+            ]
+        },
+        "question_concept": "aduk",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_d0934975b6c345c1b9c2385fb33bc557",
+        "question": "Apa yang biasanya orang Indonesia bawa sebagai bekal makan siang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Roti",
+                "Nasi kotak",
+                "Pasta",
+                "Cokelat",
+                "Es krim"
+            ]
+        },
+        "question_concept": "bekal",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_2651d7abe82e4749941be45eef55df8a",
+        "question": "Apa fungsi dari besek dalam konteks kuliner tradisional Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Alat untuk mengukus makanan",
+                "Wadah untuk menyimpan bumbu dapur",
+                "Tempat untuk menyajikan makanan",
+                "Kemasan ramah lingkungan untuk membawa makanan",
+                "Alat untuk memotong sayuran"
+            ]
+        },
+        "question_concept": "besek",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_37cf0b770f474dde81b0352af5330ebc",
+        "question": "Makanan khas daerah mana yang disebut kerak telor, yang merupakan bagian dari kebudayaan Betawi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sumatera Barat",
+                "Jawa Tengah",
+                "Jakarta",
+                "Bali",
+                "Sulawesi"
+            ]
+        },
+        "question_concept": "betawi",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_fa0349e6feb74c96b7b694f074ce21a3",
+        "question": "Bubur ayam adalah sarapan populer di Indonesia, biasanya disajikan dengan taburan apa di atasnya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Keju parut",
+                "Bawang goreng",
+                "Saus tomat",
+                "Cokelat serut",
+                "Kacang tanah"
+            ]
+        },
+        "question_concept": "bubur",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_1db7cbb47b0e42e0b0b945c66cc51a0e",
+        "question": "Mengapa kue bolu yang baru dipanggang disebut memiliki aroma harum?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Karena warnanya yang menarik",
+                "Karena teksturnya yang lembut",
+                "Karena rasanya yang manis",
+                "Karena aromanya yang menyenangkan",
+                "Karena suaranya saat dipotong"
+            ]
+        },
+        "question_concept": "harum",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_9d33acf7ad434c32a84d600e692eb1f8",
+        "question": "Irisan buah apa yang sering ditambahkan ke dalam rujak untuk memberikan rasa segar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Apel",
+                "Mangga",
+                "Jambu biji",
+                "Pisang",
+                "Pepaya"
+            ]
+        },
+        "question_concept": "irisan",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_ef2ce15241c047419ef895c022cd5f54",
+        "question": "Apa jajanan sekolah yang biasanya dijual dengan harga yang terjangkau untuk anak-anak?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sushi",
+                "Steak",
+                "Keripik singkong",
+                "Pasta",
+                "Salad buah"
+            ]
+        },
+        "question_concept": "jajanan sekolah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_8fcb0dee80b54401bad42c66806a263d",
+        "question": "Apa makanan khas Jawa yang terkenal dengan bumbu rempah-rempahnya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pizza",
+                "Gudeg",
+                "Hamburger",
+                "Sushi",
+                "Hot dog"
+            ]
+        },
+        "question_concept": "jawa",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_1336b658a295432fa87f142a1d031ab3",
+        "question": "Makanan apa yang biasanya memiliki tekstur kenyal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Keripik kentang",
+                "Roti tawar",
+                "Bakso",
+                "Kerupuk udang",
+                "Kacang goreng"
+            ]
+        },
+        "question_concept": "kenyal",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_2452955a4aaf47898e20d2bcb0a65165",
+        "question": "Apa istilah untuk makanan yang telah dikurangi kadar airnya sehingga menjadi kering?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Panggang",
+                "Goreng",
+                "Rebus",
+                "Asap",
+                "Kering"
+            ]
+        },
+        "question_concept": "kering",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_1b5d22bd9c294fa382869ca7df573d84",
+        "question": "Mengapa makan dengan daun pisang sering dilakukan dalam tradisi makan di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Karena daun pisang mudah terbakar",
+                "Karena daun pisang memberikan aroma khas pada makanan",
+                "Karena daun pisang berwarna hijau",
+                "Karena daun pisang dianggap sakral",
+                "Karena daun pisang mahal dan langka"
+            ]
+        },
+        "question_concept": "makan dengan daun pisang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_b57d8db49518407297e3be9a4dbf03d2",
+        "question": "Apa yang harus dilakukan jika seseorang secara tidak sengaja makan mendahului orang tua di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Terus makan tanpa memperdulikan",
+                "Meminta maaf kepada orang tua tersebut",
+                "Memberikan makanan kepada orang tua tersebut",
+                "Berdiri dan memberi hormat",
+                "Meninggalkan meja makan"
+            ]
+        },
+        "question_concept": "makan mendahului orang tua",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_d011baab8dde4c16b32a3a8e9412ffdf",
+        "question": "Apa yang biasanya dilakukan pekerja di Indonesia saat waktu makan siang tiba?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Beristirahat di kantor",
+                "Makan bersama rekan kerja",
+                "Berbelanja di pusat perbelanjaan",
+                "Berolahraga ringan",
+                "Mendengarkan musik"
+            ]
+        },
+        "question_concept": "makan siang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_108f5e667d524819952ae5f5afe28ed8",
+        "question": "Apa yang sebaiknya dilakukan jika seseorang tidak dapat menghabiskan makanannya di restoran?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Meninggalkannya di meja",
+                "Memberikannya kepada orang lain",
+                "Membuangnya ke tempat sampah",
+                "Meminta dibungkus untuk dibawa pulang",
+                "Menyimpannya di meja untuk makanan berikutnya"
+            ]
+        },
+        "question_concept": "makan tidak habis",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_9f4bed28b57f4e5fab340e437330340c",
+        "question": "Dalam pembuatan kue, bahan apa yang sering digunakan untuk membuat adonan mengembang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Gula",
+                "Ragi",
+                "Garam",
+                "Cokelat",
+                "Susu"
+            ]
+        },
+        "question_concept": "mengembang",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_2c257d27b904414a8885aaeea5870371",
+        "question": "Hidangan apa yang sering disajikan sebagai menu spesial dalam perayaan Natal di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Rendang",
+                "Ayam Taliwang",
+                "Sate",
+                "Ayam kodok",
+                "Pempek"
+            ]
+        },
+        "question_concept": "natal",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_6cb56409e24d44a98936cc2537508e08",
+        "question": "Bumbu dapur apa yang memberikan warna merah pada masakan soto?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kunyit",
+                "Jahe",
+                "Cabe merah",
+                "Serai",
+                "Daun jeruk"
+            ]
+        },
+        "question_concept": "merah",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_2683e3d0c3d24b88954e60d41b090ea9",
+        "question": "Untuk mengurangi sampah plastik, bahan apa yang sering digunakan sebagai alternatif kantong plastik saat berbelanja di pasar tradisional Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kertas",
+                "Daun pisang",
+                "Kain",
+                "Jaring",
+                "Plastik biodegradable"
+            ]
+        },
+        "question_concept": "plastik",
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_ind_e374818d646747619002f3bee3b34804",
+        "question": "Dalam kuliner Indonesia, bahan apa yang sering dijadikan simbol warna putih pada nasi tumpeng?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Nasi uduk",
+                "Nasi kuning",
+                "Nasi liwet",
+                "Nasi putih",
+                "Nasi gurih"
+            ]
+        },
+        "question_concept": "putih",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_31127958c82243d4838f2d169f8d131c",
+        "question": "Apa nama kue tradisional Indonesia yang dibuat dengan menggunakan ragi sebagai bahan fermentasi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kue lapis",
+                "Kue cubit",
+                "Kue serabi",
+                "Kue putu",
+                "Tape singkong"
+            ]
+        },
+        "question_concept": "ragi",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_a0587007fcc149cf9694501df485594c",
+        "question": "Bahan utama apa yang digunakan untuk membuat sambal?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tomat",
+                "Terong",
+                "Cabai",
+                "Bawang Putih",
+                "Kemiri"
+            ]
+        },
+        "question_concept": "sambal",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_b726cc5d90054273a2ff2a0267ef3886",
+        "question": "Apa yang biasanya orang Indonesia makan sebagai menu sarapan pagi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Steak",
+                "Sushi",
+                "Nasi goreng",
+                "Spaghetti",
+                "Roti"
+            ]
+        },
+        "question_concept": "sarapan",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_388f32c8629944f28ca2d2da40197734",
+        "question": "Sayur apa yang sering dijadikan bahan utama dalam masakan lodeh?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kangkung",
+                "Bayam",
+                "Labu siam",
+                "Wortel",
+                "Kol"
+            ]
+        },
+        "question_concept": "sayur",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_b0fc260d9d90439fa46745a2660a9963",
+        "question": "Selai apa yang biasa dijadikan isian roti bakar di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Selai stroberi",
+                "Selai nanas",
+                "Selai kacang",
+                "Selai coklat",
+                "Selai blueberry"
+            ]
+        },
+        "question_concept": "selai",
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_ind_41af5f11e026460db5128006f40ab7e1",
+        "question": "Makanan apa yang sering disajikan sebagai ungkapan rasa syukur dalam acara syukuran di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Nasi Kuning",
+                "Nasi Uduk",
+                "Nasi Goreng",
+                "Nasi Padang",
+                "Nasi Tumpeng"
+            ]
+        },
+        "question_concept": "syukuran",
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_ind_33c1e7384f0c4feab87f5d8e51622a7a",
+        "question": "Dalam budaya kuliner Indonesia, makanan apa yang umumnya dimakan langsung dengan tangan tanpa menggunakan alat makan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sushi",
+                "Pizza",
+                "Nasi Padang",
+                "Spaghetti",
+                "Hamburger"
+            ]
+        },
+        "question_concept": "tangan",
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_ind_64c72c8814124cea87bf9c41279da994",
+        "question": "Kue apa yang sering disajikan sebagai simbol perayaan dalam acara ulang tahun di Indonesia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kue lapis",
+                "Kue tart",
+                "Kue dadar",
+                "Kue serabi",
+                "Kue putu"
+            ]
+        },
+        "question_concept": "ulang tahun",
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_ind_64611b8eb7e0462bab1fd9296f7a2cdc",
+        "question": "Kota apa di Indonesia yang terkenal dengan wisata kulinernya, terutama bakso dan ayam goreng?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bandung",
+                "Yogyakarta",
+                "Surabaya",
+                "Malang",
+                "Semarang"
+            ]
+        },
+        "question_concept": "wisata",
+        "answer_creator": "D"
+    }
+]
