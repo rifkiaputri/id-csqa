@@ -17,12 +17,14 @@ set_seed(42)
 
 
 class ChatCompletionHistory:
-    def __init__(self, model_name, version=None):
+    def __init__(self, model_name, version=None, prompt_type=None):
         self.model_name = model_name
-        if version is None:
-            self.history_file = f'eval_history/{model_name}_history.csv'
-        else:
-            self.history_file = f'eval_history/{model_name}_history_{version}.csv'
+        history_filename = f'eval_history/{model_name}_history'
+        if version is not None:
+            history_filename += f'_{version}'
+        if prompt_type is not None:
+            history_filename += f'_{prompt_type}'
+        self.history_file = history_filename + '.csv'
         self.history = self.load_history()
         self.translation_table = str.maketrans('', '', string.punctuation)
 

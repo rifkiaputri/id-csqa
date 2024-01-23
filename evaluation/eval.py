@@ -31,8 +31,8 @@ def load_dataset(input_path):
         raise ValueError(f"Unsupported file extension: {file_ext}")
 
 
-def load_gpt_model(model_name, history_version):
-    cache = ChatCompletionHistory(model_name, history_version)
+def load_gpt_model(model_name, history_version, prompt_type):
+    cache = ChatCompletionHistory(model_name, history_version, prompt_type)
     return lambda prompt: cache.query_model(prompt)
 
 
