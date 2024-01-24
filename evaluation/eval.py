@@ -50,7 +50,7 @@ def evaluate_responses(predictions, golds):
 def extract_data_info(dataset_filename):
     # Define the patterns for language and data name
     lang_pattern = r"(ind|sun)"
-    data_pattern = r"(v1_adapt|v2_human|v3_synthetic)"
+    data_pattern = r"(v1_llm_adapt|v2_human_gen|v3_llm_gen)"
 
     # Search for patterns in the filename
     lang_match = re.search(lang_pattern, dataset_filename)
