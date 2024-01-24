@@ -24,9 +24,9 @@ def load_concepts(raw_data_path):
     concepts = {}
     for d in data:
         if d["category"] not in concepts.keys():
-            concepts[d["category"]] = [d["question_concepts"].lower()]
+            concepts[d["category"]] = [d["question_concept"].lower()]
         else:
-            concepts[d["category"]].append(d["question_concepts"].lower())
+            concepts[d["category"]].append(d["question_concept"].lower())
 
     return concepts
 
@@ -94,8 +94,8 @@ def filter_data(raw_data):
 
 
 def main(args):
-    id_concepts = load_concepts(f"{args.raw_data_path}/raw_ind.json")
-    su_concepts = load_concepts(f"{args.raw_data_path}/raw_sun.json")
+    id_concepts = load_concepts(f"{args.raw_data_path}/ind/raw_test.json")
+    su_concepts = load_concepts(f"{args.raw_data_path}/sun/raw_test.json")
 
     os.makedirs(args.output_path, exist_ok=True)
 
@@ -123,13 +123,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output_path",
         help="path to the output directory",
-        default="./../dataset/v3_synthetic",
+        default="./../dataset/v3_llm_gen",
         type=str,
     )
     parser.add_argument(
         "--raw_data_path",
         help="path to the v2 human data directory",
-        default="./../dataset/v2_human",
+        default="./../dataset/v2_human_gen",
         type=str,
     )
     parser.add_argument(
