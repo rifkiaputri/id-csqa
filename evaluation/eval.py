@@ -105,7 +105,7 @@ def main(args):
     dataset = load_dataset(args.dataset_path)
 
     if "gpt" in args.model_name:
-        model = load_gpt_model(args.model_name, args.history_version)
+        model = load_gpt_model(args.model_name, args.history_version, args.prompt_type)
         is_gpt = True
     else:
         model = load_open_model(args.model_name, args.history_version, args.prompt_type)
