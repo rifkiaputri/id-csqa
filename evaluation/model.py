@@ -139,11 +139,27 @@ class HfModelHistory:
         """Load HF model & tokenizer"""
         trust_remote_code = "sealion" in self.model_name
         
-        tokenizer = AutoTokenizer.from_pretrained(
-            self.model_name,
-            truncation_side="left",
-            trust_remote_code=trust_remote_code
-        )
+        if "polylm" in self.model_name:
+            """
+            Set legacy=False due to this warning:
+            You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama.LlamaTokenizer'>.
+            This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. 
+            If you want to use the new behaviour, set `legacy=False`. 
+            This should only be set if you understand what it means, and thouroughly read the reason why this was added as explained 
+            in https://github.com/huggingface/transformers/pull/24565
+            """
+            tokenizer = AutoTokenizer.from_pretrained(
+                self.model_name,
+                truncation_side="left",
+                trust_remote_code=trust_remote_code,
+                legacy=False
+            )
+        else:
+            tokenizer = AutoTokenizer.from_pretrained(
+                self.model_name,
+                truncation_side="left",
+                trust_remote_code=trust_remote_code
+            )
         if tokenizer.pad_token is None or tokenizer.pad_token == "<unk>":
             print('Setting pad_token...')
             tokenizer.pad_token = tokenizer.bos_token if tokenizer.bos_token is not None else tokenizer.eos_token
@@ -157,7 +173,7 @@ class HfModelHistory:
             resume_download=True,
             trust_remote_code=trust_remote_code
         )
-        if any(model in self.model_name for model in ["SeaLLM", "polylm", "llama"]):
+        if any(model in self.model_name.lower() for model in ["seallm", "polylm", "llama"]):
             # quick fix for tensor error
             # https://github.com/facebookresearch/llama/issues/380
             model = model.bfloat16()
