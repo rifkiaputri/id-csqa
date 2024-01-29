@@ -1,6 +1,8 @@
 [
     {
         "id": "orig_m_sun_fa8dc5a0fc1642f8ba11dbf1d3d5d4de",
+        "category": "place",
+        "question_concept": "pangkalan ojeg",
         "question": "Di mana biasana pangkalan ojeg dipanggihan?",
         "choices": {
             "label": [
@@ -18,11 +20,12 @@
                 "Di jero mall"
             ]
         },
-        "question_concept": "pangkalan ojeg",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_b40e4237d7b149c2b545c59822c2f2cd",
+        "category": "place",
+        "question_concept": "gedung sate",
         "question": "Naon ciri khas Gedong Sate nu aya di Bandung?",
         "choices": {
             "label": [
@@ -40,11 +43,12 @@
                 "Koleksi seni nu berharga"
             ]
         },
-        "question_concept": "gedung sate",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_fc3e4739916e40399caec562a4f6e8bf",
+        "category": "place",
+        "question_concept": "guha",
         "question": "Pikeun naon guha sering dianggo ku masarakat Sunda?",
         "choices": {
             "label": [
@@ -62,11 +66,12 @@
                 "Stasiun kareta"
             ]
         },
-        "question_concept": "guha",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_9dc31d26f63741859391a820789d3d0c",
+        "category": "place",
+        "question_concept": "buruan",
         "question": "Naon fungsi buruan di imah?",
         "choices": {
             "label": [
@@ -84,11 +89,12 @@
                 "Pikeun melak tutuwuhan"
             ]
         },
-        "question_concept": "buruan",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_cbdaa8d10bb5454c82453bf181239460",
+        "category": "place",
+        "question_concept": "hotel",
         "question": "Hotel biasana nyadiakeun fasilitas naon?",
         "choices": {
             "label": [
@@ -106,11 +112,12 @@
                 "Rumah sakit"
             ]
         },
-        "question_concept": "hotel",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_dcbef02faaaa48e0948e241b060e6761",
+        "category": "place",
+        "question_concept": "akuarium",
         "question": "Di mana urang tiasa mendakan akuarium?",
         "choices": {
             "label": [
@@ -128,11 +135,12 @@
                 "Di museum"
             ]
         },
-        "question_concept": "akuarium",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_92530f99017e4e41b56afcacc2eae27b",
+        "category": "place",
+        "question_concept": "talaga",
         "question": "Naon fungsi talaga di masarakat Sunda?",
         "choices": {
             "label": [
@@ -150,11 +158,12 @@
                 "Pikeun tempat ngadegkeun tenda"
             ]
         },
-        "question_concept": "talaga",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_d36ce511d8f248dcb1d22d8f85a5a4bb",
+        "category": "place",
+        "question_concept": "pawon",
         "question": "Naon nu biasa dilakukeun di pawon?",
         "choices": {
             "label": [
@@ -172,11 +181,12 @@
                 "Latihan olahraga"
             ]
         },
-        "question_concept": "pawon",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_b5ad3b91016b462d9e0226fe9b4b720e",
+        "category": "place",
+        "question_concept": "gedong kasenian",
         "question": "Gedong kasenian biasana dianggo pikeun naon?",
         "choices": {
             "label": [
@@ -194,11 +204,12 @@
                 "Pikeun kantor pamarentah"
             ]
         },
-        "question_concept": "gedong kasenian",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_ae6612c335b74bbabbe5c826930af546",
+        "category": "place",
+        "question_concept": "gerbang",
         "question": "Naon fungsi gerbang dina konteks tempat?",
         "choices": {
             "label": [
@@ -216,11 +227,12 @@
                 "Pikeun tempat ibak"
             ]
         },
-        "question_concept": "gerbang",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_2a4d6c6a3d83427d99151a45d02f3a29",
+        "category": "place",
+        "question_concept": "istana",
         "question": "Naon nu disebut 'istana' dina konteks wangunan?",
         "choices": {
             "label": [
@@ -238,11 +250,12 @@
                 "Toko buku"
             ]
         },
-        "question_concept": "istana",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_2cc5a179eba9443d8b30a5013a475b5a",
+        "category": "place",
+        "question_concept": "jamban",
         "question": "Di mana biasana jamban t\u00e9h aya?",
         "choices": {
             "label": [
@@ -260,11 +273,12 @@
                 "Di pasar"
             ]
         },
-        "question_concept": "jamban",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_695f4d051d364c10bd47e0534664e13c",
+        "category": "place",
+        "question_concept": "mal",
         "question": "Naon fungsi mal jang masarakat Sunda?",
         "choices": {
             "label": [
@@ -282,11 +296,12 @@
                 "Monumen peringatan"
             ]
         },
-        "question_concept": "mal",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_738dc5a77bf34ff298142224890dcbb5",
+        "category": "place",
+        "question_concept": "pangadilan",
         "question": "Di mana tempat jalma-jalma ngab\u00e9r\u00e9skeun perkara hukum di pangadilan?",
         "choices": {
             "label": [
@@ -304,11 +319,12 @@
                 "Di warung"
             ]
         },
-        "question_concept": "pangadilan",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_1a688980bd884dc893920e7f1b888e30",
+        "category": "place",
+        "question_concept": "perpustakaan",
         "question": "Di mana anjeun tiasa mendakan perpustakaan umum?",
         "choices": {
             "label": [
@@ -326,11 +342,12 @@
                 "Di gigireun tambang"
             ]
         },
-        "question_concept": "perpustakaan",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_3ada22abc1f24ef3b33c71e866c4b027",
+        "category": "place",
+        "question_concept": "kebon",
         "question": "Naon nu biasa dipelak di kebon?",
         "choices": {
             "label": [
@@ -348,11 +365,12 @@
                 "Robot"
             ]
         },
-        "question_concept": "kebon",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_45c6a37dbd6444b9bf87fa07727e4e28",
+        "category": "place",
+        "question_concept": "kebon binatang",
         "question": "Naon nu bisa ditingali di kebon binatang?",
         "choices": {
             "label": [
@@ -370,11 +388,12 @@
                 "Pesenam"
             ]
         },
-        "question_concept": "kebon binatang",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_7643d8e328a640479b5374c6892d2de6",
+        "category": "place",
+        "question_concept": "loker",
         "question": "Loker di kantor biasana dipak\u00e9 pikeun naon?",
         "choices": {
             "label": [
@@ -392,11 +411,12 @@
                 "Pikeun olahraga"
             ]
         },
-        "question_concept": "loker",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_88989daf4bcd4da185d2f1fa17ca7cf7",
+        "category": "place",
+        "question_concept": "bumi",
         "question": "Di mana urang tiasa mendakan bumi?",
         "choices": {
             "label": [
@@ -414,11 +434,12 @@
                 "Di laut"
             ]
         },
-        "question_concept": "bumi",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_be459f0b925240199668e20ebd5272d0",
+        "category": "place",
+        "question_concept": "salon",
         "question": "D imana biasana salon t\u00e9h ayana?",
         "choices": {
             "label": [
@@ -436,11 +457,12 @@
                 "Di sawah"
             ]
         },
-        "question_concept": "salon",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_9343130e6b3c4bd9a97047e999a05895",
+        "category": "place",
+        "question_concept": "sofa",
         "question": "Di mana biasana sofa ditempatkeun?",
         "choices": {
             "label": [
@@ -458,11 +480,12 @@
                 "Di hateup"
             ]
         },
-        "question_concept": "sofa",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_3bf93369059a447d8f006cfc8a1a779e",
+        "category": "place",
+        "question_concept": "supermarket",
         "question": "Di mana urang tiasa mendakan supermarket?",
         "choices": {
             "label": [
@@ -480,11 +503,12 @@
                 "Di antariksa"
             ]
         },
-        "question_concept": "supermarket",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_abad2e6ac13c4d359bb691fcdb3f292a",
+        "category": "place",
+        "question_concept": "toko roti",
         "question": "Di mana biasana toko roti dipanggihan?",
         "choices": {
             "label": [
@@ -502,11 +526,12 @@
                 "Di taman kota"
             ]
         },
-        "question_concept": "toko roti",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_1f13694e91d14ab097bb6944a5465d6c",
+        "category": "place",
+        "question_concept": "ugd",
         "question": "Naon singkatan tina UGD?",
         "choices": {
             "label": [
@@ -524,11 +549,12 @@
                 "Unit Gerak Dasar"
             ]
         },
-        "question_concept": "ugd",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_f34848a5a8e64220b44f6ee37b00b6d7",
+        "category": "place",
+        "question_concept": "universitas indonesia",
         "question": "Di mana lokasi Universitas Indonesia?",
         "choices": {
             "label": [
@@ -546,11 +572,12 @@
                 "Surabaya"
             ]
         },
-        "question_concept": "universitas indonesia",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_a9129bd9a51f433a8096cf51c2615edd",
+        "category": "place",
+        "question_concept": "warung",
         "question": "Naon anu biasana dijual di warung?",
         "choices": {
             "label": [
@@ -568,11 +595,12 @@
                 "Parabotan"
             ]
         },
-        "question_concept": "warung",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_30b0ab15da8848e297133175003e4ca0",
+        "category": "place",
+        "question_concept": "ruang tamu",
         "question": "Naon fungsi utama tina ruang tamu di hiji imah?",
         "choices": {
             "label": [
@@ -590,11 +618,12 @@
                 "Pikeun gawe"
             ]
         },
-        "question_concept": "ruang tamu",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_a9a9da95884f4b74877ed896a462b018",
+        "category": "place",
+        "question_concept": "sopa",
         "question": "Di mana biasana urang Sunda nendeun sopa?",
         "choices": {
             "label": [
@@ -612,11 +641,12 @@
                 "Di walungan"
             ]
         },
-        "question_concept": "sopa",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_5f7df22a92344ffd9b9c14378b73f12c",
+        "category": "place",
+        "question_concept": "leuwi",
         "question": "Naon fungsi leuwi nu biasa digunakeun ku urang Sunda?",
         "choices": {
             "label": [
@@ -634,11 +664,12 @@
                 "Tempat masak"
             ]
         },
-        "question_concept": "leuwi",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_5821af04891a4c21b77c0e3780a2f2ef",
+        "category": "place",
+        "question_concept": "taman rekreasi",
         "question": "Di mana anjeun bisa mendakan taman rekreasi anu cocog pikeun kulawarga?",
         "choices": {
             "label": [
@@ -656,11 +687,12 @@
                 "Di taman rekreasi"
             ]
         },
-        "question_concept": "taman rekreasi",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_265da2ad60eb4e18984808e216627a9f",
+        "category": "culture",
+        "question_concept": "anyaman",
         "question": "Naon bahan dasar anu biasa dipak\u00e9 pikeun anyaman tradisional Sunda?",
         "choices": {
             "label": [
@@ -678,11 +710,12 @@
                 "Benang wol"
             ]
         },
-        "question_concept": "anyaman",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_80129a85043547d8bf36c50a219f6dd0",
+        "category": "culture",
+        "question_concept": "arak",
         "question": "Naon tujuan utama nginum arak dina tradisi Bali?",
         "choices": {
             "label": [
@@ -700,11 +733,12 @@
                 "Pikeun ritual kaagamaan"
             ]
         },
-        "question_concept": "arak",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_96be935410ab457c96e414292b36a06c",
+        "category": "culture",
+        "question_concept": "betawi",
         "question": "Kumaha hubungan Betawi jeung budaya Sunda?",
         "choices": {
             "label": [
@@ -722,11 +756,12 @@
                 "Betawi mangrupa jenis kadaharan Sunda"
             ]
         },
-        "question_concept": "betawi",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_c3afc59512d34532ac544d2ef55e5295",
+        "category": "culture",
+        "question_concept": "dayak",
         "question": "Naon nu dimaksud 'dayak'?",
         "choices": {
             "label": [
@@ -744,11 +779,12 @@
                 "Salaku komunitas adat"
             ]
         },
-        "question_concept": "dayak",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_b5b3a9578a3d44b581c111ddc012bf35",
+        "category": "culture",
+        "question_concept": "galeri",
         "question": "Naon nu biasa dipamerkeun di galeri seni Sunda?",
         "choices": {
             "label": [
@@ -766,11 +802,12 @@
                 "Alat-alat olahraga"
             ]
         },
-        "question_concept": "galeri",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_f652a8b13bd7434184a6723f60f6a651",
+        "category": "culture",
+        "question_concept": "gunting",
         "question": "Dina adat Sunda, gunting biasana dipak\u00e9 pikeun naon?",
         "choices": {
             "label": [
@@ -788,11 +825,12 @@
                 "Ngagunting kertas pikeun seni"
             ]
         },
-        "question_concept": "gunting",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_657e460a01414eb0a860e6d46cd6a430",
+        "category": "culture",
+        "question_concept": "cai",
         "question": "Kumaha peran cai dina upacara adat Sunda?",
         "choices": {
             "label": [
@@ -810,11 +848,12 @@
                 "Simbol kamakmuran"
             ]
         },
-        "question_concept": "cai",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_27724cac25354786ae3dc9f9b2c39a43",
+        "category": "culture",
+        "question_concept": "biksu",
         "question": "Naon peran biksu di masarakat Sunda?",
         "choices": {
             "label": [
@@ -832,11 +871,12 @@
                 "Seniman tradisional"
             ]
         },
-        "question_concept": "biksu",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_98dfe6c768c14f6eb0c981856f5cf4a2",
+        "category": "culture",
+        "question_concept": "galeri",
         "question": "Naon tujuan utama galeri dina ngajaga budaya Sunda?",
         "choices": {
             "label": [
@@ -854,11 +894,12 @@
                 "Pikeun tempat atikan seni"
             ]
         },
-        "question_concept": "galeri",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_3e8797f5de7e431984d359132cff5e1c",
+        "category": "culture",
+        "question_concept": "kabogoh",
         "question": "Dina konteks budaya Sunda, saha nu disebut kabogoh?",
         "choices": {
             "label": [
@@ -876,11 +917,12 @@
                 "Awewe nu keur dina masa kahamilan"
             ]
         },
-        "question_concept": "kabogoh",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_4288654428d743eeaea0ac588fc4ff62",
+        "category": "culture",
+        "question_concept": "klenteng",
         "question": "Naon fungsi klenteng pikeun masarakat Sunda nu nganut agama Konghucu?",
         "choices": {
             "label": [
@@ -898,11 +940,12 @@
                 "Sawah"
             ]
         },
-        "question_concept": "klenteng",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_30cd6d8072104c7c92f80ddb06d07646",
+        "category": "culture",
+        "question_concept": "kontemporer",
         "question": "Naon conto karya kontemporer dina seni Sunda?",
         "choices": {
             "label": [
@@ -920,11 +963,12 @@
                 "Musik elektro tradisional"
             ]
         },
-        "question_concept": "kontemporer",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_37db0da4162c4ad8bf2f217436801d23",
+        "category": "culture",
+        "question_concept": "koas",
         "question": "Naon anu dimaksud 'koas' dina konteks atikan?",
         "choices": {
             "label": [
@@ -942,11 +986,12 @@
                 "Seniman"
             ]
         },
-        "question_concept": "koas",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_c783e93fefb04b5b961e846602f936c7",
+        "category": "culture",
+        "question_concept": "lukisan",
         "question": "Naon peran lukisan dina ngagambarkeun budaya Sunda?",
         "choices": {
             "label": [
@@ -964,11 +1009,12 @@
                 "Ngungkabkeun ekspresi pribadi"
             ]
         },
-        "question_concept": "lukisan",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_cad9d022027d43b2af22b5ee720e71e9",
+        "category": "culture",
+        "question_concept": "natal",
         "question": "Kumaha cara urang Sunda ngagungkeun po\u00e9 natal dina tradisi lokal?",
         "choices": {
             "label": [
@@ -986,11 +1032,12 @@
                 "Ngagelar wayang golek"
             ]
         },
-        "question_concept": "natal",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_eaf9e571af3f4230b335a112b93ad0bf",
+        "category": "culture",
+        "question_concept": "nusantara",
         "question": "Naon hartina 'nusantara' dina konteks budaya Sunda?",
         "choices": {
             "label": [
@@ -1008,11 +1055,12 @@
                 "Seni tradisional Sunda"
             ]
         },
-        "question_concept": "nusantara",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_cc9d52da78fc4570821e46ad3044cb2f",
+        "category": "culture",
+        "question_concept": "kaarifan lokal",
         "question": "Naon nu dimaksud ku kaarifan lokal dina budaya Sunda?",
         "choices": {
             "label": [
@@ -1030,11 +1078,12 @@
                 "Seni pertunjukan tradisional Sunda"
             ]
         },
-        "question_concept": "kaarifan lokal",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_f7bf7f53dd6a4b238fbf69d7f4b36af1",
+        "category": "culture",
+        "question_concept": "kakandungan",
         "question": "Naon hartina 'kakandungan' dina konteks budaya Sunda?",
         "choices": {
             "label": [
@@ -1052,11 +1101,12 @@
                 "Kecap sejen pikeun kaarifan lokal"
             ]
         },
-        "question_concept": "kakandungan",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_19a587a3cbcd4c5a89520b46fc4ab8ff",
+        "category": "culture",
+        "question_concept": "ngamumule",
         "question": "Kumaha cara urang Sunda ngamumule budayana?",
         "choices": {
             "label": [
@@ -1074,11 +1124,12 @@
                 "Ngajual barang antik"
             ]
         },
-        "question_concept": "ngamumule",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_b8a56046a0a046a5a62f166951306ee5",
+        "category": "culture",
+        "question_concept": "motong",
         "question": "Upacara adat Sunda naon nu ngayakeun acara pakait motong tumpeng?",
         "choices": {
             "label": [
@@ -1096,11 +1147,12 @@
                 "Dina pesta ulang taun"
             ]
         },
-        "question_concept": "motong",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_4a24a936061c4cd29e6932c91ffac111",
+        "category": "culture",
+        "question_concept": "nusantara",
         "question": "Naon hartina 'nusantara' dina konteks budaya Sunda?",
         "choices": {
             "label": [
@@ -1118,11 +1170,12 @@
                 "Alat musik tradisional"
             ]
         },
-        "question_concept": "nusantara",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_dea2df021ca740998f78f62c922c7f30",
+        "category": "culture",
+        "question_concept": "pamuda",
         "question": "Naon peran pamuda dina ngamumule budaya Sunda?",
         "choices": {
             "label": [
@@ -1140,11 +1193,12 @@
                 "Balanja"
             ]
         },
-        "question_concept": "pamuda",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_f8f531d63d164cada960d459cd3bd7e8",
+        "category": "culture",
+        "question_concept": "panen",
         "question": "Dina budaya Sunda, iraha biasana panen padi dilaksanakeun?",
         "choices": {
             "label": [
@@ -1162,11 +1216,12 @@
                 "Saban usum semi"
             ]
         },
-        "question_concept": "panen",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_c932a69b2c0d46e2b8111e9e9a49b810",
+        "category": "culture",
+        "question_concept": "patung",
         "question": "Naon fungsi patung dina kebudayaan Sunda?",
         "choices": {
             "label": [
@@ -1184,11 +1239,12 @@
                 "Pikeun parabot dapur"
             ]
         },
-        "question_concept": "patung",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_a05e1f44a328467991180819f3a1e294",
+        "category": "culture",
+        "question_concept": "pelestarian",
         "question": "Kumaha cara pelestarian budaya Sunda nu bisa dilaksanakeun ku kawula ngora?",
         "choices": {
             "label": [
@@ -1206,11 +1262,12 @@
                 "Ngaliwatan diskusi"
             ]
         },
-        "question_concept": "pelestarian",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_dc4a8b21fabc42e48e48ef5b26c43e67",
+        "category": "culture",
+        "question_concept": "pendeta",
         "question": "Naon peran pendeta dina upacara adat Sunda umat Kristen?",
         "choices": {
             "label": [
@@ -1228,11 +1285,12 @@
                 "Ngadokumentasikeun acara"
             ]
         },
-        "question_concept": "pendeta",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_3b0e2f7ff175418182eb95c8d50ff10c",
+        "category": "culture",
+        "question_concept": "pintonan",
         "question": "Naon nu dimaksud pintonan dina konteks kasenian Sunda?",
         "choices": {
             "label": [
@@ -1250,11 +1308,12 @@
                 "Kumpul komunitas"
             ]
         },
-        "question_concept": "pintonan",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_5bd6088d6d1a4c90a4accb1202a53e1b",
+        "category": "culture",
+        "question_concept": "salam",
         "question": "Kumaha cara ngagunakeun salam dina budaya Sunda nalika nepungan batur?",
         "choices": {
             "label": [
@@ -1272,11 +1331,12 @@
                 "Ngadegkeun leungeun bari ngalakukeun sembah"
             ]
         },
-        "question_concept": "salam",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_5e944cd8e85a4f8081c0eea25f73122f",
+        "category": "culture",
+        "question_concept": "saman",
         "question": "Dina acara naon tari saman biasana dipak\u00e9?",
         "choices": {
             "label": [
@@ -1294,11 +1354,12 @@
                 "Dina upacara ngabag\u00e9akeun tamu penting"
             ]
         },
-        "question_concept": "saman",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_bb4f91b5a9c0463dae26b2d8a8066b98",
+        "category": "culture",
+        "question_concept": "leungeun katuhu",
         "question": "Dina adat Sunda, leungeun katuhu biasana dipake pikeun naon?",
         "choices": {
             "label": [
@@ -1316,11 +1377,12 @@
                 "Ngabersihan"
             ]
         },
-        "question_concept": "leungeun katuhu",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_808a70723092456bb8db77c7590fcb0b",
+        "category": "history",
+        "question_concept": "bandera",
         "question": "Naon fungsi 'bandera' dina perjuangan kemerdekaan?",
         "choices": {
             "label": [
@@ -1338,11 +1400,12 @@
                 "Senjata tradisional Sunda"
             ]
         },
-        "question_concept": "bandera",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_d8be3a3df914405c85809dff9b714500",
+        "category": "history",
+        "question_concept": "carita",
         "question": "Carita naon anu sering dianggo pikeun ngajarkeun sajarah Sunda ka generasi ngora?",
         "choices": {
             "label": [
@@ -1360,11 +1423,12 @@
                 "Novel sajarah"
             ]
         },
-        "question_concept": "carita",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_e9d2032338244348bf0f8bd4543b3a8c",
+        "category": "history",
+        "question_concept": "demonstran",
         "question": "Saha demonstran nu kawentar dina sajarah pergerakan nasional Indonesia nu teras janten presiden kahiji?",
         "choices": {
             "label": [
@@ -1382,11 +1446,12 @@
                 "Sutan Sjahrir"
             ]
         },
-        "question_concept": "demonstran",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_752458719ad94036a54f0aaafe78873b",
+        "category": "history",
+        "question_concept": "eksekusi",
         "question": "Iraha kasus eksekusi maot pertama kali dilakukeun di Indonesia?",
         "choices": {
             "label": [
@@ -1404,11 +1469,12 @@
                 "1968"
             ]
         },
-        "question_concept": "eksekusi",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_7bc2fc5d3cb64a99856fd450c6c7469f",
+        "category": "history",
+        "question_concept": "hak milih",
         "question": "Dina sajarah Indonesia, iraha hak milih pikeun warga nagara mimiti dilarapkeun?",
         "choices": {
             "label": [
@@ -1426,11 +1492,12 @@
                 "Taun 1971"
             ]
         },
-        "question_concept": "hak milih",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_d62678b9ecc54f50856f0ba384694c46",
+        "category": "history",
+        "question_concept": "kawijakan",
         "question": "Kawijakan naon nu dilaksanakeun ku pamar\u00e9ntah kolonial nu ngarugikeun tatan\u00e9n di Tatar Sunda?",
         "choices": {
             "label": [
@@ -1448,11 +1515,12 @@
                 "Kawijakan Atikan Gratis"
             ]
         },
-        "question_concept": "kawijakan",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_83678ba94e1f4b3d8204dfe5a070dd88",
+        "category": "history",
+        "question_concept": "kekerasan",
         "question": "Kekerasan naon nu sering kajadian dina perjuangan kamerdekaan Sunda?",
         "choices": {
             "label": [
@@ -1470,11 +1538,12 @@
                 "Kekerasan dina seni pertunjukan"
             ]
         },
-        "question_concept": "kekerasan",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_bab28a416c514c7e915d98e06539fa78",
+        "category": "history",
+        "question_concept": "kakawasaan",
         "question": "Kakawasaan saha nu kawentar dina sajarah Sunda sabada runtuhna Karajaan Pajajaran?",
         "choices": {
             "label": [
@@ -1492,11 +1561,12 @@
                 "Kakawasaan Bupati Galuh"
             ]
         },
-        "question_concept": "kakawasaan",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_b3a785221f5040fb9120fb0edba8f306",
+        "category": "history",
+        "question_concept": "asuransi",
         "question": "Naon fungsi asuransi dina ngajaga artefak sajarah Sunda?",
         "choices": {
             "label": [
@@ -1514,11 +1584,12 @@
                 "Ngajaga artefak tina perubahan politik"
             ]
         },
-        "question_concept": "asuransi",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_b480f3480a0342378233719ecbc782c7",
+        "category": "history",
+        "question_concept": "awi lancip",
         "question": "Kumaha awi lancip bisa jadi bagian tina sajarah pakakas Sunda?",
         "choices": {
             "label": [
@@ -1536,11 +1607,12 @@
                 "Dipak\u00e9 pikeun nyieun karya seni"
             ]
         },
-        "question_concept": "awi lancip",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_8e4ad566bd314308b4aa3383684fd252",
+        "category": "history",
+        "question_concept": "berjuang",
         "question": "Saha anu berjuang pikeun kamerdikaan Sunda ti kolonialisme?",
         "choices": {
             "label": [
@@ -1558,11 +1630,12 @@
                 "Pemimpin-pemimpin politik lokal"
             ]
         },
-        "question_concept": "berjuang",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_669efdf4d7ad47578a346b1d62dc663d",
+        "category": "history",
+        "question_concept": "kabebasan",
         "question": "Dina sajarah Sunda, kumaha peran kabebasan dina ngawangun peradaban?",
         "choices": {
             "label": [
@@ -1580,11 +1653,12 @@
                 "Ngajaga hak asasi manusa"
             ]
         },
-        "question_concept": "kabebasan",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_21de2643a5934b54a370c520e7d11142",
+        "category": "history",
+        "question_concept": "karajaan",
         "question": "Karajaan Sunda naon nu kawentar dina sajarah Sunda?",
         "choices": {
             "label": [
@@ -1602,11 +1676,12 @@
                 "Karajaan Demak"
             ]
         },
-        "question_concept": "karajaan",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_bfd55cc5b88f43909dcf172dba168fa2",
+        "category": "history",
+        "question_concept": "makam",
         "question": "Naon fungsi makam para raja di tatar Sunda dina sajarah?",
         "choices": {
             "label": [
@@ -1624,11 +1699,12 @@
                 "Area pertanian"
             ]
         },
-        "question_concept": "makam",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_01cf831e504a4dca81c276b44528c525",
+        "category": "history",
+        "question_concept": "massal",
         "question": "Kumaha pejoangan massal masarakat Sunda dina raraga ngahontal kamerdikaan Indonesia?",
         "choices": {
             "label": [
@@ -1646,11 +1722,12 @@
                 "Ngembangkeun seni budaya"
             ]
         },
-        "question_concept": "massal",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_be88e09ddf074e34bcca7a448fd874ec",
+        "category": "history",
+        "question_concept": "masyarakat",
         "question": "Kumaha masarakat Sunda dina jaman baheula ngajaga catetan sajarah?",
         "choices": {
             "label": [
@@ -1668,11 +1745,12 @@
                 "Ngagunakeun sistem digital"
             ]
         },
-        "question_concept": "masyarakat",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_7affe540b92a4afdb7070b34ac78426a",
+        "category": "history",
+        "question_concept": "ngerahkeun",
         "question": "Kajadian naon nu ngerahkeun rasa nasionalisme rahayat Sunda dina mangsa penjajahan?",
         "choices": {
             "label": [
@@ -1690,11 +1768,12 @@
                 "Peristiwa 10 November"
             ]
         },
-        "question_concept": "ngerahkeun",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_42b85d12b7414bd798a3b85b7d2cea75",
+        "category": "history",
+        "question_concept": "naskah",
         "question": "Naskah naon nu jadi sumber utama sajarah Sunda kuna?",
         "choices": {
             "label": [
@@ -1712,11 +1791,12 @@
                 "Naskah Sundalana"
             ]
         },
-        "question_concept": "naskah",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_e14dd9b20a7042d19513ca090b505264",
+        "category": "history",
+        "question_concept": "organisasi",
         "question": "Naon fungsi organisasi dina pergerakan kamerdekaan Indonesia?",
         "choices": {
             "label": [
@@ -1734,11 +1814,12 @@
                 "Ngawangun infrastruktur"
             ]
         },
-        "question_concept": "organisasi",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_c0ec05967d5840dab975966b823e0989",
+        "category": "history",
+        "question_concept": "pancasila",
         "question": "Naon fungsi Pancasila dina sajarah Indonesia?",
         "choices": {
             "label": [
@@ -1756,11 +1837,12 @@
                 "Kadaharan has Sunda"
             ]
         },
-        "question_concept": "pancasila",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_590fd3bb022c49c2a7f8fe3044f9b8b9",
+        "category": "history",
+        "question_concept": "pati",
         "question": "Naon hartina 'pati' dina konteks peperangan tradisional Sunda?",
         "choices": {
             "label": [
@@ -1778,11 +1860,12 @@
                 "Pajangjian damai"
             ]
         },
-        "question_concept": "pati",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_014fe1ea402b4ac4b71219926bbfd032",
+        "category": "history",
+        "question_concept": "nyiptakeun",
         "question": "Naon panyabab nu nyiptakeun Perang Bubat dina sajarah Sunda?",
         "choices": {
             "label": [
@@ -1800,11 +1883,12 @@
                 "Pemberontakan rahayat"
             ]
         },
-        "question_concept": "nyiptakeun",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_3466c886618340948785e86ea14e8998",
+        "category": "history",
+        "question_concept": "musieum",
         "question": "Musium naon di Tatar Sunda nu nyimpen koleksi barang-barang bersejarah ti jaman baheula?",
         "choices": {
             "label": [
@@ -1822,11 +1906,12 @@
                 "Musium Pajajaran"
             ]
         },
-        "question_concept": "musieum",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_27eb207c73ae4d0dbff05484fde7ab03",
+        "category": "history",
+        "question_concept": "nasib",
         "question": "Dina sajarah Sunda, kumaha nasib karajaan Pajajaran sanggeus diserang ku Banten?",
         "choices": {
             "label": [
@@ -1844,11 +1929,12 @@
                 "Karajaan Pajajaran ngadegkeun aliansi jeung karajaan s\u00e9j\u00e9n"
             ]
         },
-        "question_concept": "nasib",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_3fabde8e63fc4e3c90c5bbb0c01507d2",
+        "category": "history",
+        "question_concept": "palajaran",
         "question": "Naon palajaran sajarah anu penting tina perang Bubat di Tatar Sunda?",
         "choices": {
             "label": [
@@ -1866,11 +1952,12 @@
                 "Kamampuan milit\u00e9r"
             ]
         },
-        "question_concept": "palajaran",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_53d753cc37a04c399bf50987b8f39db9",
+        "category": "history",
+        "question_concept": "pembantaian",
         "question": "Pembantaian naon nu kajadian dina sajarah Sunda anu mawa pangaruh ged\u00e9?",
         "choices": {
             "label": [
@@ -1888,11 +1975,12 @@
                 "Pembantaian G30S/PKI"
             ]
         },
-        "question_concept": "pembantaian",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_711eb2dda26e4c109576b797e68c7f42",
+        "category": "history",
+        "question_concept": "pertahanan",
         "question": "Dina konteks pertahanan, naon strategi utama Karajaan Sunda dina ngajaga wilayahna?",
         "choices": {
             "label": [
@@ -1910,11 +1998,12 @@
                 "Ngawangun prasarana umum"
             ]
         },
-        "question_concept": "pertahanan",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_2f888d7d327f4c50a20fbe8f3cd6be2c",
+        "category": "history",
+        "question_concept": "status",
         "question": "Naon status Karajaan Sunda dina abad ka-16?",
         "choices": {
             "label": [
@@ -1932,11 +2021,12 @@
                 "Karajaan Sunda geus teu aya"
             ]
         },
-        "question_concept": "status",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_8fc0c380639843a99d9ac17401e68809",
+        "category": "history",
+        "question_concept": "warisan",
         "question": "Naon warisan sajarah Sunda anu masih k\u00e9n\u00e9h aya nepi ka kiwari?",
         "choices": {
             "label": [
@@ -1954,11 +2044,12 @@
                 "Karaton Kasepuhan"
             ]
         },
-        "question_concept": "warisan",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_8688cb5551aa42008c5ea1450c5289b6",
+        "category": "history",
+        "question_concept": "sakutu",
         "question": "Naon hartina 'sakutu' dina konteks sajarah Sunda?",
         "choices": {
             "label": [
@@ -1976,11 +2067,12 @@
                 "Pertukaran budaya"
             ]
         },
-        "question_concept": "sakutu",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_3d129873610f4fe69f5606e81f85eb67",
+        "category": "activity",
+        "question_concept": "damel",
         "question": "Naon nu sok dilakukeun ku ibu-ibu di pasar nalika aranjeunna damel?",
         "choices": {
             "label": [
@@ -1998,11 +2090,12 @@
                 "Turu"
             ]
         },
-        "question_concept": "damel",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_a984f28886e240bb9be23de3dcaa5654",
+        "category": "activity",
+        "question_concept": "ngajajar",
         "question": "Naon nu dilakukeun ku guru basa keur ngajajar murid-muridna?",
         "choices": {
             "label": [
@@ -2020,11 +2113,12 @@
                 "Ngadangukeun musik"
             ]
         },
-        "question_concept": "ngajajar",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_f92ef9f91a364c1ca913aaa0bd58ce5c",
+        "category": "activity",
+        "question_concept": "balanja",
         "question": "Di mana tempat nu cocog pikeun ngalakukeun kagiatan balanja?",
         "choices": {
             "label": [
@@ -2042,11 +2136,12 @@
                 "Rumah sakit"
             ]
         },
-        "question_concept": "balanja",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_7fd61acc99d946cd967c6e4f15175880",
+        "category": "activity",
+        "question_concept": "tani",
         "question": "Naon nu dilakukeun ku patani di sawah?",
         "choices": {
             "label": [
@@ -2064,11 +2159,12 @@
                 "Nulis buku"
             ]
         },
-        "question_concept": "tani",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_3b2ab2e323fa445892433313baa8c019",
+        "category": "activity",
+        "question_concept": "demo",
         "question": "Naon anu biasana dilakukeun ku masarakat upami nalika keur demo di jalan?",
         "choices": {
             "label": [
@@ -2086,11 +2182,12 @@
                 "Turu di bumi"
             ]
         },
-        "question_concept": "demo",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_c4bff6c9535a4d609f3d2e823c05c172",
+        "category": "activity",
+        "question_concept": "ngagosip",
         "question": "Lamun keur ngagosip, topik naon anu sering jadi bahan obrolan?",
         "choices": {
             "label": [
@@ -2108,11 +2205,12 @@
                 "Olahraga"
             ]
         },
-        "question_concept": "ngagosip",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_58df45a32674451d9fafcec74c0214ac",
+        "category": "activity",
+        "question_concept": "istirahat",
         "question": "Naon anu biasana dilakukeun nalika istirahat di sakola?",
         "choices": {
             "label": [
@@ -2130,11 +2228,12 @@
                 "Nulis"
             ]
         },
-        "question_concept": "istirahat",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_e1fd56e70fe5465f954431685650bba3",
+        "category": "activity",
+        "question_concept": "ngebon",
         "question": "Naon anu biasana jadi hasil tina kagiatan ngebon?",
         "choices": {
             "label": [
@@ -2152,11 +2251,12 @@
                 "Mobil"
             ]
         },
-        "question_concept": "ngebon",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_4e4dce20c1aa409aab6fb755ac36ea1d",
+        "category": "activity",
+        "question_concept": "nembang",
         "question": "Naon anu dilakukeun ku seniman Sunda nalika keur nembang?",
         "choices": {
             "label": [
@@ -2174,11 +2274,12 @@
                 "Masak kadaharan tradisional"
             ]
         },
-        "question_concept": "nembang",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_c04ff4164b534fa68083528fa3fcd7c1",
+        "category": "activity",
+        "question_concept": "demo",
         "question": "Upami keur aya demo di jalan, kagiatan naon nu biasana dilakukeun ku aranjeunna?",
         "choices": {
             "label": [
@@ -2196,11 +2297,12 @@
                 "Ngabandungan musik"
             ]
         },
-        "question_concept": "demo",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_511fecd45a5d4b8f899eb3f29ad9fbe7",
+        "category": "activity",
+        "question_concept": "nilepkeun",
         "question": "Naon kagiatan anu biasana dilakukeun upami urang rek nilepkeun baju?",
         "choices": {
             "label": [
@@ -2218,11 +2320,12 @@
                 "Nguseup di balong"
             ]
         },
-        "question_concept": "nilepkeun",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_51c8cd4ac4f243bc8671f8fa22703582",
+        "category": "activity",
+        "question_concept": "nerekel",
         "question": "Naon nu biasa dilakukeun ku tukang kebon nalika keur nerekel?",
         "choices": {
             "label": [
@@ -2240,11 +2343,12 @@
                 "Nganteurkeun surat atawa paket ka saban imah"
             ]
         },
-        "question_concept": "nerekel",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_50acf10ba6c74baa9519419f22186b3a",
+        "category": "activity",
+        "question_concept": "mere nasehat",
         "question": "Naon nu sok dilakukeun ku jalma upami keur mapatahan?",
         "choices": {
             "label": [
@@ -2262,11 +2366,12 @@
                 "Ngadangukeun radio"
             ]
         },
-        "question_concept": "mere nasehat",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_e2f201481ef246018ef820168cbdf4fe",
+        "category": "activity",
+        "question_concept": "nuar kai",
         "question": "Kegiatan naon anu patali jeung nuar kai di leuweung?",
         "choices": {
             "label": [
@@ -2284,11 +2389,12 @@
                 "Ngapungkeun layang-layang"
             ]
         },
-        "question_concept": "nuar kai",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_fbe349e932524a99878b571aa5de6b12",
+        "category": "activity",
+        "question_concept": "paeh",
         "question": "Kumaha parasaan kulawarga lamun aya anggota kulawarga nu maot?",
         "choices": {
             "label": [
@@ -2306,11 +2412,12 @@
                 "Sumanget"
             ]
         },
-        "question_concept": "paeh",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_d832ef7a26a34e1a97c67c11bf3ce047",
+        "category": "activity",
+        "question_concept": "nyukur",
         "question": "Naon nu dilakukeun tukang kebon lamun keur gawe jeung aya kagiatan nyukur?",
         "choices": {
             "label": [
@@ -2328,11 +2435,12 @@
                 "Ngojay di kolam"
             ]
         },
-        "question_concept": "nyukur",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_36c6bdb0afa14516aec94d6344e6fbed",
+        "category": "activity",
+        "question_concept": "ngawuluku sawah",
         "question": "Naon nu dilakukeun dina kegiatan ngawuluku sawah?",
         "choices": {
             "label": [
@@ -2350,11 +2458,12 @@
                 "Ngaladangan"
             ]
         },
-        "question_concept": "ngawuluku sawah",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_759ac138dcea445b8f5b403149033bff",
+        "category": "activity",
+        "question_concept": "neuteupan",
         "question": "Naon kagiatan nu biasana dilakukeun keur neuteupan tipi?",
         "choices": {
             "label": [
@@ -2372,11 +2481,12 @@
                 "Ngalukis"
             ]
         },
-        "question_concept": "neuteupan",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_d83ed36d83954a66b05d990879db81fc",
+        "category": "activity",
+        "question_concept": "nyeseueulan",
         "question": "Naon anu anjeun lakukeun nalika anjeun nyeuseueulan batur?",
         "choices": {
             "label": [
@@ -2394,11 +2504,12 @@
                 "Maen bal"
             ]
         },
-        "question_concept": "nyeseueulan",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_579ad3eedf18466398d623b9d8276655",
+        "category": "activity",
+        "question_concept": "ngajagi",
         "question": "Dina ngajagi lingkungan, naon tindakan anu bisa dilakukeun ku wargi?",
         "choices": {
             "label": [
@@ -2416,11 +2527,12 @@
                 "Ngamumule tatangkalan"
             ]
         },
-        "question_concept": "ngajagi",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_e95b5b57bcb049b580fa34f14571d69b",
+        "category": "activity",
+        "question_concept": "ngunduh mantu",
         "question": "Naon nu biasana dilakukeun dina acara ngunduh mantu?",
         "choices": {
             "label": [
@@ -2438,11 +2550,12 @@
                 "Nyieun kue"
             ]
         },
-        "question_concept": "ngunduh mantu",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_58d6212d37ba48d88b20d3109b8c0b76",
+        "category": "activity",
+        "question_concept": "senam",
         "question": "Naon nu biasana dilakukeun dina kagiatan senam?",
         "choices": {
             "label": [
@@ -2460,11 +2573,12 @@
                 "Nyetir kendaraan"
             ]
         },
-        "question_concept": "senam",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_8024cafd276f439eb45c22812b71b33c",
+        "category": "activity",
+        "question_concept": "siraman",
         "question": "Dina adat Sunda, iraha siraman biasana dilakukeun?",
         "choices": {
             "label": [
@@ -2482,11 +2596,12 @@
                 "Sanggeus lulus sakola"
             ]
         },
-        "question_concept": "siraman",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_f1260219b34546739cbc0b3743e51f96",
+        "category": "activity",
+        "question_concept": "ngajagi",
         "question": "Naon anu dilakukeun ku sato nalika ngajagi anak-anakna?",
         "choices": {
             "label": [
@@ -2504,11 +2619,12 @@
                 "Ma\u00e9n"
             ]
         },
-        "question_concept": "ngajagi",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_a1644c91fe51417f9d23857812afef4d",
+        "category": "activity",
+        "question_concept": "ngarapikeun",
         "question": "Naon nu dilakukeun ku tukang kayu nu keur ngarapikeun parabot sateuacan dicet?",
         "choices": {
             "label": [
@@ -2526,11 +2642,12 @@
                 "Ngalatih olahraga"
             ]
         },
-        "question_concept": "ngarapikeun",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_5626624f037c45feab0779a5d0fc8902",
+        "category": "activity",
+        "question_concept": "ngunduh mantu",
         "question": "Naon nu dilakukeun dina upacara ngunduh mantu?",
         "choices": {
             "label": [
@@ -2548,11 +2665,12 @@
                 "Nyieun kueh"
             ]
         },
-        "question_concept": "ngunduh mantu",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_cac228f8674e477b9db8ce902cdbbf5c",
+        "category": "activity",
+        "question_concept": "parkir",
         "question": "Lamun urang r\u00e9k parkir di tempat umum, naon nu kudu dilakukeun?",
         "choices": {
             "label": [
@@ -2570,11 +2688,12 @@
                 "Ngalamar gaw\u00e9"
             ]
         },
-        "question_concept": "parkir",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_74f4f1c117504468a460167e9fbeeb01",
+        "category": "activity",
+        "question_concept": "indit",
         "question": "Naon anu r\u00e9k dilakukeun ku murid upami indit ka sakola?",
         "choices": {
             "label": [
@@ -2592,11 +2711,12 @@
                 "Ngala lauk"
             ]
         },
-        "question_concept": "indit",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_9d3c2dd4c28e4c1eaa625caf45c0274a",
+        "category": "activity",
+        "question_concept": "nyalse",
         "question": "Naon anu dilakukeun ku jalma anu keur nyalse?",
         "choices": {
             "label": [
@@ -2614,11 +2734,12 @@
                 "Nyalse"
             ]
         },
-        "question_concept": "nyalse",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_27e2d0649b5440fa98950d288188d1a3",
+        "category": "activity",
+        "question_concept": "ngaratapan",
         "question": "Dina prosesi ngaratapan, naon nu dilakukeun ku kulawarga nu keur berduka?",
         "choices": {
             "label": [
@@ -2636,11 +2757,12 @@
                 "Ngayakeun lomba"
             ]
         },
-        "question_concept": "ngaratapan",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_c180b5b7dc9345b28f08845f031101c4",
+        "category": "culinary",
+        "question_concept": "ngaduk",
         "question": "Dina kuliner Sunda, kumaha cara ngaduk adonan nu bener supaya hasilna lemes tur merenah?",
         "choices": {
             "label": [
@@ -2658,11 +2780,12 @@
                 "Ngadukna bari ditambahkeun cai panas"
             ]
         },
-        "question_concept": "ngaduk",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_78358fea68ef41c99a2c5a94cf43671c",
+        "category": "culinary",
+        "question_concept": "cai",
         "question": "Dina kuliner Sunda, cai biasana dipake pikeun naon?",
         "choices": {
             "label": [
@@ -2680,11 +2803,12 @@
                 "Sadaya jawaban bener"
             ]
         },
-        "question_concept": "cai",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_1e71582cda5940c5becbb74909b53a39",
+        "category": "culinary",
+        "question_concept": "air fryer",
         "question": "Kumaha kauntungan ngagunakeun air fryer lamun masak gorengan dina kuliner Sunda?",
         "choices": {
             "label": [
@@ -2702,11 +2826,12 @@
                 "Gorengan jadi langkung garing"
             ]
         },
-        "question_concept": "air fryer",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_d8daa9ad84f04e8bb45f8214564373fc",
+        "category": "culinary",
+        "question_concept": "beuleum",
         "question": "Naon hartina 'beuleum' dina konteks masakan Sunda?",
         "choices": {
             "label": [
@@ -2724,11 +2849,12 @@
                 "Ditumis"
             ]
         },
-        "question_concept": "beuleum",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_9b8104f9e83c48d486e19e9046ac0d31",
+        "category": "culinary",
+        "question_concept": "bubur",
         "question": "Bubur naon anu biasana didahar ku urang Sunda pikeun nyarap?",
         "choices": {
             "label": [
@@ -2746,11 +2872,12 @@
                 "Bubur Manado"
             ]
         },
-        "question_concept": "bubur",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_b2ed99a3bd22492f888303a43f38b362",
+        "category": "culinary",
+        "question_concept": "bumbu",
         "question": "Bumbu naon anu sering digunakeun dina masakan Sunda pikeun nambahkeun rasa lada?",
         "choices": {
             "label": [
@@ -2768,11 +2895,12 @@
                 "Cabe"
             ]
         },
-        "question_concept": "bumbu",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_02daa4f37f3d4c099a60682c5dbd605b",
+        "category": "culinary",
+        "question_concept": "air fryer",
         "question": "Naon kaunggulan ngagunakeun air fryer dina kuliner Sunda?",
         "choices": {
             "label": [
@@ -2790,11 +2918,12 @@
                 "Ngagunakeun cai pikeun ngagoreng"
             ]
         },
-        "question_concept": "air fryer",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_3883fb146884497fb4766b1881883932",
+        "category": "culinary",
+        "question_concept": "asin",
         "question": "Naon bumbu dasar nu sok dipake dina masakan Sunda pikeun nambahan rasa asin?",
         "choices": {
             "label": [
@@ -2812,11 +2941,12 @@
                 "Kecap asin"
             ]
         },
-        "question_concept": "asin",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_33d945bfb3414500849ec17695e8c4f7",
+        "category": "culinary",
+        "question_concept": "cabe",
         "question": "Naon fungsi cabe dina masakan Sunda?",
         "choices": {
             "label": [
@@ -2834,11 +2964,12 @@
                 "Pikeun nginum"
             ]
         },
-        "question_concept": "cabe",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_ee5eff5a1e4c4f8eaed1bb272df824a6",
+        "category": "culinary",
+        "question_concept": "pelem",
         "question": "Naon hartina 'pelem' dina konteks kadaharan Sunda?",
         "choices": {
             "label": [
@@ -2856,11 +2987,12 @@
                 "Rasa nu lada"
             ]
         },
-        "question_concept": "pelem",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_1d648461bd034b33888dabb95e947655",
+        "category": "culinary",
+        "question_concept": "jagong",
         "question": "Kadaharan naon anu dijieun tina sampeu anu geus diparud nepi ka alus teras dieusian ku oncom tur jadi karesepan di da\u00e9rah Sunda?",
         "choices": {
             "label": [
@@ -2878,11 +3010,12 @@
                 "Bala-bala"
             ]
         },
-        "question_concept": "jagong",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_b06b099834a64d769ab1bf7481d8bbf0",
+        "category": "culinary",
+        "question_concept": "rumah sakit",
         "question": "Naon anu biasana teu diidinan pikeun didahar ku pasien panyakit maag nu keur dirawat di rumah sakit?",
         "choices": {
             "label": [
@@ -2900,11 +3033,12 @@
                 "Yogurt"
             ]
         },
-        "question_concept": "rumah sakit",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_6db597f59a4d4edf93894c1acd4a7a58",
+        "category": "culinary",
+        "question_concept": "kupat",
         "question": "Dina acara tradisi Sunda naon biasana kupat disuguhkeun?",
         "choices": {
             "label": [
@@ -2922,11 +3056,12 @@
                 "Mapag Sri"
             ]
         },
-        "question_concept": "kupat",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_915e6e0111ea43d6a275fbf1a834608e",
+        "category": "culinary",
+        "question_concept": "krispi",
         "question": "Kadaharan naon nu biasana dijieun jadi 'krispi' dina kuliner Sunda?",
         "choices": {
             "label": [
@@ -2944,11 +3079,12 @@
                 "Daging"
             ]
         },
-        "question_concept": "krispi",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_f63b7ec204774dbaaee87166f6a5855e",
+        "category": "culinary",
+        "question_concept": "ngembang",
         "question": "Naon fungsi ragi dina pros\u00e9s ngajieun roti salian jang ngembangkeun adonan?",
         "choices": {
             "label": [
@@ -2966,11 +3102,12 @@
                 "Ngajadikeun roti warna biru"
             ]
         },
-        "question_concept": "ngembang",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_7f609731198f454fbca950f3cf59220e",
+        "category": "culinary",
+        "question_concept": "menu",
         "question": "Dina menu restoran Sunda, naon nu biasana jadi pilihan utama?",
         "choices": {
             "label": [
@@ -2988,11 +3125,12 @@
                 "Hamburger"
             ]
         },
-        "question_concept": "menu",
         "answer_creator": "B"
     },
     {
         "id": "orig_m_sun_7a8f550dcc8c458c966e5c7db15d20e0",
+        "category": "culinary",
+        "question_concept": "emih",
         "question": "Naon kadaharan has ti Sunda nu bahan dasarna emih?",
         "choices": {
             "label": [
@@ -3010,11 +3148,12 @@
                 "Emih baso"
             ]
         },
-        "question_concept": "emih",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_9426a25f9511413190f978811606efe2",
+        "category": "culinary",
+        "question_concept": "oleh-oleh",
         "question": "Naon nu biasa dijadikeun oleh-oleh ti Bandung nu aya hubunganana jeung kuliner?",
         "choices": {
             "label": [
@@ -3032,11 +3171,12 @@
                 "Ukiran Kayu"
             ]
         },
-        "question_concept": "oleh-oleh",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_4b672e0b9cc040e990fbc576c279307a",
+        "category": "culinary",
+        "question_concept": "buras",
         "question": "Naon bahan utama anu digunakeun pikeun nyieun buras?",
         "choices": {
             "label": [
@@ -3054,11 +3194,12 @@
                 "Beas beureum"
             ]
         },
-        "question_concept": "buras",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_9b72ec19333a4c88ac1790cfbb3f57d5",
+        "category": "culinary",
+        "question_concept": "cucurak",
         "question": "Naon anu dilakukeun dina acara cucurak dina budaya Sunda?",
         "choices": {
             "label": [
@@ -3076,11 +3217,12 @@
                 "Ngobrol bari ulin"
             ]
         },
-        "question_concept": "cucurak",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_05e3fcc858ad4f4cb9a4309b45899613",
+        "category": "culinary",
+        "question_concept": "dahar mak\u00e9 leungeun katuhu",
         "question": "Naha dina adat Sunda disarankeun dahar mak\u00e9 leungeun katuhu?",
         "choices": {
             "label": [
@@ -3098,11 +3240,12 @@
                 "Henteu aya alesan husus"
             ]
         },
-        "question_concept": "dahar mak\u00e9 leungeun katuhu",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_a23051e483774dc4bb79dd056ae7c4dd",
+        "category": "culinary",
+        "question_concept": "dahar ngaduluan kolot",
         "question": "Kumaha aturan dahar ngaduluan kolot dina adat Sunda?",
         "choices": {
             "label": [
@@ -3120,11 +3263,12 @@
                 "Barudak kudu ngadahar di luar bari kolot di jero"
             ]
         },
-        "question_concept": "dahar ngaduluan kolot",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_02059b39c60b4b5b9000afeecf4d2a8f",
+        "category": "culinary",
+        "question_concept": "dahar teu b\u00e9ak",
         "question": "Kumaha carana supaya dina acara hajatan teu aya kajadian kadaharan nu teu b\u00e9ak?",
         "choices": {
             "label": [
@@ -3142,11 +3286,12 @@
                 "Nyieun jadwal dahar"
             ]
         },
-        "question_concept": "dahar teu b\u00e9ak",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_e051222d4237493ea23257ebf59ce3dd",
+        "category": "culinary",
+        "question_concept": "mangkok",
         "question": "Pikeun naon mangkok biasa digunakeun dina acara makan-makan has Sunda?",
         "choices": {
             "label": [
@@ -3164,11 +3309,12 @@
                 "Pikeun nyajikeun sop atawa bubur"
             ]
         },
-        "question_concept": "mangkok",
         "answer_creator": "E"
     },
     {
         "id": "orig_m_sun_b55c72894bc7489eabef7c50dc929ab6",
+        "category": "culinary",
+        "question_concept": "amis",
         "question": "Naon rasa nu biasa dipikaresep ku urang Sunda nu aya dina kadaharan gemblong?",
         "choices": {
             "label": [
@@ -3186,11 +3332,12 @@
                 "Rasa lada"
             ]
         },
-        "question_concept": "amis",
         "answer_creator": "C"
     },
     {
         "id": "orig_m_sun_77a73d0f9df24478ac65dd1e0fca40f0",
+        "category": "culinary",
+        "question_concept": "pandan",
         "question": "Pikeun naon daun pandan mindeng dianggo dina kuliner Sunda ?",
         "choices": {
             "label": [
@@ -3208,11 +3355,12 @@
                 "Pikeun hiasan piring"
             ]
         },
-        "question_concept": "pandan",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_146979b7b05d4e1596900bf7e441bb05",
+        "category": "culinary",
+        "question_concept": "saos",
         "question": "Saos naon anu sering dijadikeun batur keur tuang sate di wewengkon Sunda?",
         "choices": {
             "label": [
@@ -3230,11 +3378,12 @@
                 "Mayones"
             ]
         },
-        "question_concept": "saos",
         "answer_creator": "D"
     },
     {
         "id": "orig_m_sun_04c687f51aed4c289e280dbf85497318",
+        "category": "culinary",
+        "question_concept": "sele",
         "question": "Dina kuliner Sunda, sate maranggi biasana dijieun tina daging naon?",
         "choices": {
             "label": [
@@ -3252,11 +3401,12 @@
                 "Daging munding"
             ]
         },
-        "question_concept": "sele",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_19f077a1e36d4517922857e897ffb00f",
+        "category": "culinary",
+        "question_concept": "tumis",
         "question": "Sayur naon anu mindeng ditumis dina dapur urang Sunda?",
         "choices": {
             "label": [
@@ -3274,11 +3424,12 @@
                 "Dur\u00e9n"
             ]
         },
-        "question_concept": "tumis",
         "answer_creator": "A"
     },
     {
         "id": "orig_m_sun_b4b0500f127c47d1b6b90317cafe9c82",
+        "category": "culinary",
+        "question_concept": "sayur",
         "question": "Sayur naon anu sering dijadikeun lalab dina kuliner Sunda?",
         "choices": {
             "label": [
@@ -3296,7 +3447,3456 @@
                 "Terong"
             ]
         },
-        "question_concept": "sayur",
         "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_5d16f7c04f1843ef9a8c5ab7423f318e",
+        "category": "place",
+        "question_concept": "institut teknologi bandung",
+        "question": "Di mana lokasi Institut Teknologi Bandung?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bandung",
+                "Jakarta",
+                "Surabaya",
+                "Yogyakarta",
+                "Medan"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_125bcfc17d1d411599cada640263be26",
+        "category": "place",
+        "question_concept": "panti pijat",
+        "question": "Di mana biasana urang tiasa mendakan panti pijat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di sakola",
+                "Di pasar",
+                "Di pusat kasehatan",
+                "Di pusat balanja",
+                "Di leuweung"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_fffd0d7357f64621b49398121b62ccde",
+        "category": "place",
+        "question_concept": "apotek",
+        "question": "Naon anu bisa dipendakan di apotek?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Emaman",
+                "Baju",
+                "Ubar",
+                "Buku",
+                "Alat tulis"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_0249b0a590d84ca5936b92ef264cfc53",
+        "category": "place",
+        "question_concept": "lomari",
+        "question": "Naon fungsi utama lomari?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun masak",
+                "Pikeun nyimpen baju",
+                "Pikeun mandi",
+                "Pikeun sar\u00e9",
+                "Pikeun diajar"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_1d896ca6b9f34d359475e44edd591e02",
+        "category": "place",
+        "question_concept": "tenda",
+        "question": "Naon fungsi tenda dina acara luar rohangan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun tempat istirahat",
+                "Pikeun tempat adu manis",
+                "Pikeun tempat panyumputan",
+                "Pikeun tempat acara",
+                "Pikeun tempat nyimpen kendaraan"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_ef59a847cc2e4d649fbe78ef1912e1b4",
+        "category": "place",
+        "question_concept": "astana",
+        "question": "Di mana biasana astana t\u00e9h ayana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di sisi jalan raya",
+                "Di tengah kota",
+                "Di taman kota",
+                "Di wewengkon nu sepi",
+                "Di gigireun pasar"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_e7c20e4e402e44b6b52bea78a267f154",
+        "category": "place",
+        "question_concept": "leuweung",
+        "question": "Naon nu bisa dipanggihan di leuweung?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mobil",
+                "Pabrik",
+                "Sato liar",
+                "Pusat balanja",
+                "Imah susun"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_1c7a11fe39ea4b1da25692427bd0c3e9",
+        "category": "place",
+        "question_concept": "vila",
+        "question": "Naon fungsi utama tina vila?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pendidikan",
+                "Pabrik",
+                "Tempat tinggal samentawis",
+                "Kantor pamar\u00e9ntah",
+                "Rumah sakit"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_eb6697456b9340119f000e6d687f4a80",
+        "category": "place",
+        "question_concept": "kasur",
+        "question": "Di mana urang biasana mendakan kasur?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dapur",
+                "Kamar mandi",
+                "Perpustakaan",
+                "Kamar sare",
+                "Garasi"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_3e90cf77e30c44a1a996c2741dbf40b4",
+        "category": "place",
+        "question_concept": "taman rekreasi",
+        "question": "Naon nu bisa dilakukeun di taman rekreasi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Meuli baju",
+                "Ngalakukeun riset",
+                "Ulin sareng kulawarga",
+                "Ngadangukeun ceramah",
+                "Ngadamel kue"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_c5267827a0894bbf87729f9b2b235627",
+        "category": "place",
+        "question_concept": "gang",
+        "question": "Naon fungsi utama gang di hiji padumukan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun tempat parkir kendaraan",
+                "Pikeun jalur leumpang warga",
+                "Pikeun tempat dagang",
+                "Pikeun akses ka imah-imah",
+                "Pikeun tempat maen barudak"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_b0f5c33bc1db49ae95b3663d61bc3b5a",
+        "category": "place",
+        "question_concept": "ruang daharan",
+        "question": "Di mana biasana ruang daharan aya di imah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di luar imah",
+                "Di sisi ruang tamu",
+                "Di dapur",
+                "Di loteng",
+                "Di garasi"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_52a82f8767244a74b73d9685706434db",
+        "category": "place",
+        "question_concept": "auditorium",
+        "question": "Pikeun naon auditorium biasana digunakeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun rapat",
+                "Pikeun dahar",
+                "Pikeun olahraga",
+                "Pikeun nonton pelem",
+                "Pikeun acara-acara"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_9ca0c076a2e449aaad455c5178035cc7",
+        "category": "place",
+        "question_concept": "goah",
+        "question": "Naon nu biasa dilakukeun di goah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Merenung atawa meditasi",
+                "Ngojay",
+                "Masak",
+                "Nonton pelem",
+                "Balanja"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_e5e442d6e4f7492f916c6964b64c69d1",
+        "category": "place",
+        "question_concept": "bandara",
+        "question": "Naon fungsi utama bandara?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun tempat balanja",
+                "Pikeun tempat hiber sareng badarat pesawat",
+                "Pikeun tempat nginum kopi",
+                "Pikeun tempat nonton pelem",
+                "Pikeun tempat olahraga"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_25ebf4eaec0746b78222225b2fbf06ee",
+        "category": "place",
+        "question_concept": "jambatan panyebrangan",
+        "question": "Naon tujuan utama jambatan panyebrangan dijieun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngahias kota",
+                "Pikeun tempat mancing",
+                "Pikeun ngahubungkeun dua sisi jalan",
+                "Pikeun tempat dagang",
+                "Pikeun tempat upacara adat"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_b85a1ecd479c466aad4d2893950cfd30",
+        "category": "place",
+        "question_concept": "gareja",
+        "question": "Di mana biasana gareja diwangun di tatar Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di jero guha",
+                "Di sisi laut",
+                "Di tengah kota atawa desa",
+                "Di luhur gunung",
+                "Di sisi rel kareta"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_bec2476599964b828b8a04cb3b838ae8",
+        "category": "place",
+        "question_concept": "kamer",
+        "question": "Pikeun naon kamer di hotel biasana dipak\u00e9?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun rapat",
+                "Pikeun makan",
+                "Pikeun olahraga",
+                "Pikeun istirahat",
+                "Pikeun nonton konser"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_feac80042714443eb91a4a0614aa72e7",
+        "category": "place",
+        "question_concept": "taman",
+        "question": "Di mana biasana aya taman?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di jero rohangan",
+                "Di sisi jalan raya",
+                "Di tengah kota",
+                "Di sisi walungan",
+                "Di area perumahan"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_85cf44355d614c518bf940704a3e82a7",
+        "category": "place",
+        "question_concept": "delman",
+        "question": "Delman biasana digunakeun pikeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngangkut barang-barang beurat",
+                "Pikeun balap mobil",
+                "Pikeun ngolah tanah",
+                "Pikeun transportasi tradisional nu merenah",
+                "Pikeun ngapung ka langit"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_1b150c8342d7416ead8c517245443de7",
+        "category": "place",
+        "question_concept": "halte",
+        "question": "Naon fungsi halte di jalan raya?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tempat parkir",
+                "Tempat nungguan angkot",
+                "Restoran",
+                "Toko buku",
+                "Bioskop"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_12fc86864b5d42bcaaf0d542d45ca106",
+        "category": "place",
+        "question_concept": "laboratorium",
+        "question": "Di mana urang tiasa mendakan laboratorium?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di sakola",
+                "Di pasar",
+                "Di warung",
+                "Di sawah",
+                "Di bumi"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_ef73b83c5d4d4ced83d9dddbc3370137",
+        "category": "place",
+        "question_concept": "kebon",
+        "question": "Naon nu biasana aya di kebon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kandaraan",
+                "Meja",
+                "Tutuwuhan",
+                "Komputer",
+                "Buku"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_3158d2564d8a4fba850c81e477888d58",
+        "category": "place",
+        "question_concept": "bank",
+        "question": "Di mana anjeun tiasa mendakan bank pikeun transaksi kauangan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di pasar",
+                "Di sakola",
+                "Di kantor pos",
+                "Di pusat kota atanapi da\u00e9rah kom\u00e9rsial",
+                "Di bumi sakit"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_3354c1d072104e68bd66fc6fc94bf649",
+        "category": "place",
+        "question_concept": "panjara",
+        "question": "Di mana biasana panjara t\u00e9h diwangun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di tengah kota",
+                "Di sisi walungan",
+                "Di wewengkon anu jauh ti padumukan",
+                "Di gigireun pasar",
+                "Di jero leuweung"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_5429962fd3b04305937d67b31e2605c7",
+        "category": "place",
+        "question_concept": "lampu beureum",
+        "question": "Naon fungsi lampu beureum di persimpangan jalan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "M\u00e9r\u00e9 isarat supaya kendaraan langsung jalan",
+                "M\u00e9r\u00e9 isarat supaya kendaraan eureun heula",
+                "M\u00e9r\u00e9 isarat supaya kendaraan ngurangan laju",
+                "M\u00e9r\u00e9 isarat supaya pejalan kaki bisa nyebrang",
+                "M\u00e9r\u00e9 isarat supaya kendaraan bisa parkir"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_d00839a583344ce386187d4608f0a791",
+        "category": "place",
+        "question_concept": "trotoar",
+        "question": "Pikeun naon trotoar dijieun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun jalur sepeda",
+                "Pikeun parkir kendaraan",
+                "Pikeun pejalan kaki",
+                "Pikeun jalur busway",
+                "Pikeun pedagang kaki lima"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_dd21e5daf01d4762a04701e5c7ce94ba",
+        "category": "place",
+        "question_concept": "uks",
+        "question": "Aya di mana biasana UKS?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di rumah sakit",
+                "Di kantor polisi",
+                "Di pasar",
+                "Di sakola",
+                "Di taman kota"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_a0716bed0bdf48698badc63c1b13f70e",
+        "category": "place",
+        "question_concept": "pawon",
+        "question": "Naon nu biasa dilakukeun di pawon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngalakukeun rapat",
+                "Sare",
+                "Masak",
+                "Nonton tipi",
+                "Mandi"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_17415c84577f40b19ad5f576622ae6e6",
+        "category": "place",
+        "question_concept": "lapangan berkuda",
+        "question": "Lapangan berkuda t\u00e9h biasana aya di mana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Di pusat balanja",
+                "Di sisi laut",
+                "Di daerah pegunungan",
+                "Di wewengkon nu lega",
+                "Di tengah kota"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_fff7d53012824d8b8e756bd5807768f2",
+        "category": "culture",
+        "question_concept": "pilem",
+        "question": "Naon judul pilem Sunda nu nyaritakeun tentang kabudayaan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Si Kabayan",
+                "Laskar Pelangi",
+                "Naga Bonar",
+                "Ada Apa Dengan Cinta",
+                "Dilwale Dulhania Le Jayenge"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_2a0772844d6347a39968dd6baaf9f356",
+        "category": "culture",
+        "question_concept": "salametan",
+        "question": "Naon fungsi utama tina salametan dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngahibur barudak leutik",
+                "Pikeun ngalaksanakeun upacara adat",
+                "Pikeun ngajual hasil seni",
+                "Pikeun olahraga tradisional",
+                "Pikeun kompetisi masak"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_96cd1e0c55d643fd9bf5768e94b13d5c",
+        "category": "culture",
+        "question_concept": "getih",
+        "question": "Naon nu dimaksud ku 'getih' dina konteks budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Cai nu ngalir dina awak manusa atawa sato",
+                "Simbol tina kakuatan jeung kahirupan",
+                "Warna nu sering dipak\u00e9 dina pak\u00e9an adat",
+                "Ritus atawa upacara adat nu aya patalina jeung kahirupan",
+                "Jinis kadaharan has Sunda"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_7de7a26d01de45768a68e6d0defe4cce",
+        "category": "culture",
+        "question_concept": "carita rahayat",
+        "question": "Carita naon nu kaasup kana carita rahayat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Cinderella",
+                "Lutung Kasarung",
+                "Harry Potter",
+                "Sherlock Holmes",
+                "The Lord of the Rings"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_55fe85c1a5584d2084e3dbe36601f307",
+        "category": "culture",
+        "question_concept": "kanvas",
+        "question": "Dina seni lukis Sunda, naon fungsi kanvas?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kanggo bahan dasar pikeun nyieun lukisan",
+                "Kanggo pigura pikeun lukisan",
+                "Kanggo alat pikeun ngukir",
+                "Kanggo alat pikeun nyieun patung",
+                "Kanggo hiasan dinding"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_972aee1e5f9d45889a9a67a4944b7bdb",
+        "category": "culture",
+        "question_concept": "tradisi",
+        "question": "Naon conto tradisi Sunda nu masih k\u00e9n\u00e9h diprakt\u00e9kkeun ayeuna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Serentaun",
+                "Halloween",
+                "Thanksgiving",
+                "Paskah",
+                "Natal"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_c208c47e92f4414a879793862047be23",
+        "category": "culture",
+        "question_concept": "langka",
+        "question": "Kecap 'langka' dina budaya Sunda biasana ngarujuk kana naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Hal nu gampang kapanggih",
+                "Hal nu sering kajadian",
+                "Hal nu jarang kapanggih atawa henteu umum",
+                "Seni lukis",
+                "Latihan rutin"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_6185f06873de44169c8d3027c75631cb",
+        "category": "culture",
+        "question_concept": "peuting",
+        "question": "Naon nu sok dilakonan ku urang Sunda dina waktu peuting pas bulan puasa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngabuburit",
+                "Taraw\u00e9h",
+                "Ngalalajo",
+                "Sahur",
+                "Ma\u00e9n kaulinan tradisional"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_b1a00699342a4efba421fadb1d4b4340",
+        "category": "culture",
+        "question_concept": "tembang",
+        "question": "Naon nu disebut 'tembang' dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Baju adat Sunda",
+                "Alat musik tradisional Sunda",
+                "Lagu atawa puisi tradisional Sunda nu biasa ditembangkeun",
+                "Tarian tradisional Sunda",
+                "Emaman tradisional Sunda"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_668c8eceaf7d40c6ad49516d5bf7f117",
+        "category": "culture",
+        "question_concept": "isuk",
+        "question": "Kumaha urang Sunda nyebut waktu isuk dina kahirupan sapopo\u00e9?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Wanci janari",
+                "Wanci beurang",
+                "Wanci sonten",
+                "Wanci peuting",
+                "Wanci subuh"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_8b6a3fa54aaf4feca09d79930a1a7a0c",
+        "category": "culture",
+        "question_concept": "ibu hamil",
+        "question": "Naon istilah pikeun ibu hamil dina basa Sunda nu nuduhkeun hormat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ibu ngandung",
+                "Ibu bade",
+                "Ibu nuju ngemban",
+                "Ibu nuju nyanggakeun",
+                "Ibu nuju anteng"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_eb4c462f8d094c7bbe006c54238ed0ee",
+        "category": "culture",
+        "question_concept": "kawinan",
+        "question": "Naon nu biasa dilakukeun dina acara kawinan adat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Maen bal",
+                "Ngalakukeun prosesi seren taun",
+                "Silih tukeur cincin",
+                "Nyanyi lagu pop",
+                "Ngadu munding"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_80a0508aef314bd4ba567ab0e16e3910",
+        "category": "culture",
+        "question_concept": "kabaret",
+        "question": "Dina budaya Sunda, naon fungsi kabaret?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngahibur dina acara resmi",
+                "Pikeun upacara adat",
+                "Pikeun pintonan seni",
+                "Pikeun pertunjukan komedi",
+                "Pikeun ritual keagamaan"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_82292b6e3c0649c4b3ff7cc67f92a2b8",
+        "category": "culture",
+        "question_concept": "maot",
+        "question": "Dina konteks Sunda, naon hartina 'maot'?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Proses jadi dewasa",
+                "Proses ngolah padi",
+                "Proses pindah ka alam baka",
+                "Proses nyieun kerajinan tangan",
+                "Proses ngadegkeun karaton"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_cab6ef744eb1485da4a3593edfcc7155",
+        "category": "culture",
+        "question_concept": "hideung",
+        "question": "Kondisi naon nu sok dikaitkeun jeung warna hideung dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kabungahan",
+                "Kalaparan",
+                "Kasedihan",
+                "Kacapean",
+                "Katiisan"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_e9b3b74603aa436ca65befb4eb1dbf55",
+        "category": "culture",
+        "question_concept": "neukteuk",
+        "question": "Dina budaya Sunda, naon tujuan neukteuk dina upacara seren taun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Neukteuk benang nu ngaitkeun panganten",
+                "Neukteuk pita dina pembukaan gedung anyar",
+                "Neukteuk buuk salaku simbol kedewasaan",
+                "Neukteuk tali pusar orok",
+                "Neukteuk pare salaku simbol syukur ka Dewi Sri"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_1381fc09dccc47358d5236a30b4c3468",
+        "category": "culture",
+        "question_concept": "unesco",
+        "question": "Naon peran UNESCO dina ngajaga budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngajaga hutan tropis",
+                "Ngajaga warisan budaya dunya",
+                "Ngawangun sakola anyar",
+                "Ngajual produk lokal",
+                "Ngayakeun festival musik"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_024d5329b9004220b47a60d20d3c3d9c",
+        "category": "culture",
+        "question_concept": "maot",
+        "question": "Dina konteks Sunda, naon hartina 'maot'?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Proses ngolah pare jadi beas",
+                "Kagiatan ngala lauk di walungan",
+                "Kondisi di mana jelema geus teu hirup deui",
+                "Upacara adat pikeun nu boga hajat",
+                "Cara ngobrol nu sopan di masarakat Sunda"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_71e23b2c3d2f4d67a24f1d49b10af513",
+        "category": "culture",
+        "question_concept": "kasohor sadunia",
+        "question": "Naon nu jadi sabab tari Jaipongan kasohor sadunia?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Alatan musikna nu merenah",
+                "Alatan gerakanna nu enerjik jeung ekspresif",
+                "Alatan pak\u00e9an tari nu warna-warni",
+                "Alatan dipintonkeun dina acara internasional",
+                "Alatan dirojong ku pamar\u00e9ntah"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_30bbcd46d3c647fa8d7adb42a2ceb30d",
+        "category": "culture",
+        "question_concept": "mulut ka mulut",
+        "question": "Dina budaya Sunda, kumaha informasi biasana disebarkeun ngaliwatan 'sungut ka sungut'?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngaliwatan dongeng",
+                "Ngaliwatan pantun",
+                "Ngaliwatan sisindiran",
+                "Ngaliwatan warta",
+                "Ngaliwatan lagu"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_8e708b09be414378a079814d32e0d1dc",
+        "category": "culture",
+        "question_concept": "baju",
+        "question": "Naon nu jadi ciri khas baju adat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kebaya sareng batik",
+                "Songket sareng tanjak",
+                "Ulos sareng sigale-gale",
+                "Peci sareng sarung",
+                "Baju kurung sareng tengkuluk"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_7853c74030504ec2a7d36321ed81a149",
+        "category": "culture",
+        "question_concept": "ibadah",
+        "question": "Dina budaya Sunda, kagiatan ibadah nu dilakukeun di masigit disebut naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngawuluku",
+                "Ngamumul\u00e9",
+                "Sholat",
+                "Nyiraman",
+                "Ngadu'a"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_88f50bd2a12d47f9af14206137d60857",
+        "category": "culture",
+        "question_concept": "mitos",
+        "question": "Naon mitos anu sering dianggap salaku bagian tina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Carita rakyat",
+                "Legenda gunung",
+                "Dongeng sato",
+                "Tutuwuhan obat",
+                "Resep masakan"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_c2176cd880fe49e2ace18e6cc9d3582b",
+        "category": "culture",
+        "question_concept": "latian",
+        "question": "Naon nu dimaksud ku latian dina konteks seni budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pintonan seni",
+                "Proses diajar jeung ngasah kaahlian dina seni",
+                "Alat musik",
+                "Kumpulan lagu-lagu Sunda",
+                "Pameran seni"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_13f2d238faab4a1eac431b86e9091c82",
+        "category": "culture",
+        "question_concept": "p\u00e9ci",
+        "question": "Naon fungsi p\u00e9ci dina pak\u00e9an adat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngahias sirah",
+                "Pikeun simbol status sosial",
+                "Pikeun pelindung tina panonpo\u00e9",
+                "Pikeun ngajaga kabersihan",
+                "Pikeun ngalambangkeun identitas agama"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_9e0f5abec02e4c19aaff23fa532caa66",
+        "category": "culture",
+        "question_concept": "panggung",
+        "question": "Panggung dina acara kasenian Sunda biasana dipak\u00e9 pikeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tempat ngamen",
+                "Pintonan wayang golek",
+                "Pasar malem",
+                "Pertandingan olahraga",
+                "Pameran lukisan"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_fdbd4f3069cb4e2f90c29afbf2b06ea9",
+        "category": "culture",
+        "question_concept": "tepang taun",
+        "question": "Acara naon anu sok disebut 'tepang taun' dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pesta ulang taun",
+                "Acara taunan",
+                "Pasar malem",
+                "Upacara adat",
+                "Kawinan"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_1b9904222f5a440a802cb0b96281b578",
+        "category": "culture",
+        "question_concept": "buku",
+        "question": "Naon fungsi buku dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun masak",
+                "Pikeun ngawadahan tulisan jeung gambar",
+                "Pikeun ngahias imah",
+                "Pikeun alat musik",
+                "Pikeun olahraga"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_6e444e6d14ca42e1a299905fd7f9cc0a",
+        "category": "culture",
+        "question_concept": "partiarki",
+        "question": "Naon maksad partiarki dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sistem sosial di mana lalaki ngagaduhan kakuatan dominan",
+                "Alat musik tradisional",
+                "Jenis tarian tradisional",
+                "Pola hiasan dina batik",
+                "Resep asakan tradisional"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_658f75d124484cb69e35032c2cc002db",
+        "category": "culture",
+        "question_concept": "kaarifan lokal",
+        "question": "Naon nu dimaksud ku kaarifan lokal dina budaya Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pakean adat nu dipake ku para wanoja Sunda",
+                "Kecap pikeun nyebut kaayaan nu keur hamil",
+                "Kakayaan intelektual nu asalna tina pangaweruh masarakat lokal",
+                "Sebutan pikeun jalma nu dipikacinta",
+                "Hubungan kakeluargaan dina masarakat Sunda"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_1d1cf2a3421142c7b7f17c4449418b83",
+        "category": "history",
+        "question_concept": "seratan",
+        "question": "Seratan naon nu mangrupa sumber sajarah penting pikeun ngartos kahirupan masarakat Sunda baheula?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Seratan dina lontar",
+                "Seratan dina batu prasasti",
+                "Seratan dina kertas",
+                "Seratan dina daun",
+                "Seratan dina kain"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_ea06a9b8a2af46239509dfb0fba795bb",
+        "category": "history",
+        "question_concept": "dinten kamerdekaan",
+        "question": "Tanggal sabaraha dinten kamerdekaan Indonesia nu dirayakeun unggal taun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "17 Agustus",
+                "12 Maret",
+                "28 Oktober",
+                "10 November",
+                "1 Juni"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_72ede4d2618a4f76aa80317ad719cc87",
+        "category": "history",
+        "question_concept": "komite",
+        "question": "Naon fungsi komite dina organisasi pergerakan nasional Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngatur acara sosial",
+                "Ngawakilan suara rahayat",
+                "Ngajalankeun riset ilmiah",
+                "Ngawangun hubungan internasional",
+                "Ngatur strategi perlawanan"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_9ce909554b064f92bc899fdc2c3f30e9",
+        "category": "history",
+        "question_concept": "komunis",
+        "question": "Kumaha pangaruh komunis kana gerakan sosial jeung politik di Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngamajukeun hak-hak buruh",
+                "Ngadegkeun partai politik anyar",
+                "Ngaleungitkeun kelas sosial",
+                "Ngawangun pamar\u00e9ntahan diktator",
+                "Ngamimitian r\u00e9volusi industri"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_6211c8cfaa2a4371a48cb2d7d510dfe4",
+        "category": "history",
+        "question_concept": "gawe paksa",
+        "question": "Dina jaman kolonial, gawe paksa atawa romusha dipak\u00e9 ku penjajah pikeun naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngawangun jalan",
+                "Ngajar di sakola",
+                "Ngalaksanakeun upacara adat",
+                "Ngokolakeun sawah",
+                "Ngadamel senjata"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_4f2f6c098ae24006b67b74f2459227f9",
+        "category": "history",
+        "question_concept": "abad",
+        "question": "Dina sajarah Sunda, kecap 'abad' mindeng dipake pikeun ngagambarkeun periode waktu nu kumaha?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Periode waktu sapuluh taun",
+                "Periode waktu saratus taun",
+                "Periode waktu sataun",
+                "Periode waktu saabad",
+                "Periode waktu sapoe"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_d6a5bec2fa2f4aa38516fb64b8b73b50",
+        "category": "history",
+        "question_concept": "rakyat",
+        "question": "Dina sajarah Sunda, kumaha rakyat ngab\u00e9la hak-hakna tina pangawasa?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngaliwatan perang",
+                "Ngaliwatan diplomasi",
+                "Ngaliwatan protes",
+                "Ngaliwatan serat kabar",
+                "Ngaliwatan mediasi"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_556ee3c30b79443d8cc93f2385c91f6c",
+        "category": "history",
+        "question_concept": "kalompok",
+        "question": "Naon fungsi kalompok dina struktur masarakat tradisional Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngatur upacara adat",
+                "Pikeun ngalaksanakeun tatan\u00e9n",
+                "Pikeun ngabagi tugas dina masarakat",
+                "Pikeun ngajaga kaamanan wilayah",
+                "Pikeun ngadidik barudak ngora"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_cf43f02ef6444bdc8b656db10a01690c",
+        "category": "history",
+        "question_concept": "rubuh",
+        "question": "Kerajaan Sunda nu mana anu rubuh akibat serangan ti Kesultanan Cirebon sareng Demak dina abad ka-16?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kerajaan Tarumanagara",
+                "Kerajaan Sunda",
+                "Kerajaan Galuh",
+                "Kerajaan Salakanagara",
+                "Kerajaan Pajajaran"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_d6e6c3e2db484f9592b795acccff9c8e",
+        "category": "history",
+        "question_concept": "perdagangan",
+        "question": "Naon barang anu jadi komoditas utama dina perdagangan di antawis karajaan Sunda jeung karajaan s\u00e9j\u00e9n?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Rempah-rempah",
+                "Emas",
+                "Kaen batik",
+                "Keramik",
+                "Senjata"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_2597a33ae7f2437496ef0dc171ce5615",
+        "category": "history",
+        "question_concept": "waktu kahareup",
+        "question": "Dina konteks sajarah, kumaha waktu kahareup diprediksi ku para ahli nujum Sunda baheula?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngaliwatan mimpi",
+                "Ngagunakeun astrologi",
+                "Nganalisis siklus bulan",
+                "Ngadengekeun sora alam",
+                "Ngamangpaatkeun teknologi"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_0cddf0d7164649058f5c39eb41c7200d",
+        "category": "history",
+        "question_concept": "himpunan",
+        "question": "Naon himpunan nu munggaran diadegkeun ku mahasiswa di Hindia Belanda nu tujuanana pikeun ngaronjatkeun kasadaran nasional?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Himpunan Mahasiswa Islam",
+                "Himpunan Mahasiswa Indonesia",
+                "Himpunan Pemuda Pemudi",
+                "Perhimpunan Indonesia",
+                "Budi Utomo"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_5f43461d8a244cb3863753167ad49673",
+        "category": "history",
+        "question_concept": "perlawanan",
+        "question": "Perlawanan naon nu kawentar ti rahayat Sunda dina mangsa penjajahan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Perlawanan Pangeran Diponegoro",
+                "Perlawanan Teuku Umar",
+                "Perlawanan Cut Nyak Dien",
+                "Perlawanan Dipati Ukur",
+                "Perlawanan Patimura"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_78786f74851541c5af6c1dc0f55a70de",
+        "category": "history",
+        "question_concept": "kabijakan",
+        "question": "Naon conto kabijakan karajaan Sunda nu kawentar dina sajarah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Perjangjian Bubat",
+                "Ngawangun Tarumanagara",
+                "Perang Bubat",
+                "Kawijakan perdagangan jeung Portugis",
+                "Ngawangun Candi Borobudur"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_b1425a4b0799439999a904ee2215f9d9",
+        "category": "history",
+        "question_concept": "kamerdekaan",
+        "question": "Diumumkeun taun sabaraha kamerdekaan Indonesia nu og\u00e9 mangrupa bagian tina sajarah Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Taun 1942",
+                "Taun 1945",
+                "Taun 1950",
+                "Taun 1963",
+                "Taun 1965"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_a2ca16174e3441a6992b75cfdf490a1f",
+        "category": "history",
+        "question_concept": "runtuh",
+        "question": "Kajadian naon nu nyababkeun Karajaan Romawi runtuh?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Perang dunya kahiji.",
+                "Invasi ku bangsa Barbar.",
+                "Perang salib.",
+                "Revolusi Industri.",
+                "Pendudukan ku bangsa Mongol."
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_c3449670b7bd4c7a9b43a44fdab339d7",
+        "category": "history",
+        "question_concept": "sora",
+        "question": "Naon sora anu mineng kad\u00e9ng\u00e9 dina perang kamerdekaan Indon\u00e9sia nu bisa dianggap minangka bagian tina sajarah Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sora gamelan",
+                "Sora bedil jeung meriam",
+                "Sora kendang",
+                "Sora suling",
+                "Sora angin"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_ccc299e651cf41c1b57eaba2420da4fa",
+        "category": "history",
+        "question_concept": "pakarang",
+        "question": "Naon pakarang tradisional Sunda anu mineng digunakeun ku para pejuang di jaman baheula?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kujang",
+                "Keris",
+                "Golok",
+                "Trisula",
+                "Katana"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_63d8d5d9bdc844e5a635c647a0260012",
+        "category": "history",
+        "question_concept": "tantung",
+        "question": "Naon tujuan utama 'tantung' dina adat istiadat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun upacara pernikahan",
+                "Pikeun upacara kematian",
+                "Pikeun upacara pan\u00e9n",
+                "Pikeun upacara penyambutan tamu agung",
+                "Pikeun upacara perang"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_6fecfd1621f6416e84bf24793701505b",
+        "category": "history",
+        "question_concept": "carita",
+        "question": "Carita naon anu mindeng dianggo pikeun ngajarkeun sajarah Sunda ka generasi ngora?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Carita pantun",
+                "Carita wayang",
+                "Novel",
+                "Dongeng",
+                "Carita silat"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_2d0492d2cafc4ab6b2b90e361d3570d1",
+        "category": "history",
+        "question_concept": "teroris",
+        "question": "Saha tokoh Sunda nu kungsi dianggap teroris ku kolonial Walanda alatan perlawananna?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sultan Agung",
+                "Pangeran Diponegoro",
+                "Cut Nyak Dien",
+                "Teuku Umar",
+                "Dipati Ukur"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_aad8a054da0240149677193cf9ad3131",
+        "category": "history",
+        "question_concept": "balik deui",
+        "question": "Dina konteks sajarah, naon hartina 'balik deui' pikeun masarakat Sunda saatos merdeka?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Mulang ka adat istiadat asli",
+                "Ngawangun deui pamar\u00e9ntahan kolonial",
+                "Migrasi balik ka lembur",
+                "R\u00e9habilitasi \u00e9konomi pasca-kolonial",
+                "Ngalaksanakeun tradisi karuhun"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_5f452a71710b481a999372f14ef76c21",
+        "category": "history",
+        "question_concept": "himpunan",
+        "question": "Naon himpunan anu munggaran di Tatar Sunda anu ngagaduhan tujuan pikeun ngamajukeun pendidikan jeung kabudayaan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Himpunan Mahasiswa Islam",
+                "Himpunan Kerukunan Tani Indonesia",
+                "Himpunan Pendidikan dan Kebudayaan Sunda",
+                "Himpunan Wanita Karya",
+                "Himpunan Penulis Indonesia"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_711e31cc5d5b44ed8ed9127a597cc12e",
+        "category": "history",
+        "question_concept": "ramalan",
+        "question": "Ramalan naon anu kaw\u00e9ntar dina sajarah Sunda anu disebutkeun ku para ahli nujum?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ramalan Jayabaya",
+                "Ramalan Nostradamus",
+                "Ramalan Sabdapalon",
+                "Ramalan Ranggawarsita",
+                "Ramalan Sunda"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_e926610cc4634b19ae15278e47c4ddca",
+        "category": "history",
+        "question_concept": "pahlawan",
+        "question": "Saha anu dianggap pahlawan nasional ti Sunda anu berjuang ngalawan penjajah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Otto Iskandardinata",
+                "Djuanda Kartawidjaja",
+                "Sultan Agung",
+                "Cut Nyak Dien",
+                "Diponegoro"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_e49d763b27c3414eb4906264e7b7cad2",
+        "category": "history",
+        "question_concept": "prasasti",
+        "question": "Naon fungsi prasasti dina sajarah Karajaan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngar\u00e9kam peristiwa penting karajaan",
+                "Pikeun tempat ibadah raja jeung masarakat",
+                "Pikeun ngajaga wilayah karajaan ti serangan",
+                "Pikeun ngalaksanakeun upacara adat karajaan",
+                "Pikeun ngatur sistem ekonomi karajaan"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_83e5a44921ca4983a24d74f2c2848635",
+        "category": "history",
+        "question_concept": "presiden",
+        "question": "Saha presiden munggaran di Indon\u00e9sia anu ngaluarkeun proklamasi kamerdikaan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sukarno",
+                "Suharto",
+                "Megawati Soekarnoputri",
+                "B.J. Habibie",
+                "Joko Widodo"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_ea4441ba1e2844a49243bba397b41514",
+        "category": "history",
+        "question_concept": "kelompok",
+        "question": "Dina sajarah Sunda, kelompok naon anu kasohor ku perlawananna ngalawan penjajah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kelompok Pajajaran",
+                "Kelompok Banceuy",
+                "Kelompok Siliwangi",
+                "Kelompok Cakrabuana",
+                "Kelompok Mataram"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_079588030e804d65b6d357a9ca1533f7",
+        "category": "history",
+        "question_concept": "jawa",
+        "question": "Naon peran budaya Sunda dina sajarah Jawa Barat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngembangkeun seni",
+                "Ngamajukeun pendidikan",
+                "Ngadegkeun kerajaan",
+                "Ngamumule basa",
+                "Ngalestarikeun adat"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_0f14ce5103464d57a2bfb7429a2a1ff2",
+        "category": "history",
+        "question_concept": "candi",
+        "question": "Candi naon anu kawentar di Tatar Sunda sarta jadi saksi sajarah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Candi Borobudur",
+                "Candi Prambanan",
+                "Candi Cangkuang",
+                "Candi Mendut",
+                "Candi Pawon"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_13f6b2ae9e3d4a5daf35a1863487dab4",
+        "category": "activity",
+        "question_concept": "kurban",
+        "question": "Dina acara naon biasana umat Islam ngalaksanakeun kurban?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Lebaran",
+                "Taun Baru",
+                "Idul Fitri",
+                "Idul Adha",
+                "Maulid Nabi"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_b2e697407de14e85b2b570ed42f4434e",
+        "category": "activity",
+        "question_concept": "lalandong",
+        "question": "Dina upacara adat Sunda, saha anu biasana ngalakukeun lalandong?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Panganten pameget",
+                "Panganten istri",
+                "Waled",
+                "Saksi",
+                "Juru pantun"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_3019d792798c435fa7c97a0d280156dc",
+        "category": "activity",
+        "question_concept": "mandi",
+        "question": "Naon nu kudu dilakukeun saacan mandi?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Maca buku",
+                "Nyieun cai haneut",
+                "Nulis surat",
+                "Ngadangukeun musik",
+                "Maenkeun video game"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_a9ae9bb20f194c30b39ab534edd97f62",
+        "category": "activity",
+        "question_concept": "maen catur",
+        "question": "Naon anu biasa dilakukeun ku jalma nalika aranjeunna maen catur?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngadengekeun musik",
+                "Maen bal",
+                "Mikir strategi",
+                "Ngalukis",
+                "Ngojay"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_608e1a27b7544570a341b4f078726456",
+        "category": "activity",
+        "question_concept": "ngelap kaca",
+        "question": "Naon nu dilakukeun ku tukang ngelap kaca?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Diajar maca Al-Qur'an",
+                "Ma\u00e9n musik di jalan",
+                "Nganteurkeun batur",
+                "Bersihkeun kaca mobil atawa gedong",
+                "Nyuhunkeun duit ka batur"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_facb4d9d93a44852bdd64431f2026a2c",
+        "category": "activity",
+        "question_concept": "maot",
+        "question": "Naon anu kajadian ka jalma nalika maran\u00e9hna maot?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dahar",
+                "Ulin",
+                "Sare",
+                "Eureun napas",
+                "Ngalukis"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_3a7261e47d484be79bab63885c81fe3b",
+        "category": "activity",
+        "question_concept": "bersumpah",
+        "question": "Dina konteks adat Sunda, iraha jalma biasana nyieun sumpah?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Waktu ngamimitian pagawean anyar",
+                "Sateuacan tuang",
+                "Dina prosesi kawinan",
+                "Waktu ngadegkeun janji atanapi sumpah",
+                "Sateuacan sar\u00e9"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_fd440449e6e0431db8b061dc872fb309",
+        "category": "activity",
+        "question_concept": "ngamen",
+        "question": "Kegiatan naon nu disebut ngamen?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Diajar maca Al-Qur'an",
+                "Maen musik di jalan",
+                "Nganteurkeun batur",
+                "Bersih-bersih kaca",
+                "Naroskeun barang"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_08b033c69991440999bc55738636dfb5",
+        "category": "activity",
+        "question_concept": "nembang",
+        "question": "Naon anu dilakukeun ku seniman Sunda nalika keur nembang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ma\u00e9n bal",
+                "Nyanyi lagu Sunda",
+                "Masak",
+                "Nulis buku",
+                "Ngabuburit"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_15c5f4fda866499f97536b9a9ed36d90",
+        "category": "activity",
+        "question_concept": "ngaganjel",
+        "question": "Dina ma\u00e9n catur, kuda t\u00e9h bisa ngaganjel raja musuh. Kumaha ieu kaayaan disebut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Checkmate",
+                "Stalemate",
+                "Check",
+                "Draw",
+                "Resign"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_978a53469abe43998db30518b20b340c",
+        "category": "activity",
+        "question_concept": "gelut",
+        "question": "Naon anu biasana dilakukeun ku jalma-jalma nalika aranjeunna gelut?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ma\u00e9n bal",
+                "Ngalawan",
+                "Masak",
+                "Nulis",
+                "Sare"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_11ab090b95b642eb8acdaf0b95354b86",
+        "category": "activity",
+        "question_concept": "ngajar",
+        "question": "Naon nu dilakukeun jalmi nu ngajar di sakola?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngabersihan kelas",
+                "Ngalakukeun percobaan di laboratorium",
+                "Ngadidik jeung mere ilmu ka siswa",
+                "Maen musik",
+                "Ngatur acara sakola"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_e1119dc5cec541098c90595e9ea2e684",
+        "category": "activity",
+        "question_concept": "ngaji",
+        "question": "Naon nu biasa dilakukeun ku jalma nu keur ngaji?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Diajar maca Al-Qur'an",
+                "Maen musik di jalan",
+                "Nganteurkeun batur",
+                "Bebersih kaca",
+                "Naroskeun barang"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_0d53751ae7d048ceb8b864af9a00ab9f",
+        "category": "activity",
+        "question_concept": "kerja bakti",
+        "question": "Dina acara kerja bakti, kagiatan naon nu biasa dilakukeun ku masarakat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ma\u00e9n bal",
+                "Bebersih lingkungan",
+                "Mancing",
+                "Ngarit",
+                "M\u00e9ngbal"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_96a31cc2274b48fa9c815fabe051d990",
+        "category": "activity",
+        "question_concept": "ngajajar",
+        "question": "Naon nu dilakukeun ku guru basa keur ngajajar?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngajar",
+                "Ngadengekeun musik",
+                "Nulis buku",
+                "Ngapalkeun",
+                "Ngadamel kopi"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_19ff1c353b944c68b5a26b437c711cd4",
+        "category": "activity",
+        "question_concept": "nganjang",
+        "question": "Naon tujuan utama jalma nganjang ka imah babaturanana?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Balanja",
+                "Olahraga",
+                "Sosialisasi",
+                "Diajar",
+                "Milarian"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_889ffec7665741aba4d87e97a7b5580d",
+        "category": "activity",
+        "question_concept": "luluran",
+        "question": "Naon tujuan utama luluran pikeun urang Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngubaran panyakit",
+                "Ngajaga kabersihan",
+                "Perawatan kulit",
+                "Ngaleungitkeun cap\u00e9",
+                "Ngahias diri"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_67c29bfecc90407da171040f780f2918",
+        "category": "activity",
+        "question_concept": "motong",
+        "question": "Lamun urang neukteuk buuk, alat naon anu paling pas pikeun digunakeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pensil",
+                "Garpu",
+                "Gunting",
+                "Sisir",
+                "Sendok"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_2adcb1461b044567859aa573b5631911",
+        "category": "activity",
+        "question_concept": "sepak bal",
+        "question": "Dina kagiatan sepak bal, posisi naon anu tanggung jawab ngajaga gawang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Penyerang",
+                "Pama\u00e9n tengah",
+                "Bek",
+                "Kiper",
+                "Wasit"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_5fbc6974bef6420795dd1f29e02aeeaf",
+        "category": "activity",
+        "question_concept": "maen catur",
+        "question": "Naon nu biasa dilakukeun ku jalma nu keur maen catur?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Nguseup di walungan",
+                "Maen bal",
+                "Mikir strategi",
+                "Ngalukis",
+                "Nyanyi"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_7bc3dd57ce904cf7ad1110b8114bfd94",
+        "category": "activity",
+        "question_concept": "ngalongok",
+        "question": "Upami anjeung bade sare wengi, naon nu kedah disiapkeun?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Buku pikeun maca",
+                "Kasur sareng bantal",
+                "Piring sareng gelas",
+                "Pak\u00e9an nu merenah",
+                "Lampu senter"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_6bef455947134be797c3048de01487b2",
+        "category": "activity",
+        "question_concept": "pergentosan",
+        "question": "Naon nu dilakukeun dina pergentosan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngaganti pakean",
+                "Ngaganti kapala desa",
+                "Ngaganti hiasan imah",
+                "Ngaganti alat musik",
+                "Ngaganti jinis tarian"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_44052573db7f4407b948e71db2f8e7b0",
+        "category": "activity",
+        "question_concept": "ngarakyat",
+        "question": "Naon nu dilakukeun ku tukang kebon nalika 'ngarakyat' di kebon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngaramal cuaca",
+                "Ngala sayuran",
+                "Ngobrol jeung tatangga",
+                "Ngaramut pepelakan",
+                "Ngalukis pemandangan"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_f59da96eb69545e2a014a0e3de3fd395",
+        "category": "activity",
+        "question_concept": "panjat pinang",
+        "question": "Dina kaulinan panjat pinang, naon nu dipilari ku para pamilon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Milarian harta karun",
+                "Ngajawab teka-teki",
+                "Ngajalankeun maraton",
+                "Nyokot hadiah di luhur pinang",
+                "Ngadangukeun dongeng"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_e01c96c7ed4b4424a66bfc3554155871",
+        "category": "activity",
+        "question_concept": "lalandong",
+        "question": "Naon hartina 'lalandong' dina konteks kagiatan sapopo\u00e9?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngobrol",
+                "Ngadu banteng",
+                "Leuleumpangan tanpa tujuan",
+                "Ngapungkeun layangan",
+                "Ngalukis"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_2f62d2dd0b8d463f91071463245b8b98",
+        "category": "activity",
+        "question_concept": "lumpat sor\u00e9",
+        "question": "Lumpat sor\u00e9 t\u00e9h mangrupa kagiatan naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kagiatan olahraga",
+                "Kagiatan masak",
+                "Kagiatan ngajar",
+                "Kagiatan ngaput",
+                "Kagiatan ngalukis"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_4d7359269e4c44c39fdc4dd432616572",
+        "category": "activity",
+        "question_concept": "biantara",
+        "question": "Dina acara resmi atawa upacara, naon anu dilakukeun ku jalma anu keur biantara?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngadamel dekorasi",
+                "Ngatur jalannya acara",
+                "Ngadugikeun pidato",
+                "Ngawulang",
+                "Ngamen"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_469d12be6a80496aa1a1cf3e640ea42e",
+        "category": "activity",
+        "question_concept": "ngitung",
+        "question": "Naon anu kudu dilakukeun ku saurang padagang nalika ngitung pangasilan po\u00e9an?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngalakukeun senam",
+                "Ngobrol jeung konsum\u00e9n",
+                "Ngadengekeun musik",
+                "Mencatet jumlah penjualan",
+                "Ngalakukeun meditasi"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_c93a70bf0aea4632a579c41085e430d5",
+        "category": "activity",
+        "question_concept": "kesangan",
+        "question": "Upami anjeung kesangan, kagiatan naon nu paling cocok dilakukeun pikeun ngaleungitkeun kesang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Lumpat",
+                "Nguseup",
+                "Mandi",
+                "Nulis",
+                "Ngapung layang-layang"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_6fa4c582a0a94e54949a4a627500b637",
+        "category": "activity",
+        "question_concept": "seuri",
+        "question": "Naon nu dimaksud seuri dina basa Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ceurik",
+                "Ngomong",
+                "Seuri atawa gumujeng",
+                "Nulis",
+                "Nari"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_6147fabb729846a18517cf8b7b138667",
+        "category": "culinary",
+        "question_concept": "ekah",
+        "question": "Naon tujuan ekah dina adat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngahias piring",
+                "Pikeun sukuran lahirna budak",
+                "Pikeun nambahan rasa amis",
+                "Pikeun nambahan rasa asin",
+                "Pikeun ngawetkeun kadaharan"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_aaffec103b7d444ab029e8c4bfabd992",
+        "category": "culinary",
+        "question_concept": "papua",
+        "question": "Kadaharan naon nu asalna ti Papua tapi kasohor di tatar Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Papeda",
+                "Nasi liwet",
+                "Lotek",
+                "Sate",
+                "Karedok"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_eed7ed09708d476893f2515d42917f00",
+        "category": "culinary",
+        "question_concept": "kupat",
+        "question": "Dina acara naon biasana kupat disuguhkeun salaku kadaharan tradisional Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Lebaran",
+                "Natal",
+                "Taun Anyar",
+                "Hajatan",
+                "Ulang taun"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_66ac25114cb841cab8ae03489674d16d",
+        "category": "culinary",
+        "question_concept": "alpuket",
+        "question": "Kumaha cara ngadahar alpuket nu ilahar di masarakat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dijieun jus",
+                "Diasakan jadi sayur",
+                "Dijieun sambel",
+                "Didahar langsung kalawan gula",
+                "Dijieun sop"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_a77bb6672fcb4fb78eff1a2d1eb69329",
+        "category": "culinary",
+        "question_concept": "jajanan sakola",
+        "question": "Naon conto tina jajanan sakola nu sok didahar ku murid di waktu istirahat?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Rendang",
+                "Seblak",
+                "Steak",
+                "Sushi",
+                "Pasta"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_6b55b3a0bd33461f9b2493ea305b7834",
+        "category": "culinary",
+        "question_concept": "meri",
+        "question": "Naon fungsi tina meri dina asakan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngagoreng",
+                "Pikeun ngasakan sayur",
+                "Pikeun nyieun sambel",
+                "Pikeun jadi lauk",
+                "Pikeun ngahias piring"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_51e335bbe1c74e27a16015f89ebdd2f9",
+        "category": "culinary",
+        "question_concept": "rumah sakit",
+        "question": "Naon jenis dahareun nu biasana disayogikeun ku rumah sakit pikeun pas\u00e9n nu keur di\u00e9t?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Fast food",
+                "Dahareun lada",
+                "Dahareun gurih",
+                "Dahareun sehat rendah gula",
+                "Dahareun amis"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_061b803af6cf443d80dde266339fdd1a",
+        "category": "culinary",
+        "question_concept": "panggang",
+        "question": "Kadaharan naon anu mindeng dipanggang dina tradisi kuliner Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Meri",
+                "Tahu",
+                "Tempe",
+                "Ikan",
+                "Kacang"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_610eb80ff83247c6839ee58e1ce917b1",
+        "category": "culinary",
+        "question_concept": "cipati",
+        "question": "Naon bahan utama anu digunakeun keur nyieun cipati khas Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tahu",
+                "Tempe",
+                "Kalapa",
+                "Sangu",
+                "Kacang"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_3a087d55640740eda06deec283469739",
+        "category": "culinary",
+        "question_concept": "vanili",
+        "question": "Naon fungsi vanili dina asakan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun nambahan rasa asin",
+                "Pikeun nambahan bau seungit",
+                "Pikeun nambahan rasa pait",
+                "Pikeun nambahan rasa pedas",
+                "Pikeun nambahan rasa haseum"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_082f6b3a6e95403e972270cb4b6a86a0",
+        "category": "culinary",
+        "question_concept": "kertas sangu",
+        "question": "Naon fungsi tina kertas sangu?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngaw\u00e9tkeun kupat",
+                "Pikeun ngabungkus sangu supaya teu napel",
+                "Pikeun ngahias kupat",
+                "Pikeun nambahan rasa",
+                "Pikeun nyaring minyak"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_8030422df63140a184d8783e094e9622",
+        "category": "culinary",
+        "question_concept": "sop",
+        "question": "Naon bahan utama nu sok dipak\u00e9 pikeun nyieun sop dina asakan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Bubuahan",
+                "Sayuran",
+                "Coklat",
+                "Es krim",
+                "Kakacangan"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_99a503ea825c4c92bdb1c39169bcacd2",
+        "category": "culinary",
+        "question_concept": "adonan",
+        "question": "Naon fungsi adonan dina proses nyieun kueh di tradisi kuliner Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngahias kueh",
+                "Pikeun bahan utama nyieun kueh",
+                "Pikeun bungkus kueh",
+                "Pikeun rasa tambahan",
+                "Pikeun nyimpen kueh"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_125386cbd5b640c3b14065162e71bc4e",
+        "category": "culinary",
+        "question_concept": "daun cau",
+        "question": "Naon guna daun cau dina proses nyieun pepes?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun bungkus",
+                "Pikeun nambahan rasa asin",
+                "Pikeun ngagoreng",
+                "Pikeun nambahan rasa amis",
+                "Pikeun hiasan"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_49ea13ff17194803b9f7e8a49a9f4183",
+        "category": "culinary",
+        "question_concept": "hawu",
+        "question": "Alat naon anu biasa digunakeun pikeun masak dina cara tradisional Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kompor gas",
+                "Oven listrik",
+                "Microwave",
+                "Hawu",
+                "Blender"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_cc93f2a3e3f84df29fb70d21084db5d3",
+        "category": "culinary",
+        "question_concept": "betawi",
+        "question": "Naon jenis kadaharan khas Betawi anu kasohor?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Kerak Telor",
+                "Surabi",
+                "Sangu Goreng",
+                "Gado-gado",
+                "Soto Hayam"
+            ]
+        },
+        "answer_creator": "A"
+    },
+    {
+        "id": "orig_m_sun_35681614ee274962ba0f8d10d835a7fc",
+        "category": "culinary",
+        "question_concept": "dahar peuting",
+        "question": "Naon nu dimaksud 'dahar peuting' dina kabiasaan masarakat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dahar di waktu subuh",
+                "Dahar di tengah wengi",
+                "Dahar di waktos magrib ka luhur",
+                "Dahar saencan sare",
+                "Dahar di waktu isuk-isuk"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_ce195c7298214ead82c63c0aeb292be1",
+        "category": "culinary",
+        "question_concept": "aduk",
+        "question": "Kumaha cara ngaduk adonan nu bener supaya hasilna lemes tur merenah dina kuliner Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Aduk ku sendok beusi",
+                "Aduk bari dipanaskeun",
+                "Aduk ngagunakeun leungeun wungkul",
+                "Aduk bari dituangkeun cai panas",
+                "Aduk sing rata jeung lembut"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_039598091a4545c7af2919335232b831",
+        "category": "culinary",
+        "question_concept": "ngabodasan",
+        "question": "Dina adat Sunda, istilah 'ngabodasan' ngarujuk kana kagiatan naon?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Ngolah taneuh",
+                "Ngasakan daging",
+                "Ngadamel inuman tradisional",
+                "Ngabodaskeun par\u00e9",
+                "Nyieun kueh"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_94cb68629c4f4da7a3b0939973bc3bde",
+        "category": "culinary",
+        "question_concept": "hawu",
+        "question": "Naon fungsi hawu dina imah tangga Sunda tradisional?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun neundeun piring",
+                "Pikeun masak",
+                "Pikeun neundeun baju",
+                "Pikeun mandi",
+                "Pikeun bobo"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_8c07161c80ea4e3eacbcf09d7f2cb097",
+        "category": "culinary",
+        "question_concept": "rendang",
+        "question": "Naon bahan utama anu digunakeun keur masak rendang?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Tahu",
+                "Tempe",
+                "Daging sapi",
+                "Ayam",
+                "Ikan"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_401bc3fe814744c0a11441a37b35a11f",
+        "category": "culinary",
+        "question_concept": "tumis",
+        "question": "Naon ngaran kadaharan Sunda anu cara masakna ku cara numis bumbu nepi ka seungit sarta ditambahkeun sayuran atawa daging?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pais",
+                "Pepes",
+                "Tumis kangkung",
+                "Soto",
+                "Karedok"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_1f8408060d70494aa758d7dcbb25b35f",
+        "category": "culinary",
+        "question_concept": "urutan nyokot kadaharan",
+        "question": "Dina adat Sunda, kumaha urutan nyokot kadaharan dina acara hajatan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Heulaan ku sayur, teras lauk, kadaharan pokok, jeung ahirna bungbuahan",
+                "Heulaan ku kadaharan pokok, teras lauk, sayur, jeung ahirna bungbuahan",
+                "Heulaan ku bungbuahan, teras sayur, lauk, jeung ahirna kadaharan pokok",
+                "Heulaan ku lauk, teras kadaharan pokok, sayur, jeung ahirna bungbuahan",
+                "Heulaan ku bungbuahan, teras lauk, kadaharan pokok, jeung ahirna sayur"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_026446fc252b4f53a217a6547798c059",
+        "category": "culinary",
+        "question_concept": "pait",
+        "question": "Naon ngaran inuman tradisional Sunda nu rasana pait?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Es Cendol",
+                "Bajigur",
+                "Bandrek",
+                "Cincau",
+                "Kopi Tubruk"
+            ]
+        },
+        "answer_creator": "E"
+    },
+    {
+        "id": "orig_m_sun_50ac77208a7f464fab8e254fcd85c207",
+        "category": "culinary",
+        "question_concept": "jajanan sakola",
+        "question": "Naon conto tina jajanan sakola nu sok didahar ku murid di tatar Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Rendang",
+                "Seblak",
+                "Sushi",
+                "Pizza",
+                "Cordon bleu"
+            ]
+        },
+        "answer_creator": "B"
+    },
+    {
+        "id": "orig_m_sun_639bc3f881e943f297c7a39f7dd9a497",
+        "category": "culinary",
+        "question_concept": "besek",
+        "question": "Naon fungsi besek dina tradisi kuliner Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Pikeun ngagiling bumbu",
+                "Pikeun ngukus kadaharan",
+                "Pikeun ngabungkus kadaharan",
+                "Pikeun ngadamel kueh",
+                "Pikeun ngasakan nasi"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_84e5d69c1b1541299dd6c9448771a649",
+        "category": "culinary",
+        "question_concept": "lalaban",
+        "question": "Naon ciri khas lalaban dina masakan Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Diuleg samemeh didahar",
+                "Dibungkus ku daun pisang",
+                "Didahar kalawan seger tanpa dimasak",
+                "Ditumis kalawan bumbu",
+                "Diasakan kalawan cara dipanggang"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_1cc17437f6fb49d3837d1aaa56cb0dce",
+        "category": "culinary",
+        "question_concept": "dahar teu beak",
+        "question": "Naon nu sok dilakukeun ku urang Sunda lamun aya s\u00e9sa dahar teu beak?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Dipiceun",
+                "Dijieun kompos",
+                "Dibikeun ka sato",
+                "Ditendeun pikeun dahar engk\u00e9",
+                "Dijual"
+            ]
+        },
+        "answer_creator": "D"
+    },
+    {
+        "id": "orig_m_sun_bfad7a40080d4742b90734adfb18ba69",
+        "category": "culinary",
+        "question_concept": "seupan",
+        "question": "Naon asakan sunda nu dijieun ku cara diseupan?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Sambel",
+                "Soto",
+                "Papais",
+                "Kolak",
+                "Es krim"
+            ]
+        },
+        "answer_creator": "C"
+    },
+    {
+        "id": "orig_m_sun_44d41b762dc34be8963f1675199eeda6",
+        "category": "culinary",
+        "question_concept": "beas",
+        "question": "Naon bahan pokok kadaharan masarakat Sunda?",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "Gandum",
+                "Jagong",
+                "Beas",
+                "Hui",
+                "Sagu"
+            ]
+        },
+        "answer_creator": "C"
     }
 ]
