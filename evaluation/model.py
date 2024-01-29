@@ -222,15 +222,22 @@ class HfModelHistory:
     def get_cleaned_response(self, prompt, response):
         """Clean model output."""
         response = response.replace(prompt, "").strip()
+        
+        if response.startswith('[/INST]'):
+            response = response[7:].strip()
+        
+        if '[/INST]' in response:
+            response = response.split('[/INST]')[0].strip()
+        
         unwanted_phrases = ["The correct answer is", "### USER:", "### USER", "### RESPONSE:", "### RESPONSE", "###"]
         for phrase in unwanted_phrases:
             response = response.replace(phrase, "").strip()
 
         response = response.split('\n', 1)[0].strip()  # Keep only the first line
-        if response == "A, B, C, D, E":
+        if response == "A, B, C, D, E" or len(response) == 1:
             return response
-        
-        if response[0] == '(' and response [2] == ')':
+
+        if response[0] == '(' and response[2] == ')':
             return response[1]
         
         resp_no_punct = response.translate(self.translation_table).strip()

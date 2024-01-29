@@ -1,6 +1,6 @@
 #!/bin/bash
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v1_llm_adapt/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -9,7 +9,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v1_llm_adapt/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -18,7 +18,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v1_llm_adapt/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -27,7 +27,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 2
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v1_llm_adapt/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 2
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v1_llm_adapt/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v1_llm_adapt/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -54,7 +54,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v2_human_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -63,7 +63,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v2_human_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -72,7 +72,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v2_human_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -81,7 +81,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 2
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v2_human_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -90,7 +90,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 2
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v2_human_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -99,7 +99,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v2_human_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -108,7 +108,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v3_llm_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -117,7 +117,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v3_llm_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -126,7 +126,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 1
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v3_llm_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -135,7 +135,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 2
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v3_llm_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -144,7 +144,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 2
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v3_llm_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
@@ -153,7 +153,7 @@ CUDA_VISIBLE_DEVICES=1 python eval.py \
     --prompt_type 3
 
 CUDA_VISIBLE_DEVICES=1 python eval.py \
-    --model_name "indonlp/cendol-llama2-7b" \
+    --model_name "indonlp/cendol-llama2-7b-chat" \
     --dataset_path "../dataset/v3_llm_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
     --gold_key "answer_creator" \
