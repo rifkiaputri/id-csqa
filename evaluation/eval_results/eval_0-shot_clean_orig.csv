@@ -1,0 +1,25 @@
+Model,Dataset Name,Lang,Version,Prompt,Accuracy
+gpt-4-1106-preview,v3_llm_gen,ind,240124_v3_ind,1,95.0
+gpt-4-1106-preview,v3_llm_gen,sun,240124_v3_sun,1,85.0
+gpt-4-1106-preview,v3_llm_gen,ind,240124_v3_ind,2,96.0
+gpt-4-1106-preview,v3_llm_gen,sun,240124_v3_sun,2,88.66666666666667
+gpt-4-1106-preview,v3_llm_gen,ind,240124_v3_ind,3,94.66666666666667
+gpt-4-1106-preview,v3_llm_gen,sun,240124_v3_sun,3,86.0
+Ichsan2895/Merak-7B-v4,v3_llm_gen,ind,240124_v3_ind,1,84.66666666666667
+Ichsan2895/Merak-7B-v4,v3_llm_gen,sun,240124_v3_sun,1,56.00000000000001
+Ichsan2895/Merak-7B-v4,v3_llm_gen,ind,240124_v3_ind,2,83.66666666666667
+Ichsan2895/Merak-7B-v4,v3_llm_gen,sun,240124_v3_sun,2,55.333333333333336
+Ichsan2895/Merak-7B-v4,v3_llm_gen,ind,240124_v3_ind,3,83.33333333333334
+Ichsan2895/Merak-7B-v4,v3_llm_gen,sun,240124_v3_sun,3,56.666666666666664
+bigscience/bloomz-7b1,v3_llm_gen,ind,240124_v3_ind,1,77.33333333333333
+bigscience/bloomz-7b1,v3_llm_gen,sun,240124_v3_sun,1,46.0
+bigscience/bloomz-7b1,v3_llm_gen,ind,240124_v3_ind,2,76.0
+bigscience/bloomz-7b1,v3_llm_gen,sun,240124_v3_sun,2,49.333333333333336
+bigscience/bloomz-7b1,v3_llm_gen,ind,240124_v3_ind,3,78.0
+bigscience/bloomz-7b1,v3_llm_gen,sun,240124_v3_sun,3,50.0
+Open-Orca/Mistral-7B-OpenOrca,v3_llm_gen,ind,240124_v3_ind,1,77.66666666666666
+Open-Orca/Mistral-7B-OpenOrca,v3_llm_gen,sun,240124_v3_sun,1,45.666666666666664
+Open-Orca/Mistral-7B-OpenOrca,v3_llm_gen,ind,240124_v3_ind,2,77.33333333333333
+Open-Orca/Mistral-7B-OpenOrca,v3_llm_gen,sun,240124_v3_sun,2,42.333333333333336
+Open-Orca/Mistral-7B-OpenOrca,v3_llm_gen,ind,240124_v3_ind,3,78.33333333333333
+Open-Orca/Mistral-7B-OpenOrca,v3_llm_gen,sun,240124_v3_sun,3,46.0
