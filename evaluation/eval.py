@@ -41,10 +41,30 @@ def load_open_model(model_name, history_version, prompt_type):
     return lambda prompts: cache.query_model(prompts)
 
 
-def evaluate_responses(predictions, golds):
+def evaluate_responses(predictions, golds, categories):
     assert len(predictions) == len(golds)
     accuracy = accuracy_score(golds, predictions)
-    return {"accuracy": accuracy * 100}
+    metrics = {"accuracy": accuracy * 100}
+    
+    if len(categories) == 0:
+        return metrics
+    
+    # Calculate metrics per categories
+    cat_metrics = {}
+    for c, p, g in zip(categories, predictions, golds):
+        if c in cat_metrics:
+            cat_metrics[c]['preds'].append(p)
+            cat_metrics[c]['golds'].append(g)
+        else:
+            cat_metrics[c] = {
+                'preds': [p],
+                'golds': [g]
+            }
+    
+    for c in set(categories):
+        metrics[f"accuracy_{c}"] = accuracy_score(cat_metrics[c]['golds'], cat_metrics[c]['preds']) * 100
+    
+    return metrics
 
 
 def extract_data_info(dataset_filename):
@@ -72,21 +92,34 @@ def write_evaluation_metrics_to_csv(model_name, dataset_filename, evaluation_met
 
         # Write header if the file does not exist
         if not file_exists:
-            writer.writerow(['Model', 'Dataset Name', 'Lang', 'Version', 'Prompt', 'Accuracy'])
+            header = ['Model', 'Dataset Name', 'Lang', 'Version', 'Prompt', 'Accuracy']
+            if 'accuracy_history' in evaluation_metrics:
+                header += ['Accuracy_History', 'Accuracy_Culture',
+                                 'Accuracy_Activity', 'Accuracy_Culinary', 'Accuracy_Place']
+            writer.writerow(header)
 
-        # Write the evaluation metrics'
+        # Write the evaluation metrics
         data_name, lang = extract_data_info(dataset_filename)
-        writer.writerow([model_name, data_name, lang, version, prompt_type, evaluation_metrics['accuracy']])
+        metrics_data = [model_name, data_name, lang, version, prompt_type, evaluation_metrics['accuracy']]
+        if 'accuracy_history' in evaluation_metrics:
+            metrics_data += [evaluation_metrics['accuracy_history'], evaluation_metrics['accuracy_culture'],
+                             evaluation_metrics['accuracy_activity'], evaluation_metrics['accuracy_culinary'],
+                             evaluation_metrics['accuracy_place']]
+        writer.writerow(metrics_data)
 
 
 def evaluate_model(model, model_name, dataset, batch_size, gold_key, is_gpt, prompt_type, few_shot_data):
-    results, golds = [], []
+    results, golds, categories = [], [], []
     use_prompt_template = "sealion" in model_name and "instruct" in model_name
 
     for i in tqdm(range(0, len(dataset), batch_size), desc="Evaluating"):
         batch = dataset[i:i + batch_size]
         batch_prompts = [helpers.generate_eval_prompt(item, prompt_type, use_prompt_template, few_shot_data) for item in batch]
         batch_golds = [item[gold_key] for item in batch]
+        if 'category' in batch[0]:
+            batch_categories = [item['category'] for item in batch]
+        else:
+            batch_categories = []
 
         if is_gpt:
             responses = [model(prompt) for prompt in batch_prompts]
@@ -95,8 +128,9 @@ def evaluate_model(model, model_name, dataset, batch_size, gold_key, is_gpt, pro
 
         results.extend(zip(batch_prompts, responses))
         golds.extend(batch_golds)
+        categories.extend(batch_categories)
 
-    evaluation_metrics = evaluate_responses([response for _, response in results], golds)
+    evaluation_metrics = evaluate_responses([response for _, response in results], golds, categories)
 
     return results, evaluation_metrics
 
