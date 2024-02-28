@@ -21,10 +21,10 @@ All datasets are provided in the `dataset` directory. Generally, each data item 
 
 For `Human_Gen` dataset specifically, we provide one answer (`answer_majority`), which is based on the majority voting from: one answer from the question creator (`answer_creator`), and answers from other annotators (`answers`). We also provide more metadata related to the answers, such as `answers_uncertainty`, `questions_ambiguity`, `option_ambiguity` and `reason` (a freetext explanation for why the annotators marked the question or option as ambiguous).
 
-## Code for Dataset Generation
+## Dataset Generation
 The code for generating the LLM-generated datasets are available in the `generation` folder. Please refer to this [README](generation/README.md) for details.
 
-## Code for LLM Evaluation on our Dataset
+## LLM Evaluation on our Dataset
 In the paper, we evaluated several LLMs, including English-centric, multilingual, and monolingual LLMs. The graph below shows their overall performance on our combined dataset.
 
 ![data evaluation](./img/overall_benchmark.png)
