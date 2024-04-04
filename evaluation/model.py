@@ -10,7 +10,7 @@ parent_dir = os.path.dirname(script_dir)
 sys.path.append(parent_dir)
 
 import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, set_seed
+from transformers import AutoModelForCausalLM, AutoModelForSeq2SeqLM, AutoTokenizer, set_seed
 from utils.api import get_openai_chat_completion
 
 set_seed(42)
@@ -166,14 +166,23 @@ class HfModelHistory:
             print('pad_token:', tokenizer.pad_token)
         tokenizer.padding_side = "left"
         
-        model = AutoModelForCausalLM.from_pretrained(
-            self.model_name, 
-            device_map="auto", 
-            load_in_8bit=True,
-            resume_download=True,
-            trust_remote_code=trust_remote_code
-        )
-        if any(model in self.model_name.lower() for model in ["seallm", "polylm", "llama"]):
+        if "aya-101" in self.model_name:
+            model = AutoModelForSeq2SeqLM.from_pretrained(
+                self.model_name, 
+                device_map="auto", 
+                load_in_8bit=True,
+                resume_download=True,
+                trust_remote_code=trust_remote_code
+            )
+        else:
+            model = AutoModelForCausalLM.from_pretrained(
+                self.model_name, 
+                device_map="auto", 
+                load_in_8bit=True,
+                resume_download=True,
+                trust_remote_code=trust_remote_code
+            )
+        if any(model in self.model_name.lower() for model in ["seallm", "polylm", "llama", "gemma"]):
             # quick fix for tensor error
             # https://github.com/facebookresearch/llama/issues/380
             model = model.bfloat16()
