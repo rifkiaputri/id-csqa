@@ -238,7 +238,7 @@ class HfModelHistory:
         if '[/INST]' in response:
             response = response.split('[/INST]')[0].strip()
         
-        unwanted_phrases = ["The correct answer is", "### USER:", "### USER", "### RESPONSE:", "### RESPONSE", "###"]
+        unwanted_phrases = ["The correct answer is", "### USER:", "### USER", "### RESPONSE:", "### RESPONSE", "###", "Answer: "]
         for phrase in unwanted_phrases:
             response = response.replace(phrase, "").strip()
 

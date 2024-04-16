@@ -1,5 +1,5 @@
 #!/bin/bash
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v1_llm_adapt/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -8,7 +8,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 1
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v1_llm_adapt/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -17,7 +17,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 1
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v1_llm_adapt/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -26,7 +26,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 2
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v1_llm_adapt/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -35,7 +35,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 2
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v1_llm_adapt/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -44,7 +44,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 3
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v1_llm_adapt/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -53,7 +53,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 3
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v2_human_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -62,7 +62,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 1
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v2_human_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -71,7 +71,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 1
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v2_human_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -80,7 +80,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 2
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v2_human_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -89,7 +89,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 2
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v2_human_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -98,7 +98,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 3
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v2_human_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -107,7 +107,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 3
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v3_llm_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -116,7 +116,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 1
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v3_llm_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -125,7 +125,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 1
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v3_llm_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -134,7 +134,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 2
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v3_llm_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -143,7 +143,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 2
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v3_llm_gen/ind/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
@@ -152,7 +152,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
     --batch_size 10 \
     --prompt_type 3
 
-CUDA_VISIBLE_DEVICES=0 python eval.py \
+CUDA_VISIBLE_DEVICES=4 python eval.py \
     --model_name "CohereForAI/aya-101" \
     --dataset_path "../dataset/v3_llm_gen/sun/filtered_test.json" \
     --out_name "eval_0-shot_raw.csv" \
