@@ -4097,7 +4097,7 @@
         "id": "orig_h_ind_18a814e12376410581170833c059d95e",
         "category": "culinary",
         "question_concept": "iduladha",
-        "question": "Daging apa yang banyak diolah pada saat perarayaan iduladha?",
+        "question": "Daging apa yang banyak diolah pada saat perayaan iduladha?",
         "choices": {
             "label": [
                 "A",
@@ -12552,7 +12552,7 @@
         "id": "orig_h_ind_b8dd5d48c0594a67b61ef2d50815a2e1",
         "category": "culture",
         "question_concept": "ibadah",
-        "question": "Hal apakah yang dapat menjadi penanda bahwa masyarakah Hindu Bali telah selesai beribadah?",
+        "question": "Hal apakah yang dapat menjadi penanda bahwa masyarakat Hindu Bali telah selesai beribadah?",
         "choices": {
             "label": [
                 "A",
@@ -21997,7 +21997,7 @@
             ],
             "text": [
                 "Mengajaknya berbicara",
-                "Tidak menggangunya",
+                "Tidak mengganggunya",
                 "Menontonnya",
                 "Menunggunya",
                 "Memotretnya"
@@ -28216,7 +28216,7 @@
         "id": "orig_h_ind_065fc0869ffc4dc0a98df230588551af",
         "category": "place",
         "question_concept": "bulan",
-        "question": "Apa bangunan tempat pengamatan hilal yang dekelola oleh Kementerian Agama?",
+        "question": "Apa bangunan tempat pengamatan hilal yang dikelola oleh Kementerian Agama?",
         "choices": {
             "label": [
                 "A",
@@ -39974,7 +39974,7 @@
                 "E"
             ],
             "text": [
-                "Perjanjian Bongawa",
+                "Perjanjian Bongaya",
                 "Perjanjian Kalijati",
                 "Perjanjian Linggarjati",
                 "Perjanjian Roem Reyen",
@@ -53239,7 +53239,7 @@
                 "Bandung",
                 "Sidoarjo",
                 "Lampung",
-                "ernate"
+                "Ternate"
             ]
         },
         "answer_creator": "B",
@@ -80293,7 +80293,7 @@
             "text": [
                 "Kutai",
                 "Kandis",
-                "Taramunegara",
+                "Tarumanegara",
                 "Mataram Kuno",
                 "Majapahit"
             ]
@@ -86434,7 +86434,7 @@
             "text": [
                 "Membayar uang pinjaman sesuka hati kita",
                 "Mengganti nomor agar tidak bisa dihubungi",
-                "Memprioritskan pengembalian uang sesegera mungkin",
+                "Memprioritaskan pengembalian uang sesegera mungkin",
                 "Memberi hadiah selepas melunasi pinjaman",
                 "Memperingatkan peminjam agar tidak menghubungi sampai kita mempunyai uang"
             ]
@@ -92919,7 +92919,7 @@
         "id": "orig_h_ind_5c08e00a6b994633a93bef0f98a91322",
         "category": "culinary",
         "question_concept": "ulang tahun",
-        "question": "Apa hidangan khas perayaan ultang tahun di Indonesia?",
+        "question": "Apa hidangan khas perayaan ulang tahun di Indonesia?",
         "choices": {
             "label": [
                 "A",
@@ -97560,7 +97560,7 @@
                 "Depok",
                 "Bandung",
                 "Pandeglang",
-                "Payamkumbuh",
+                "Payakumbuh",
                 "Kediri"
             ]
         },
@@ -133072,7 +133072,7 @@
                 "Hari kebangkitan teknologi nasional",
                 "Hari proklamasi kemerdekaan",
                 "17 Agustus",
-                "Hari sumpan pemuda"
+                "Hari sumpah pemuda"
             ]
         },
         "answer_creator": "D",
