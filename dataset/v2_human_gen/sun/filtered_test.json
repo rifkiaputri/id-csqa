@@ -982,7 +982,7 @@
         "id": "orig_h_sun_76f9f530595b42fe99f31f9bd237d570",
         "category": "culinary",
         "question_concept": "beuleum",
-        "question": "Naon nami asakan anu dibeulum dina luhur areng?",
+        "question": "Naon nami asakan anu dibeuleum dina luhur areng?",
         "choices": {
             "label": [
                 "A",
@@ -6322,7 +6322,7 @@
         "id": "orig_h_sun_4c14939f69964b8cb28a4653b42193b9",
         "category": "place",
         "question_concept": "situ",
-        "question": "Naon nami situ anu kasohor di daearah Sukabumi?",
+        "question": "Naon nami situ anu kasohor di daerah Sukabumi?",
         "choices": {
             "label": [
                 "A",
@@ -15948,7 +15948,7 @@
                 "28 Agustus",
                 "30 Agustus",
                 "29 September",
-                "30 Spetember"
+                "30 September"
             ]
         },
         "answer_creator": "E",
@@ -16379,7 +16379,7 @@
         "id": "orig_h_sun_3576182075974599adec21208c6cdce0",
         "category": "history",
         "question_concept": "himpunan",
-        "question": "Kaping sabaraha Sumpah Pemuda anu dilaksankeun ku parhimpunan pemuda di Indonesia?",
+        "question": "Kaping sabaraha Sumpah Pemuda anu dilaksanakeun ku parhimpunan pemuda di Indonesia?",
         "choices": {
             "label": [
                 "A",
@@ -34367,7 +34367,7 @@
                 "E"
             ],
             "text": [
-                "Kriten",
+                "Kristen",
                 "Islam",
                 "Buddha",
                 "Shinto",
@@ -36061,7 +36061,7 @@
                 "Di lembaga ANRI (Arsip Nasional RI)",
                 "Di Perpusnas",
                 "Di kantor presiden",
-                "Di kantor kacamatn",
+                "Di kantor kacamatan",
                 "Di perpustakaan sakola"
             ]
         },
@@ -37663,7 +37663,7 @@
                 "KTT G20",
                 "Konferensi Asia Afrika",
                 "Konferensi Meja Bundar",
-                "Perundingan Lingggarjati",
+                "Perundingan Linggarjati",
                 "Sidang umum PBB"
             ]
         },
@@ -37751,7 +37751,7 @@
             "text": [
                 "Inggris",
                 "China",
-                "Postugis",
+                "Portugis",
                 "Walanda",
                 "Jepang"
             ]
@@ -46550,7 +46550,7 @@
         "id": "orig_h_sun_06f1ff2b6bf945a4bf71aabd6a242ca1",
         "category": "culinary",
         "question_concept": "botram",
-        "question": "Biasana, kadaharan naon nu sok dijadiken menu botram?",
+        "question": "Biasana, kadaharan naon nu sok dijadikeun menu botram?",
         "choices": {
             "label": [
                 "A",
@@ -58935,7 +58935,7 @@
                 "Fax",
                 "Surat",
                 "Telegram",
-                "Niitp carita ka batur"
+                "Nitip carita ka batur"
             ]
         },
         "answer_creator": "C",
@@ -86066,7 +86066,7 @@
         "id": "orig_h_sun_eb1f38f435a1417498e73ad998033813",
         "category": "activity",
         "question_concept": "ngabantu",
-        "question": "Pakakas naoan dipak\u00e9 pikeun ngabantu nyok\u00e9l hiji barang anu pageuh atawa beurat?",
+        "question": "Pakakas naon nu dipak\u00e9 pikeun ngabantu nyok\u00e9l hiji barang anu pageuh atawa beurat?",
         "choices": {
             "label": [
                 "A",
@@ -87312,7 +87312,7 @@
         "id": "orig_h_sun_ea4496e9f5244dab8ad5797ad6ccfad1",
         "category": "activity",
         "question_concept": "maok",
-        "question": "Panyakita naon disebutna mun jelemana sok resep maok barang batur tapi teu sadar?",
+        "question": "Panyakit naon disebutna mun jelemana sok resep maok barang batur tapi teu sadar?",
         "choices": {
             "label": [
                 "A",
@@ -127464,7 +127464,7 @@
                 "Soekarno",
                 "Soeharto",
                 "Megawati",
-                "Susilo Bambang Yudoyhono",
+                "Susilo Bambang Yudhoyono",
                 "Joko Widodo"
             ]
         },
