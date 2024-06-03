@@ -175,10 +175,11 @@ class HfModelHistory:
                 trust_remote_code=trust_remote_code
             )
         else:
+            load_in_8bit = "0.5B" not in self.model_name
             model = AutoModelForCausalLM.from_pretrained(
                 self.model_name, 
                 device_map="auto", 
-                load_in_8bit=True,
+                load_in_8bit=load_in_8bit,
                 resume_download=True,
                 trust_remote_code=trust_remote_code
             )
