@@ -2,6 +2,8 @@
 
 Dataset and code for paper: ["Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"](https://arxiv.org/abs/2402.17302).
 
+Our dataset can also be accessed at 🤗 [HuggingFace Hub](https://huggingface.co/collections/rifkiaputri/indonesian-and-sundanese-commonsenseqa-666abfe6e9fa3d54052c99b8).
+
 In this work, we investigate the effectiveness of using LLMs in generating culturally relevant CommonsenseQA datasets for Indonesian and Sundanese languages. To do so, we create datasets using various methods: (1) _Automatic Data Adaptation_, (2) _Manual Data Generation_, and (3) _Automatic Data Generation_. The illustration of each dataset generation method is shown in the figure below.
 
 ![data generation](./img/data_generation_method_v3.jpg)
@@ -15,7 +17,7 @@ Based on the dataset generation methods, we have three data variation:
 2. `Human_Gen`: human-generated dataset constructed through manual data generation method.
 3. `LLM_Gen`: LLM-generated* dataset constructed through automatic data generation method.
 
-_*\) Note: We utilized GPT-4 Turbo as the LLM._
+_*\) Note: We utilized GPT-4 Turbo (11-06 ver.) as the LLM._
 
 All datasets are provided in the `dataset` directory. Generally, each data item consists of a multiple-choice question with five options and one correct answer.
 
