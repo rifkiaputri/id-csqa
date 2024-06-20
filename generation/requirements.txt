@@ -6,7 +6,7 @@ pandas==2.1.0
 python-dotenv==1.0.0
 Sastrawi==1.0.1
 sentence-transformers==2.2.2
-tqdm==4.66.1
+tqdm==4.66.3
 torch==2.0.1
 transformers==4.38.0
 bitsandbytes==0.41.2.post2
