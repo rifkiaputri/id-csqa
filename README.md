@@ -1,6 +1,6 @@
 # Indonesian & Sundanese CommonsenseQA
 
-Dataset and code for paper: ["Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"](https://arxiv.org/abs/2402.17302).
+Dataset and code for paper: ["Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"](https://aclanthology.org/2024.emnlp-main.1145/).
 
 Our dataset can also be accessed at 🤗 [HuggingFace Hub](https://huggingface.co/collections/rifkiaputri/indonesian-and-sundanese-commonsenseqa-666abfe6e9fa3d54052c99b8).
 
