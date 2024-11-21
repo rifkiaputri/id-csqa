@@ -39,12 +39,21 @@ Our datasets are available under the Creative Commons Non-Commercial (CC BY-NC 4
 ## Citation
 Please cite this paper if you use any dataset or code in this repository:
 ```
-@misc{putri2024llm,
-      title={Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese}, 
-      author={Rifki Afina Putri and Faiz Ghifari Haznitrama and Dea Adhista and Alice Oh},
-      year={2024},
-      eprint={2402.17302},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{putri-etal-2024-llm,
+    title = "Can {LLM} Generate Culturally Relevant Commonsense {QA} Data? Case Study in {I}ndonesian and {S}undanese",
+    author = "Putri, Rifki Afina  and
+      Haznitrama, Faiz Ghifari  and
+      Adhista, Dea  and
+      Oh, Alice",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1145",
+    pages = "20571--20590",
 }
 ```
